@@ -1,0 +1,760 @@
+VIVOSDEV02_R106|c_ɤ_4 n_e_n_1 tʰ_u_6 d_o_ŋ͡m_6
+VIVOSDEV02_R122|k_u_ŋ_3 x_iə_n_5 c_ɔ_1 h_ɔ_6 z_ɛ_2 z_ă_t_6b
+VIVOSDEV02_R130|c_i_6 ɣ_ă_n_6 h_ɔ_j_4 ɛ_ŋ_1 tʰ_e_2 s_o_ŋ͡m_5 tʰ_e_2 c_e_t_5b l_a_2 x_o_ŋ͡m_1 k_ɔ_5
+VIVOSDEV02_R132|d_iə_n_6 tʰ_w_a_j_6 z_ɛ_ŋ_1 ɲ_ɯ_ŋ_1 t_a_1 k_u_ŋ_3 f_a_j_4 ɲ_ɤ̆_k_5b m_ă_j_5 d_u_ŋ_5 x_o_ŋ͡m_1
+VIVOSDEV02_R135|k_u_ŋ_3 tʰ_uə_k_6b l_w_a_j_6 z_ă_j_2 d_ă_k_6b ɲ_ɤ̆_t_5b c_ɔ_ŋ͡m_1 h_e_6 m_ă_t_6b c_ɤ_j_2
+VIVOSDEV02_R137|k_a_k_5b v_u_6 tʰ_a_m_1 ɲ_u_ŋ_3 v_a_2 b_e_1 b_o_j_5 k_i_ŋ_1 t_e_5
+VIVOSDEV02_R149|c_u_ŋ_5 k_ɯ_5 k_o_5 l_u_j_2 l_a_j_6 m_ă_k_6b z_u_2 v_ɯə_ŋ_5 v_i_w_5 ɣ_o_ŋ͡m_1 s_iə_ŋ_2
+VIVOSDEV02_R154|b_ɔ_n_6 b_uə_n_1 z_ɯ_6 a_n_5 c_ă_j_6 c_ɔ_t_6b b_ă_j_2 z_a_1 k_a_k_5b z_ɯ_6 a_n_5 d_e_4 k_iə_m_5 c_a_k_5b
+VIVOSDEV02_R015|t_ɤ̆_t_5b k_a_4 m_ɔ_j_6 tʰ_ɯ_5 d_ɛu_2 k_i_2 l_a_6 m_o_t_6b k_ɛ_k_5b f_i_1 tʰ_ɯə_ŋ_2
+VIVOSDEV02_R164|k_a_k_5b c_ɯə_ŋ_1 c_i_ŋ_2 k_a_1 ɲ_a_k_6b f_ɤ̆_n_2 l_ɤ_n_5 d_ɛu_2 x_o_ŋ͡m_1 d_o_t_6b f_a_5
+VIVOSDEV02_R170|z_o_j_2 c_ă_j_6 s_a_ŋ_1 ɣ_ɔ_3 k_ɯə_4 f_ɔ_ŋ͡m_2 b_a_1 l_ɛ_1 h_a_j_1 z_ɤ̆_m_5 z_u_j_5
+VIVOSDEV02_R173|d_e_4 c_a_4 c_ɤ_4 l_a_j_6 d_a_j_6 z_ɯə_ŋ_1
+VIVOSDEV02_R181|n_a_ŋ_2 k_ɔ_5 d_o_j_1 m_ă_t_5b t_ɔ_1 s_ɤ̆_w_1 v_a_2 v_ɤ̆_ŋ_2 c_a_n_5 z_o_ŋ͡m_6 m_e_ŋ_1 m_o_ŋ͡m_1
+VIVOSDEV02_R192|t_o_j_1 t_ɯ_6 h_ɔ_j_4 f_a_j_4 c_ă_ŋ_1 d_ɔ_5 l_a_2 z_ɔ_1 z_a_n_1 k_ɔ_n_2 kw_a_5 c_ɛ_4
+VIVOSDEV02_R195|u_j_4 b_a_n_1 c_ɤ̆_w_1 ɤ̆_w_1 k_ɛu_1 ɣ_ɔ_j_6 ɲ_ɯ_ŋ_3 kw_o_k͡p_5b z_a_1 f_a_t_5b c_iə_n_4 k_ɔ_n_2 l_a_j_6
+VIVOSDEV02_R200|v_a_2 x_i_1 c_u_ŋ_5 t_a_1 s_a_w_1 ɲ_a_ŋ_3 k_o_ŋ͡m_1 v_iə_k_6b k_uə_4 m_i_ŋ_2
+VIVOSDEV02_R027|k_ɔ_5 tʰ_e_4 l_ɛ_ŋ_2 l_ă_n_6 m_a_2 x_o_ŋ͡m_1 d_e_4 l_a_j_6 v_e_t_5b s_eo_6
+VIVOSDEV02_R031|m_uə_n_5 d_ɛ_p_6b f_a_j_4 ɣ_ɛ_2 l_a_m_2 s_a_w_1 c_ɔ_1 k_a_k_5b b_ɔ_5 k_ɤ_1 c_ɤ̆_n_1 n_o_j_4 b_ɤ̆_t_6b l_e_n_1
+VIVOSDEV02_R032|i_1 t_e_5 b_i_ŋ_2 h_ɯ_ŋ_1 h_w_a_2 b_i_6 h_ɯ_1 h_ɔ_ŋ͡m_4
+VIVOSDEV02_R045|k_o_1 k_ɯ_5 ɲ_ɛ_2 ŋ_ă_j_1 k_a_j_5 n_ɔ_ŋ͡m_6 k_a_5 c_e_1
+VIVOSDEV02_R005|n_ɛu_5 t_ɯə_ŋ_4 t_ɯə_ŋ_6 b_ă_j_4 t_a_m_5 n_ă_m_1 n_ɯə_3
+VIVOSDEV02_R067|o_ŋ͡m_1 c_u_4 t_i_k_6b t_w_iə_n_1 b_o_5 ɲ_ɯ_1 tʰ_e_5 n_a_w_2
+VIVOSDEV02_R068|x_iə_n_5 h_a_j_1 c_a_1 k_ɔ_n_1 k_ɤ̆_w_6
+VIVOSDEV02_R069|l_a_m_2 d_ɛ_p_6b x_o_ŋ͡m_1 d_u_ŋ_5 k_ɛ_k_5b
+VIVOSDEV02_R071|m_o_j_3 x_i_1 s_ɛ_1 z_a_k_5b d_i_1 ŋ_a_ŋ_1 kw_a_1 d_ɛ_ŋ_5 k_ɛ_ŋ_4 m_ɤ_j_5 d_ɛ_m_1 z_a_1 d_o_4
+VIVOSDEV02_R076|tʰ_ă_j_1 v_i_2 b_o_n_5 z_ɤ_2 ɲ_ɯ_1 c_ɯə_k_5b d_ɤ̆_j_1
+VIVOSDEV02_R079|h_ɤ̆_w_2 h_e_t_5b n_a_ŋ_1 n_ă_j_2 k_ɔ_5 ŋ_uə_n_2 ɣ_o_k͡p_5b t_ɯ_2 ɣ_ɤ̆_n_1 k_ɤ_1 c_ɤ̆_n_1 ŋ_o_ŋ͡m_3
+VIVOSDEV02_R087|t_iə_ŋ_5 m_a_3 t_ɤ̆_w_5 s_ă_k_5b l_ɛ_ŋ_6 c_a_m_6 ɲ_ă_w_1 v_a_2 k_a_4 t_iə_ŋ_5 z_e_n_1 z_i_4
+VIVOSDEV02_R089|k_ɔ_5 h_ă_n_4 m_o_t_6b l_w_a_t_6b b_a_j_2 v_iə_t_5b c_w_iə_n_1 d_e_2 v_e_2 kw_a_n_4 c_i_6 tʰ_ɯə_ŋ_1 h_iə_w_6
+VIVOSDEV02_R091|h_ɤ_p_6b v_ɤ_j_5 h_ɯə_ŋ_1 v_i_6 d_ɤ̆_w_2 s_w_ɤ̆_n_1
+VIVOSDEV02_R099|o_ŋ͡m_4 n_ɔ_j_5 ɤ_4 s_a_j_2 ɣ_ɔ_n_2 o_ŋ͡m_4 d_a_3 l_a_m_2 o_ŋ͡m_1 h_o_j_6 d_o_ŋ͡m_2 ɲ_ɯ_1 tʰ_e_5 n_a_w_2
+VIVOSDEV02_R009|b_a_2 kw_a_ŋ_4 v_ɤ̆_n_3 d_a_ŋ_1 b_ɤ̆_n_6 z_o_n_6
+VIVOSDEV02_T012|m_ă_j_2 z_a_m_5 c_ɤ_j_1 v_ɤ_6 t_a_w_1 t_a_w_1 f_a_j_4 z_e_t_5b m_ă_j_2
+VIVOSDEV02_T013|t_o_ŋ͡m_5 k_o_4 h_ă_n_5 d_i_1 x_o_ŋ͡m_1 d_ɯə_k_6b d_e_4 h_ă_n_5 v_a_w_2 d_ɤ̆_j_1 n_ɯə_3
+VIVOSDEV02_T015|h_ă_n_5 c_ɤ_j_1 v_ɤ_6 ɛ_ŋ_1 tʰ_i_2 s_a_w_1 ɛ_ŋ_1 x_o_ŋ͡m_1 c_ɤ_j_1 v_ɤ_6 h_ă_n_5
+VIVOSDEV02_T022|tʰ_a_ŋ_5 c_ɯə_k_5b c_o_ŋ͡m_2 v_e_2 m_ɤ̆_j_5 ŋ_ă_j_2 m_i_ŋ_2 n_ă_m_2 ŋ_u_4 tʰ_ɤ̆_j_5 ɤ̆_m_5 k_i_ŋ_1 x_u_ŋ_4
+VIVOSDEV02_T031|c_ɔ_1 ɛ_m_1 ɣ_ɔ_p_5b m_o_t_6b v_iə_n_1 ɣ_ɛ_k_6b
+VIVOSDEV02_T043|d_i_1 k_iə_m_4 c_a_1 l_a_j_6 b_a_k_5b s_i_3 x_w_iə_n_1 n_e_n_1 m_o_4 n_o_j_6 s_ɔ_j_1
+VIVOSDEV02_T004|h_o_m_1 n_ă_j_1 ɛ_m_1 k_ɔ_5 t_ɤ_j_5 n_ă_m_1 x_ɛ_k_5b
+VIVOSDEV02_T050|ɛ_ŋ_1 b_i_6 d_ɤ̆_j_4 t_ɯ_2 h_a_2 n_o_j_6 v_a_w_2 s_a_j_2 ɣ_ɔ_n_2
+VIVOSDEV03_R109|f_u_2 h_ɤ_p_6b c_ɔ_1 m_ɔ_j_6 k_ɤ̆_n_1 n_ă_ŋ_6
+VIVOSDEV03_R010|ɤ̆_m_1 tʰ_ɤ̆_m_2 c_ă_t_5b c_i_w_1 n_uə_j_1 t_o_j_1 x_o_n_1 l_ɤ_n_5
+VIVOSDEV03_R113|v_i_2 b_a_n_6 k_ɔ_5 tʰ_e_4 l_ă_j_4 k_ɔ_2 t_ɯ_ŋ_2 f_a_t_5b m_o_t_6b
+VIVOSDEV03_R117|v_a_j_1 c_ɔ_2 k_uə_4 c_e_5 d_o_6 z_i_ŋ_1 z_ɯə_ŋ_3
+VIVOSDEV03_R119|x_o_ŋ͡m_1 h_iə_w_4 s_a_w_1
+VIVOSDEV03_R120|x_iə_n_5 f_u_6 h_w_i_ŋ_1 h_iə_w_4 ɲ_ɤ̆_m_2
+VIVOSDEV03_R125|m_o_j_3 x_i_1 k_ɤ_n_1 z_ɔ_5 d_e_n_5
+VIVOSDEV03_R136|n_ă_j_2 b_ɔ_n_5 c_ɔ_1 k_ɔ_n_1 tʰ_ɯə_ŋ_1 d_ɤ_3 iə_w_5 d_ă_w_1 k_ɔ_j_2 k_ɔ_k͡p_6b
+VIVOSDEV03_R142|c_ɔ_ŋ͡m_1 t_ɯ_1 tʰ_e_5 f_i_1 ŋ_ɯə_6 c_o_m_2 l_e_n_1
+VIVOSDEV03_R144|m_a_2 k_u_ŋ_3 d_ɤ̆_j_2 tʰ_ɛ_ŋ_1 x_iə_t_5b
+VIVOSDEV03_R148|m_o_t_6b v_u_6 c_ɤ̆_p_6b d_iə_n_6 d_a_3 x_iə_n_5 ŋ_ɔ_n_6 l_ɯə_4 b_u_ŋ_2 l_e_n_1
+VIVOSDEV03_R149|b_a_2 k_ɔ_n_1 c_ɔ_m_2 s_ɔ_m_5
+VIVOSDEV03_R156|d_ɤ̆_j_1 l_a_2 m_ɯ_k_5b l_a_j_3 s_w_ɤ̆_t_5b tʰ_ɤ̆_p_5b ɲ_ɤ̆_t_5b kw_a_1 k_a_k_5b f_iə_n_1 d_ɤ̆_w_5 tʰ_ɤ̆_w_2
+VIVOSDEV03_R160|z_ɔ_k͡p_6b h_a_j_1 b_e_n_1 s_o_ŋ͡m_1 ŋ_a_n_2 s_ɤ̆_w_1
+VIVOSDEV03_R163|ɲ_ɯ_ŋ_1 w_a_j_5 ă_m_1 tʰ_ă_j_1
+VIVOSDEV03_R180|s_ă_w_1 k_a_j_4 k_ɛ_k_5b
+VIVOSDEV03_R182|m_o_t_6b k_e_5 h_w_ɛ_k_6b t_ɯə_ŋ_1 t_ɯ_6 d_ɯə_k_6b a_p_5b z_u_ŋ_6 ɤ_4 ɛ_ŋ_1
+VIVOSDEV03_R191|k_ɤ_j_3 ŋ_ɯə_6 d_i_1 tʰ_i_1
+VIVOSDEV03_R193|o_j_1 z_a_w_2
+VIVOSDEV03_R195|x_o_ŋ͡m_1 m_o_t_6b c_iə_k_5b s_ɛ_1 l_a_6 n_a_w_2 k_ɔ_5 tʰ_e_4 m_ɔ_n_1 m_ɛ_n_1 v_a_w_2 d_ɯə_k_6b
+VIVOSDEV03_R198|z_o_j_2 d_i_1 x_ă_p_5b n_ɤ_j_1 t_i_m_2 tʰ_ɤ̆_j_2 c_ɯə_3 b_e_ŋ_6 c_ɔ_1 ɛ_ŋ_1
+VIVOSDEV03_R020|b_e_n_1 c_ɔ_ŋ͡m_1 c_a_j_5 v_a_4 x_i_1 b_o_4 z_a_1 s_ɛ_3 z_o_ŋ͡m_3 c_ɯ_5 x_o_ŋ͡m_1 d_ă_k_6b ɲ_ɯ_1 c_a_j_5 s_u_ŋ_1
+VIVOSDEV03_R029|n_e_n_1 h_a_j_1 m_o_5 k_ɤ̆_w_2 b_i_6 s_u_p_6b d_ɤ̆_t_5b x_iə_n_5 l_o_j_5 d_i_1 b_o_6 kw_a_5 ŋ_w_i_1 h_iə_m_4
+VIVOSDEV03_R041|l_uə_n_1 o_n_4 d_i_ŋ_6 v_a_2 k_a_k_5b s_ɛ_1 c_ɤ̆_w_5 x_a_5 n_ă_ŋ_6
+VIVOSDEV03_R044|v_a_2 x_i_1 h_ɔ_6 v_ɛ_k_6b t_ɔ_k͡p_5b z_a_1
+VIVOSDEV03_R046|k_uə_4 c_i_ŋ_5 s_ɛ_k_5b d_o_j_5 v_ɤ_j_5 kw_i_1 m_o_1 k_uə_4 tʰ_i_6 c_ɯə_ŋ_2
+VIVOSDEV03_R056|s_ɯə_ŋ_1 m_u_2 d_a_3 d_ɔ_ŋ͡m_6 tʰ_ɛ_ŋ_2 ɲ_ɯ_ŋ_3 h_a_t_6b z_a_5 b_ă_ŋ_1
+VIVOSDEV03_R057|c_ɯ_5 x_o_ŋ͡m_1 f_a_j_4 t_a_j_2 n_ă_ŋ_1 tʰ_iə_n_1 b_ɤ̆_m_4 n_a_w_2
+VIVOSDEV03_R061|l_a_2 t_iə_ŋ_5 c_o_ŋ͡m_5 l_ɤ̆_n_1 t_u_ŋ_2 s_ɛ_ŋ_2 v_u_j_1 t_a_j_1
+VIVOSDEV03_R007|m_o_t_6b c_w_iə_n_5 z_u_1 l_i_k_6b z_a_3 ŋ_w_a_j_6 t_a_j_6 b_ɔ_2 k_a_p_6b v_a_ŋ_2
+VIVOSDEV03_R082|ɣ_ɛ_p_5b k_ɛ_ŋ_2 m_a_j_1 z_a_w_4 v_a_w_2 tʰ_ɤ̆_n_1 k_o_4 tʰ_u_6 c_ɔ_1 h_w_a_1 k_ɛ_ŋ_5 l_ɤ_n_5
+VIVOSDEV03_R092|d_e_4 c_ɔ_n_6 m_ă_j_5 i_n_1 c_ɔ_1 f_u_2 h_ɤ_p_6b
+VIVOSDEV03_T017|b_a_k_5b v_ɤ̆_n_3 c_ɯə_1 c_a_4 t_iə_n_2 c_ɔ_1 t_o_j_1 d_ɤ̆_j_1 ɲ_ɛ_5
+VIVOSDEV03_T018|t_o_j_1 d_a_ŋ_1 b_ɤ̆_n_6 h_ɔ_p_6b
+VIVOSDEV03_T023|k_ɯə_p_5b d_ɤ̆_j_2 d_ɯə_ŋ_2 k_o_ŋ͡m_1 a_n_1 c_i_4 l_ɔ_1 h_ɛ_k_6b s_ɛ_k_5b
+VIVOSDEV03_T035|m_ɛ_6 ɤ_j_1 k_ɔ_5 m_uə_1 d_o_2 c_ɔ_1 k_ɔ_n_1 x_o_ŋ͡m_1
+VIVOSDEV03_T041|k_ɔ_n_1 c_ɔ_5 l_u_j_4 tʰ_u_j_4 d_i_1 tʰ_eo_1 c_u_4 n_ɔ_5
+VIVOSDEV03_T047|c_ɔ_ŋ͡m_1 f_i_m_1 k_ɔ_5 ɲ_iə_w_2 k_ɛ_ŋ_4 c_ɛ_m_5 z_e_t_5b
+VIVOSDEV03_T048|z_iə_n_3 v_iə_n_1 c_i_ŋ_5 d_ɯ_ŋ_5 ɲ_ɯ_1 x_u_k_5b ɣ_o_3
+VIVOSDEV03_T009|b_a_k_5b d_a_ŋ_1 s_w_i_1 ŋ_i_3 ɣ_i_2 tʰ_e_5
+VIVOSDEV01_R108|x_i_1 c_ɤ̆_m_3 x_ɔ_j_4 b_e_ŋ_6 tʰ_i_2 s_ɛ_3 c_ɛ_m_5 d_ɤ̆_w_2
+VIVOSDEV01_R117|v_iə_k_6b m_o_t_6b kw_iɛ_n_4 t_iə_w_4 tʰ_w_iə_t_5b ɲ_ɯ_1 tʰ_e_5
+VIVOSDEV01_R012|ɲ_ɯ_ŋ_3 k_ɤ_n_1 z_ɔ_5 m_ɛ_ŋ_6 v_a_2 m_ɯə_1 d_ɔ_ŋ͡m_5 b_ă_ŋ_1 ɣ_ɤ̆_j_1 c_ɤ_n_1 c_ɤ_t_6b
+VIVOSDEV01_R130|n_a_w_3 b_o_6 c_u_ŋ_5 t_a_1 f_a_t_5b c_iə_n_4 ɲ_ɯ_ŋ_3 z_u_ŋ_1 d_o_ŋ͡m_6 iə_w_1 tʰ_ɯə_ŋ_1
+VIVOSDEV01_R139|c_ɯ_2 x_i_1 b_a_n_6 b_iə_t_5b t_o_n_1 c_ɔ_ŋ͡m_6 b_a_n_4 tʰ_ɤ̆_n_1 m_i_ŋ_2
+VIVOSDEV01_R141|ɲ_ɯ_ŋ_3 k_ɔ_n_1 d_ɯə_ŋ_2 ŋ_ă_n_5 ŋ_u_n_4 ɲ_ɯ_1 ɲ_ɯ_ŋ_3 ɲ_a_t_5b k_ă_t_5b
+VIVOSDEV01_R146|h_iə_n_6 z_a_1 t_ɤ̆_n_6 f_iə_5 s_a_1
+VIVOSDEV01_R150|s_i_n_1 d_ɯə_k_6b c_ɤ̆_n_1 x_w_ɤ̆_n_1 v_a_k_5b
+VIVOSDEV01_R151|ɲ_ɯ_ŋ_1 x_i_1 t_iə_n_5 ɣ_ɤ̆_n_2 v_a_w_2 v_i_ŋ_6 tʰ_i_2 m_ă_t_6b b_iə_n_4 b_i_6 z_a_n_6 v_ɤ_3
+VIVOSDEV01_R164|m_o_t_6b b_a_2 ŋ_w_a_j_6 z_ă_t_6b d_o_2 tʰ_w_e_1
+VIVOSDEV01_R170|d_o_j_1 b_a_n_2 t_ă_j_1 ɛ_m_1 x_o_ŋ͡m_1 d_ɯə_k_6b m_e_m_2 m_a_j_6 v_a_2 n_ɔ_n_3 n_a_2
+VIVOSDEV01_R172|t_ɤ̆_j_1 z_a_ŋ_1 v_ɤ̆_n_3 k_ɔ_n_2 x_ă_k_5b x_w_a_j_4 x_o_ŋ͡m_1 tʰ_e_4 v_a_w_2 s_a_3 a_1 n_o_ŋ͡m_1
+VIVOSDEV01_R174|ɲ_ɯ_ŋ_3 z_ɯ_6 d_i_ŋ_6 k_ɤ̆_n_2 f_a_j_4 d_ɯə_k_6b b_iə_n_5 tʰ_ɛ_ŋ_2 h_iə_n_6 tʰ_ɯ_k_6b
+VIVOSDEV01_R176|d_e_4 t_ă_w_2 x_o_ŋ͡m_1 f_a_j_4 k_ɯə_j_3 k_ɤ̆_w_2 t_ă_w_2
+VIVOSDEV01_R180|b_a_n_2 c_o_j_4 s_ɤ_n_1 b_ă_ŋ_2 b_o_ŋ͡m_1 m_e_m_2 z_ɤ̆_t_5b f_o_4 b_iə_n_5
+VIVOSDEV01_R187|tʰ_ɤ̆_t_6b s_ɯ_6 m_a_2 l_a_2 b_ɤ_j_4 l_ɔ_ŋ͡m_2 h_ɤ̆_n_6 tʰ_u_2
+VIVOSDEV01_R188|v_iə_k_6b kw_i_1 t_o_j_6 d_e_4 b_u_ŋ_2 n_o_4 l_w_a_j_6 s_ɛ_k_5b n_ă_j_2 l_a_2 z_ɔ_1
+VIVOSDEV01_R027|z_i_1 t_i_k_5b k_ɔ_5 b_ă_j_4 f_o_ŋ͡m_3 o_ŋ͡m_1 v_a_2 h_a_j_1 f_o_ŋ͡m_3 b_a_2 d_ɯə_k_6b l_a_m_2 b_ă_ŋ_2 ɣ_o_3 m_i_t_5b
+VIVOSDEV01_R028|k_a_k_5b c_u_5 k_u_ŋ_3 tʰ_w_a_j_4 m_a_j_5 f_ɔ_ŋ͡m_5 w_e_5 z_ɯə_3 c_o_n_5 d_o_ŋ͡m_1 ŋ_ɯə_j_2 m_a_2 x_o_ŋ͡m_1 s_ɤ_6
+VIVOSDEV01_R002|t_iə_ŋ_5 k_ɔ_k͡p_6b k_ɛ_k_6b x_ɯ_ŋ_6 l_a_j_6 k_uə_4 ɲ_ɯ_ŋ_3 x_ɤ_p_5b s_ă_t_5b
+VIVOSDEV01_R034|ŋ_ɯə_j_2 t_a_1 n_ɔ_j_5
+VIVOSDEV01_R003|k_u_ŋ_3 l_e_n_1 t_iə_ŋ_5 u_ŋ_4 h_o_6 k_a_k_5b k_iə_n_5 ŋ_i_6 n_ă_j_2
+VIVOSDEV01_R043|ɛ_ŋ_1 f_u_5 c_ɯə_1 b_u_5 d_ɯə_k_6b s_ɯə_3 m_ɛ_6 l_ɤ̆_n_2 n_a_w_2
+VIVOSDEV01_R044|ŋ_ɔ_n_6 l_ɯə_4 b_a_w_6 d_o_ŋ͡m_6 ɤ_4 c_u_ŋ_1 d_o_ŋ͡m_1 v_a_2 f_a_5 v_ɤ_3 l_o_6 c_i_ŋ_2 h_w_a_2 b_i_ŋ_2
+VIVOSDEV01_R055|v_a_2 z_ɤ̆_t_5b s_a_ŋ_5 t_a_w_6
+VIVOSDEV01_R057|ɲ_ɯ_ŋ_1 z_ɤ̆_k_5b ŋ_u_4 c_ɤ̆_p_6b c_ɤ_n_2
+VIVOSDEV01_R058|z_a_m_5 d_o_k͡p_5b s_ɤ_4 z_a_w_5 z_u_k_6b d_a_w_2 t_a_w_6 n_i_ŋ_1 tʰ_w_ɤ̆_n_6 c_ɔ_1 b_iə_t_5b
+VIVOSDEV01_R069|d_ɛ_n_2 b_i_6 h_ɯ_1 z_o_j_2 b_a_1
+VIVOSDEV01_R071|c_ɯə_ŋ_4 k_o_ŋ͡m_1 a_n_1 s_a_3 c_ă_j_6 s_a_ŋ_1 k_a_n_1 ŋ_ă_n_1 k_u_ŋ_3 b_i_6 t_w_iə_n_5 d_ɛ_ŋ_5 t_iə_p_5b
+VIVOSDEV01_R078|ŋ_ɛ_1 c_u_ŋ_5 t_o_j_1 h_ɔ_j_4 d_iə_w_2 n_ă_j_2 c_i_6 ŋ_a_t_5b z_ɤ̆_n_1 z_ɤ̆_n_5 n_ɯə_k_5b m_ă_t_5b
+VIVOSDEV01_R086|k_o_ŋ͡m_1 v_ă_n_1 d_e_2 ŋ_i_6 t_i_ŋ_4 k_ɔ_n_1 t_u_m_1 s_ɤ̆_j_1 z_ɯ_ŋ_6 k_ɯə_4 x_ɤ̆_w_4
+VIVOSDEV01_R089|ɲ_ɯ_ŋ_1 t_i_ŋ_2 iə_w_1 v_ɤ̆_n_3 n_o_ŋ͡m_2 n_a_n_2 v_a_2 s_ă_j_1 d_ă_m_5 ɲ_ɯ_1 b_uə_j_4 b_a_n_1 d_ɤ̆_w_2
+VIVOSDEV01_R092|z_ɔ_1 c_i_ŋ_5 f_u_4 m_i_3 t_iə_n_5 h_ɛ_ŋ_2 ɤ_4 v_iə_t_6b n_a_m_1
+VIVOSDEV01_R098|t_i_ŋ_4 kw_a_ŋ_4 c_i_6 d_a_3 f_e_1 z_w_iə_t_6b
+VIVOSDEV01_R099|ɲ_ɯ_ŋ_1 t_o_j_1 tʰ_i_k_5b s_ɛ_m_1 b_o_6 f_i_m_1 c_w_iə_n_6 f_a_t_5b ŋ_ă_j_1 s_ă_w_1 c_ɯə_ŋ_1 c_i_ŋ_2 n_ă_j_2
+VIVOSDEV01_T002|k_u_ŋ_3 c_ɯə_1 b_iə_t_5b n_ɯə_3
+VIVOSDEV01_T030|s_w_ɤ̆_n_1 n_ă_j_2 ɛ_m_1 x_o_ŋ͡m_1 v_e_2
+VIVOSDEV01_T038|c_ă_k_5b s_ă_p_5b t_ɤ_j_5 tʰ_u_1 s_e_p_5b d_i_1 z_u_1 l_i_k_6b tʰ_o_j_1
+VIVOSDEV01_T043|n_ɔ_5 c_o_n_5 m_ɤ̆_t_5b t_iə_w_1 z_o_j_2 k_ɔ_n_2 d_ɤ̆_w_1
+VIVOSDEV01_T048|tʰ_ă_ŋ_2 d_ɔ_5 k_ɔ_5 k_a_j_5 m_iə_ŋ_6 ɲ_ɯ_1 d_a_n_2 b_a_2
+VIVOSDEV04_R100|b_a_2 n_ɔ_j_5
+VIVOSDEV04_R010|k_ɔ_n_1 ɲ_ɔ_4 m_ɤ_4 k_a_j_5 t_u_j_5 ɣ_u_t_5b d_eo_1 c_e_n_1 k_o_4
+VIVOSDEV04_R114|k_u_ŋ_3 c_ă_ŋ_4 k_ɔ_n_2 s_u_ŋ_5 s_i_ŋ_5 kw_ɤ̆_n_2 a_w_5 m_ɤ_j_5
+VIVOSDEV04_R118|c_ɛ_4 ɛ_m_1 d_ɤ̆_w_1 k_ɔ_5 c_ɯə_ŋ_5 ŋ_a_j_6 v_ɤ̆_t_6b
+VIVOSDEV04_R126|t_o_j_1 x_o_ŋ͡m_1 n_ɤ_3 l_a_m_2 k_o_1 b_ɛ_5 tʰ_ɤ̆_t_5b v_ɔ_ŋ͡m_6
+VIVOSDEV04_R127|z_ɤ̆_t_5b ɲ_iə_w_2 ɣ_ɯ_j_4 ɣ_ă_m_5 v_a_2 k_i_2 v_ɔ_ŋ͡m_6 v_a_w_2 o_ŋ͡m_1
+VIVOSDEV04_R129|d_a_ŋ_1 tʰ_a_w_4 l_w_ɤ̆_n_6 v_e_2 d_e_2 s_w_ɤ̆_t_5b
+VIVOSDEV04_R132|c_u_4 t_i_k_6b n_ɯə_k_5b d_a_3 d_e_n_5 k_iə_m_4 c_a_1 t_iə_n_5 d_o_6 tʰ_i_1 k_o_ŋ͡m_1
+VIVOSDEV04_R013|ŋ_iə_3 l_a_2 k_ɛ_m_5 k_ɔ_j_4 n_a_m_1 t_i_ŋ_5 h_ă_j_1 s_a_w_1
+VIVOSDEV04_R149|m_o_t_6b k_o_1 ɣ_a_j_5 v_ă_j_5 ŋ_ă_n_5 k_u_n_3 k_ɤ_n_3 c_ă_j_6 l_e_n_1 h_ɔ_j_4
+VIVOSDEV04_R152|s_ɛ_3 x_o_ŋ͡m_1 x_iə_n_5 b_a_n_6 c_o_ŋ͡m_1 ɣ_ɤ̆_j_2 ɲ_ɯ_1 ɲ_ɯ_ŋ_3 c_a_ŋ_1 f_u_k_6b m_o_t_6b m_ă_w_2
+VIVOSDEV04_R162|k_o_1 c_i_4 m_ɤ_j_5 v_a_w_2 l_ɯə_j_5 ɲ_ă_t_6b b_ɔ_ŋ͡m_5 h_a_j_1 l_ɤ̆_n_2
+VIVOSDEV04_R182|h_w_ă_k_6b c_i_4 b_iə_w_4 h_iə_n_6 b_ă_ŋ_2 k_a_k_5b z_o_j_5 l_w_a_n_6 k_ɔ_1 b_ɔ_p_5b
+VIVOSDEV04_R186|ɲ_ă_m_2 t_a_w_6 z_a_1 s_ɯ_6 h_ɤ̆_p_5b z_ɤ̆_n_3
+VIVOSDEV04_R187|tʰ_ɯ_5 ɤ̆_m_1 tʰ_ɛ_ŋ_1 x_o_ŋ͡m_1 c_i_4 k_a_m_4 ɲ_ɤ̆_n_6 b_ă_ŋ_2 tʰ_i_ŋ_5 z_a_k_5b
+VIVOSDEV04_R189|t_ɯ_2 n_o_j_3 k_o_1 d_ɤ_n_1 k_uə_4 m_o_t_6b k_o_1 b_ɛ_5 b_i_6 c_a_1 m_ɛ_6 b_ɔ_4 kw_e_n_1
+VIVOSDEV04_R023|c_i_ŋ_5 b_a_2 k_u_ŋ_3 l_a_2 ŋ_ɯə_j_2 n_u_ŋ_1 n_ɤ̆_w_5 n_iə_m_2 d_a_m_1 m_e_1 z_iə_n_3 s_w_ɤ̆_t_5b k_uə_4 k_o_1 k_ɔ_n_1 ɣ_a_j_5
+VIVOSDEV04_R002|d_ɔ_5 k_u_ŋ_3 l_a_2 d_o_ŋ͡m_6 l_ɯ_k_6b tʰ_u_k_5b d_ɤ̆_j_4 t_o_j_1
+VIVOSDEV04_R047|ɲ_ɔ_m_5 s_i_ŋ_1 v_iə_n_1 t_a_j_6 c_ɯə_ŋ_2 k_u_ŋ_2 h_ɔ_p_6b m_ă_t_6b ă_n_1 t_e_t_5b c_u_ŋ_1
+VIVOSDEV04_R049|v_i_2 t_o_j_5 d_ɔ_5
+VIVOSDEV04_R004|d_o_j_1 x_i_1 b_a_n_6 k_u_ŋ_3 k_ɔ_5 tʰ_e_4 l_a_m_2 ɲ_ɯ_ŋ_3 d_iə_w_2 d_ɔ_5
+VIVOSDEV04_R051|z_ɛ_k_6b b_ă_w_2 m_ɤ_p_5b
+VIVOSDEV04_R056|ɣ_i_5 h_ɔ_n_2 tʰ_a_n_1 v_a_w_2 z_ɤ_m_1
+VIVOSDEV04_R063|c_ă_w_5 s_o_t_5b n_e_n_1 z_eo_6 z_ɔ_k͡p_6b s_uə_t_5b d_e_m_1
+VIVOSDEV04_R081|v_a_2 t_o_j_1 tʰ_ɤ̆_j_5 h_w_a_1 v_a_n_6 tʰ_ɔ_6 v_a_ŋ_2 ɯə_m_1
+VIVOSDEV04_R086|t_ă_j_1 k_iə_1 s_ɛ_k_5b m_o_t_6b t_ă_j_1 z_ɔ_ŋ͡m_5 m_a_ŋ_1 c_iə_k_5b v_i_m_6 l_ɤ_n_5
+VIVOSDEV04_R089|ŋ_u_4 c_e_n_1 n_e_m_6 x_o_ŋ͡m_1 f_u_2 h_ɤ_p_6b
+VIVOSDEV04_R008|ɲ_ɯ_ŋ_3 ŋ_ă_j_2 d_ɤ̆_w_2 v_ă_ŋ_5 b_ɔ_ŋ͡m_5 b_a_1 v_iə_t_6b k_ɯ_5 tʰ_ɯ_2 ŋ_ɯə_j_2 ŋ_i_3 ŋ_ɤ_j_6
+VIVOSDEV04_R092|b_i_6 k_a_k_5b k_o_1 ɣ_a_j_5 b_a_w_1 v_ɤ̆_j_1 z_a_w_5 z_iə_t_5b
+VIVOSDEV04_R095|c_ɤ_1 c_ɔ_j_6 z_ɯə_3 d_o_ŋ͡m_2 k_a_j_5 ɲ_i_n_2 x_ă_k_5b x_w_a_j_4
+VIVOSDEV04_R097|ŋ_w_a_j_2 v_iə_k_6b f_a_t_5b h_iə_n_6 k_ɛ_4 tʰ_u_2
+VIVOSDEV04_T015|m_o_t_6b l_a_2 ɣ_ă_p_6b l_a_j_6 t_ɤ̆_t_5b k_a_4 k_a_k_5b ɛ_m_1 f_ɔ_2
+VIVOSDEV04_T018|ɲ_ɯ_ŋ_3 s_a_j_1 l_ɤ̆_m_2 x_i_1 d_i_1 c_ɔ_n_6 x_ɛ_k_5b s_a_n_6
+VIVOSDEV04_T029|ɛ_ŋ_1 d_i_1 k_o_ŋ͡m_1 t_a_k_5b k_ɤ̆_n_2 tʰ_ɤ_1 t_w_ɤ̆_n_2 s_ă_w_1 m_ɤ_j_5 v_e_2
+VIVOSDEV04_T002|k_ɔ_5 c_a_4 t_iə_n_2 c_ɔ_1 b_o_5 x_o_ŋ͡m_1 tʰ_i_2 b_a_w_4
+VIVOSDEV04_T032|k_a_m_1 s_ɛ_ŋ_2 l_o_t_6b v_ɔ_4 k_ɔ_n_2 c_uə_1
+VIVOSDEV04_T035|ɛ_ŋ_1 x_ɛ_n_1 ɛ_m_1 d_ɛ_p_6b ɛ_m_1 c_e_1 ɛ_ŋ_1 z_a_2
+VIVOSDEV04_T003|ɲ_ɤ̆_n_6 d_ɯə_k_6b t_i_n_1 n_ă_j_2 ɣ_ɔ_j_6 l_a_j_6 c_ɔ_1 t_o_j_1 ɣ_ɤ̆_p_5b
+VIVOSDEV04_T044|b_a_1 n_ă_j_2 c_i_4 z_ɔ_j_4 b_o_k͡p_5b f_ɛ_t_5b
+VIVOSDEV04_T009|c_ɔ_1 t_o_j_1 ɲ_ă_n_5 d_a_j_6 t_i_n_1 n_a_w_2 k_u_ŋ_3 d_ɯə_k_6b
+VIVOSDEV05_004|h_ă_j_3 t_ɯə_ŋ_4 t_ɯə_ŋ_6 z_ă_ŋ_2 b_a_n_6 l_a_2 l_a_2 z_a_m_5 d_o_k͡p_5b z_ɯ_6 a_n_5 c_ɔ_ŋ͡m_1 m_o_t_6b k_o_ŋ͡m_1 t_i_1 l_ɤ_n_5
+VIVOSDEV05_030|k_uə_4 ɲ_ɯ_ŋ_3 tʰ_e_5 l_ɯ_k_6b h_u_ŋ_2 m_ɛ_ŋ_6
+VIVOSDEV05_037|o_ŋ͡m_1 ɲ_ă_t_6b n_ɔ_5 l_e_n_1
+VIVOSDEV05_043|ŋ_w_iə_n_1 tʰ_ɯ_5 c_ɯə_ŋ_4 m_a_j_1 v_ă_n_1 z_ɤ̆_w_1 d_a_3 b_i_6 b_ă_t_5b
+VIVOSDEV05_055|ɲ_ɯ_ŋ_1 m_ɯ_k_5b a_n_5 t_ɯ_4 h_i_ŋ_2 d_o_j_5 v_ɤ_j_5 k_a_k_5b b_i_6 k_a_w_5 l_a_2 t_ɯə_ŋ_1 s_ɯ_ŋ_5
+VIVOSDEV05_065|ɲ_ɯ_ŋ_3 ŋ_ɯə_j_2 s_o_ŋ͡m_5 tʰ_i_2 tʰ_a_1 tʰ_ɤ̆_n_4 c_ɔ_ŋ͡m_1 ɲ_a_2 ŋ_w_a_j_2 ŋ_ɔ_3
+VIVOSDEV05_087|k_a_4 x_o_ŋ͡m_1 z_a_n_1 ɲ_uə_m_5 m_ă_w_2 c_ɔ_1 b_e_p_5b
+VIVOSDEV05_091|c_a_n_5 z_o_1
+VIVOSDEV05_097|tʰ_u_1 c_a_m_6 ŋ_ɔ_3 z_ɤ̆_t_5b h_iə_n_2
+VIVOSDEV05_107|c_o_ŋ͡m_1 m_o_t_6b k_o_1 n_a_ŋ_2 d_o_4 ŋ_ɯə_j_2 l_e_n_1 l_ɯ_ŋ_1 ɛ_ŋ_1 ŋ_ɯə_j_2 iə_w_1 ɣ_ɤ̆_j_2 k_ɔ_m_2
+VIVOSDEV05_109|z_w_ɛ_ŋ_1 ŋ_iə_p_6b t_w_iə_n_4 z_u_ŋ_6 l_a_w_1 d_o_ŋ͡m_6 n_ɯə_k_5b ŋ_w_a_j_2
+VIVOSDEV05_115|tʰ_ɤ_j_2 h_a_n_6 s_ɯ_4 z_u_ŋ_6 v_a_2 l_w_a_j_6 s_a_n_4 f_ɤ̆_m_4 b_o_t_6b
+VIVOSDEV05_119|m_a_2 k_ɔ_n_2 b_i_6 ɲ_ɯ_ŋ_3 b_o_6 m_ă_t_6b l_ɛ_ŋ_6 t_ɛ_1 k_iə_1 h_w_ɛ_ŋ_6 h_w_e_6
+VIVOSDEV05_120|ɲ_ɯ_ŋ_1 m_u_j_2 h_o_j_1 v_ɤ̆_n_3 s_o_k͡p_6b v_a_w_2 t_ɤ̆_n_6 ɔ_k͡p_5b
+VIVOSDEV05_125|d_a_ŋ_1 l_a_m_2 v_iə_k_6b x_o_ŋ͡m_1 ŋ_ɯ_ŋ_2 ŋ_i_4
+VIVOSDEV05_129|tʰ_u_1 h_u_t_5b z_ɤ̆_t_5b l_a_2 ɲ_iə_w_2 l_w_a_j_2 c_i_m_1
+VIVOSDEV05_135|x_i_1 k_o_1 tʰ_e_4 h_iə_n_6 x_o_ŋ͡m_1 m_ɤ̆_j_5 tʰ_ɛ_ŋ_2 k_o_ŋ͡m_1 ɤ_4 l_e_3 x_a_j_1 m_a_k_6b
+VIVOSDEV05_136|z_a_1 h_iə_w_6 c_ɔ_1 t_o_j_1 i_m_1 l_ă_ŋ_6
+VIVOSDEV05_143|ɲ_ɔ_4 d_ɯə_1 t_ă_j_1 z_a_1 k_a_w_2 h_e_t_5b b_u_n_2 x_o_1 c_e_n_1 k_o_4 t_ɤ_5
+VIVOSDEV05_150|ŋ_o_j_2 c_o_m_2 c_o_m_2 k_ɛ_k_5b c_i_4 m_ɤ̆_j_5 m_ɛ_t_5b
+VIVOSDEV05_155|n_ɯə_4 v_ɔ_ŋ͡m_2 c_a_j_5 d_ɤ̆_t_5b h_ɤ_n_1 b_ă_j_4 n_ă_m_1
+VIVOSDEV05_170|c_ɤ̆_m_6 n_ă_m_5 b_ă_t_5b s_u_1 h_ɯə_ŋ_5 f_a_t_5b c_iə_n_4 k_o_ŋ͡m_1 ŋ_e_6 m_ɤ_j_5
+VIVOSDEV05_185|m_a_2 m_ɯə_ŋ_2 t_ɯə_ŋ_6 z_a_1 h_i_ŋ_2 b_ɔ_ŋ͡m_5 m_ɛ_6
+VIVOSDEV05_189|m_o_j_3 ŋ_ɯə_j_2 m_o_t_6b s_o_5 f_ɤ̆_n_6 ɛ_m_1 a_2
+VIVOSDEV05_199|l_ɤ̆_n_2 l_ɯə_3 m_a_j_3 m_ɤ_j_5 ɣ_ă_p_6b d_ɯə_k_6b t_w_iə_n_1
+VIVOSDEV05_200|l_a_m_2 d_ɯə_ŋ_2 z_ɤ̆_j_1 d_e_4 n_o_j_5 k_a_k_5b m_ɛ_ŋ_4 d_ɤ_j_2
+VIVOSDEV05_202|c_i_6 h_a_j_1 c_u_4 kw_a_n_5 ŋ_ɛ_1 b_a_n_2 t_a_n_5 z_o_m_1 z_a_4 k_u_ŋ_3 z_a_1 ɣ_ɔ_p_5b c_w_iə_n_6
+VIVOSDEV05_206|t_ɯ_k_5b x_ă_k_5b ɤ̆_p_6b v_e_2 k_eo_5 m_ɔ_j_6 ŋ_ɯə_j_2 tʰ_ɯ_5 c_ɤ_4 l_a_j_6 tʰ_ɤ_j_2 h_w_a_ŋ_1 s_ɤ_1
+VIVOSDEV05_209|t_e_n_1 ɣ_ɔ_j_6 t_a_j_6 d_iə_6 f_ɯə_ŋ_1 l_a_2 c_ă_k_5b tʰ_o_j_5
+VIVOSDEV05_212|b_o_n_5 c_iə_k_5b c_o_ŋ͡m_5 d_a_j_6 f_ɛ_ŋ_2 l_a_1
+VIVOSDEV05_226|m_o_t_6b k_u_5 ŋ_w_ă_t_6b x_o_ŋ͡m_1 c_i_ŋ_5 s_a_k_5b
+VIVOSDEV05_231|m_ɤ_j_5 d_ɤ̆_j_1 ɲ_ɤ̆_t_5b l_a_2 k_a_k_5b t_iə_w_4 v_ɯə_ŋ_1 kw_o_k͡p_5b a_4 z_ɤ̆_p_6b tʰ_o_ŋ͡m_5 ɲ_ɤ̆_t_5b
+VIVOSDEV05_238|k_o_ŋ͡m_6 d_o_ŋ͡m_2 ŋ_ɯə_j_2 m_e_1 t_w_a_n_5 h_ɔ_k͡p_6b c_e_n_1 t_w_a_n_2 tʰ_e_5 z_ɤ_j_5
+VIVOSDEV05_249|t_o_j_1 ŋ_i_3 tʰ_u_4 t_ɯə_ŋ_5 s_ɛ_3 x_o_ŋ͡m_1 n_ɛ_5 c_ɛ_ŋ_5 b_ɤ̆_t_5b k_ɯ_5 k_ɤ̆_w_1 h_ɔ_j_4 n_a_w_2
+VIVOSDEV05_251|b_ɔ_n_6 b_uə_n_1 l_ɤ̆_w_6 m_a_1 t_u_j_5 v_a_2 v_u_3 x_i_5
+VIVOSDEV05_261|l_a_j_6 kw_ă_j_1 z_a_1 t_ɤ̆_p_6b v_iə_t_5b b_a_w_5 z_o_j_2 ɣ_ɯ_j_4 v_u_1 v_ɤ_1
+VIVOSDEV05_263|ŋ_ɛ_1 t_iə_ŋ_5 s_i_ŋ_2 s_i_k_6b s_a_1 s_a_1 tʰ_i_2 d_w_a_n_5 c_u_ŋ_5 f_ɔ_k͡p_5b l_a_2 h_u_t_5b h_ɤ̆_m_2 k_ɤ̆_w_2
+VIVOSDEV05_270|c_ɯə_1 z_u_k_6b z_i_k_6b ɣ_i_2
+VIVOSDEV05_286|tʰ_e_5 ɲ_ɯ_ŋ_1 x_i_1 z_a_5 f_o_j_1 tʰ_ɛ_p_5b tʰ_e_5 z_ɤ_j_5 k_a_w_1 z_ɤ̆_n_2
+VIVOSDEV05_295|l_a_m_2 h_ɔ_ŋ͡m_4 k_a_k_5b tʰ_iə_t_5b b_i_6 k_uə_4 t_e_n_1 l_ɯə_4
+VIVOSDEV06_001|d_ɤ_n_1 z_a_n_4 l_a_2 t_a_n_5 ɣ_ɤ̆_w_3 v_ɤ_j_5 ɲ_ă_w_1
+VIVOSDEV06_006|m_a_2 z_ɔ_1 l_o_j_5 s_o_ŋ͡m_5 c_u_j_1 ɲ_u_j_4 k_uə_4 c_u_ŋ_5
+VIVOSDEV06_016|z_ɤ̆_w_1 z_iə_1 d_a_3 b_a_1 ŋ_ă_j_2 x_o_ŋ͡m_1 k_a_w_6
+VIVOSDEV06_021|m_o_t_6b d_ɯə_ŋ_2 h_ɯə_ŋ_5 c_w_iə_n_1 ŋ_iə_p_6b
+VIVOSDEV06_022|l_i_ŋ_5 k_ɯ_w_5 h_w_a_4 x_ɔ_5 t_iə_p_5b k_ɤ̆_n_6 h_iə_n_6 c_ɯə_ŋ_2
+VIVOSDEV06_034|ɲ_ɯ_ŋ_3 ŋ_ɯə_j_2 c_e_n_1 ɣ_ɛ_1 k_uə_4 k_o_ŋ͡m_1 a_n_1 d_a_3 ɲ_ă_m_5 tʰ_ă_ŋ_4 v_a_w_2 ɣ_ɛ_1 ɛ_ŋ_1 c_u_4
+VIVOSDEV06_037|d_ɯ_ŋ_2 b_uə_n_2 v_i_2 t_ɯ_6 z_ă_n_2 v_ă_t_6b m_i_ŋ_2 n_ɯə_3
+VIVOSDEV06_040|v_a_2 h_i_t_5b v_a_w_2 m_u_j_3 l_a_m_2 c_ɤ̆_t_5b n_ă_j_2 l_w_a_ŋ_3 z_a_1
+VIVOSDEV06_042|d_a_ŋ_1 h_ɤ̆_p_5b z_ɤ̆_n_3 k_a_k_5b t_ɤ̆_p_6b d_w_a_n_2 f_ɤ̆_n_1 f_o_j_5 d_a_1 kw_o_k͡p_5b z_a_1
+VIVOSDEV06_054|z_u_2 l_a_2 d_ɤ̆_w_6 s_ɯ_k_5b m_ɛ_ŋ_6 h_w_ă_k_6b k_a_j_4 b_o_ŋ͡m_1 x_u_ŋ_4 l_ɔ_ŋ͡m_1
+VIVOSDEV06_061|v_i_2 n_ɔ_5 x_o_ŋ͡m_1 ɲ_ă_k_5b d_e_n_5 ɲ_ɯ_ŋ_3 k_uə_k_6b t_ɤ̆_n_5 k_o_ŋ͡m_1 ɲ_ă_m_5 v_a_w_2 ŋ_ɯə_j_2 z_ɔ_1 tʰ_a_j_5
+VIVOSDEV06_070|z_o_j_2 x_e_2 x_a_2 d_o_j_1 k_ɤ̆_w_1 v_ɔ_ŋ͡m_6 k_o_4 v_ɤ_j_5 c_ɤ̆_n_1 c_uə_t_6b
+VIVOSDEV06_078|ɤ_4 l_ɤ_p_5b n_ɤ̆_w_5 ă_n_1 z_a_1 d_i_ŋ_2
+VIVOSDEV06_079|m_a_2 b_a_n_6 k_ɔ_5 tʰ_e_4 tʰ_a_m_1 x_a_w_4 d_e_4 l_a_m_2 d_ɛ_p_6b z_a_n_1 b_e_p_5b
+VIVOSDEV06_098|k_a_j_5 v_i_6 c_a_t_5b c_a_t_5b v_a_2 d_ă_ŋ_5 ŋ_ă_t_5b k_uə_4 k_a_2 f_e_1 ŋ_w_iə_n_1 c_ɤ̆_t_5b
+VIVOSDEV06_103|k_a_k_5b ɛ_m_1 ɲ_ɔ_4 s_ɛ_3 x_o_ŋ͡m_1 k_ɔ_n_2 f_a_j_4 d_i_1 c_e_n_1 ɲ_ɯ_ŋ_3 c_w_iə_n_5 d_ɔ_2 ŋ_w_i_1 h_iə_m_4
+VIVOSDEV06_108|l_a_m_2 k_o_1 n_a_ŋ_2 z_ɔ_6 z_ă_j_6 tʰ_ɯ_k_5b c_ă_ŋ_5 k_a_4 d_e_m_1
+VIVOSDEV06_117|z_a_j_4 kw_iɛ_t_5b x_o_j_5 u_ŋ_1 ɲ_ɔ_t_6b n_ă_j_2 f_a_j_4 k_ɤ̆_n_2 d_e_n_5 m_o_t_6b k_uə_k_6b d_a_j_6 f_ɤ̆_w_3 ŋ_iə_m_1 t_u_k_5b
+VIVOSDEV06_126|tʰ_ɤ̆_m_6 c_i_5 k_a_ŋ_2 z_o_ŋ͡m_5 a_w_5 kw_i_5 n_a_ŋ_2 k_a_ŋ_2 m_o_t_5b
+VIVOSDEV06_139|k_ɔ_n_2 b_o_6 x_a_ŋ_1 h_i_1 t_ɯ_2 d_iə_n_4
+VIVOSDEV06_143|d_o_j_1 m_o_j_1 m_ɛ_6 f_a_j_1 s_ɔ_n_1 m_ɤ̆_p_5b m_ă_j_5 m_o_t_6b l_ɤ_j_2 k_a_1 h_w_a_ŋ_1 h_w_a_j_4
+VIVOSDEV06_157|s_o_5 x_a_k_5b s_w_i_1 d_w_a_n_5 z_ă_ŋ_2 ɛ_ŋ_1 t_a_1 h_ɛ_ŋ_2 d_o_ŋ͡m_6 a_k_5b t_ɤ̆_m_1 v_ɤ̆_j_6
+VIVOSDEV06_168|l_a_m_2 x_u_ŋ_1
+VIVOSDEV06_184|h_w_ă_k_6b b_a_n_6 s_ɛ_3 d_e_n_5 d_ɤ̆_j_5 v_ɤ_j_5 m_o_t_6b t_ɤ̆_m_1 c_a_ŋ_6 c_a_n_5 ŋ_a_n_5 v_o_1 k_u_ŋ_2
+VIVOSDEV06_195|f_a_j_4 d_ɯə_k_6b tʰ_ɯ_k_6b h_iə_n_6 c_e_n_1 k_ɤ_1 s_ɤ_4
+VIVOSDEV06_210|h_a_j_1 m_ɯə_j_1 s_ă_w_5 h_a_j_1 m_ɯə_j_1 b_ă_j_4
+VIVOSDEV06_212|b_a_1 m_ɯə_j_1 b_a_1 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV06_222|n_ă_m_1 m_ɯə_j_1 n_ă_m_1 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV06_240|t_a_m_5 m_ɯə_j_1 s_ă_w_5 t_a_m_5 m_ɯə_j_1 b_ă_j_4
+VIVOSDEV06_241|t_a_m_5 m_ɯə_j_1 t_a_m_5 t_a_m_5 m_ɯə_j_1 c_i_n_5
+VIVOSDEV06_247|m_o_t_6b c_ă_m_1 m_o_t_6b h_a_j_1 b_a_1
+VIVOSDEV06_248|m_o_t_6b b_a_1 n_ă_m_1 b_ă_j_4 c_i_n_5
+VIVOSDEV06_252|n_ɔ_j_5 c_ɯə_k_5b b_ɯə_k_5b x_o_ŋ͡m_1 kw_a_1
+VIVOSDEV06_253|c_ă_ŋ_4 l_a_2 m_ɤ̆_j_5 h_o_m_1 n_ă_j_1 t_o_j_1 d_ă_w_1 b_u_ŋ_6 kw_a_5
+VIVOSDEV06_261|s_a_w_1 k_e_t_5b kw_a_4 z_a_1 t_e_6 v_ɤ̆_j_6
+VIVOSDEV06_272|t_o_j_1 c_i_4 m_uə_n_5 s_ɛ_m_1 ɲ_ɯ_ŋ_3 d_w_a_n_6 h_ă_j_1 m_a_2 tʰ_o_j_1
+VIVOSDEV06_285|k_o_ŋ͡m_1 t_i_1 c_ɛ_k_5b ɲ_iə_m_6 h_ɯ_w_3 h_a_n_6 ă_n_1 uə_ŋ_5
+VIVOSDEV06_286|f_i_5 c_w_iə_n_4 z_a_w_1 k_o_ŋ͡m_1 ŋ_e_6 l_a_2 b_a_1 c_u_k_6b ŋ_a_n_2 d_o_ŋ͡m_2
+VIVOSDEV06_287|l_ɯə_ŋ_1 b_a_1 k_ɔ_k͡p_6b b_a_1 d_o_ŋ͡m_2 tʰ_i_2 n_uə_j_1 d_ɯə_k_6b a_j_1
+VIVOSDEV06_296|k_o_1 ɤ̆_j_5 d_a_3 kw_a_5 c_ɛ_n_5
+VIVOSDEV07_002|h_ă_ŋ_2 n_ă_m_1 c_u_ŋ_5 t_a_1 tʰ_a_j_4 z_a_1 h_a_ŋ_2 t_i_4 tʰ_iə_t_5b b_i_6 d_iə_n_6 t_ɯ_4
+VIVOSDEV07_025|c_ɔ_1 ɲ_ɯ_ŋ_3 c_w_iə_n_5 z_a_3 ŋ_w_a_j_6 k_uə_4 z_u_1 x_ɛ_k_5b
+VIVOSDEV07_030|ɲ_ɯ_ŋ_3 ɲ_ɯə_k_6b d_iə_m_4 k_uə_4 m_i_ŋ_2
+VIVOSDEV07_036|v_i_2 d_ɔ_5 m_ɤ_j_5 c_i_ŋ_5 l_a_2 tʰ_ɯ_5 b_a_n_6 k_ɤ̆_n_2
+VIVOSDEV07_039|z_ɔ_5 c_ɤ_j_2 x_o_ŋ͡m_1 tʰ_e_4 tʰ_o_ŋ͡m_1 tʰ_o_k͡p_5b tʰ_o_j_4 v_a_w_2 x_a_j_1 c_u_ŋ_1
+VIVOSDEV07_044|b_ɤ_j_4 k_ɤ_1 kw_a_n_1 c_w_iə_n_1 m_o_n_1 h_w_ă_k_6b tʰ_w_e_1 t_o_4 c_ɯ_k_5b k_iə_m_4 t_w_a_n_5 d_o_k͡p_6b l_ɤ̆_p_6b
+VIVOSDEV07_045|h_w_ă_k_6b c_ɔ_1 v_a_w_2 v_a_j_6 m_uə_j_5 d_e_4 l_ɤ_n_6 ă_n_1 z_ɤ̆_n_2
+VIVOSDEV07_064|k_ɯ_5 c_u_m_6 k_a_k_5b d_ɤ̆_w_2 ŋ_ɔ_n_5 t_ă_j_1 l_a_j_6 m_o_t_6b c_o_3
+VIVOSDEV07_066|d_a_3 k_ɔ_5 z_ɯ_6 a_n_5 d_e_4 s_ɤ̆_j_1 z_ɯ_ŋ_6 m_o_t_6b k_a_j_5 k_ɤ̆_w_2 t_ɯ_2 d_ɤ̆_t_5b l_iə_n_2
+VIVOSDEV07_067|c_a_m_6 v_a_w_2 f_ɤ̆_n_2 tʰ_ɔ_p_5b m_e_m_2 c_e_n_1 d_ɤ̆_w_2 b_ɛ_5
+VIVOSDEV07_084|tʰ_i_2 b_o_ŋ͡m_3 ŋ_ɛ_1 tʰ_ɤ̆_j_5 t_iə_ŋ_5 w_a_k_5b w_a_k_5b t_ɯ_2 v_a_t_6b z_ɯ_ŋ_2 f_i_1 l_a_w_1
+VIVOSDEV07_093|f_u_k_6b v_u_6 c_ɔ_1 m_uə_2 tʰ_i_1 d_a_j_6 h_ɔ_k͡p_6b d_a_ŋ_1 d_e_n_5 s_a_t_5b s_a_t_6b
+VIVOSDEV07_098|c_ɤ̆_n_6 c_iə_n_5 s_i_k_5b b_i_k_5b
+VIVOSDEV07_107|ŋ_w_iə_n_1 tʰ_ɯ_5 c_ɯə_ŋ_4 b_o_6 d_a_j_6 h_ɔ_k͡p_6b v_a_2 z_a_w_5 z_u_k_6b c_w_iə_n_1 ŋ_iə_p_6b k_u_3
+VIVOSDEV07_115|v_a_w_2 k_ɤ_1 kw_a_n_1 l_a_2 ɛ_ŋ_1 h_ɔ_t_5b z_o_ŋ͡m_5 h_e_t_6b ɲ_o_ŋ͡m_2 m_ɤ_j_5 l_o_t_6b l_ɯə_j_3 v_ɤ̆_j_6
+VIVOSDEV07_125|a_ŋ_5 c_ɯ_ŋ_2 d_a_3 ŋ_w_a_j_6 b_ă_j_4 m_ɯə_j_1
+VIVOSDEV07_127|k_ɔ_5 h_a_j_1 t_a_k_5b z_u_ŋ_6 t_i_k_5b k_ɯ_k_6b
+VIVOSDEV07_134|tʰ_a_m_1 z_a_1 z_a_ŋ_4 z_ă_j_6 l_a_2 l_ɯ_k_6b l_ɯə_ŋ_6 d_w_a_n_2 v_iə_n_1
+VIVOSDEV07_138|d_ɔ_5 h_ă_n_4 l_a_2 m_o_t_6b m_ɔ_n_5 kw_a_2
+VIVOSDEV07_141|v_a_2 x_i_1 tʰ_ɤ̆_j_5 t_o_j_1 v_ɤ̆_n_3 k_iə_n_1 d_i_ŋ_6 c_a_4 l_ɤ_j_2 c_ɤ_t_5b kw_ɤ_t_5b
+VIVOSDEV07_151|z_o_1 b_ɔ_t_5b tʰ_o_ŋ͡m_1 m_i_ŋ_1
+VIVOSDEV07_156|d_ɤ̆_w_2 t_iə_n_1 l_a_2 b_a_2 k_ɔ_n_1 m_i_ŋ_2 v_ɤ̆_t_6b v_a_3 l_a_m_2 ă_n_1
+VIVOSDEV07_168|m_a_2 c_ɔ_1 d_e_n_5 l_u_k_5b d_ɔ_5 d_ɯə_k_6b s_ɛ_m_1 l_a_2 k_uə_4 t_ɯ_1 ɲ_ɤ̆_n_1
+VIVOSDEV07_170|ɲ_ɯ_1 l_ɤ̆_n_2 n_ă_j_2 d_ɯə_k_6b n_e_m_5 m_ɔ_n_5 z_ɔ_2 tʰ_u_4 h_w_a_n_2 t_w_a_n_2 l_a_m_2 t_ɯ_2 t_a_j_1 h_eo_1
+VIVOSDEV07_182|ɲ_ɯ_ŋ_3 ŋ_ɯə_j_2 h_w_a_j_2 ŋ_i_1 n_ɔ_j_5 z_ă_ŋ_2 z_ɯ_3 d_ɯə_k_6b v_ɤ̆_t_6b c_eo_1 l_u_ŋ_4 l_ă_ŋ_4 c_e_n_1 ŋ_ɯə_j_2
+VIVOSDEV07_185|c_i_w_5 c_i_t_5b ɣ_ɤ_j_6 t_i_ŋ_2 m_ɛ_6 k_ɔ_n_1 s_u_m_1 h_ɔ_p_6b
+VIVOSDEV07_190|n_ɤ_j_1 k_ɔ_5 m_ɤ̆_j_5 t_e_n_1 c_o_ŋ͡m_1 z_ɤ̆_t_5b ɣ_ɤ̆_w_5
+VIVOSDEV07_192|ɲ_iə_w_2 ŋ_ɯə_j_2 c_ɔ_1 b_iə_t_5b
+VIVOSDEV07_194|ɲ_iə_w_2 c_u_6 d_a_5 z_i_1 t_i_k_5b n_ă_m_2 ŋ_iə_ŋ_1 ŋ_a_4 v_a_2 v_ɤ_3 n_a_t_5b
+VIVOSDEV07_195|h_ɔ_6 k_u_ŋ_3 l_uə_n_1 c_ɛ_ŋ_5 s_a_1 ɲ_ɯ_ŋ_3 t_i_ŋ_2 h_uə_ŋ_5 k_ɔ_5 tʰ_e_4 ɣ_ɤ̆_j_1 h_a_j_6 c_ɔ_1 h_ɔ_6
+VIVOSDEV07_197|c_ɔ_ŋ͡m_1 k_uə_k_6b s_o_ŋ͡m_5 k_uə_4 t_o_j_1 c_u_ŋ_5 x_o_ŋ͡m_1 z_u_ŋ_2 d_e_4 k_iə_m_5 z_a_1 l_ɤ_j_6 ɲ_w_ɤ̆_n_6
+VIVOSDEV07_209|h_a_j_1 m_ɯə_j_1 b_o_n_5 h_a_j_1 m_ɯə_j_1 l_ă_m_1
+VIVOSDEV07_211|h_a_j_1 m_ɯə_j_1 t_a_m_5 h_a_j_1 m_ɯə_j_1 c_i_n_5
+VIVOSDEV07_223|n_ă_m_1 m_ɯə_j_1 h_a_j_1 n_ă_m_1 m_ɯə_j_1 b_a_1
+VIVOSDEV07_231|s_ă_w_5 m_ɯə_j_1 t_a_m_5 s_ă_w_5 m_ɯə_j_1 c_i_n_5
+VIVOSDEV07_236|b_ă_j_4 m_ɯə_j_1 t_a_m_5 b_ă_j_4 m_ɯə_j_1 c_i_n_5
+VIVOSDEV07_246|c_i_n_5 m_ɯə_j_1 t_a_m_5 c_i_n_5 m_ɯə_j_1 c_i_n_5
+VIVOSDEV07_264|b_uə_j_4 s_a_ŋ_5 tʰ_ɛ_ŋ_2 f_o_5 o_1 ɲ_iə_m_3 h_ɤ_n_1 b_uə_j_4 c_ɯə_1
+VIVOSDEV07_266|n_ɔ_ŋ͡m_5 z_ɤ̆_n_6 t_o_j_1 d_a_3 l_ă_ŋ_1 m_a_6 ɛ_ŋ_1
+VIVOSDEV07_295|c_u_4 t_ă_w_2 c_ɔ_1 b_iə_t_5b s_ɛ_3 t_iə_p_5b t_u_k_6b tʰ_ɯə_ŋ_1 tʰ_w_iə_t_5b v_e_2 s_o_5 c_i_1 f_i_5 n_ă_j_2
+VIVOSDEV08_002|d_ɯ_ŋ_2 d_e_4 k_ɔ_n_1 s_ɤ̆_w_1 ă_n_1
+VIVOSDEV08_005|k_ɤ̆_j_1 k_o_4 tʰ_u_6 ɤ̆_j_5 b_ɤ̆_t_5b c_ɤ_t_6b b_i_6 b_e_ŋ_6 t_ɤ̆_t_6b kw_ɤ̆_t_6b ŋ_a_3
+VIVOSDEV08_014|v_a_2 n_ɛu_5 b_a_n_6 c_ɔ_t_5b l_a_m_2 l_o_n_6 s_o_n_6 m_a_n_2 h_i_ŋ_2 n_e_n_2
+VIVOSDEV08_025|d_a_w_6 z_iə_n_3 c_ɛ_4 n_ă_j_2 k_ɔ_5 ɲ_iə_w_2 d_iə_w_2 ŋ_ɤ̆_m_3 ŋ_ɤ_j_6 v_e_2 ŋ_e_2
+VIVOSDEV08_032|s_ɛ_3 x_o_ŋ͡m_1 x_iə_n_5 b_a_n_6 c_o_ŋ͡m_1 ɣ_ɤ̆_j_2 ɲ_ɯ_1 ɲ_ɯ_ŋ_3 c_a_ŋ_1 f_u_k_6b m_o_t_6b m_ă_w_2
+VIVOSDEV08_053|b_ɤ_j_4 k_ɤ_1 kw_a_n_1 c_w_iə_n_1 m_o_n_1 h_w_ă_k_6b tʰ_w_e_1 t_o_4 c_ɯ_k_5b k_iə_m_4 t_w_a_n_5 d_o_k͡p_6b l_ɤ̆_p_6b
+VIVOSDEV08_057|n_ɔ_5 l_ɤ̆_t_6b d_ɤ̆_t_6b d_a_p_6b c_iə_k_5b s_ɛ_1 k_a_2 t_a_ŋ_2 b_ă_ŋ_1 ŋ_ă_j_1 z_a_1 d_ɤ̆_w_2 d_ɯə_ŋ_2
+VIVOSDEV08_062|h_w_ă_k_6b c_i_4 b_iə_w_4 h_iə_n_6 b_ă_ŋ_2 k_a_k_5b z_o_j_5 l_w_a_n_6 k_ɔ_1 b_ɔ_p_5b
+VIVOSDEV08_071|x_i_1 t_o_j_1 l_a_2 k_ɔ_n_1 b_ɛ_5 l_ɤ_p_5b b_o_n_5 tʰ_i_2 k_ɤ̆_j_1 v_a_4 d_a_3 k_a_w_1 kw_a_5 n_ɔ_k͡p_5b ɲ_a_2
+VIVOSDEV08_077|b_uə_j_4 d_ɤ̆_w_2 tʰ_ɤ̆_t_6b x_ɔ_5 x_ă_n_1 tʰ_eo_1 d_uə_j_4 c_ɯə_ŋ_1 c_i_ŋ_2 h_ɔ_k͡p_6b
+VIVOSDEV08_085|v_iə_k_6b d_ɯə_1 t_i_n_5 h_iə_w_6 c_w_iə_n_2 h_i_ŋ_2 c_ɯ_k_6b t_iə_p_5b b_ă_ŋ_2 h_e_6 tʰ_o_ŋ͡m_5 k_a_p_5b kw_a_ŋ_1
+VIVOSDEV08_090|v_i_2 x_o_ŋ͡m_1 k_ɔ_5 t_iə_n_2 d_ɔ_ŋ͡m_5 h_ɔ_k͡p_6b f_i_5
+VIVOSDEV08_093|tʰ_i_2 b_o_ŋ͡m_3 ŋ_ɛ_1 m_ɤ̆_j_5 t_iə_ŋ_5 w_a_k_5b w_a_k_5b t_ɯ_2 v_a_t_6b z_ɯ_ŋ_2 f_i_1 l_a_w_1
+VIVOSDEV08_100|h_ă_j_1 d_a_m_4 b_a_w_4 z_ă_ŋ_2 ŋ_ă_j_2 n_a_w_2 c_u_ŋ_5 k_u_ŋ_3 d_ɯə_k_6b d_i_1 ɲ_ɯ_ŋ_3 d_o_j_1 t_ɤ̆_t_5b s_ɛ_k_6b
+VIVOSDEV08_127|v_e_2 v_iə_k_6b m_a_ŋ_1 d_e_n_5 c_ɔ_1 k_a_k_5b ɛ_m_1 n_iə_m_2 v_u_j_1 h_ɔ_k͡p_6b
+VIVOSDEV08_128|k_ɔ_5 l_ɛ_3 f_a_j_4 m_ɤ̆_t_5b ɲ_iə_w_2 tʰ_ɤ_j_2 z_a_n_1
+VIVOSDEV08_129|n_ɯə_k_5b ɣ_o_3 c_e_n_1 c_iə_k_5b d_o_ŋ͡m_2 h_o_2 d_a_3 b_ă_t_5b l_e_n_1 m_ă_w_2 ɣ_u_6 b_ɔ_ŋ͡m_5 l_w_a_ŋ_5
+VIVOSDEV08_141|x_i_1 s_ɯ_k_5b ɛ_p_5b b_iə_n_5 m_ɤ̆_t_5b c_u_ŋ_5 c_ɤ_4 l_a_j_6 t_i_ŋ_2 c_a_ŋ_6 m_e_m_2 z_eo_4 b_i_ŋ_2 tʰ_ɯə_ŋ_2
+VIVOSDEV08_143|tʰ_a_m_1 z_a_1 z_a_ŋ_4 z_ă_j_6 l_a_2 l_ɯ_k_6b l_ɯə_ŋ_6 d_w_a_n_2 v_iə_n_1
+VIVOSDEV08_145|v_a_2 v_a_j_4 h_w_ă_k_6b k_ɔ_j_5 ɲ_iə_w_2 m_ă_w_2
+VIVOSDEV08_159|v_ɤ_j_5 ŋ_ɯə_j_2 m_ɛ_6 ɤ_4 s_ɔ_m_5 c_a_j_2 l_ɔ_ŋ͡m_1 b_iə_n_1
+VIVOSDEV08_163|c_ɯə_ŋ_1 c_i_ŋ_2 d_a_3 t_a_w_6 d_ɯə_k_6b h_iə_w_6 ɯ_ŋ_5 t_o_t_5b t_ɯ_2 f_iə_5 x_a_n_5 z_a_4 ɲ_i_5
+VIVOSDEV08_166|z_i_k_6b v_u_6 k_iə_m_4 c_a_1 s_ɯ_k_5b x_w_e_4 d_i_ŋ_6 k_i_2 l_a_2 m_o_t_6b i_5 k_iə_n_5 h_ă_j_1
+VIVOSDEV08_180|c_i_ŋ_5 s_ɯ_6 l_e_n_1 s_a_n_2 o_2 a_t_6b d_ɔ_5
+VIVOSDEV08_182|k_e_t_5b kw_a_4 c_i_4 k_ɔ_5 v_ɔ_n_4 v_ɛ_n_6 b_a_1 ŋ_ɯə_j_2 k_ɔ_n_2 b_iə_t_5b z_e_t_6b
+VIVOSDEV08_193|l_a_2 t_ɯə_ŋ_1 d_o_j_5 k_ɔ_5 h_iə_w_6 kw_a_4
+VIVOSDEV08_196|f_ɤ̆_n_2 l_ɤ_n_5 h_ɔ_k͡p_6b s_i_ŋ_1 z_ă_w_2 k_ɔ_5 ŋ_ɯə_j_2 n_ɯə_k_5b ŋ_w_a_j_2
+VIVOSDEV08_201|x_o_ŋ͡m_1 m_o_t_6b h_a_j_1 b_a_1 b_o_n_5
+VIVOSDEV08_208|h_a_j_1 m_ɯə_j_1 h_a_j_1 h_a_j_1 m_ɯə_j_1 b_a_1
+VIVOSDEV08_210|h_a_j_1 m_ɯə_j_1 s_ă_w_5 h_a_j_1 m_ɯə_j_1 b_ă_j_4
+VIVOSDEV08_214|b_a_1 m_ɯə_j_1 b_o_n_5 b_a_1 m_ɯə_j_1 l_ă_m_1
+VIVOSDEV08_222|n_ă_m_1 m_ɯə_j_1 n_ă_m_1 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV08_224|n_ă_m_1 m_ɯə_j_1 b_o_n_5 n_ă_m_1 m_ɯə_j_1 l_ă_m_1
+VIVOSDEV08_233|b_ă_j_4 m_ɯə_j_1 h_a_j_1 b_ă_j_4 m_ɯə_j_1 b_a_1
+VIVOSDEV08_270|n_ɔ_j_5 tʰ_ɤ̆_t_6b d_ɤ̆_j_5 a_2
+VIVOSDEV08_271|kw_a_5 t_o_t_5b z_o_j_2
+VIVOSDEV08_274|t_o_j_1 c_e_t_5b k_u_ŋ_2 v_ɤ_j_5 ɛ_ŋ_5 c_ă_ŋ_1
+VIVOSDEV08_277|d_a_n_2 o_ŋ͡m_1 k_ɔ_5 h_a_j_1 tʰ_ɯ_5 d_e_4 b_uə_n_2
+VIVOSDEV08_295|z_ă_w_2 d_o_j_4 b_a_n_6 s_a_ŋ_1 d_o_j_4 v_ɤ_6
+VIVOSDEV08_300|a_n_5 m_a_ŋ_6 c_e_n_1 t_w_a_1 t_ă_w_2 t_o_k͡p_5b h_ɛ_ŋ_2
+VIVOSDEV09_015|l_a_m_2 z_ɤ_m_2 z_ɤ_p_6b b_iə_n_4 m_ɤ̆_j_1 l_ă_w_1 l_ɛ_k_5b f_ɤ̆_t_5b f_ɤ_1
+VIVOSDEV09_022|c_ɯ_ŋ_5 m_ɯ_k_6b kw_iɛ_n_5 z_u_3 k_a_k_5b ŋ_ɯ_1 z_ɤ̆_n_1
+VIVOSDEV09_029|b_a_n_6 k_ɔ_5 tʰ_e_4 x_iə_n_4 c_ɛ_k_5b ŋ_ɯə_j_2 l_a_j_5 s_ɛ_1
+VIVOSDEV09_035|l_w_a_ŋ_5 tʰ_w_a_ŋ_5 c_ă_n_1 c_ɤ_4 l_w_a_ŋ_5 tʰ_w_a_ŋ_5 b_uə_n_2 v_u_j_1
+VIVOSDEV09_038|f_ɔ_ŋ͡m_2 c_a_2 x_iə_w_1 v_u_3 k_ɛ_ŋ_5 kw_a_t_6b k_o_j_5 s_ă_j_1 d_ɔ_4
+VIVOSDEV09_039|tʰ_i_t_6b ŋ_ɔ_t_6b l_ɯ_2 ɤ̆_j_5 l_a_j_6 m_a_ŋ_1 tʰ_eo_1 c_u_ŋ_2 s_a_n_5 ɣ_ɤ̆_j_1 b_e_ŋ_6
+VIVOSDEV09_041|h_iə_n_6 c_ɔ_ŋ͡m_1 ɲ_iə_w_2 l_w_a_j_6 t_ɔ_j_4 k_ɔ_5 m_ă_t_6b c_e_n_1 tʰ_i_6 c_ɯə_ŋ_2
+VIVOSDEV09_047|ŋ_ă_j_2 k_ă_n_1 b_ɤ̆_k_6b h_a_j_1 c_i_4 z_iə_n_3 z_a_1 c_i_n_5 l_ɤ̆_n_2 c_ɔ_ŋ͡m_1 m_o_t_6b tʰ_e_5 k_i_4
+VIVOSDEV09_055|z_o_j_2 z_ɤ_m_1 z_a_6 x_o_1 tʰ_eo_1 tʰ_ɤ̆_n_1 h_i_ŋ_2 ɣ_ɤ̆_j_2 ŋ_ă_ŋ_4
+VIVOSDEV09_077|d_e_4 k_ɔ_5 tʰ_e_4 v_ɤ̆_n_6 h_ɛ_ŋ_2 c_u_ŋ_5 d_ɯə_k_6b h_iə_w_6 kw_a_4 h_ɤ_n_1
+VIVOSDEV09_081|d_ɯə_k_6b m_i_3 z_a_w_5 z_iə_t_5b t_u_ŋ_1 z_a_1
+VIVOSDEV09_083|v_i_2 l_ɯə_ŋ_6 k_a_1 x_u_k_5b m_ɤ_j_5 kw_a_5 ɲ_iə_w_2
+VIVOSDEV09_091|n_ɯə_k_5b c_ă_j_4 kw_a_5 m_ɛ_ŋ_6
+VIVOSDEV09_098|x_iə_n_5 k_a_4 h_a_j_1 f_a_j_4 z_ɤ̆_n_6 h_ɤ_n_2 v_o_1 l_i_5
+VIVOSDEV09_106|z_o_j_2 c_i_m_2 l_i_m_4 m_o_t_6b tʰ_ɤ_j_2 z_a_n_1
+VIVOSDEV09_110|x_i_1 m_iə_ŋ_6 v_ɤ̆_n_3 ŋ_ɤ̆_m_6 b_ɤ̆_w_2 v_u_5 kw_ă_t_5b kw_eo_1
+VIVOSDEV09_134|k_ɤ̆_w_1 c_a_4 l_ɤ_j_2 k_uə_4 o_ŋ͡m_1 t_a_1 z_ɤ̆_t_5b x_iə_m_5 ɲ_a_3
+VIVOSDEV09_139|n_ɛu_5 c_u_4 d_ɤ̆_w_2 t_ɯ_1 x_o_ŋ͡m_1 t_ɯ_6 f_a_5 z_ɤ_3 tʰ_i_2 b_i_6 k_ɯə_ŋ_3 c_e_5
+VIVOSDEV09_142|v_e_2 c_w_iə_n_6 d_a_ŋ_1 tʰ_eo_1 z_ɔ_j_3 b_ɔ_n_6 z_a_n_5 d_iə_p_6b n_ɯə_k_5b ŋ_w_a_j_2
+VIVOSDEV09_144|d_ɯə_k_6b k_ă_t_5b t_ɯ_2 v_ɔ_4 c_ă_n_1 b_o_6 d_o_j_6 k_u_3 k_uə_4 k_a_k_5b o_ŋ͡m_1 b_o_5 z_a_1
+VIVOSDEV09_158|s_ɤ_6 ɲ_ɤ̆_t_5b l_a_2 m_uə_2 m_ɯə_1 s_ɤ̆_m_5 s_ɛ_t_5b d_u_ŋ_2 d_w_a_ŋ_2 c_e_n_1 n_u_j_5
+VIVOSDEV09_159|t_ɯ_k_5b l_ɤ̆_j_5 s_u_n_6 l_ɛ_ŋ_2 t_ɯ_2 n_ɤ_j_1 x_o_ŋ͡m_1 f_a_j_4 c_i_w_6 l_ɯ_k_6b ɣ_ɛ_p_5b v_a_w_2 n_ɤ_j_1 h_ɯ_1
+VIVOSDEV09_163|d_iə_w_2 v_o_1 k_u_ŋ_2 kw_a_n_1 c_ɔ_ŋ͡m_6 c_ɔ_ŋ͡m_1 tʰ_ɤ_j_2 d_a_j_6 k_ɔ_5 kw_a_5 ɲ_iə_w_2 h_w_a_t_6b d_o_ŋ͡m_6
+VIVOSDEV09_166|tʰ_i_5 s_i_ŋ_1 t_ɯ_6 z_ɔ_1 k_ɤ̆_n_2 kw_a_n_1 t_ɤ̆_m_1 d_e_n_5 d_o_6 v_e_ŋ_1 k_iə_n_5 tʰ_ɯ_k_5b k_a_k_5b m_o_n_1
+VIVOSDEV09_168|m_o_j_3 ŋ_ɯə_j_2 c_u_ŋ_5 t_a_1 s_ɛ_3 k_ɔ_5 ɲ_ɯ_ŋ_3 tʰ_ɯ_5 x_a_k_5b ɲ_ă_w_1
+VIVOSDEV09_178|v_a_2 tʰ_ɤ̆_m_6 c_i_5 b_a_n_6 k_u_ŋ_3 x_o_ŋ͡m_1 n_e_n_1 k_o_5 ɣ_ă_ŋ_5
+VIVOSDEV09_194|c_e_n_1 b_ɤ̆_w_2 c_ɤ_j_2 ɛ_ŋ_5 c_ă_ŋ_1 s_a_ŋ_5 v_ă_ŋ_2 v_ă_k_6b
+VIVOSDEV09_198|l_a_2 t_o_4 t_iə_n_1 k_uə_4 o_ŋ͡m_1 d_ă_ŋ_6 l_e_n_1 d_a_m_4 c_ɛ_k_5b v_iə_k_6b z_ɤ̆_n_3 d_ɯə_ŋ_2
+VIVOSDEV09_203|t_a_m_5 c_i_n_5 m_ɯə_j_2 m_ɯə_j_2 m_o_t_6b
+VIVOSDEV09_204|m_ɯə_j_2 m_o_t_6b m_ɯə_j_2 h_a_j_1 m_ɯə_j_2 b_a_1
+VIVOSDEV09_222|n_ă_m_1 m_ɯə_j_1 n_ă_m_1 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV09_246|c_i_n_5 m_ɯə_j_1 t_a_m_5 c_i_n_5 m_ɯə_j_1 c_i_n_5
+VIVOSDEV09_267|k_ă_n_1 ɲ_a_2 d_ă_ŋ_2 k_iə_1 ŋ_ɛ_1 n_ɔ_j_5 k_ɔ_5 m_a_1
+VIVOSDEV09_268|tʰ_u_5 tʰ_ɤ̆_t_6b t_u_j_1 c_ɯə_1 t_ɯ_ŋ_2 c_ɤ_j_1 ɣ_a_j_5
+VIVOSDEV09_280|s_w_ɤ̆_n_1 n_ă_j_2 ɛ_m_1 x_o_ŋ͡m_1 v_e_2
+VIVOSDEV09_286|k_ɔ_5 k_ɔ_n_2 h_ɤ_n_1 x_o_ŋ͡m_1
+VIVOSDEV09_288|c_ă_k_5b s_ă_p_5b t_ɤ_j_5 tʰ_u_1 s_e_p_5b d_i_1 z_u_1 l_i_k_6b tʰ_o_j_1
+VIVOSDEV09_289|f_ɯə_ŋ_1 c_ɤ̆_m_1 s_o_ŋ͡m_5 k_uə_4 t_o_j_1 l_a_2 ŋ_ɯə_j_2 x_o_ŋ͡m_1 v_i_2 m_i_ŋ_2 c_ɤ_j_2 c_u_1 d_ɤ̆_t_5b z_iə_t_6b
+VIVOSDEV09_293|n_ɔ_5 c_o_n_5 m_ɤ̆_t_5b t_iə_w_1 z_o_j_2 k_ɔ_n_2 d_ɤ̆_w_1
+VIVOSDEV09_297|tʰ_e_5 n_a_w_2 l_a_2 h_w_a_n_2 h_a_w_4
+VIVOSDEV10_010|x_i_1 b_i_6 k_o_ŋ͡m_1 a_n_1 tʰ_o_p_6b k_o_4 x_ɤ̆_n_4 k_ɤ̆_p_5b
+VIVOSDEV10_014|s_ă_w_1 x_i_1 d_ɔ_k͡p_6b ɲ_ɯ_ŋ_3 tʰ_o_ŋ͡m_1 t_i_n_1 c_e_n_1 b_a_w_5
+VIVOSDEV10_017|ŋ_a_1 x_i_1 ɤ̆_j_5 k_a_ŋ_2 tʰ_i_n_2 n_e_t_5b n_a_1
+VIVOSDEV10_020|v_iə_k_6b a_p_5b z_u_ŋ_6 k_a_4 b_a_n_2 v_a_5 l_o_j_3 v_a_2 k_o_ŋ͡m_1 k_u_6 kw_ɛ_t_5b
+VIVOSDEV10_024|ŋ_w_a_j_2 c_ɤ_j_2 m_ɯə_1 k_ɯ_5 l_ă_j_1 f_ă_j_1 z_ă_k_5b h_a_t_6b
+VIVOSDEV10_030|n_uə_j_1 m_o_1 h_i_ŋ_2 t_i_ŋ_1 h_w_a_n_2 z_o_j_2 t_a_w_6 z_a_1 t_i_ŋ_1 h_w_a_n_2 v_ɤ_j_5 d_ɤ̆_j_2 d_u_4 h_i_ŋ_2 h_a_j_2
+VIVOSDEV10_035|k_ɔ_5 tʰ_e_4 z_u_p_5b t_a_1 kw_e_n_1 d_i_1 ɲ_ɯ_ŋ_3 n_o_j_3 ɯ_w_1 f_iə_n_2
+VIVOSDEV10_043|m_a_2 z_u_ŋ_1 z_ă_ŋ_1 ɲ_ɛ_5 k_ɤ̆_m_2 t_ă_j_1 d_ɤ̆_t_5b c_ɤ_j_2
+VIVOSDEV10_045|t_o_j_1 l_ɤ_n_5 l_e_n_1 c_ɔ_ŋ͡m_1 s_ɯ_6 ɣ_ɛ_4 l_ɛ_ŋ_6 k_uə_4 ŋ_ɯə_j_2 m_ɛ_6 k_e_5
+VIVOSDEV10_051|x_u_ŋ_1 z_ă_ŋ_1 h_a_m_2 c_e_n_1 x_u_m_1
+VIVOSDEV10_067|tʰ_e_5 ɲ_ɯ_ŋ_1 t_o_j_1 x_o_ŋ͡m_1 ɤ̆_n_1 h_ɤ̆_n_6 x_i_1 c_ɤ_4 tʰ_ɛ_ŋ_2 d_a_4 n_ɯ_3
+VIVOSDEV10_068|v_ɤ_j_5 m_o_t_6b t_o_k͡p_5b d_o_6 m_a_2 c_u_ŋ_5 t_a_1 x_o_ŋ͡m_1 tʰ_e_4 d_i_1 d_e_n_5 t_ɤ̆_n_6 k_u_ŋ_2 k_uə_4 n_ɔ_5
+VIVOSDEV10_072|t_o_j_1 tʰ_ɤ̆_j_5 d_o_ŋ͡m_2 l_ɯə_ŋ_1 k_uə_4 m_i_ŋ_2 n_ă_m_1 n_ă_m_1 z_o_j_2 v_ɤ̆_n_3 d_ɯ_ŋ_5 ŋ_w_iə_n_1
+VIVOSDEV10_073|d_e_4 c_ɤ̆_m_5 z_ɯ_t_5b n_a_n_6 b_a_w_6 h_ɛ_ŋ_2 c_ɔ_ŋ͡m_1 z_a_1 d_i_ŋ_2
+VIVOSDEV10_076|l_a_m_2 d_ɯə_ŋ_2 s_a_5 ŋ_ɤ̆_p_6b s_ă_p_5b s_ă_p_5b kw_ɛ_ŋ_1 n_ă_m_1 s_uə_t_5b tʰ_a_ŋ_5
+VIVOSDEV10_090|v_ɯə_2 d_ɯə_k_6b c_a_w_1 t_ă_ŋ_6 z_a_j_4 tʰ_ɯə_ŋ_4 ɲ_a_2 n_ɯə_k_5b
+VIVOSDEV10_117|k_a_j_5 x_ɔ_5 l_a_2
+VIVOSDEV10_129|d_iə_w_2 n_ă_j_2 d_u_ŋ_5 v_ɤ_j_5 m_ɔ_j_6 k_ɤ̆_p_5b d_o_6 v_a_2 c_ɔ_ŋ͡m_1 m_ɔ_j_6 l_i_ŋ_3 v_ɯ_k_6b k_uə_4 d_ɤ_j_2 s_o_ŋ͡m_5
+VIVOSDEV10_130|k_a_w_1 ŋ_o_ŋ͡m_2 ŋ_o_ŋ͡m_2
+VIVOSDEV10_140|c_a_ŋ_2 c_a_j_1 l_o_m_2 k_o_m_2 b_ɔ_2 z_ɤ̆_j_6 m_ă_t_6b m_ă_j_2 s_ɛ_ŋ_1 l_ɛ_t_5b ɲ_ɯ_1 t_ă_w_2 l_a_5 c_uə_j_5
+VIVOSDEV10_156|c_i_ŋ_5 f_u_4 d_o_ŋ͡m_2 tʰ_ɤ_j_2 k_u_ŋ_3 l_ɤ̆_p_6b tʰ_e_m_1 k_u_k_6b s_u_k_5b t_iə_n_5 t_iə_w_1 tʰ_u_6 z_ɤ̆_w_2 k_ɔ_6
+VIVOSDEV10_162|k_u_ŋ_3 l_a_2 t_i_n_1 v_u_j_1 c_ɔ_1 t_ɤ̆_t_5b k_a_4 ɲ_ɯ_ŋ_3 a_j_1
+VIVOSDEV10_172|h_ɯə_m_6 d_a_3 k_ɔ_n_2 f_a_j_4 d_iə_w_2 c_i_ŋ_4
+VIVOSDEV10_176|c_ɔ_ŋ͡m_1 t_i_ŋ_2 tʰ_e_5 ɤ̆_j_5 c_i_4 d_a_m_5 c_ɛ_4 v_ɛ_n_1 s_o_ŋ͡m_1
+VIVOSDEV10_189|n_ɛu_5 d_i_1 t_iə_p_5b ɲ_a_1 c_a_ŋ_1
+VIVOSDEV10_194|t_ɯ_k_5b c_ɛ_ŋ_1 k_ɔ_5 tʰ_e_4 c_i_6 d_ɯə_k_6b b_e_ŋ_6
+VIVOSDEV10_196|c_i_4 m_uə_n_5 l_a_m_2 m_o_t_6b h_ɤ_j_1 c_ɔ_1 d_a_3 k_a_j_5 m_iə_ŋ_6
+VIVOSDEV10_211|h_a_j_1 m_ɯə_j_1 t_a_m_5 h_a_j_1 m_ɯə_j_1 c_i_n_5
+VIVOSDEV10_212|b_a_1 m_ɯə_j_1 b_a_1 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV10_227|s_ă_w_5 m_ɯə_j_1 s_ă_w_5 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV10_234|b_ă_j_4 m_ɯə_j_1 b_o_n_5 b_ă_j_4 m_ɯə_j_1 l_ă_m_1
+VIVOSDEV10_239|t_a_m_5 m_ɯə_j_1 b_o_n_5 t_a_m_5 m_ɯə_j_1 l_ă_m_1
+VIVOSDEV10_245|c_i_n_5 m_ɯə_j_1 s_ă_w_5 c_i_n_5 m_ɯə_j_1 b_ă_j_4
+VIVOSDEV10_247|m_o_t_6b c_ă_m_1 m_o_t_6b h_a_j_1 b_a_1
+VIVOSDEV10_249|x_o_ŋ͡m_1 h_a_j_1 b_o_n_5 s_ă_w_5 t_a_m_5
+VIVOSDEV10_257|t_iə_n_2 d_iə_n_6 tʰ_a_ŋ_5 n_ă_j_2 b_a_w_1 ɲ_iə_w_1
+VIVOSDEV10_262|tʰ_uə_1 s_a_1 t_iə_m_6 t_a_p_6b h_w_a_5 ɲ_a_2 t_a_w_1
+VIVOSDEV10_266|t_ɯ_2 c_e_n_1 n_ɔ_k͡p_5b ɲ_a_2 ɲ_i_n_2 s_uə_ŋ_5 k_ɔ_5 x_a_k_5b
+VIVOSDEV10_278|t_o_j_6 ŋ_iə_p_6b d_ɯə_5 ɲ_ɔ_4 x_o_ŋ͡m_1 a_j_1 c_ă_m_1 s_ɔ_k͡p_5b
+VIVOSDEV10_294|ɛ_m_1 s_ɤ_6 k_ɔ_5 m_o_t_6b ŋ_ă_j_2 ɛ_ŋ_1 ɣ_ă_p_6b ŋ_ɯə_j_2 k_ɔ_n_1 ɣ_a_j_5 x_a_k_5b t_o_t_5b h_ɤ_n_1 ɛ_m_1 z_o_j_2 ɛ_ŋ_1 b_ɔ_4 ɛ_m_1
+VIVOSDEV11_015|n_ɯ_3 z_iə_n_3 v_iə_n_1 s_i_ŋ_1 d_ɛ_p_6b f_a_m_6 b_ă_ŋ_1 b_ă_ŋ_1
+VIVOSDEV11_022|s_ɛ_3 l_a_m_2 z_a_m_4 t_i_ŋ_2 c_a_ŋ_6 ɔ_j_5 ɔ_k͡p_6b k_uə_4 c_ɛ_4
+VIVOSDEV11_033|m_a_2 f_a_j_4 c_ɛ_1 c_a_j_5 ɤ_4 t_a_m_6 b_e_n_1 h_o_ŋ͡m_1 ɲ_a_2 c_a_1 z_uə_t_6b
+VIVOSDEV11_036|t_o_j_1 k_ɔ_5 tʰ_e_4 k_ă_m_1 z_ɤ̆_n_6 d_u_4 tʰ_ɯ_5
+VIVOSDEV11_038|m_a_2 f_a_j_4 c_w_iə_n_4 kw_a_1 h_i_ŋ_2 tʰ_ɯ_k_5b z_a_w_1 z_i_k_6b
+VIVOSDEV11_046|d_ɯ_ŋ_2 b_a_w_1 z_ɤ_2 d_e_4 c_ɔ_1 b_ɤ̆_t_5b k_i_2 a_j_1 n_ɔ_j_5 v_ɤ_j_5 b_a_n_6 z_ă_ŋ_2
+VIVOSDEV11_048|v_a_ŋ_2 ɔ_ŋ͡m_5 d_o_j_1 ɣ_e_t_6b k_a_w_1 k_o_4 k_uə_4 ŋ_ɯ_6 l_ɤ̆_m_1 kw_ɤ̆_n_1
+VIVOSDEV11_057|n_ɛu_5 v_i_2 c_u_ŋ_5 t_o_j_1
+VIVOSDEV11_063|n_ɛu_5 b_a_n_6 v_ɤ̆_n_3 k_a_m_4 tʰ_ɤ̆_j_5 t_o_j_6 l_o_j_3
+VIVOSDEV11_075|z_a_j_3 z_ɤ̆_w_2 n_ă_ŋ_5 z_ɔ_5 c_ɯə_ŋ_2 s_ɤ_n_1
+VIVOSDEV11_076|v_ɤ_j_5 c_e_n_1 l_a_2 n_u_j_5 v_a_2 z_ɯə_j_5 l_a_2 s_o_ŋ͡m_1
+VIVOSDEV11_077|v_ɤ_j_5 s_ɯ_6 s_w_ɤ̆_t_5b h_iə_n_6 k_uə_4 kw_a_j_5 tʰ_u_5 v_a_2 z_o_ŋ͡m_2
+VIVOSDEV11_079|n_ɛ_t_5b m_ă_t_6b h_ɔ_6 x_o_ŋ͡m_1 ŋ_ɤ_j_2 l_e_n_1 h_ɛ_ŋ_6 f_u_k_5b k_uə_4 ŋ_ɯə_j_2 m_ɛ_6
+VIVOSDEV11_081|m_o_t_6b s_o_5 ŋ_ɯə_j_2 c_ɔ_1 z_ă_ŋ_2
+VIVOSDEV11_083|m_o_t_6b s_i_ŋ_1 v_iə_n_1 d_ɯə_k_6b v_ă_j_1 v_o_n_5 t_i_n_5 z_u_ŋ_6 h_ɔ_k͡p_6b t_ɤ̆_p_6b
+VIVOSDEV11_095|m_ɔ_j_6 tʰ_ɯ_5 d_ɛu_2 d_ɯə_k_6b m_o_4 s_ɛ_4 l_a_j_6
+VIVOSDEV11_122|x_o_ŋ͡m_1 f_a_j_4 n_ă_p_5b x_u_m_1
+VIVOSDEV11_123|k_a_k_5b k_o_ŋ͡m_1 t_i_1 z_u_1 l_i_k_6b f_a_j_4 s_a_k_5b d_i_ŋ_6
+VIVOSDEV11_129|d_i_1 b_o_6 l_eo_1 n_u_j_5 d_e_n_5 ɲ_ɯ_2 c_ɤ̆_n_1
+VIVOSDEV11_131|tʰ_i_2 c_u_4 d_ɤ̆_w_2 t_ɯ_1 f_a_j_4 t_ɯ_6 f_a_5 z_ɤ_3 f_ɤ̆_n_2 n_o_j_6 z_u_ŋ_1 s_a_j_1 f_ɛ_p_5b d_ɔ_5
+VIVOSDEV11_136|x_i_1 ɲ_ɤ̆_n_1 v_iə_n_1 k_ɯ_w_5 h_o_6 k_o_5 ɣ_ă_ŋ_5 d_ɯə_1 n_ɔ_5 l_e_n_1 s_a_2 l_a_n_1
+VIVOSDEV11_137|ɲ_ɯ_ŋ_3 ŋ_ɯə_j_2 n_ă_j_2 d_ɛu_2 d_ɯə_k_6b d_a_w_2 t_a_w_6 v_e_2 h_o_j_6 h_w_a_6
+VIVOSDEV11_147|ɣ_ă_n_5 l_o_ŋ͡m_1 c_i_m_1 h_o_t_6b d_a_5 l_ɔ_ŋ͡m_5 l_ɛ_ŋ_5 h_ă_j_1 b_eo_2 z_u_n_5 t_uə_2 l_uə_1 d_ɤ̆_j_2 k_o_4
+VIVOSDEV11_160|ŋ_u_6 ɤ̆_p_5b h_ɔ_n_2 ŋ_a_ŋ_1
+VIVOSDEV11_164|i_t_5b ɲ_ɤ̆_t_5b ɤ_4 h_ɤ_n_1 b_a_1 m_ɯə_j_1 c_ɯə_ŋ_2 tʰ_uə_k_6b k_a_k_5b d_iə_6 f_ɯə_ŋ_1 n_ɔ_j_5 c_e_n_1
+VIVOSDEV11_182|d_ă_k_6b d_iə_m_4 k_uə_4 f_ɤ̆_j_4 c_u_ŋ_2 t_a_4
+VIVOSDEV11_193|v_i_2 b_a_n_1 d_e_m_1 c_i_6 ŋ_u_4 x_o_ŋ͡m_1 ŋ_ɔ_n_1
+VIVOSDEV11_198|l_ɤ_1 l_ɯ_ŋ_4 c_e_n_1 d_ɤ̆_w_2 l_a_2 ɲ_ɯ_ŋ_3 c_iə_k_5b b_ɤ̆_j_3 d_a_5 h_a_ŋ_2 c_ă_m_1 x_o_j_5
+VIVOSDEV11_200|n_ă_m_1 d_ɤ̆_w_2 t_iə_n_1
+VIVOSDEV11_234|b_ă_j_4 m_ɯə_j_1 b_o_n_5 b_ă_j_4 m_ɯə_j_1 l_ă_m_1
+VIVOSDEV11_242|c_i_n_5 m_ɯə_j_1 c_i_n_5 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV11_246|c_i_n_5 m_ɯə_j_1 t_a_m_5 c_i_n_5 m_ɯə_j_1 c_i_n_5
+VIVOSDEV11_252|b_ɤ̆_j_1 z_ɤ_2 k_ɯə_p_5b ɲ_iə_w_2 kw_a_5 d_i_1 d_ɯə_ŋ_2 k_u_ŋ_3 tʰ_ɤ̆_j_5 s_ɤ_6
+VIVOSDEV11_262|t_i_m_2 h_u_ŋ_1 tʰ_u_4 h_iə_p_5b z_ɤ̆_m_1 b_ă_ŋ_2 n_ɯə_k_5b b_ɔ_t_6b n_a_n_6 ɲ_ɤ̆_n_1
+VIVOSDEV11_269|c_u_ŋ_5 t_o_j_1 iə_w_1 ɲ_ă_w_1 d_ɯə_k_6b h_a_j_1 n_ă_m_1 tʰ_i_2 z_a_1 d_i_ŋ_2 t_o_j_1 s_ă_j_4 z_a_1 c_w_iə_n_6
+VIVOSDEV11_273|c_ɔ_ŋ͡m_6 t_a_j_2 f_a_t_6b tʰ_ɛ_4 d_ɔ_4
+VIVOSDEV11_274|k_iə_w_4 n_ă_j_2 c_ă_k_5b f_a_j_4 k_ă_t_5b z_a_m_4 b_iə_n_1 c_e_5
+VIVOSDEV11_282|tʰ_o_j_1 tʰ_i_2 k_ɯ_5 s_ă_p_5b s_e_p_5b ɲ_ɯ_1 v_ɤ̆_j_6
+VIVOSDEV11_289|tʰ_eo_1 f_ɔ_5 c_u_4 t_i_k_6b u_j_4 b_a_n_1 a_n_1 t_w_a_n_2 z_a_w_1 tʰ_o_ŋ͡m_1 kw_o_k͡p_5b z_a_1
+VIVOSDEV11_298|c_w_ɤ̆_n_4 b_i_6 c_ɔ_1 ŋ_ă_j_2 x_a_j_1 c_ɯə_ŋ_1 k_ɯə_4 h_a_ŋ_2 d_ɤ̆_w_2 t_iə_n_1
+VIVOSDEV12_006|t_ɯ_2 s_ɯ_6 z_ɯ_1 tʰ_ɯə_2 kw_a_5 m_ɯ_k_5b k_uə_4 l_uə_ŋ_2 t_iə_n_2 n_ă_j_2
+VIVOSDEV12_011|d_ɔ_5 c_ɯ_ŋ_5 t_ɔ_4 z_ă_ŋ_2 c_u_ŋ_5 t_a_1 d_a_3 z_a_2
+VIVOSDEV12_015|c_a_4 l_a_j_6 d_ɤ̆_t_5b c_ɔ_1 z_ɯ_ŋ_2
+VIVOSDEV12_032|k_a_k_5b l_w_a_j_6 k_ɤ̆_j_1 c_o_ŋ͡m_2 ɤ_4 z_ɯ_ŋ_2 n_ă_j_2 t_w_a_n_2 k_ɤ̆_j_1 k_ɛ_m_5 z_a_5 c_i_6
+VIVOSDEV12_054|tʰ_iə_w_5 s_ɯ_6 kw_a_n_1 t_ɤ̆_m_1 d_u_ŋ_5 m_ɯ_k_5b t_ɯ_2 k_a_k_5b k_ɤ_1 kw_a_n_1 c_ɯ_k_5b n_ă_ŋ_1
+VIVOSDEV12_056|t_a_j_6 c_ɤ_6 k_a_5
+VIVOSDEV12_057|x_o_ŋ͡m_1 f_a_j_4 v_i_2 t_o_j_1 x_o_ŋ͡m_1 k_ɔ_j_1 c_ɔ_ŋ͡m_6 c_ɤ̆_t_5b l_ɯə_ŋ_6
+VIVOSDEV12_065|tʰ_i_2 d_ɔ_k͡p_6b d_ɯə_k_6b h_o_j_2 k_i_5 x_o_ŋ͡m_1 tʰ_e_4 c_uə_k_6b l_o_j_3 c_e_n_1 b_a_w_5 t_uə_j_4 c_ɛ_4
+VIVOSDEV12_066|tʰ_iə_w_5 t_ɯə_ŋ_5 f_a_m_6 kw_i_5 ŋ_ɔ_6 c_ɔ_1 b_iə_t_5b
+VIVOSDEV12_068|x_o_ŋ͡m_1 m_o_t_6b c_u_t_5b c_ɤ̆_j_2 c_uə_6 m_a_2 d_e_n_2 k_a_j_5 ɣ_i_2
+VIVOSDEV12_071|n_ɔ_5 d_ɯə_k_6b d_ă_t_6b c_ɔ_ŋ͡m_1 m_o_t_6b h_o_p_6b d_ɯ_ŋ_6 c_a_ŋ_1 s_ɯ_k_5b b_ɔ_k͡p_6b z_a_1 d_ɔ_4
+VIVOSDEV12_075|ɲ_ɔ_m_5 tʰ_ɛ_ŋ_1 l_ɔ_ŋ͡m_1 c_ɛ_4 z_iə_n_3 t_iə_w_4 f_ɤ̆_m_4 h_a_j_2 h_ă_k_5b b_ɛ_k_6b c_ɛ_ŋ_1 h_u_ŋ_2
+VIVOSDEV12_076|t_ɤ_5 d_i_1 k_iə_m_5 ɲ_a_2 c_ɔ_6 z_o_j_2 ɲ_ɯ_ŋ_1 x_ɔ_5 kw_a_5
+VIVOSDEV12_079|s_ɛ_ŋ_1 k_ɔ_4 m_ɯə_t_6b m_a_2 v_ɛ_n_1 d_ɯə_ŋ_2
+VIVOSDEV12_080|c_i_ŋ_5 tʰ_ɯ_k_5b d_a_3 l_ɤ̆_j_1 l_a_n_1 z_a_1 b_e_n_1 ŋ_w_a_j_2
+VIVOSDEV12_100|f_u_6 h_w_i_ŋ_1 v_a_2 h_ɔ_k͡p_6b s_i_ŋ_1 d_a_ŋ_1 f_a_j_4 ɛ_2 k_o_4 v_i_2 s_ɛ_k_5b z_a_5 k_a_w_1
+VIVOSDEV12_101|x_i_1 c_i_ŋ_5 f_u_4 l_u_k_5b d_ɤ̆_w_2 d_e_2 ŋ_i_6 ɤ̆_n_1 s_a_5 c_ɔ_1 ɲ_ɯ_ŋ_3 ŋ_ɯə_j_2 n_o_j_4 z_ɤ̆_j_6
+VIVOSDEV12_116|z_ɯə_j_5 ɛ_ŋ_5 d_ɛ_n_2 m_ɤ_2 m_ɤ_2 a_w_4 a_w_4
+VIVOSDEV12_128|c_ɔ_ŋ͡m_1 k_uə_k_6b b_ɔ_4 f_iə_w_5 t_a_j_6 h_o_j_6 d_o_ŋ͡m_2 b_a_w_4 a_n_1 h_a_j_1 ŋ_ă_j_2 c_ɯə_k_5b d_ɔ_5
+VIVOSDEV12_132|h_ɤ̆_w_2 h_e_t_5b ɲ_ɯ_ŋ_3 v_ɤ̆_n_5 d_e_2 s_ă_j_4 z_a_1 c_e_n_1 tʰ_e_5 z_ɤ_j_5
+VIVOSDEV12_135|o_ŋ͡m_1 d_ɯə_k_6b ɲ_iə_w_2 ŋ_ɯə_j_2 b_iə_t_5b d_e_n_5
+VIVOSDEV12_144|c_a_4 l_ɤ_j_2 t_o_j_1 b_iə_t_5b
+VIVOSDEV12_166|i_k_6b ɣ_a_3 t_ɔ_1 b_eo_5 u_k_6b i_k_6b
+VIVOSDEV12_169|a_w_5 z_ɛ_k_5b l_ɯə_m_1 b_ɯə_m_1
+VIVOSDEV12_173|d_o_j_5 v_ɤ_j_5 ɲ_ɯ_ŋ_3 f_a_n_4 ɯ_ŋ_5 x_a_k_5b b_iə_t_6b d_ɔ_5
+VIVOSDEV12_182|v_a_2 d_a_3 h_iə_n_5 m_ă_w_5 b_a_1 l_ɤ̆_n_2
+VIVOSDEV12_186|t_iə_ŋ_5 h_ɛ_t_5b d_o_ŋ͡m_2 tʰ_ɛ_ŋ_1 k_uə_4 m_ɤ̆_j_5 c_u_k_6b k_ɔ_n_1 ŋ_ɯə_j_2
+VIVOSDEV12_192|c_a_ŋ_1 tʰ_ɯ_5 h_a_j_1 k_uə_4 t_ɤ_2 b_a_w_5
+VIVOSDEV12_197|s_ă_w_1 d_ɔ_5 b_a_2 h_a_ŋ_2 s_ɔ_m_5 t_i_ŋ_5 t_i_ŋ_2 s_ɤ_j_4 l_ɤ_j_4 c_ă_j_6 kw_a_1 k_e_4 v_ɤ_j_5 t_o_j_1
+VIVOSDEV12_213|b_a_1 m_ɯə_j_1 h_a_j_1 b_a_1 m_ɯə_j_1 b_a_1
+VIVOSDEV12_223|n_ă_m_1 m_ɯə_j_1 h_a_j_1 n_ă_m_1 m_ɯə_j_1 b_a_1
+VIVOSDEV12_224|n_ă_m_1 m_ɯə_j_1 b_o_n_5 n_ă_m_1 m_ɯə_j_1 l_ă_m_1
+VIVOSDEV12_227|s_ă_w_5 m_ɯə_j_1 s_ă_w_5 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV12_232|b_ă_j_4 m_ɯə_j_1 b_ă_j_4 m_ɯə_j_1 m_o_t_5b
+VIVOSDEV12_244|c_i_n_5 m_ɯə_j_1 b_o_n_5 c_i_n_5 m_ɯə_j_1 l_ă_m_1
+VIVOSDEV12_248|m_o_t_6b b_a_1 n_ă_m_1 b_ă_j_4 c_i_n_5
+VIVOSDEV12_271|b_a_2 k_ɔ_n_1 z_a_ŋ_1 c_i_5 k_ɛ_ŋ_2 d_a_w_2 d_e_4 c_w_ɤ̆_n_4 b_i_6 d_ɔ_n_5 t_e_t_5b
+VIVOSDEV12_275|t_o_j_1 x_o_ŋ͡m_1 tʰ_ɤ̆_j_5 ɣ_i_2 l_a_2 d_u_ŋ_5 x_i_1 t_ă_ŋ_1 z_a_5 s_ɛ_1 v_a_w_2 k_a_k_5b z_i_p_6b t_e_t_5b
+VIVOSDEV12_280|z_u_1 l_i_k_6b s_ɛ_3 c_ɤ_4 tʰ_ɛ_ŋ_2 ŋ_ɛ_ŋ_2 k_i_ŋ_1 t_e_5 m_u_j_3 ɲ_ɔ_n_6
+VIVOSDEV12_290|t_ɯ_2 x_i_1 c_o_ŋ͡m_2 kw_a_1 d_ɤ_j_2 v_i_2 b_e_ŋ_6 t_ɤ̆_t_6b
+VIVOSDEV13_019|d_ɤ_n_1 v_i_6 m_i_ŋ_2 x_o_ŋ͡m_1 ŋ_ɛ_1 a_j_1 n_ɔ_j_5 ɣ_i_2 c_ɯə_1 h_ă_n_4 d_a_3 t_o_t_5b
+VIVOSDEV13_026|x_o_ŋ͡m_1 a_j_1 d_ɯə_k_6b ŋ_ɯə_k_6b d_a_j_3 k_a_k_5b ɛ_m_1 v_i_2 k_a_k_5b ɛ_m_1 h_ɔ_k͡p_6b c_ɤ̆_m_6
+VIVOSDEV13_054|z_a_2 l_a_ŋ_2 ŋ_w_iə_n_3 m_ɛ_ŋ_6 t_ɯə_ŋ_2 c_a_4 l_ɤ_j_2 f_ɔ_ŋ͡m_4 v_ɤ̆_n_5 b_a_w_5 z_ɤ_j_5 ɛ_ŋ_4 c_u_ŋ_1 z_ɤ̆_n_1
+VIVOSDEV13_058|d_ɔ_5 l_a_2 z_a_j_1 d_w_a_n_6 tʰ_ɤ_j_2 t_iə_t_5b i_t_5b b_iə_n_5 d_o_ŋ͡m_6 v_a_2 ɲ_iə_t_6b d_o_6 x_o_ŋ͡m_1 kw_a_5 tʰ_ɤ̆_p_5b
+VIVOSDEV13_061|ɲ_ɯ_ŋ_1 s_ă_w_1 ŋ_ɛ_1 k_ɔ_n_1 n_ɔ_j_5 z_a_1 n_ɔ_j_5 v_a_w_2 l_a_j_6 a_k_5b k_a_m_4 v_ɤ_j_5 ɛ_m_1
+VIVOSDEV13_069|ɲ_ɯ_ŋ_3 d_iə_w_5 tʰ_uə_k_5b v_o_1 i_5 d_o_t_5b c_ă_j_5 v_a_j_2 c_o_3 c_e_n_1 c_iə_k_5b s_o_1 f_a_1 b_ɔ_k͡p_6b v_a_j_4
+VIVOSDEV13_075|b_a_n_6 k_ɔ_5 tʰ_e_4 t_ă_t_5b c_ɯə_ŋ_1 c_i_ŋ_2 d_ɔ_5 d_i_1 v_a_2 tʰ_ɯ_k_6b h_iə_n_6 tʰ_a_w_1 t_a_k_5b k_uə_j_5 k_u_ŋ_2
+VIVOSDEV13_078|x_ă_p_5b n_ɤ_j_1 kw_ɛ_ŋ_1 c_u_ŋ_5 t_o_j_1 v_ɯə_ŋ_1 v_a_j_3 s_a_k_5b c_e_t_5b k_uə_4 ŋ_ɯə_j_2 z_ɤ̆_n_1 v_o_1 t_o_j_6
+VIVOSDEV13_088|ɲ_ɯ_ŋ_3 c_iə_k_5b l_o_ŋ͡m_2 d_ɛ_n_2 d_o_2 c_ɤ_j_1 v_iə_t_6b v_ɤ̆_n_3 l_ă_ŋ_6 l_ɛ_3 m_a_ŋ_1 h_o_n_2 v_iə_t_6b s_uə_ŋ_5 f_o_5
+VIVOSDEV13_089|ɲ_a_2 v_ă_n_1 ŋ_w_iə_n_1 ŋ_ɔ_k͡p_6b s_i_ŋ_1 v_iə_n_1 k_ɔ_5 kw_iɛ_n_2 h_w_a_j_2 ŋ_i_1 v_a_2 c_ɛ_ŋ_1 k_a_j_3
+VIVOSDEV13_097|k_uə_k_6b tʰ_i_1 k_ɔ_n_2 k_ɔ_5 h_a_j_1 z_a_j_4 ɲ_i_2 b_a_1 z_a_j_4 b_a_1 v_a_2 b_o_n_5 z_a_j_4 x_w_iə_n_5 x_i_k_5b
+VIVOSDEV13_098|h_ɤ̆_w_2 ɲ_ɯ_1 k_a_k_5b f_a_n_4 ɯ_ŋ_5 f_u_6 n_ă_ŋ_6 n_e_2 l_a_2 z_ɤ̆_t_5b h_iə_m_5 ɣ_ă_p_6b
+VIVOSDEV13_104|s_o_5 t_iə_n_2 kw_a_5 l_ɤ_n_5 x_iə_n_5 z_a_1 d_i_ŋ_2 h_ɯə_ŋ_1 f_a_m_6 v_a_2 l_e_1 c_w_a_ŋ_5 v_a_ŋ_5
+VIVOSDEV13_105|ɲ_ɔ_k͡p_5b d_ɔ_4 m_ă_t_6b t_iə_5 t_a_j_1 ɲ_ɔ_k͡p_5b tʰ_uə_1 c_i_6 m_o_t_6b t_uə_j_4 tʰ_o_j_1 d_ɤ̆_j_5
+VIVOSDEV13_106|k_a_m_4 z_a_k_5b d_ɯə_k_6b c_iə_1 s_ɛ_4 v_ɤ_j_5 b_a_n_6 d_ɤ_j_2 k_u_ŋ_2 s_ɤ_4 tʰ_i_k_5b tʰ_u_5 v_i_6 l_ă_m_5
+VIVOSDEV13_136|t_o_j_1 v_a_w_2 kw_ɤ̆_j_2 z_a_j_4 x_a_t_5b d_ɤ̆_w_2 t_iə_n_1 v_a_2 ɣ_ɔ_j_6 m_o_t_6b k_o_k͡p_5b n_ɯə_k_5b k_a_m_1
+VIVOSDEV13_137|m_ɛ_6 l_ɤ̆_n_2 t_ă_j_1 c_ɔ_ŋ͡m_1 v_i_5 v_a_2 l_ɤ̆_j_5 z_a_1 c_iə_k_5b f_ɔ_ŋ͡m_1 b_i_2
+VIVOSDEV13_139|t_iə_w_1 ɲ_ɯ_1 f_ɔ_ŋ͡m_1 c_ă_j_6 c_o_n_5 x_ɔ_j_4 k_i_ŋ_1 tʰ_ɛ_ŋ_2 d_e_4 t_i_m_2 h_u_ŋ_1 tʰ_u_4 tʰ_ɤ̆_t_6b s_ɯ_6
+VIVOSDEV13_146|k_ɔ_5 ŋ_ă_j_2 k_a_k_5b b_a_k_5b s_i_3 d_iə_w_2 z_ɯə_ŋ_3 m_o_4 m_ă_t_5b c_ɔ_1 h_a_ŋ_2 c_ă_m_1 ŋ_ɯə_j_2 m_u_2 ŋ_eo_2
+VIVOSDEV13_147|x_o_ŋ͡m_1 a_j_1 m_uə_n_5 k_ɔ_5 t_iə_w_1 k_ɯ_k_6b k_a_4 v_a_2 k_u_ŋ_3 d_ɯ_ŋ_2 t_w_iə_t_6b d_o_j_5 h_w_a_5 v_ɤ̆_n_5 d_e_2
+VIVOSDEV13_150|v_ɤ_6 h_ă_n_5 tʰ_i_6 ŋ_ɤ̆_n_2 m_a_ŋ_1 l_ɯə_j_5 z_a_1 v_a_5 d_e_4 c_iə_w_2 tʰ_a_4
+VIVOSDEV13_164|h_iə_n_6 k_ɤ_1 kw_a_n_1 c_ɯ_k_5b n_ă_ŋ_1 d_a_ŋ_1 t_iə_p_5b t_u_k_6b d_iə_w_2 c_a_1 v_u_6 v_iə_k_6b
+VIVOSDEV13_167|x_i_1 b_i_6 f_a_t_5b h_iə_n_6 h_ɔ_6 d_a_3 c_a_4 l_ɤ_j_2 ɲ_ɯ_1 tʰ_e_5 n_a_w_2
+VIVOSDEV13_210|z_a_2 s_w_a_t_5b c_ɤ̆_t_5b l_ɯə_ŋ_6 k_o_ŋ͡m_1 c_i_ŋ_2 s_ɤ̆_j_1 z_ɯ_ŋ_6 c_e_n_1 k_a_4 n_ɯə_k_5b
+VIVOSDEV13_211|x_o_ŋ͡m_1 n_a_n_4 ŋ_iə_3 t_i_n_1 z_ă_ŋ_2 s_ɛ_3 k_ɔ_5 m_o_t_6b z_a_j_4 f_a_p_5b n_a_w_2 d_ɔ_5
+VIVOSDEV13_222|m_ɛ_6 k_u_ŋ_3 d_a_3 t_ɯ_ŋ_2 tʰ_o_ŋ͡m_5 x_o_4 t_w_iə_t_6b v_ɔ_ŋ͡m_6 v_a_2 k_o_1 d_ɤ_n_1 ɲ_ɯ_1 v_ɤ̆_j_6
+VIVOSDEV13_225|h_a_j_1 l_w_a_j_6 v_ă_n_1 n_ă_j_2 n_e_n_1 d_ɯə_k_6b k_ɔ_j_1 c_ɔ_ŋ͡m_6 ɲ_ɯ_1 ɲ_ă_w_1 c_ɔ_ŋ͡m_1 k_a_k_5b k_i_2 tʰ_i_1
+VIVOSDEV13_226|v_ɤ̆_j_6 m_ɤ_j_5 k_ɔ_5 m_u_k_6b t_iə_w_1 d_e_4 m_a_2 f_ɤ̆_n_5 d_ɤ̆_w_5 n_e_n_1 ŋ_ɯə_j_2 k_ɔ_5 i_5 tʰ_ɯ_k_5b
+VIVOSDEV13_227|t_a_j_6 d_ɤ̆_j_1 k_ɔ_5 m_o_t_6b o_ŋ͡m_1 c_ɯə_ŋ_4 f_ɔ_ŋ͡m_2 ɲ_ɤ̆_n_1 s_ɯ_6 k_o_ŋ͡m_1 t_i_1
+VIVOSDEV13_230|c_i_4 m_o_t_6b d_iə_w_2 d_ɤ_n_1 z_a_n_4 v_ɤ̆_j_6 m_a_2 ɛ_ŋ_1 ɤ̆_j_5 x_o_ŋ͡m_1 b_a_w_1 z_ɤ_2 tʰ_ɯ_k_6b h_iə_n_6 d_ɯə_k_6b
+VIVOSDEV13_239|c_ă_ŋ_4 k_ɤ̆_n_2 ɲ_i_n_2 v_e_2 f_ɯə_ŋ_1 t_ɤ̆_j_1 kw_e_1 h_ɯə_ŋ_1 k_uə_4 h_a_ŋ_2 h_iə_w_6
+VIVOSDEV13_241|m_uə_2 d_o_ŋ͡m_1 k_a_4 k_ɛ_ŋ_5 d_o_ŋ͡m_2 c_w_iə_n_4 s_a_ŋ_1 m_o_t_6b m_ă_w_2 v_a_ŋ_2 z_ɯ_k_6b
+VIVOSDEV13_252|t_o_j_1 h_ɔ_k͡p_6b k_u_ŋ_2 v_ɤ_j_5 k_a_k_5b ɛ_ŋ_1 c_i_6 l_a_m_2 v_iə_k_6b c_w_iə_n_1 v_e_2 s_a_n_4 s_w_ɤ̆_t_5b f_ɤ̆_n_2 m_e_m_2
+VIVOSDEV13_255|k_ɔ_5 l_ɛ_3 d_ɤ̆_j_1 l_a_2 l_ɤ_j_2 kw_a_ŋ_4 k_a_w_5 x_o_ŋ͡m_1 k_o_ŋ͡m_1 h_ă_j_1 ɲ_ɤ̆_t_5b c_ɔ_1 z_u_1 l_i_k_6b l_a_w_2
+VIVOSDEV13_257|t_ɯ_2 d_ɔ_5 d_e_n_5 n_ă_j_1 z_a_1 d_i_ŋ_2 c_i_6 v_ɤ̆_n_3 s_o_ŋ͡m_5 c_ɔ_ŋ͡m_1 k_ă_n_1 ɲ_a_2 l_u_p_6b s_u_p_6b
+VIVOSDEV13_258|b_a_n_6 k_ɤ̆_n_2 c_u_ŋ_1 tʰ_ɯ_k_6b v_ɤ_j_5 ɲ_ɤ̆_n_1 v_iə_n_1 k_uə_4 m_i_ŋ_2 c_ɔ_ŋ͡m_1 m_ɔ_j_6 h_w_a_n_2 k_ɛ_ŋ_4
+VIVOSDEV13_263|m_o_t_6b s_o_5 d_iə_m_4 n_ɯə_k_5b f_u_n_1 d_e_n_5 d_ɤ̆_w_1 b_ă_j_1 h_ɤ_j_1 h_e_t_5b d_e_n_5 d_ɔ_5
+VIVOSDEV13_267|z_ɔ_1 v_ɤ̆_j_6 v_ɤ̆_n_5 d_e_2 x_u_1 c_u_5 x_o_ŋ͡m_5 c_e_5 b_e_ŋ_6 t_a_4 h_iə_n_6 n_ă_j_1 z_ɤ̆_t_5b x_ɔ_5
+VIVOSDEV13_276|d_ɔ_5 l_a_2 k_ɤ̆_w_1 h_ɔ_j_4 m_a_2 d_e_n_5 n_ă_j_1 v_ɤ̆_n_3 c_ɯə_1 k_ɔ_5 k_ɤ̆_w_1 c_a_4 l_ɤ_j_2
+VIVOSDEV13_277|h_a_2 n_o_j_6 m_ɤ_4 z_o_ŋ͡m_6 x_u_1 v_ɯ_k_6b h_o_2 t_ɤ̆_j_1 s_o_ŋ͡m_1 h_o_ŋ͡m_2 n_e_n_1 l_a_2 x_u_1 v_ɯ_k_6b t_i_ŋ_3
+VIVOSDEV14_018|b_iə_n_1 c_e_5 n_ă_j_2 ɲ_a_2 tʰ_ɛ_ŋ_1 ɣ_ɔ_j_6 l_a_2 a_n_1 n_a_m_1 kw_o_k͡p_5b ɲ_a_k_6b
+VIVOSDEV14_022|h_ɤ_n_1 l_a_2 z_ɤ̆_n_3 z_ă_t_5b k_a_k_5b ɛ_m_1 tʰ_eo_1 c_u_4 i_5 k_uə_4 z_a_w_5 v_iə_n_1
+VIVOSDEV14_027|b_a_n_6 k_ɔ_5 tʰ_e_4 tʰ_a_m_1 x_a_w_4 m_o_t_6b s_ɤ_1 iə_w_5 l_i_5 l_i_k_6b d_iə_n_6 t_ɯ_4 s_ă_w_1 d_ɤ̆_j_1
+VIVOSDEV14_035|ɲ_a_k_6b s_i_3 l_a_1 h_o_j_5 v_ɤ_j_5 k_a_1 x_u_k_5b s_w_ɤ̆_n_1 v_a_2 t_uə_j_4 c_ɛ_4
+VIVOSDEV14_079|v_ɤ̆_j_6 a_j_1 s_ɛ_3 c_i_w_6 c_ɛ_k_5b ɲ_iə_m_6 v_e_2 ɲ_ɯ_ŋ_3 c_ɯə_ŋ_2 h_ɤ_p_6b n_ă_j_2
+VIVOSDEV14_080|t_w_i_1 f_iə_5 c_ɯə_k_5b k_ɔ_n_2 v_o_1 v_a_2 x_ɔ_5 x_ă_n_1 d_o_j_5 v_ɤ_j_5 k_ɔ_n_1
+VIVOSDEV14_085|b_o_n_5 n_ă_m_1 c_ɤ_j_2 b_i_6 k_ɤ̆_m_1 m_o_t_6b m_i_ŋ_2 v_ɤ_j_5 b_ɔ_ŋ͡m_5 m_i_ŋ_2 ɲ_iə_w_2 f_ɛ_n_1 w_a_2 x_ɔ_k͡p_5b
+VIVOSDEV14_086|ɛ_m_1 s_ɤ_6 m_ɤ̆_t_5b ɛ_ŋ_1 ɤ̆_j_5 ɲ_ɯ_ŋ_1 l_a_j_6 k_a_m_4 tʰ_ɤ̆_j_5 m_i_ŋ_2 b_i_6 s_u_k_5b f_a_m_6
+VIVOSDEV14_093|c_ɔ_2 d_uə_2 d_o_j_5 v_ɤ_j_5 tʰ_ɤ̆_j_2 ɲ_ɯ_ŋ_1 l_a_j_6 l_a_2 c_ɤ̆_n_1 tʰ_ɤ̆_t_6b c_ɤ̆_n_1 tʰ_ɤ̆_t_6b v_ɤ_j_5 m_o_t_6b ŋ_ɯə_j_2
+VIVOSDEV14_104|d_ɔ_5 l_a_2 ɲ_ɤ̆_n_6 s_ɛ_t_5b c_u_ŋ_1 k_uə_4 ɲ_iə_w_2 t_o_ŋ͡m_4 z_a_m_5 d_o_k͡p_5b d_iə_w_2 h_ɛ_ŋ_2 ŋ_ă_j_2 n_ă_j_1
+VIVOSDEV14_108|ŋ_ɯə_j_2 f_a_p_5b d_a_3 d_o_ŋ͡m_2 i_5 v_ɤ_j_5 k_ɛ_k_5b kw_a_n_4 l_i_5 l_i_ŋ_3 v_ɯ_k_6b z_ɛ_ŋ_2 z_iə_ŋ_1
+VIVOSDEV14_113|h_ă_n_5 tʰ_ă_j_1 d_o_j_4 l_ɤ̆_m_2 l_i_2 s_ă_w_1 x_i_1 tʰ_eo_1 z_a_1 d_i_ŋ_2 d_e_n_5 s_ɯ_5 ŋ_ɯə_j_2
+VIVOSDEV14_114|iə_w_5 t_o_5 h_ɤ̆_p_5b z_ɤ̆_n_3 m_ɤ_j_5 tʰ_u_1 h_u_t_5b d_ɤ̆_w_2 t_ɯ_1 n_ɯə_k_5b ŋ_w_a_j_2 v_a_w_2 v_iə_t_6b n_a_m_1
+VIVOSDEV14_115|v_ɤ̆_j_6 m_a_2 z_ɤ_2 d_ɤ̆_j_1 n_ɔ_5 x_o_ŋ͡m_1 d_ɤ_j_6 d_ɯə_k_6b d_e_n_5 l_u_k_5b h_w_i_1 v_e_2
+VIVOSDEV14_116|m_o_t_6b ɣ_ɔ_k͡p_5b k_ɤ̆_w_1 k_a_5 c_e_n_1 k_ɤ̆_w_2 s_a_j_2 ɣ_ɔ_n_2 ɛ_ŋ_4 m_a_j_1 v_i_ŋ_1
+VIVOSDEV14_123|m_o_t_6b v_a_j_2 ŋ_ɯə_j_2 c_ɔ_ŋ͡m_1 b_ɔ_n_6 h_ɔ_6 d_ɯə_1 m_ă_t_5b ɲ_i_n_2 m_ɛ_ŋ_4 z_ɤ̆_j_5
+VIVOSDEV14_134|ɲ_ɯ_ŋ_1 c_ɯə_k_5b d_ɤ̆_j_1 ɲ_i_n_2 t_ɯ_2 b_e_n_1 ŋ_w_a_j_2 n_ɤ_j_1 n_ă_j_2 x_o_ŋ͡m_1 x_a_k_5b m_o_t_6b k_ă_n_1 ɲ_a_2 h_w_a_ŋ_1
+VIVOSDEV14_140|k_ɔ_5 ɲ_ɯ_ŋ_1 f_a_j_4 l_a_2 tʰ_uə_k_5b d_ă_k_6b c_i_6 k_uə_4 f_a_p_5b h_iə_m_5 v_a_2 k_ɯ_k_6b k_i_2 d_ă_t_5b
+VIVOSDEV14_145|m_o_t_6b s_o_5 b_a_n_6 c_ɛ_4 k_u_ŋ_3 k_ɔ_5 i_5 ŋ_i_3 ɲ_ɯ_1 k_a_w_1 k_ɯə_ŋ_2
+VIVOSDEV14_151|t_o_j_1 d_a_3 k_ɔ_5 tʰ_ɤ_j_2 z_a_n_1 t_w_iə_t_6b v_ɤ_j_2 x_i_1 c_ɤ_j_1 c_ɔ_1 d_o_j_6 t_w_iə_n_4
+VIVOSDEV14_156|tʰ_i_ŋ_4 tʰ_w_a_ŋ_4 k_ɔ_n_1 d_i_1 kw_a_1 z_ɯ_ŋ_2 l_a_j_6 z_ɯ_ŋ_6 s_ɛ_1 ŋ_o_j_2 h_u_t_5b tʰ_uə_k_5b
+VIVOSDEV14_163|c_u_5 b_o_6 d_o_j_6 kw_a_1 ɲ_ɯ_ŋ_3 k_ɤ̆_w_1 c_w_iə_n_6 k_uə_4 o_ŋ͡m_1 m_ɤ_j_5 ɣ_ɤ̆_n_2 ɣ_u_j_3 l_a_m_2 s_a_w_1
+VIVOSDEV14_180|ă_n_1 k_a_5 ŋ_ɯ_2 k_a_5 tʰ_u_1 v_a_2 k_a_5 m_ɔ_j_2 v_ɤ_j_5 z_ă_w_1 c_o_n_6
+VIVOSDEV14_186|k_ɔ_5 b_ă_ŋ_2 tʰ_a_k_6b s_i_3 ɲ_ɯ_ŋ_3 ŋ_ɛ_ŋ_2 c_e_n_1 l_a_2 m_o_t_6b l_ɤ_j_6 tʰ_e_5
+VIVOSDEV14_191|m_i_ŋ_1 ɲ_ɤ̆_t_6b h_o_ŋ͡m_2 kw_ɤ̆_n_1 v_u_3 k_o_ŋ͡m_1 tʰ_ɛ_ŋ_2 s_ɯ_w_1 t_ɤ̆_m_2 t_ɯ_2 b_a_w_5 n_ɯə_k_5b ŋ_w_a_j_2
+VIVOSDEV14_194|m_uə_n_5 k_ɔ_5 b_ă_ŋ_2 l_a_j_5 f_a_j_4 kw_a_1 m_o_t_6b d_ɤ_t_6b tʰ_i_1 z_ɤ̆_t_5b x_ă_t_5b x_ɛ_1
+VIVOSDEV14_195|iə_w_1 ɲ_ă_w_1 x_w_a_ŋ_4 v_a_j_2 tʰ_a_ŋ_5 tʰ_i_2 c_u_ŋ_5 t_o_j_1 d_a_3 k_ɔ_5 kw_a_n_1 h_e_6 t_i_ŋ_2 z_u_k_6b
+VIVOSDEV14_199|x_ɔ_5 s_a_w_1 z_w_iə_n_1 z_a_m_5 c_ɔ_1 ɛ_ŋ_1 uə_ŋ_5 z_ɯə_w_6 c_ɔ_ŋ͡m_1 d_a_m_5 k_ɯə_j_5
+VIVOSDEV14_225|o_ŋ͡m_1 z_ɯə_ŋ_1 d_ɯ_k_5b l_ɤ̆_n_1 f_ɔ_5 t_o_ŋ͡m_4 k_u_k_6b c_ɯə_ŋ_4 t_o_ŋ͡m_4 k_u_k_6b z_ă_j_6 ŋ_e_2
+VIVOSDEV14_227|d_o_j_5 s_ɯ_4 v_ɤ_j_5 b_a_n_6 ɲ_ɯ_1 ŋ_ɯə_j_2 iə_w_1 k_u_3 k_uə_4 b_a_n_6 d_a_3 t_ɯ_ŋ_2 l_a_m_2
+VIVOSDEV14_235|tʰ_a_m_1 z_a_1 tʰ_iə_t_5b k_e_5 l_ă_ŋ_1 c_u_4 t_i_k_6b h_o_2 c_i_5 m_i_ŋ_1 tʰ_i_2 k_ɔ_5 ɲ_iə_w_2 ŋ_ɯə_j_2
+VIVOSDEV14_236|v_i_2 v_ɤ̆_j_6 k_o_ŋ͡m_1 t_i_1 b_e_1 f_a_j_4 k_ɔ_5 c_ɛ_k_5b ɲ_iə_m_6 b_o_j_2 tʰ_ɯə_ŋ_2
+VIVOSDEV14_256|n_o_ŋ͡m_1 z_ɤ̆_n_1 c_o_ŋ͡m_2 m_iə_5 tʰ_a_n_1 k_ɯ_5 m_o_t_6b v_u_6 d_ɯə_k_6b l_a_j_6 b_a_1 v_u_6 tʰ_ɤ̆_t_5b
+VIVOSDEV14_280|tʰ_i_2 ŋ_ɯə_j_2 s_ɛ_m_1 k_u_ŋ_3 d_ɯə_k_6b n_ɤ̆_ŋ_1 k_a_w_1 k_iə_n_5 tʰ_ɯ_k_5b v_e_2 d_iə_6 l_i_5
+VIVOSDEV14_283|ŋ_ă_j_2 s_ɯə_1 k_a_k_5b k_u_6 l_a_m_2 b_iə_2 s_ɛ_k_5b l_a_2 m_i_ŋ_1 h_w_a_6 c_ɔ_1 k_uə_n_5 s_ɛ_k_5b d_ɔ_5
+VIVOSDEV14_285|t_o_j_1 d_a_3 ɲ_iə_w_2 l_ɤ̆_n_2 f_a_n_4 d_o_j_5 kw_iɛ_t_5b l_iə_t_6b v_iə_k_6b n_ɯə_k_5b tʰ_a_j_4 t_uə_n_2 z_a_1 ŋ_w_a_j_2
+VIVOSDEV14_286|ɲ_iə_w_2 z_a_1 d_i_ŋ_2 h_iə_n_6 n_ă_j_1 tʰ_i_k_5b t_ɯ_6 z_ɤ_j_5 tʰ_iə_w_6 c_ɯə_ŋ_1 c_i_ŋ_2
+VIVOSDEV14_289|t_o_j_1 l_a_2 m_o_t_6b ŋ_ɯə_j_2 m_iə_n_2 t_ɤ̆_j_1 d_a_ŋ_1 l_a_2 ŋ_iə_n_1 k_ɯ_w_5 s_i_ŋ_1 ɤ_4 m_i_3
+VIVOSDEV14_291|k_a_ŋ_2 d_i_1 s_ɤ̆_w_1 v_a_w_2 b_e_n_1 c_ɔ_ŋ͡m_1 k_ɛ_ŋ_4 c_i_5 tʰ_iə_n_1 ɲ_iə_n_1 k_a_ŋ_2 h_u_ŋ_2 v_i_3
+VIVOSDEV14_294|m_ɔ_ŋ͡m_1 b_a_n_6 b_i_ŋ_2 t_ɤ̆_m_1 s_w_i_1 ŋ_i_3 v_a_2 c_ɔ_n_6 d_ɯə_k_6b k_ɛ_k_5b z_a_j_4 kw_iɛ_t_5b t_o_t_5b ɲ_ɤ̆_t_5b
+VIVOSDEV15_003|d_iə_w_2 n_ă_j_2 x_ɔ_5 h_ɤ_n_1 x_i_1 b_a_n_6 v_a_w_2 b_a_n_2 t_iə_k_6b t_w_a_n_2 ŋ_ɯə_j_2 s_a_1 l_a_6
+VIVOSDEV15_013|k_u_ŋ_3 d_ɛu_2 c_ɔ_ŋ͡m_1 t_ɯ_1 tʰ_e_5 ŋ_ɔ_3 ɲ_ɔ_4 f_o_5 ɲ_ɔ_4 f_ɤ_4 t_o_j_1 ɤ_4 d_ɔ_5
+VIVOSDEV15_014|tʰ_ɛ_ŋ_2 m_o_t_6b c_iə_k_5b l_o_ŋ͡m_2 d_ɛ_n_2 x_o_ŋ͡m_4 l_o_2 t_a_j_6 k_o_ŋ͡m_1 v_iə_n_1 ɤ_4 tʰ_u_4 d_o_1 b_ă_k_5b k_i_ŋ_1
+VIVOSDEV15_020|k_ɤ̆_w_1 c_w_iə_n_6 k_uə_4 kw_a_5 x_ɯ_5 o_ŋ͡m_1 k_e_4 x_o_ŋ͡m_1 b_iə_t_5b b_a_w_1 ɲ_iə_w_1 l_ɤ̆_n_2
+VIVOSDEV15_021|m_ă_w_2 s_ɔ_n_1 c_o_ŋ͡m_1 tʰ_ɤ̆_t_6b t_w_iə_t_6b c_e_n_1 b_ɤ̆_t_5b k_i_2 m_ă_w_2 z_a_1 n_a_w_2
+VIVOSDEV15_026|o_ŋ͡m_1 ă_n_1 c_ă_j_1 m_a_2 ŋ_i_3 m_ă_n_6 tʰ_i_2 ă_n_1 c_ă_j_1 l_a_m_2 c_i_1
+VIVOSDEV15_037|c_e_n_1 k_ɤ_1 s_ɤ_4 d_ɔ_5 ɲ_ɯ_ŋ_3 h_ɛ_ŋ_2 v_i_1 v_i_1 f_a_m_6 s_ɛ_3 d_ɯə_k_6b s_ɯ_4 l_i_5 ŋ_iə_m_1
+VIVOSDEV15_038|m_o_t_6b k_ɤ_1 kw_a_n_1 c_i_ŋ_5 tʰ_ɯ_k_5b d_e_4 x_ɛ_k_5b h_a_ŋ_2 x_iə_w_5 n_a_j_6 tʰ_a_m_1 x_a_w_4 v_a_2 t_i_n_1 t_ɯə_ŋ_4
+VIVOSDEV15_047|m_o_t_6b t_i_ŋ_2 h_uə_ŋ_5 ɯ_ŋ_5 s_ɯ_4 s_ɯ_1 f_a_m_6 t_o_j_1 l_a_m_2 b_o_6 t_i_ŋ_4 z_u_j_6 d_ɯə_k_6b k_o_1 z_w_iə_t_6b
+VIVOSDEV15_050|c_ă_ŋ_4 l_ɛ_3 ă_n_1 k_ɤ_m_1 ɲ_a_2 ŋ_ɯə_j_2 m_a_2 l_a_j_6 x_o_ŋ͡m_1 c_ă_m_1 c_u_5 l_ă_ŋ_5 ŋ_ɛ_1 ŋ_ɯə_j_2 n_ɔ_j_5
+VIVOSDEV15_062|ŋ_iə_3 l_a_2 n_ɛu_5 b_a_n_6 d_a_ŋ_1 l_a_m_2 v_iə_k_6b z_ɯə_j_5 kw_iɛ_n_2 m_o_t_6b z_a_m_5 s_a_t_5b v_iə_n_1
+VIVOSDEV15_066|k_ɛ_m_3 k_ɔ_5 ɲ_iə_w_2 c_ɔ_ŋ͡m_1 ɣ_a_n_1 s_ɔ_2 tʰ_i_t_6b d_ɔ_4 k_a_5 ɔ_k͡p_5b c_ɯ_ŋ_5
+VIVOSDEV15_092|u_ŋ_1 tʰ_ɯ_1 t_ɯ_2 m_o_t_6b k_ɤ_1 kw_a_n_1 x_a_k_5b z_i_1 k_ă_n_1 v_a_w_2 h_e_6 tʰ_o_ŋ͡m_5 h_ɛ_k_6b b_ɛ_k_6b h_w_iə_t_5b
+VIVOSDEV15_109|k_uə_k_6b tʰ_i_1 t_ɯ_6 h_a_w_2 s_ɯ_4 v_iə_t_6b d_a_3 h_e_t_5b z_a_j_1 d_w_a_n_6 i_1
+VIVOSDEV15_111|k_uə_k_6b b_iə_w_4 t_i_ŋ_2 k_uə_4 a_w_5 d_ɔ_4 k_ɔ_5 tʰ_e_4 s_ɛ_3 b_iə_n_5 tʰ_ɛ_ŋ_2 b_a_w_6 l_ɯ_k_6b
+VIVOSDEV15_117|c_e_n_1 tʰ_ɯ_k_6b t_e_5 m_o_t_6b k_uə_k_6b d_iə_w_2 c_a_1 d_a_3 d_ɯə_k_6b t_iə_n_5 h_ɛ_ŋ_2
+VIVOSDEV15_121|c_a_j_4 z_a_j_2 h_a_ŋ_2 c_u_k_6b k_ɤ̆_j_1 s_o_5 d_ɛu_2 tʰ_u_1 ɣ_ɔ_n_6 v_a_w_2 t_ɤ̆_m_2 m_ă_t_5b
+VIVOSDEV15_137|tʰ_a_n_4 ɲ_iə_n_1 z_a_5 d_ɔ_5 tʰ_i_2 c_i_4 k_ɔ_5 tʰ_e_4 l_a_m_2 v_ɤ̆_j_6 tʰ_o_j_1
+VIVOSDEV15_147|b_ă_t_5b d_ɤ̆_w_2 k_uə_k_6b c_ă_j_6 d_uə_1 m_uə_2 k_i_ŋ_1 z_w_ɛ_ŋ_1 t_e_t_5b z_ɯə_3 b_ɛ_ŋ_5 n_o_j_6 v_a_2 b_ɛ_ŋ_5 ŋ_w_a_j_6
+VIVOSDEV15_154|k_a_j_5 ɲ_a_2 h_a_t_5b b_i_6 d_ɤ̆_p_6b t_a_n_1 t_ɛ_ŋ_2 o_ŋ͡m_1 x_w_a_j_5 l_ă_m_5 a_2
+VIVOSDEV15_168|m_ɤ̆_m_1 k_ɤ_m_1 v_ɤ̆_n_3 tʰ_ɛ_ŋ_1 d_a_m_6 t_u_4 a_w_5 k_uə_4 v_ɤ_6 k_u_ŋ_3 c_i_4 v_a_j_2 b_o_6 d_ɤ_n_1 s_ɤ_1
+VIVOSDEV15_173|h_i_ŋ_2 tʰ_ɯ_k_5b k_i_4 l_w_ɤ̆_t_6b n_a_w_2 k_u_ŋ_3 c_i_4 k_ɔ_5 t_i_ŋ_5 d_i_ŋ_6 h_ɯə_ŋ_5 z_ă_n_1 d_ɛ_1
+VIVOSDEV15_180|h_iə_n_6 n_ă_j_1 b_a_2 d_a_ŋ_1 b_i_6 ɲ_iə_w_2 b_e_ŋ_6 v_a_2 s_o_ŋ͡m_5 z_ɯə_j_5 m_ɯ_k_5b ŋ_eo_2 x_o_4
+VIVOSDEV15_194|n_ă_m_2 c_e_n_1 z_ɯə_ŋ_2 ɣ_ɤ̆_n_2 k_a_4 tʰ_a_ŋ_5 b_ɤ̆_t_5b z_a_k_5b t_o_j_1 k_a_m_4 tʰ_ɤ̆_j_5 m_i_ŋ_2 tʰ_ɤ̆_t_6b k_o_1 d_o_k͡p_6b
+VIVOSDEV15_198|ɲ_a_m_4 ɲ_i_5 x_i_1 z_ɤ_2 h_ɔ_k͡p_6b c_a_n_5 f_eo_2 b_uə_n_2 ŋ_u_4 kw_a_5 ɤ_2 b_uə_n_2 ŋ_u_4
+VIVOSDEV15_200|n_ɔ_j_5 c_w_iə_n_6 m_o_t_6b h_o_j_2 o_ŋ͡m_1 l_a_m_2 b_o_6 d_e_4 t_ă_j_1 l_e_n_1 t_ă_j_1 ɛ_m_1 c_e_n_1 k_ɤ̆_n_2 s_o_5
+VIVOSDEV15_203|k_ɔ_n_2 ɛ_ŋ_1 c_a_j_1 t_o_j_1 c_ɔ_ŋ͡m_1 ɲ_ɤ̆_t_6b k_i_5 k_uə_4 m_i_ŋ_2 k_u_ŋ_3 l_i_ŋ_1 k_a_m_4 d_iə_w_2 d_ɔ_5
+VIVOSDEV15_204|s_a_ŋ_5 c_u_ŋ_5 t_o_j_1 t_a_m_6 b_iə_t_6b tʰ_u_ŋ_1 n_a_j_1 v_a_2 ɲ_ɯ_ŋ_3 c_u_4 ɲ_ɤ̆_n_1 m_e_n_5 x_ɛ_k_5b m_o_k͡p_6b m_a_k_6b
+VIVOSDEV15_208|m_ɤ̆_j_5 ŋ_ă_j_2 d_ɤ̆_w_2 tʰ_u_j_5 h_a_2 f_a_j_4 ɲ_ɤ_2 k_i_m_1 z_ɤ̆_n_3 d_i_1 z_ɤ_j_5 tʰ_iə_w_6 c_ɯə_ŋ_2
+VIVOSDEV15_209|h_ɔ_6 tʰ_i_k_5b ŋ_i_1 v_ɤ_j_5 v_ă_n_1 h_w_a_5 k_o_ŋ͡m_1 t_i_1 ɲ_ɯ_1 tʰ_e_5 n_a_w_2
+VIVOSDEV15_213|m_o_1 h_i_ŋ_2 k_ɤ̆_w_5 c_u_k_5b c_ɯ_k_5b n_ă_ŋ_1 v_a_2 x_w_a_1 h_ɔ_k͡p_6b s_a_3 h_o_j_6 m_a_ŋ_1 t_i_ŋ_5 z_a_w_5 z_u_k_6b
+VIVOSDEV15_216|v_a_2 b_a_n_6 k_ɤ̆_n_2 k_ɔ_5 v_iə_k_6b l_a_m_2 o_n_4 d_i_ŋ_6 v_ɤ_j_5 tʰ_u_1 ɲ_ɤ̆_p_6b k_a_w_1
+VIVOSDEV15_220|d_ɤ̆_j_1 l_a_2 tʰ_a_ŋ_5 k_ɔ_5 s_o_5 d_ă_ŋ_1 k_i_5 tʰ_ɤ̆_p_5b ɲ_ɤ̆_t_5b t_ɯ_2 d_ɤ̆_w_2 n_ă_m_1 d_e_n_5 n_ă_j_1
+VIVOSDEV15_239|tʰ_ɤ̆_t_6b z_a_1 tʰ_i_2 k_u_ŋ_3 x_o_ŋ͡m_1 tʰ_e_4 l_a_m_2 k_ɤ̆_w_2 k_i_2 ɲ_ɯ_1 ɤ_4 ɲ_a_2 d_ɯə_k_6b
+VIVOSDEV15_253|v_a_4 l_a_j_6 tʰ_eo_1 kw_i_1 c_e_5 d_ɤ̆_j_1 l_a_2 c_ɛ_k_5b ɲ_iə_m_6 k_uə_4 m_o_j_3 tʰ_i_5 s_i_ŋ_1
+VIVOSDEV15_255|k_o_ŋ͡m_1 ɲ_ɤ̆_n_1 d_a_ŋ_1 tʰ_i_1 k_o_ŋ͡m_1 h_a_j_1 ɲ_ɛ_ŋ_5 k_ɤ̆_w_2 z_ɛ_k_6b c_iə_k_5b ɛ_ŋ_4 tʰ_w_ɤ̆_n_6 tʰ_ă_ŋ_5
+VIVOSDEV15_265|h_ɔ_6 x_o_ŋ͡m_1 b_iə_t_5b c_ɤ_j_1 f_ɔ_ŋ͡m_2 ŋ_ɯ_6 l_a_2 ɣ_i_2 c_ɯ_2 x_i_1 b_i_6 d_o_j_5 tʰ_u_4 v_ɤ̆_j_1 ɛ_p_5b
+VIVOSDEV15_267|k_uə_j_5 k_u_ŋ_2 h_ɔ_6 z_ɤ̆_n_3 ɲ_ă_w_1 v_e_2 ɲ_a_2 v_ɤ_j_5 tʰ_u_ŋ_5 l_a_n_2 x_o_ŋ͡m_1
+VIVOSDEV15_271|f_i_m_1 m_ɤ_j_5 k_uə_4 c_ɯə_ŋ_1 ŋ_e_6 m_ɯ_w_1 s_ɯ_6 c_ɤ_4 l_a_j_6 z_ɔ_ŋ͡m_2 f_i_m_1 ŋ_e_6 tʰ_w_ɤ̆_t_6b
+VIVOSDEV15_299|k_ɔ_n_2 h_a_ŋ_2 c_ă_m_1 c_iə_k_5b x_a_k_5b d_a_3 b_a_n_5 tʰ_i_2 o_ŋ͡m_1 x_o_ŋ͡m_1 ɲ_ɤ_5 h_e_t_5b
+VIVOSDEV16_026|k_u_ŋ_2 v_ɤ_6 ă_n_1 v_o_j_6 c_ɛ_n_5 k_ɤ_m_1 tʰ_ɛ_ŋ_2 l_a_j_6 l_ɔ_1 o_n_1 b_a_j_2 l_a_m_2 b_a_j_2 t_ɤ̆_p_6b
+VIVOSDEV16_033|d_o_j_6 n_a_w_2 tʰ_ɛ_ŋ_2 t_i_k_5b k_a_ŋ_2 k_a_w_1 tʰ_i_2 kw_a_n_4 l_i_5 k_a_ŋ_2 x_ɔ_5
+VIVOSDEV16_048|f_a_j_4 c_ă_ŋ_1 s_ɤ̆_j_1 z_ɯ_ŋ_6 n_iə_m_2 t_i_n_1 v_a_w_2 t_i_ŋ_2 iə_w_1 x_ɔ_5 tʰ_e_5
+VIVOSDEV16_049|k_ɔ_n_2 b_a_1 k_ɤ̆_w_2 tʰ_u_4 v_ă_n_1 c_ɯə_ŋ_1 b_ɤ̆_t_6b h_iə_w_5 v_a_2 h_a_j_4 l_ɤ̆_m_1 tʰ_i_2 s_a_w_1 tʰ_ɯə_1 o_ŋ͡m_1
+VIVOSDEV16_050|tʰ_a_ŋ_5 b_ă_j_4 ɲ_iə_w_2 ŋ_ɯə_j_2 k_ɔ_n_1 x_ɔ_k͡p_5b n_e_n_1 c_ɤ_j_2 b_uə_n_2 v_a_2 x_ɔ_k͡p_5b tʰ_eo_1
+VIVOSDEV16_051|k_a_1 x_u_k_5b d_ɯə_k_6b x_a_n_5 z_a_4 iə_w_1 tʰ_i_k_5b ɲ_ɤ̆_t_5b b_a_2 t_o_j_1 ŋ_w_iə_n_3 v_i_ŋ_3 t_iə_n_5
+VIVOSDEV16_058|d_ɤ̆_w_2 t_ɯ_1 t_iə_w_1 z_u_ŋ_2 v_a_2 s_w_ɤ̆_t_5b x_ɤ̆_w_4 d_ɛu_2 s_ɛ_3 t_ă_ŋ_1 m_ɛ_ŋ_6
+VIVOSDEV16_059|d_o_2 k_o_4 x_o_ŋ͡m_1 k_o_ŋ͡m_1 x_a_j_1 ŋ_uə_n_2 ɣ_o_k͡p_5b f_a_j_4 b_i_6 k_ɔ_j_1 l_a_2 h_a_ŋ_2 z_a_4
+VIVOSDEV16_064|t_ɯ_ŋ_2 l_a_2 c_u_4 t_e_5 h_a_ŋ_2 c_ă_m_1 l_e_3 a_n_1 t_a_ŋ_5 m_o_6 z_ɔ_5
+VIVOSDEV16_067|h_i_ŋ_2 ɲ_ɯ_1 x_o_ŋ͡m_1 k_ɔ_5 k_a_4 m_o_t_6b c_ɔ_ŋ͡m_1 h_a_j_1 t_a_j_2 v_a_2 d_ɯ_k_5b
+VIVOSDEV16_068|b_e_n_1 k_ɛ_ŋ_6 d_ɔ_5 c_u_ŋ_5 t_o_j_1 k_ɔ_n_2 l_a_m_2 h_a_ŋ_2 l_w_a_t_6b v_iə_k_6b x_a_k_5b ɲ_ɯ_1
+VIVOSDEV16_074|c_u_ŋ_5 n_ɔ_5 iə_w_1 ɲ_ă_w_1 z_ɤ̆_t_5b t_ɯ_6 ɲ_iə_n_1 ɣ_ɛ_t_5b ɲ_ă_w_1 k_u_ŋ_3 z_ɤ̆_t_5b t_ɯ_6 ɲ_iə_n_1
+VIVOSDEV16_079|t_ɤ̆_t_5b k_a_4 d_e_4 c_ɔ_1 ŋ_ɯə_j_2 b_e_ŋ_6 v_a_2 tʰ_ɤ̆_n_1 ɲ_ɤ̆_n_1 h_a_j_2 l_ɔ_ŋ͡m_2 x_i_1 d_e_n_5 b_e_ŋ_6 v_iə_n_6
+VIVOSDEV16_101|t_o_j_1 x_ɛ_3 c_ɤ_p_5b m_ă_t_5b v_a_2 tʰ_ɤ̆_m_2 k_ɤ̆_w_2 ŋ_w_iə_n_6 s_i_n_1 c_uə_5 z_u_p_5b k_ɔ_n_1
+VIVOSDEV16_112|l_u_k_5b h_ɯ_ŋ_1 f_ɤ̆_n_5 n_ɔ_j_5 c_w_iə_n_6 f_ɔ_ŋ͡m_5 l_a_w_1 c_ă_ŋ_4 k_ɔ_5 c_i_1 f_ɯ_k_5b t_a_p_6b
+VIVOSDEV16_120|s_ɛ_3 l_a_m_2 c_u_ŋ_5 t_a_1 ŋ_u_4 x_o_ŋ͡m_1 d_u_4 x_o_ŋ͡m_1 d_u_ŋ_5 kw_i_1 l_w_ɤ̆_t_6b
+VIVOSDEV16_149|k_ɔ_5 b_a_w_1 z_ɤ_2 o_ŋ͡m_1 ɣ_ă_p_6b t_i_ŋ_2 h_uə_ŋ_5 x_o_ŋ͡m_1 c_a_4 l_ɤ_j_2 d_ɯə_k_6b k_ɤ̆_w_1 h_ɔ_j_4 k_uə_4 z_ɤ̆_n_1
+VIVOSDEV16_153|k_a_4 d_ɤ_j_2 c_ɯə_1 b_a_w_1 z_ɤ_2 t_o_j_1 k_ɔ_5 k_a_m_4 z_a_k_5b s_u_ŋ_1 s_ɯə_ŋ_5 ɲ_ɯ_1 v_ɤ̆_j_6
+VIVOSDEV16_154|i_t_5b k_ɔ_5 k_ɤ_1 h_o_j_6 s_o_ŋ͡m_5 s_ɔ_t_5b c_ɔ_1 k_a_k_5b h_ɛ_ŋ_2 x_ɛ_k_5b c_e_n_1 m_ă_j_5 b_ă_j_1
+VIVOSDEV16_161|c_u_ŋ_1 kw_o_k͡p_5b d_ɯə_1 z_a_1 h_i_ŋ_2 f_a_t_6b k_u_6 tʰ_e_4 d_o_j_5 v_ɤ_j_5 t_o_j_6 tʰ_a_m_1 ɲ_u_ŋ_3
+VIVOSDEV16_168|h_a_j_1 c_ă_w_5 ŋ_a_k_6b ɲ_iə_n_1 d_ɔ_n_5 x_ɛ_k_5b l_a_6 s_u_ŋ_1 s_ɯə_ŋ_5 o_m_1 k_ă_p_6b m_ɤ_j_5
+VIVOSDEV16_173|ɲ_ɯ_ŋ_1 k_o_1 kw_iɛ_t_5b c_ɯ_ŋ_5 m_i_ŋ_1 ŋ_ɯə_j_2 m_u_2 x_o_ŋ͡m_1 f_a_j_4 v_o_1 z_u_ŋ_6
+VIVOSDEV16_175|h_ɔ_6 d_a_3 c_a_w_1 ɲ_ă_w_1 l_ɤ_j_2 h_ɛ_n_6 ɯə_k_5b n_e_n_1 z_w_iə_n_1 c_o_ŋ͡m_2 v_ɤ_6
+VIVOSDEV16_177|n_ɛu_5 tʰ_i_ŋ_4 tʰ_w_a_ŋ_4 k_ɔ_5 v_a_j_2 ŋ_ă_j_2 ŋ_i_4 ŋ_ɯə_j_2 tʰ_u_j_6 d_iə_n_4 tʰ_ɯə_ŋ_2 z_a_1 d_a_w_4 c_ɤ_j_1
+VIVOSDEV16_182|ɲ_ɯ_ŋ_3 ŋ_ɯə_j_2 k_o_1 l_ɤ̆_p_6b m_i_ŋ_2 k_ɔ_5 tʰ_e_4 ɣ_ă_p_6b f_a_j_4 c_ɯ_ŋ_5 c_ɤ̆_m_2 k_a_m_4 h_w_ă_k_6b l_ɔ_1 l_ă_ŋ_5
+VIVOSDEV16_193|tʰ_ɯ_k_6b t_e_5 v_a_j_1 c_ɔ_2 k_uə_4 b_a_n_6 v_a_2 ŋ_ɯə_j_2 f_ɔ_ŋ͡m_4 v_ɤ̆_n_5 d_o_j_5 c_iə_w_5 ɲ_ă_w_1
+VIVOSDEV16_196|s_ɯ_6 z_u_p_5b d_ɤ_3 k_uə_4 b_a_2 l_a_2 v_o_1 k_u_ŋ_2 kw_i_5 b_ă_w_5 c_ɔ_1 c_u_ŋ_5 t_o_j_1
+VIVOSDEV16_197|ɲ_a_2 c_ɯə_ŋ_2 d_o_t_6b ŋ_o_t_6b h_u_j_4 d_e_2 t_a_j_2 x_iə_n_5 t_o_j_1 m_ɤ̆_t_5b f_ɯə_ŋ_1 h_ɯə_ŋ_5
+VIVOSDEV16_198|k_a_k_5b f_ɤ̆_t_6b t_ɯ_4 h_ɯə_ŋ_4 ɯ_ŋ_5 l_ɤ_j_2 k_ɛu_1 ɣ_ɔ_j_6 k_uə_4 tʰ_ɤ̆_j_2 ɲ_ɯ_1 tʰ_e_5 n_a_w_2
+VIVOSDEV16_203|v_ɤ̆_j_6 ɲ_ɯ_ŋ_3 d_o_j_5 t_ɯə_ŋ_6 n_ă_j_2 s_ɛ_3 d_ɯə_k_6b z_a_j_4 kw_iɛ_t_5b ɲ_ɯ_1 tʰ_e_5 n_a_w_2
+VIVOSDEV16_228|s_ɛ_n_1 k_ɛ_3 z_ɯə_3 ɲ_ɯ_ŋ_3 m_a_n_2 b_iə_w_4 z_iə_n_3 l_a_2 ɲ_ɯ_ŋ_3 f_u_t_5b v_u_j_1 c_ɤ_j_1 t_ɤ̆_p_6b tʰ_e_4
+VIVOSDEV16_233|s_a_ŋ_5 z_a_1 tʰ_ɤ̆_j_5 z_ɤ̆_n_1 t_i_ŋ_2 s_u_m_5 kw_ɛ_ŋ_1 k_ɔ_n_1 t_e_1 z_a_k_5b x_o_ŋ͡m_4 l_o_2 d_a_3 c_e_t_5b
+VIVOSDEV16_239|v_a_2 m_o_t_6b d_iə_w_2 s_ɤ̆_w_1 s_a_1 l_a_2 m_i_ŋ_2 d_a_3 tʰ_ɤ̆_t_6b s_ɯ_6 iə_w_1 b_a_n_6
+VIVOSDEV16_247|ɲ_iə_w_2 h_o_m_1 m_ɯə_1 z_ɔ_5 b_a_n_5 e_5 ɣ_ɛ_ŋ_5 c_ɛ_2 n_ă_ŋ_6 c_i_w_3 c_e_n_1 v_a_j_1 m_ɛ_6
+VIVOSDEV16_266|f_iə_5 z_ɯə_j_5 v_a_2 s_u_ŋ_1 kw_ɛ_ŋ_1 k_e_6 l_a_2 n_ɯə_k_5b b_ɤ̆_n_4 l_e_ŋ_1 l_a_ŋ_5 c_ă_j_4 kw_a_1
+VIVOSDEV16_267|t_o_j_1 d_ɯ_ŋ_5 c_ɯə_k_5b h_a_j_1 l_o_j_5 z_ɛ_3 v_a_2 t_o_j_1 c_ɔ_n_6 k_ɔ_n_1 d_ɯə_ŋ_2 i_t_5b ŋ_ɯə_j_2 d_i_1 h_ɤ_n_1
+VIVOSDEV16_273|c_u_ŋ_5 t_o_j_1 d_a_3 d_iə_w_2 c_a_1 ɲ_ɯ_ŋ_3 c_ɯə_ŋ_2 h_ɤ_p_6b k_ɔ_5 ŋ_i_1 v_ɤ̆_n_5 z_a_n_1 z_o_j_5
+VIVOSDEV16_279|v_ɤ̆_j_6 c_ɯ_ŋ_2 n_a_w_2 m_ɤ_j_5 t_ɤ_j_5 s_i_n_1 l_o_j_3 ɲ_ɤ̆_n_1 z_ɤ̆_n_1 t_ɤ̆_p_6b k_uə_j_5
+VIVOSDEV16_298|h_o_m_1 n_a_w_2 t_a_n_1 k_a_1 s_ɤ_m_5 h_ɛ_ŋ_6 d_ɯə_k_6b z_a_w_1 ɲ_iə_m_6 v_u_6 d_i_1 c_ɤ_6 c_ɔ_1 b_ɯə_3 t_o_j_5
+VIVOSDEV16_299|v_a_w_2 d_ɯə_k_6b ɲ_a_2 ɛ_ŋ_1 d_ɤ̆_j_5 s_ɯə_4 k_ɯə_4 d_i_1 ŋ_w_i_1 h_iə_m_4 d_ɤ̆_j_5
+VIVOSDEV17_011|z_o_j_2 m_ă_k_6b z_u_2 b_iə_t_5b l_a_2 ŋ_ɤ_5 ŋ_ɤ̆_n_4 t_o_j_1 k_ɯ_5 n_ɔ_j_5 z_a_1
+VIVOSDEV17_024|z_iə_ŋ_1 o_ŋ͡m_1 ŋ_w_iə_n_3 v_ă_n_1 b_a_1 b_i_6 ɣ_o_3 d_ɛ_2 z_ɤ̆_p_6b s_ɔ_6 n_a_w_3 c_e_t_5b ŋ_ă_j_1 t_a_j_6 c_o_3
+VIVOSDEV17_032|m_o_j_3 ŋ_ɯə_j_2 n_ɤ_4 m_o_t_6b n_u_6 k_ɯə_j_2 v_ɤ_j_5 ɲ_ɯ_ŋ_3 i_5 ŋ_iə_3 x_a_k_5b ɲ_ă_w_1
+VIVOSDEV17_043|z_ɔ_1 v_ɤ̆_j_6 s_ɛ_3 ɛ_ŋ_4 h_ɯə_ŋ_4 t_ɤ_j_5 v_iə_k_6b tʰ_u_1 s_ɔ_ŋ͡m_5 v_o_1 t_w_iə_n_5
+VIVOSDEV17_048|f_i_m_1 c_iə_w_5 ŋ_w_iə_n_1 b_a_n_4 t_iə_ŋ_5 f_a_p_5b k_ɔ_5 f_u_6 d_e_2 t_iə_ŋ_5 v_iə_t_6b
+VIVOSDEV17_060|b_ɔ_ŋ͡m_5 m_ă_w_2 s_ɛ_ŋ_1 l_a_2 v_u_ŋ_2 t_ɤ̆_m_1 b_a_w_3 k_ɔ_5 tʰ_e_4 d_i_1 kw_a_1
+VIVOSDEV17_062|s_ă_w_1 m_o_t_6b ŋ_ă_j_2 l_a_w_1 d_o_ŋ͡m_6 k_ă_ŋ_1 m_e_t_6b b_a_n_6 ɯ_w_1 t_iə_n_1 c_ɔ_n_6
+VIVOSDEV17_070|h_a_2 k_u_ŋ_3 c_ă_ŋ_4 ɲ_ɤ_5 m_i_ŋ_2 k_ɔ_5 n_ɔ_j_5 h_ă_j_1 x_o_ŋ͡m_1 d_e_4 k_a_j_3 l_a_j_6 o_ŋ͡m_1 ɤ̆_j_5
+VIVOSDEV17_071|b_a_n_4 tʰ_ɤ̆_n_1 t_o_j_1 k_u_ŋ_3 tʰ_a_m_1 z_a_1 m_o_t_6b v_a_j_1 z_ɤ̆_t_5b ɲ_ɔ_4 n_ɯə_3
+VIVOSDEV17_077|h_o_m_1 s_ă_w_1 m_ɤ_4 m_ă_j_5 tʰ_ɤ̆_j_5 k_a_j_5 c_w_iə_n_6 d_a_3 t_ɯ_6 h_w_a_n_2 c_i_ŋ_4 z_o_j_2
+VIVOSDEV17_090|b_ɤ̆_j_1 z_ɤ_2 tʰ_i_2 d_a_ŋ_5 d_ɯə_k_6b x_ɛ_n_1 l_a_2 tʰ_o_ŋ͡m_1 m_i_ŋ_1 c_ɯ_5 h_a_4
+VIVOSDEV17_099|c_i_6 t_i_m_2 ɲ_a_2 c_ɔ_1 ɛ_m_1 ɤ_4 c_ɔ_6 ŋ_ă_j_1 k_o_ŋ͡m_4 c_ɯə_ŋ_2 c_i_6 h_ɔ_k͡p_6b
+VIVOSDEV17_100|d_e_n_5 d_a_2 l_a_t_6b b_a_n_6 f_a_j_4 c_w_ɤ̆_n_4 b_i_6 d_o_j_1 c_ɤ̆_n_1 d_e_4 d_i_1 b_o_6
+VIVOSDEV17_107|h_ɔ_6 d_ɯə_k_6b b_ɔ_n_6 d_ɤ̆_w_2 n_ɤ̆_w_6 ɲ_ɯ_ŋ_3 t_ă_j_1 c_u_m_2 tʰ_w_e_1 v_ɤ_j_5 z_a_5 z_ɛ_4 m_a_t_6b
+VIVOSDEV17_109|m_o_t_6b b_a_2 s_a_ŋ_1 c_ɔ_ŋ͡m_6 d_e_n_5 ɣ_ă_p_6b b_a_k_5b s_i_3 c_ɛ_4 x_a_m_5 b_e_ŋ_6 b_a_k_5b s_i_3 h_ɔ_j_4
+VIVOSDEV17_114|ɲ_ɤ̆_n_1 l_ɯ_k_6b ŋ_ɛ_ŋ_2 tʰ_iə_t_5b k_e_5 d_o_2 h_w_a_6 d_ă_t_5b z_a_5 v_a_2 x_a_n_1 h_iə_m_5
+VIVOSDEV17_120|s_ă_w_1 d_ɔ_5 b_a_n_4 tʰ_ɤ̆_n_1 h_ɔ_k͡p_6b s_i_ŋ_1 f_a_j_4 l_a_m_2 d_ɤ_n_1 s_i_n_1 h_ɔ_k͡p_6b b_o_ŋ͡m_4
+VIVOSDEV17_133|c_i_4 k_ɔ_5 tʰ_ɯ_k_6b f_ɤ̆_m_4 m_ɤ_j_5 z_u_p_5b b_a_n_6 l_a_m_2 d_ɯə_k_6b v_iə_k_6b n_ă_j_2
+VIVOSDEV17_147|v_ɤ_j_5 k_a_k_5b z_a_t_5b m_ă_w_2 k_a_2 f_e_1 s_ɯə_3 x_o_ŋ͡m_1 k_ɤ̆_n_2 d_iə_w_2 c_i_6
+VIVOSDEV17_169|h_ɔ_6 b_a_w_4 t_o_j_1 z_o_ŋ͡m_5 ŋ_ɯə_j_2 h_a_n_2 tʰ_i_2 t_o_j_1 l_a_j_6 tʰ_ɤ̆_j_5 h_ɔ_6 z_o_ŋ͡m_5 ŋ_ɯə_j_2 v_iə_t_6b
+VIVOSDEV17_170|v_a_2 d_o_j_6 t_w_iə_n_4 f_a_p_5b d_a_ŋ_1 l_a_2 d_o_j_6 c_iə_m_5 ɯ_w_1 tʰ_e_5 h_ɤ_n_1 s_ɔ_1 v_ɤ_j_5 tʰ_u_j_6 s_i_3
+VIVOSDEV17_173|c_i_ŋ_2 d_o_6 c_w_iə_n_1 m_o_n_1 k_uə_4 k_o_1 x_iə_n_5 k_o_1 kw_a_5 tʰ_ɯə_2 t_ɯ_1 k_ɛ_k_5b
+VIVOSDEV17_181|ɲ_ɯ_ŋ_3 k_ɤ̆_w_1 h_ɔ_j_4 c_e_n_1 s_ɛ_3 z_u_p_5b b_a_n_6 l_a_m_2 d_ɯə_k_6b d_iə_w_2 n_ă_j_2
+VIVOSDEV17_189|v_ɤ̆_n_3 k_ɔ_n_2 ɲ_ɯ_ŋ_1 b_a_n_6 x_o_ŋ͡m_1 z_a_m_5 c_ă_k_5b h_ɔ_6 k_ɔ_5 h_ɛ_ŋ_6 f_u_k_5b h_ă_j_1 x_o_ŋ͡m_1
+VIVOSDEV17_192|d_ɔ_5 k_u_ŋ_3 l_a_2 s_ɯ_6 t_iə_p_5b s_u_k_5b ɣ_ɤ̆_n_2 ɣ_u_j_3 ɲ_ɤ̆_t_5b k_uə_4 b_ɔ_n_6 ɛ_m_1
+VIVOSDEV17_204|ɛ_m_1 h_ă_j_3 t_i_ŋ_4 t_a_w_5 m_a_2 t_i_m_2 ɲ_ɯ_ŋ_3 d_i_ŋ_6 h_ɯə_ŋ_5 t_o_t_5b h_ɤ_n_1 c_ɔ_1 t_ɯə_ŋ_1 l_a_j_1
+VIVOSDEV17_208|ɲ_ɯ_ŋ_1 c_ă_ŋ_4 k_ɔ_5 d_iə_m_4 s_a_n_4 s_w_ɤ̆_t_5b n_a_w_2 z_u_ŋ_2 b_a_t_6b f_u_4 c_ɛ_1 c_ă_n_5
+VIVOSDEV17_212|k_ɔ_5 m_ɤ̆_j_5 ŋ_ɯə_j_2 d_u_ŋ_6 f_a_j_4 n_ɔ_5 s_w_i_t_5b ŋ_a_3 c_u_j_5 s_uə_ŋ_5 d_ɯə_ŋ_2
+VIVOSDEV17_213|d_w_a_n_2 d_i_1 tʰ_w_iə_n_2 d_e_n_5 m_o_t_6b x_u_1 l_a_ŋ_2 z_ɤ̆_n_1 t_o_k͡p_6b tʰ_iə_w_4 s_o_5
+VIVOSDEV17_217|tʰ_i_2 h_ɤ_p_6b d_o_ŋ͡m_2 tʰ_e_5 c_ɤ̆_p_5b n_ă_j_2 k_u_ŋ_3 x_o_ŋ͡m_1 k_ɔ_5 z_a_5 c_i_6 f_a_p_5b l_i_5
+VIVOSDEV17_239|b_a_1 t_o_j_1 h_ɛ_ŋ_3 z_iə_n_6 n_ɔ_j_5 c_w_iə_n_6 v_ɤ_j_5 s_o_5 h_ɔ_k͡p_6b s_i_ŋ_1 k_u_ŋ_2 l_e_n_1 s_ɛ_1 d_ɔ_2
+VIVOSDEV17_241|m_o_t_6b ɛ_ŋ_1 c_a_j_1 t_w_ɤ̆_n_5 d_a_ŋ_1 ŋ_o_j_2 t_u_2 v_i_2 t_o_j_6 z_e_t_5b ŋ_ɯə_j_2
+VIVOSDEV17_245|d_ɯə_k_6b b_ă_j_2 c_e_n_1 ɲ_ɯ_ŋ_3 b_e_6 tʰ_ɤ_2 b_e_n_1 k_ɛ_ŋ_6 ɲ_ɯ_ŋ_3 b_ɔ_5 s_ɛ_n_1 h_w_e_6 tʰ_ɤ_m_1 n_ɯ_k_5b
+VIVOSDEV17_254|k_a_k_5b b_ɯə_k_5b s_ă_w_1 d_ɤ̆_j_1 s_ɛ_3 z_u_p_5b b_a_n_6 t_i_m_2 z_a_1 ɯ_ŋ_5 k_ɯ_4 v_iə_n_1 tʰ_i_k_5b h_ɤ_p_6b
+VIVOSDEV17_268|v_i_2 c_u_ŋ_5 k_ɔ_5 tʰ_e_4 l_a_m_2 z_ă_ŋ_1 k_uə_4 b_a_n_6 z_e_3 b_i_6 o_5 v_a_ŋ_2
+VIVOSDEV17_271|z_a_j_4 ɲ_ɤ̆_t_5b h_w_i_1 c_ɯə_ŋ_1 v_a_ŋ_2 tʰ_uə_k_6b v_e_2 ɲ_a_2 ɲ_iə_p_5b ɛ_ŋ_4 k_uə_4 k_o_ŋ͡m_6 h_w_a_2 s_ɛ_k_5b
+VIVOSDEV17_285|d_e_4 s_i_n_1 tʰ_i_6 tʰ_ɯ_k_6b k_o_ŋ͡m_1 t_a_k_5b v_e_2 k_ɤ_1 b_a_n_4 b_a_n_6 f_a_j_4 k_ɔ_5
+VIVOSDEV17_288|t_o_j_1 n_ă_m_5 b_a_n_2 t_ă_j_1 s_ɯə_1 b_a_1 t_o_j_1 t_ɯ_ŋ_2 tʰ_ɯə_ŋ_1 iə_w_1 d_ă_w_1 s_ɔ_t_5b k_ɤ̆_m_2 z_ɯ_3
+VIVOSDEV17_297|c_ɔ_ŋ͡m_1 z_ɔ_ŋ͡m_2 tʰ_a_k_5b ŋ_ɯə_j_2 c_i_4 ɲ_i_n_2 d_ɯə_k_6b m_ă_t_5b k_i_ŋ_5 v_a_2 x_ɤ̆_w_4 c_a_ŋ_1
+VIVOSDEV17_299|x_a_j_1 m_a_k_6b c_iə_n_4 l_a_m_3 kw_i_1 m_o_1 l_ɤ_n_5 v_e_2 c_ɛ_ŋ_1 s_ɤ_n_1 m_a_j_2 v_iə_t_6b n_a_m_1
+VIVOSDEV18_006|x_o_ŋ͡m_1 n_e_n_1 c_i_4 z_ɯə_6 v_a_w_2 b_a_j_2 v_iə_t_5b k_uə_4 b_a_n_6 d_e_4 tʰ_w_iə_t_5b m_i_ŋ_1 tʰ_e_m_1
+VIVOSDEV18_012|v_a_2 z_a_w_5 z_u_k_6b k_ɔ_n_1 ŋ_ɯə_j_2 c_ɤ_4 tʰ_ɛ_ŋ_2 v_iə_k_6b l_w_iə_n_6 c_i_5 ɲ_ɤ_5
+VIVOSDEV18_017|t_w_i_1 ɲ_iə_n_1 h_ɤ_p_6b d_o_ŋ͡m_2 n_ă_j_2 c_i_4 k_ɔ_5 z_a_5 c_i_6 c_ɔ_ŋ͡m_1 ɲ_ɯ_ŋ_3 ŋ_ă_j_2 b_i_ŋ_2 tʰ_ɯə_ŋ_2
+VIVOSDEV18_021|v_ɤ̆_n_5 d_e_2 d_ă_t_6b z_a_1 ɤ_4 d_ɤ̆_j_1 l_a_2 l_a_m_2 tʰ_e_5 n_a_w_2 d_e_4
+VIVOSDEV18_051|ɲ_ɯ_ŋ_1 ɲ_iə_w_2 z_u_1 x_ɛ_k_5b tʰ_ɤ̆_j_5 tʰ_ɤ̆_t_5b v_ɔ_ŋ͡m_6 x_i_1 l_e_n_1 d_e_n_5 n_ɤ_j_1
+VIVOSDEV18_056|c_e_n_1 m_ă_t_6b a_j_1 k_u_ŋ_3 k_ɔ_5 x_ă_n_1 t_ă_j_1 x_ɤ̆_w_4 c_a_ŋ_1 c_ɛ_1 m_iə_ŋ_6
+VIVOSDEV18_060|k_a_ŋ_2 ŋ_ă_j_2 m_i_ŋ_2 k_a_ŋ_2 ŋ_i_3 ɲ_iə_w_2 v_e_2 k_o_ŋ͡m_1 v_iə_k_6b z_a_ŋ_4 z_ă_j_6
+VIVOSDEV18_064|t_ɤ̆_t_5b ɲ_iə_n_1 h_w_a_5 d_ɤ_n_1 t_iə_n_2 n_ɯə_k_5b k_u_ŋ_3 k_ɛ_m_2 l_uə_n_1 x_w_a_n_4 t_iə_n_2
+VIVOSDEV18_065|c_u_k_5b b_a_n_6 d_ɔ_k͡p_6b k_ɔ_5 tʰ_ɤ̆_t_6b ɲ_iə_w_2 tʰ_ɤ_j_2 z_a_n_1 tʰ_ɯ_1 z_a_n_3 tʰ_w_a_j_4 m_a_j_5
+VIVOSDEV18_082|h_a_ŋ_2 c_ɤ̆_n_1 m_ă_j_2 d_ɛ_n_1 v_a_2 s_e_k_5b x_o_ŋ͡m_1 l_ɤ̆_n_3 v_a_w_2 d_ɤ̆_w_1 d_ɯə_k_6b
+VIVOSDEV18_102|k_a_4 ŋ_ă_j_2 c_ɤ_j_2 x_o_ŋ͡m_1 n_ă_ŋ_5 z_ɔ_5 l_ɛ_ŋ_6 n_e_n_1 tʰ_ɯə_1 v_ă_ŋ_5 z_u_1 x_ɛ_k_5b
+VIVOSDEV18_114|l_a_m_2 d_ɯə_k_6b h_e_t_5b x_o_j_5 k_o_ŋ͡m_1 v_iə_k_6b ɤ̆_j_5 l_a_2 m_o_t_6b n_o_3 l_ɯ_k_6b z_ɤ̆_t_5b l_ɤ_n_5
+VIVOSDEV18_118|ŋ_ɯə_j_2 ă_n_1 s_i_n_1 tʰ_ɯə_1 b_a_2 ŋ_ă_j_2 tʰ_ɯə_ŋ_2 tʰ_i_2 b_a_2 c_ɔ_1 ɣ_i_2 k_u_ŋ_3 d_ɯə_k_6b
+VIVOSDEV18_120|b_a_n_6 x_o_ŋ͡m_1 b_a_w_1 z_ɤ_2 z_a_1 ŋ_w_a_j_2 m_a_2 x_o_ŋ͡m_1 z_u_ŋ_2 k_ɛ_m_1 l_ɔ_t_5b
+VIVOSDEV18_126|v_a_j_2 l_ɤ̆_n_2 c_iə_n_4 l_a_m_3 c_ɛ_ŋ_1 t_ɯə_ŋ_6 x_o_ŋ͡m_1 l_ɤ_j_2 ɲ_ɯ_1 tʰ_e_5 h_ă_n_5 s_ɛ_3 ɲ_ɤ̆_n_6 z_a_1
+VIVOSDEV18_155|ŋ_ɯə_j_2 d_a_n_2 o_ŋ͡m_1 c_e_n_1 z_ɯə_ŋ_2 tʰ_i_ŋ_2 l_i_ŋ_2 z_e_n_1 l_e_n_1 m_o_t_6b t_iə_ŋ_5 z_o_j_2 m_ɤ_4 m_ă_t_5b
+VIVOSDEV18_171|t_o_j_5 kw_a_1 ŋ_ɯə_j_2 t_a_1 d_e_n_5 b_ă_t_5b t_o_j_1 z_ɯə_3 d_e_m_1 h_o_m_1 x_w_iə_1 x_w_ă_t_5b
+VIVOSDEV18_183|b_a_w_4 tʰ_ă_ŋ_2 kw_iɛ_t_5b n_ɔ_5 b_ă_t_5b k_ɔ_n_1 ɣ_a_2 s_o_ŋ͡m_5 n_ɤ̆_w_1 m_a_2 tʰ_i_t_6b
+VIVOSDEV18_191|v_i_6 b_a_k_5b s_i_3 h_iə_n_2 l_ɛ_ŋ_2 ɤ̆_j_5 k_ɔ_5 ɲ_ɯ_ŋ_3 l_i_5 tʰ_w_iə_t_5b c_o_ŋ͡m_2 k_ɤ̆_j_1 tʰ_ɤ̆_t_6b tʰ_u_5 v_i_6
+VIVOSDEV18_192|ɲ_ɯ_ŋ_3 k_iə_w_4 v_e_t_5b tʰ_ɯə_ŋ_1 m_a_2 c_ɛ_4 tʰ_ɯə_ŋ_2 m_a_ŋ_1 tʰ_eo_1 k_ɔ_5 tʰ_e_4 l_a_2 ɣ_i_2
+VIVOSDEV18_194|s_i_n_1 v_ɤ_j_5 m_ɛ_6 c_ɔ_1 d_i_1 k_a_j_1 t_ɤ̆_p_6b c_u_ŋ_1 s_ă_w_1 m_o_t_6b n_ă_m_1 b_a_n_6 c_ɤ_4 v_e_2 ɲ_a_2
+VIVOSDEV18_195|d_ɤ̆_w_2 t_iə_n_1 l_a_2 m_o_t_6b t_ɤ̆_m_5 ɤ̆_m_1 b_a_n_4 s_ă_w_1 d_ɔ_5 m_ɤ_j_5 d_e_n_5 z_ɯə_ŋ_1 b_a_n_4
+VIVOSDEV18_198|m_ɤ̆_j_5 ŋ_ă_j_2 n_ă_j_1 c_u_ŋ_5 t_o_j_1 d_a_3 t_i_k_6b tʰ_u_1 d_ɯə_k_6b x_a_5 ɲ_iə_w_2 ɣ_a_2 c_e_t_5b
+VIVOSDEV18_199|h_iə_n_4 ɲ_iə_n_1 x_o_ŋ͡m_1 a_j_1 m_uə_n_5 s_w_ɤ̆_t_5b h_iə_n_6 b_e_n_1 k_ɛ_ŋ_6 m_o_t_6b ŋ_ɯə_j_2 ɲ_ɯ_1 v_ɤ̆_j_6
+VIVOSDEV18_211|h_i_ŋ_2 ɛ_ŋ_4 kw_a_ŋ_4 k_a_w_5 d_iə_w_5 tʰ_uə_k_5b d_iə_n_6 t_ɯ_4 d_ɯə_k_6b k_o_ŋ͡m_1 t_i_1
+VIVOSDEV18_214|k_iə_w_4 h_a_j_2 z_u_ŋ_1 t_u_k_6b v_ɤ̆_n_3 k_ɯ_5 l_e_ŋ_2 x_e_ŋ_1 ɤ_4 m_o_t_6b s_o_5 t_u_6 d_iə_m_4
+VIVOSDEV18_240|m_ɤ_j_2 tʰ_a_m_1 z_ɯ_6 k_uə_k_6b tʰ_i_1 v_iə_t_5b ŋ_ă_n_5 m_o_t_6b z_ɤ_2 x_o_ŋ͡m_1 d_iə_n_6
+VIVOSDEV18_250|l_ɤ̆_n_2 d_ɤ̆_w_2 t_iə_n_1 m_o_t_6b ɲ_ɤ̆_n_1 v_iə_n_1 ŋ_ɯə_j_2 v_iə_t_6b tʰ_ɛ_k_5b tʰ_ɯ_k_5b v_iə_k_6b t_a_k_5b ŋ_iə_p_6b k_uə_4 t_o_j_1
+VIVOSDEV18_252|l_u_k_5b d_ɔ_5 c_i_6 t_ɯə_ŋ_4 l_a_m_2 ɲ_ɯ_1 v_ɤ̆_j_6 k_u_ŋ_3 l_a_m_2 m_a_5 v_u_j_1
+VIVOSDEV18_257|ŋ_o_j_2 ŋ_ɛ_1 t_iə_ŋ_5 b_iə_n_4 v_a_2 tʰ_ɯ_1 tʰ_a_4 d_e_m_5 t_ɯ_ŋ_2 z_ɔ_t_6b d_ɛ_n_1 z_ɤ_j_1
+VIVOSDEV18_259|m_uə_n_5 k_o_ŋ͡m_1 ɲ_ɤ̆_n_6 ŋ_ă_j_1 f_a_1 b_ɔ_ŋ͡m_5 ɤ̆_j_5 tʰ_i_2 f_a_j_4 s_ɯə_4 l_w_ɤ̆_t_6b
+VIVOSDEV18_263|kw_a_n_4 l_i_5 ɲ_a_2 n_ɯə_k_5b v_e_2 z_a_w_1 tʰ_o_ŋ͡m_1 v_ɤ̆_n_6 t_a_j_4 d_o_1 tʰ_i_6
+VIVOSDEV18_265|s_ă_w_1 d_ɔ_5 h_ɔ_6 l_ɤ̆_n_1 l_a_1 s_a_ŋ_1 c_ɤ_j_1 z_o_j_2 d_ɛ_ŋ_5 k_ă_p_5b d_ɯə_5 b_ɛ_5
+VIVOSDEV18_272|ɛ_ŋ_1 ɲ_ɤ_n_1 b_a_w_4 t_o_j_1 v_e_2 c_ɯə_k_5b k_ɔ_n_2 ɛ_ŋ_1 d_i_1 tʰ_eo_1 k_o_1 ɣ_a_j_5
+VIVOSDEV18_273|c_ɯə_k_5b h_e_t_5b b_a_n_6 k_ɤ̆_n_2 t_i_m_2 h_iə_w_4 tʰ_o_ŋ͡m_1 t_i_n_1 kw_i_1 h_w_ɛ_k_6b x_u_1 d_ɤ̆_t_5b
+VIVOSDEV18_279|ɲ_ɯ_ŋ_3 s_a_n_4 f_ɤ̆_m_4 z_u_p_5b n_ɤ_4 ŋ_ɯ_k_6b v_a_2 t_a_n_1 m_ɤ_3 k_ɤ̆_p_5b t_o_k͡p_5b ɛ_ŋ_4 iɛ_n_5 c_i_ŋ_1
+VIVOSDEV18_280|f_ɔ_ŋ͡m_5 s_ɯ_6 ɛ_ŋ_4 ɲ_ɯ_ŋ_3 m_a_n_2 b_iə_w_4 z_iə_n_3 ŋ_w_a_n_6 m_u_k_6b c_e_n_1 b_ɤ̆_w_2 c_ɤ_j_2
+VIVOSDEV18_282|ɲ_ɯ_ŋ_1 k_uə_j_5 k_u_ŋ_2 c_ă_ŋ_4 a_j_1 c_i_w_6 n_o_j_4 k_a_j_5 t_i_ŋ_5 h_a_m_1 v_u_j_1 k_uə_4 t_o_j_1
+VIVOSDEV18_293|k_iə_m_4 c_a_1 c_u_ŋ_1 t_ɤ̆_m_1 n_ă_j_2 k_o_ŋ͡m_1 a_n_1 d_a_3 b_ă_t_5b z_ɯ_3 t_ɤ_j_5
+VIVOSDEV18_297|h_w_a_1 f_ɯə_ŋ_6 v_ɤ̆_n_3 n_ɤ_4 d_ɔ_4 c_ɤ_j_2 c_ɔ_ŋ͡m_1 t_iə_ŋ_5 v_ɛ_1 s_a_w_1 s_a_k_5b x_o_n_1 ŋ_uə_j_1
+VIVOSDEV19_008|t_ɯ_2 d_ɔ_5 l_a_j_6 s_a_1 d_a_2 v_a_w_2 ɲ_iə_w_2 ŋ_i_k_6b k_ɛ_ŋ_4 d_a_ŋ_5 t_iə_k_5b
+VIVOSDEV19_011|m_ɔ_ŋ͡m_1 ɛ_ŋ_1 h_ă_j_3 h_iə_w_4 c_ɔ_1 ɛ_m_1 ɛ_m_1 tʰ_ɯə_ŋ_1 ɲ_ɤ_5 v_a_2 iə_w_1 ɛ_ŋ_1 ɲ_iə_w_2
+VIVOSDEV19_020|l_e_n_1 k_a_k_5b k_uə_k_6b h_ɛ_n_6 f_ɔ_ŋ͡m_4 v_ɤ̆_n_5 v_a_2 tʰ_ɯ_k_6b h_iə_n_6 f_ɔ_ŋ͡m_4 v_ɤ̆_n_5
+VIVOSDEV19_022|s_ɛ_t_5b ɤ_4 x_iə_5 k_ɛ_ŋ_6 n_ă_j_2 tʰ_i_2 d_u_ŋ_5 l_a_2 m_ɤ̆_t_5b b_ɔ_2 m_ɤ_j_5 l_ɔ_1 l_a_m_2 c_uə_ŋ_2
+VIVOSDEV19_024|t_w_i_1 ɲ_iə_n_1 t_o_j_1 ŋ_i_3 k_ɤ̆_w_6 t_a_1 s_ɯ_ŋ_5 d_a_ŋ_5 v_ɤ_j_5 c_ɯ_k_5b v_o_1 d_i_k_6b
+VIVOSDEV19_027|ɲ_ɯ_ŋ_3 b_iə_n_5 z_a_ŋ_6 n_ă_j_2 tʰ_ɯə_ŋ_2 tʰ_ɤ̆_j_5 z_ɔ_3 x_i_1 z_ɯə_ŋ_1 v_ɤ̆_t_6b k_ɯə_ŋ_1
+VIVOSDEV19_029|z_ɔ_j_4 ɣ_i_2 b_a_k_5b m_i_ŋ_2 d_ɛ_4 z_a_1 x_o_ŋ͡m_1 n_uə_j_1 tʰ_i_2 a_j_1 n_uə_j_1
+VIVOSDEV19_030|f_u_2 s_a_1 b_o_j_2 d_ă_p_5b z_uə_ŋ_6 v_ɯə_n_2 c_ɔ_1 s_ɔ_m_5 l_a_ŋ_2 c_u_2 f_u_5
+VIVOSDEV19_045|o_ŋ͡m_1 n_ɔ_j_5 c_u_ŋ_5 t_o_j_1 h_i_1 v_ɔ_ŋ͡m_6 s_ɛ_3 k_ɔ_5 ɲ_ɯ_ŋ_3 t_i_n_1 t_ɯ_k_5b t_o_t_5b l_ɛ_ŋ_2
+VIVOSDEV19_056|v_e_2 ŋ_w_iə_n_1 t_ă_k_5b v_a_w_2 h_ɔ_k͡p_6b l_a_2 s_i_ŋ_1 v_iə_n_1 f_a_j_4 d_ɔ_ŋ͡m_5 h_ɔ_k͡p_6b f_i_5
+VIVOSDEV19_061|d_e_4 ɲ_ɯ_ŋ_3 x_ɔ_5 x_ă_n_1 v_a_2 m_ɤ̆_w_1 tʰ_w_ɤ̆_n_3 z_ɤ̆_n_2 z_ɤ̆_n_2 s_ɛ_3 b_i_6 d_ɤ̆_j_4 l_u_j_1
+VIVOSDEV19_064|c_ɔ_ŋ͡m_5 m_ă_t_6b k_ɔ_n_2 k_ɔ_5 tʰ_e_4 z_ɔ_1 t_i_ŋ_2 c_a_ŋ_6 z_o_j_5 l_w_a_n_6 ɲ_i_p_6b t_i_m_1 n_ă_ŋ_6 ɣ_ɤ̆_j_1 z_a_1
+VIVOSDEV19_071|c_ɔ_ŋ͡m_1 ŋ_ă_n_5 h_a_n_6 tʰ_i_6 c_ɯə_ŋ_2 v_ɤ̆_n_6 h_ɛ_ŋ_2 ɲ_ɯ_1 m_o_t_6b k_o_3 m_ă_j_5 b_ɤ̆_w_2 k_ɯ_4
+VIVOSDEV19_072|c_ɯə_ŋ_1 c_i_ŋ_2 h_ɔ_k͡p_6b b_o_ŋ͡m_4 tʰ_ɛ_ŋ_1 n_iə_n_1 c_ɤ̆_w_1 a_5 k_uə_4 ɲ_ɤ̆_t_6b b_a_n_4
+VIVOSDEV19_083|ɲ_ɯ_ŋ_1 z_o_j_2 k_a_j_5 t_i_ŋ_2 v_ɤ_j_5 b_a_2 k_ɔ_n_1 k_ɯ_5 n_ă_m_5 n_i_w_5 x_o_ŋ͡m_1 z_ɯ_t_5b z_a_1 d_ɯə_k_6b
+VIVOSDEV19_091|s_o_5 d_ɤ_n_1 v_i_6 tʰ_a_m_1 z_a_1 h_o_j_6 c_ɤ_6 v_iə_k_6b l_a_m_2 t_ă_ŋ_1 d_a_ŋ_5 k_e_4 kw_a_1 k_a_k_5b n_ă_m_1
+VIVOSDEV19_094|c_a_ŋ_1 v_iə_t_5b k_uə_4 h_ɔ_6 h_ɤ_n_1 h_ă_n_4 tʰ_ɤ_j_2 t_uə_j_4 c_ɛ_4 k_uə_4 t_o_j_1
+VIVOSDEV19_111|x_w_iə_t_5b d_iə_m_4 l_ɤ_n_5 k_uə_4 c_u_ŋ_5 t_a_1 l_a_2 c_ɯə_1 k_ɔ_5 z_ɤ̆_n_1 c_u_4 tʰ_ɤ̆_t_6b s_ɯ_6
+VIVOSDEV19_133|ɛ_m_1 k_ɔ_5 s_w_i_1 ŋ_i_3 tʰ_e_m_1 v_e_2 v_iə_k_6b tʰ_a_m_1 z_ɯ_6 h_o_j_6 c_ɤ_6 x_w_a_1 h_ɔ_k͡p_6b x_o_ŋ͡m_1
+VIVOSDEV19_142|h_ɔ_6 c_i_4 tʰ_i_k_5b ɲ_ɯ_ŋ_3 m_o_n_1 ɣ_i_2 m_ɛ_ŋ_6 b_a_w_6 b_a_w_6 l_ɯ_k_6b v_a_2 k_iə_m_5 z_a_1 t_iə_n_2 tʰ_o_j_1
+VIVOSDEV19_158|ɲ_ɯ_ŋ_3 ŋ_ɯə_j_2 c_ɛ_4 ɤ̆_j_5 tʰ_ɤ̆_t_6b d_a_ŋ_5 f_e_1 f_a_n_5 d_a_ŋ_5 l_e_n_1 a_n_5
+VIVOSDEV19_161|tʰ_o_ŋ͡m_1 tʰ_ɯə_ŋ_2 a_n_5 k_i_4 l_w_ɤ̆_t_6b n_ɛu_5 k_ɔ_5 tʰ_ɯə_ŋ_2 b_a_n_1 h_ɛ_ŋ_2 v_a_w_2 k_uə_j_5 t_w_ɤ̆_n_2
+VIVOSDEV19_163|d_iə_w_2 l_a_6 l_a_2 t_o_j_1 v_ɤ̆_n_3 x_o_ŋ͡m_1 t_ɯ_2 b_ɔ_4 i_5 d_i_ŋ_6 c_ɤ_4 tʰ_ɛ_ŋ_2 t_u_1 s_i_3
+VIVOSDEV19_167|k_a_k_5b kw_i_1 d_i_ŋ_6 k_uə_4 f_a_p_5b l_w_ɤ̆_t_6b x_o_ŋ͡m_1 tʰ_e_4 d_ɯə_k_6b b_a_n_1 h_ɛ_ŋ_2 tʰ_eo_1 k_iə_w_4 d_ɛ_ŋ_5 l_ɛ_n_5
+VIVOSDEV19_169|ɲ_ɛ_ŋ_1 kw_a_5 d_a_3 l_a_2 l_ɤ̆_n_2 tʰ_ɯ_5 b_a_1 s_a_1 ɲ_a_2 z_o_j_2 d_ɤ̆_j_5
+VIVOSDEV19_179|d_o_3 d_ɯ_k_5b tʰ_w_ɤ̆_n_2 ŋ_w_iə_n_1 k_e_5 t_w_a_n_5 c_ɯə_ŋ_4 k_o_ŋ͡m_1 t_i_1 t_iə_p_5b tʰ_i_6 d_ɤ̆_w_2 t_ɯ_1
+VIVOSDEV19_196|ŋ_ɯə_j_2 ɛ_ŋ_1 s_ă_w_1 d_ɔ_5 d_ɯə_k_6b f_ɛ_p_5b tʰ_ɤ̆_w_2 s_ɤ̆_j_1 k_e_ŋ_1 n_ă_j_2 ɲ_ɯ_ŋ_1 x_o_ŋ͡m_1 t_iə_n_5 h_ɛ_ŋ_2
+VIVOSDEV19_218|n_ɔ_j_5 k_ɛ_k_5b x_a_k_5b k_a_j_5 d_ɯə_k_6b k_uə_4 c_ɤ̆_w_1 a_5 l_a_2 k_a_j_5 m_ɤ̆_t_5b k_uə_4 c_ɤ̆_w_1 f_i_1
+VIVOSDEV19_222|m_ă_t_5b t_ɯ_6 ɲ_iə_n_1 h_w_a_1 l_e_n_1 c_i_5 c_u_p_6b m_o_t_6b k_a_j_5 l_i_1 kw_ɤ̆_t_6b m_ɛ_ŋ_6 s_uə_ŋ_5 s_a_n_2
+VIVOSDEV19_227|t_ɯ_2 d_ɤ̆_j_5 o_ŋ͡m_1 k_a_ŋ_2 tʰ_o_ŋ͡m_1 k_a_m_4 s_ɤ̆_w_1 s_ă_k_5b t_ɤ̆_m_1 c_a_ŋ_6 k_uə_4 ŋ_w_iə_n_3 tʰ_iə_p_5b
+VIVOSDEV19_244|ɛ_m_1 h_ă_j_3 t_i_m_2 k_ɛ_k_5b t_iə_p_5b k_ɤ̆_n_6 d_e_4 b_ă_j_2 t_ɔ_4 v_ɤ_j_5 m_ɛ_6
+VIVOSDEV19_245|l_u_k_5b d_ɔ_5 n_a_n_6 k_ɛ_t_6b s_ɛ_1 c_ă_k_5b s_ɛ_3 k_i_ŋ_1 x_u_ŋ_4 ɣ_ɤ̆_p_5b ɲ_iə_w_2 l_ɤ̆_n_2 h_o_m_1 n_ă_j_1
+VIVOSDEV19_246|v_ɤ_6 l_ɤ_3 k_ɔ_5 t_ɤ̆_t_6b tʰ_e_5 ɛ_ŋ_1 n_e_n_1 tʰ_ă_j_1 d_o_j_4 k_ɛ_k_5b t_iə_p_5b k_ɤ̆_n_6
+VIVOSDEV19_249|d_ɤ̆_j_1 d_ɯə_k_6b s_ɛ_m_1 l_a_2 v_a_j_1 z_iə_n_3 tʰ_ɛ_ŋ_2 k_o_ŋ͡m_1 ɲ_ɤ̆_t_5b k_uə_4 v_ɯə_ŋ_1 t_ɯ_2 c_ɯə_k_5b d_e_n_5 n_ă_j_1
+VIVOSDEV19_257|ɲ_ɯ_ŋ_1 n_ɛu_5 c_i_4 n_ɔ_j_5 k_a_j_5 z_ɔ_j_4 x_o_ŋ͡m_1 tʰ_o_j_1 tʰ_i_2 tʰ_ɤ̆_t_6b c_ɯə_1 d_u_4 v_e_2 c_u_5 t_ɯ_1
+VIVOSDEV19_259|t_i_k_5b k_ɯ_k_6b h_ɤ_n_1 v_ɤ_j_5 v_ɤ̆_n_5 d_e_2 l_iə_n_1 kw_a_n_1 d_e_n_5 k_iə_w_2 b_a_w_2
+VIVOSDEV19_262|d_e_4 z_o_j_2 c_u_ŋ_5 t_a_1 x_a_w_1 x_a_t_5b m_a_j_3 c_ɔ_ŋ͡m_1 v_ɔ_ŋ͡m_2 l_w_ɤ̆_n_1 h_o_j_2 ɲ_ɤ̆_n_1 z_a_n_1
+VIVOSDEV19_266|v_ɤ̆_n_5 d_e_2 n_ă_j_4 s_i_ŋ_1 t_ɯ_2 k_a_j_5 k_ɤ̆_w_1 h_ɔ_j_4 z_i_ŋ_1 k_u_1 ɤ̆_j_5
+VIVOSDEV19_274|c_i_6 n_e_n_1 d_i_1 x_a_m_5 b_a_k_5b s_i_3 v_a_2 c_ɔ_n_6 f_ɯə_ŋ_1 f_a_p_5b ŋ_ɯə_2 tʰ_a_j_1 h_iə_w_6 kw_a_4
+VIVOSDEV19_279|n_ɤ_6 m_o_t_6b k_uə_k_6b c_iə_n_5 c_o_ŋ͡m_5 tʰ_a_m_1 ɲ_u_ŋ_3 v_ɤ̆_n_3 c_ɯə_1 v_a_w_2 d_ɤ̆_w_1

@@ -1,0 +1,760 @@
+VIVOSDEV02_R106|tr_owr n_ee_n th_uj dd_ooj_ng
+VIVOSDEV02_R122|c_ux_ng kh_iees_n ch_o h_oj z_ef z_awj_t
+VIVOSDEV02_R130|ch_ij g_awj_n h_oir a_nh th_eef s_oos_ng th_eef ch_ees_t l_af kh_oo_ng c_os
+VIVOSDEV02_R132|dd_ieej_n th_oaij z_e_ng nh_w_ng t_a c_ux_ng ph_ar_i nh_aas_c m_ays dd_us_ng kh_oo_ng
+VIVOSDEV02_R135|c_ux_ng th_uooj_c l_oaij z_ayf dd_awj_c nh_aas_t tr_o_ng h_eej m_awj_t tr_owif
+VIVOSDEV02_R137|c_as_c v_uj th_a_m nh_ux_ng v_af b_ee b_oois c_i_nh t_ees
+VIVOSDEV02_R149|ch_us_ng c_ws c_oos l_uif l_aij m_awj_c z_uf v_wows_ng v_ius g_oo_ng s_ieef_ng
+VIVOSDEV02_R154|b_oj_n b_uoo_n z_wj as_n ch_ayj ch_oj_t b_ayf z_a c_as_c z_wj as_n dd_eer c_iees_m ch_as_c
+VIVOSDEV02_R015|t_aas_t c_ar m_oij th_ws dd_eeuf c_if l_aj m_ooj_t c_as_ch ph_i th_wowf_ng
+VIVOSDEV02_R164|c_as_c ch_wow_ng tr_if_nh c_a nh_aj_c ph_aaf_n l_ows_n dd_eeuf kh_oo_ng dd_ooj_t ph_as
+VIVOSDEV02_R170|z_ooif ch_ayj s_a_ng g_ox c_war ph_of_ng b_a l_e h_ai z_aas_m z_uis
+VIVOSDEV02_R173|dd_eer tr_ar tr_owr l_aij dd_aij z_wow_ng
+VIVOSDEV02_R181|n_af_ng c_os dd_ooi m_aws_t t_o s_aau v_af v_aaf_ng tr_as_n z_ooj_ng m_ee_nh m_oo_ng
+VIVOSDEV02_R192|t_ooi t_wj h_oir ph_ar_i ch_aw_ng dd_os l_af z_o z_a_n c_of_n qw_as tr_er
+VIVOSDEV02_R195|uir b_a_n ch_aau aau c_eeu g_oij nh_wx_ng qw_oos_c z_a ph_as_t tr_ieer_n c_of_n l_aij
+VIVOSDEV02_R200|v_af kh_i ch_us_ng t_a s_ao nh_ax_ng c_oo_ng v_ieej_c c_uar m_if_nh
+VIVOSDEV02_R027|c_os th_eer l_af_nh l_awj_n m_af kh_oo_ng dd_eer l_aij v_ees_t s_eoj
+VIVOSDEV02_R031|m_uoos_n dd_ej_p ph_ar_i g_h_ef l_af_m s_ao ch_o c_as_c b_os c_ow ch_aa_n n_ooir b_aaj_t l_ee_n
+VIVOSDEV02_R032|i t_ees b_if_nh h_w_ng h_oaf b_ij h_w h_or_ng
+VIVOSDEV02_R045|c_oo c_ws nh_ef ng_ay c_ais n_oj_ng c_as tr_ee
+VIVOSDEV02_R005|n_eeus t_wowr_ng t_wowj_ng b_ayr t_as_m n_aw_m n_wax
+VIVOSDEV02_R067|oo_ng ch_ur t_ij_ch t_uyee_n b_oos nh_w th_ees n_aof
+VIVOSDEV02_R068|kh_iees_n h_ai ch_a c_o_n c_aauj
+VIVOSDEV02_R069|l_af_m dd_ej_p kh_oo_ng dd_us_ng c_as_ch
+VIVOSDEV02_R071|m_ooix kh_i s_e z_as_c dd_i ng_a_ng qw_a dd_as_nh c_er_ng m_owis dd_e_m z_a dd_oor
+VIVOSDEV02_R076|th_ay v_if b_oos_n z_owf nh_w tr_wows_c dd_aay
+VIVOSDEV02_R079|h_aauf h_ees_t n_a_ng n_ayf c_os ng_uoof_n g_oos_c t_wf g_aa_n c_ow ch_aa_n ng_oox_ng
+VIVOSDEV02_R087|t_iees_ng m_ax t_aaus s_aws_c l_aj_nh ch_aj_m nh_au v_af c_ar t_iees_ng z_ee_n z_ir
+VIVOSDEV02_R089|c_os h_awr_n m_ooj_t l_oaj_t b_aif v_iees_t ch_uyee_n dd_eef v_eef qw_ar_n tr_ij th_wow_ng h_ieeuj
+VIVOSDEV02_R091|h_owj_p v_owis h_wow_ng v_ij dd_aauf s_uaa_n
+VIVOSDEV02_R099|oor_ng n_ois owr s_aif g_of_n oor_ng dd_ax l_af_m oo_ng h_ooij dd_oof_ng nh_w th_ees n_aof
+VIVOSDEV02_R009|b_af qw_ar_ng v_aax_n dd_a_ng b_aaj_n z_ooj_n
+VIVOSDEV02_T012|m_ayf z_as_m ch_owi v_owj t_ao t_ao ph_ar_i z_ees_t m_ayf
+VIVOSDEV02_T013|t_oos_ng c_oor h_aws_n dd_i kh_oo_ng dd_wowj_c dd_eer h_aws_n v_aof dd_aay n_wax
+VIVOSDEV02_T015|h_aws_n ch_owi v_owj a_nh th_if s_ao a_nh kh_oo_ng ch_owi v_owj h_aws_n
+VIVOSDEV02_T022|th_as_ng tr_wows_c ch_oof_ng v_eef m_aays ng_ayf m_if_nh n_awf_m ng_ur th_aays aas_m c_i_nh kh_ur_ng
+VIVOSDEV02_T031|ch_o e_m g_os_p m_ooj_t v_iee_n g_aj_ch
+VIVOSDEV02_T043|dd_i c_ieer_m tr_a l_aij b_as_c s_ix kh_uyee_n n_ee_n m_oor n_ooij s_oi
+VIVOSDEV02_T004|h_oo_m n_ay e_m c_os t_owis n_aw_m kh_as_ch
+VIVOSDEV02_T050|a_nh b_ij dd_aayr t_wf h_af n_ooij v_aof s_aif g_of_n
+VIVOSDEV03_R109|ph_uf h_owj_p ch_o m_oij c_aa_n n_awj_ng
+VIVOSDEV03_R010|aa_m th_aaf_m ch_aws_t ch_iu n_uooi t_ooi kh_oo_n l_ows_n
+VIVOSDEV03_R113|v_if b_aj_n c_os th_eer l_ayr c_of t_wf_ng ph_as_t m_ooj_t
+VIVOSDEV03_R117|v_ai tr_of c_uar ch_ees dd_ooj z_i_nh z_wowx_ng
+VIVOSDEV03_R119|kh_oo_ng h_ieeur s_ao
+VIVOSDEV03_R120|kh_iees_n ph_uj h_ui_nh h_ieeur nh_aaf_m
+VIVOSDEV03_R125|m_ooix kh_i c_ow_n z_os dd_ees_n
+VIVOSDEV03_R136|n_ayf b_os_n ch_o c_o_n th_wow_ng dd_owx i_eeus dd_au c_oif c_oj_c
+VIVOSDEV03_R142|tr_o_ng t_w th_ees ph_i ng_waj ch_oof_m l_ee_n
+VIVOSDEV03_R144|m_af c_ux_ng dd_aayf th_a_nh kh_iees_t
+VIVOSDEV03_R148|m_ooj_t v_uj ch_aaj_p dd_ieej_n dd_ax kh_iees_n ng_oj_n l_war b_uf_ng l_ee_n
+VIVOSDEV03_R149|b_af c_o_n ch_of_m s_os_m
+VIVOSDEV03_R156|dd_aay l_af m_ws_c l_aix s_uaas_t th_aas_p nh_aas_t qw_a c_as_c ph_iee_n dd_aaus th_aauf
+VIVOSDEV03_R160|z_oj_c h_ai b_ee_n s_oo_ng ng_af_n s_aau
+VIVOSDEV03_R163|nh_w_ng oais aw_m th_ay
+VIVOSDEV03_R180|s_au c_ar_i c_as_ch
+VIVOSDEV03_R182|m_ooj_t c_ees h_oaj_ch t_wow_ng t_wj dd_wowj_c as_p z_uj_ng owr a_nh
+VIVOSDEV03_R191|c_owix ng_waj dd_i th_i
+VIVOSDEV03_R193|ooi z_aof
+VIVOSDEV03_R195|kh_oo_ng m_ooj_t ch_iees_c s_e l_aj n_aof c_os th_eer m_o_n m_e_n v_aof dd_wowj_c
+VIVOSDEV03_R198|z_ooif dd_i kh_aws_p n_owi t_if_m th_aayf ch_wax b_eej_nh ch_o a_nh
+VIVOSDEV03_R020|b_ee_n tr_o_ng tr_ais v_ar kh_i b_oor z_a s_ex z_oox_ng ch_ws kh_oo_ng dd_awj_c nh_w tr_ais s_u_ng
+VIVOSDEV03_R029|n_ee_n h_ai m_oos c_aauf b_ij s_uj_p dd_aas_t kh_iees_n l_oois dd_i b_ooj qw_as ng_ui h_ieer_m
+VIVOSDEV03_R041|l_uoo_n oor_n dd_ij_nh v_af c_as_c s_e tr_aaus kh_as n_awj_ng
+VIVOSDEV03_R044|v_af kh_i h_oj v_aj_ch t_os_c z_a
+VIVOSDEV03_R046|c_uar ch_is_nh s_as_ch dd_oois v_owis qw_i m_oo c_uar th_ij tr_wowf_ng
+VIVOSDEV03_R056|s_wow_ng m_uf dd_ax dd_oj_ng th_af_nh nh_wx_ng h_aj_t z_as b_aw_ng
+VIVOSDEV03_R057|ch_ws kh_oo_ng ph_ar_i t_aif n_aw_ng th_iee_n b_aar_m n_aof
+VIVOSDEV03_R061|l_af t_iees_ng tr_oos_ng l_aa_n t_uf_ng s_ef_ng v_ui t_ai
+VIVOSDEV03_R007|m_ooj_t ch_uyees_n z_u l_ij_ch z_ax ng_oaij t_aij b_of c_aj_p v_af_ng
+VIVOSDEV03_R082|g_h_es_p c_af_nh m_ai z_aor v_aof th_aa_n c_oor th_uj ch_o h_oa c_as_nh l_ows_n
+VIVOSDEV03_R092|dd_eer ch_oj_n m_ays i_n ch_o ph_uf h_owj_p
+VIVOSDEV03_T017|b_as_c v_aax_n ch_wa tr_ar t_ieef_n ch_o t_ooi dd_aay nh_es
+VIVOSDEV03_T018|t_ooi dd_a_ng b_aaj_n h_oj_p
+VIVOSDEV03_T023|c_wows_p dd_aayf dd_wowf_ng c_oo_ng a_n ch_ir l_o h_aj_ch s_as_ch
+VIVOSDEV03_T035|m_ej owi c_os m_ua dd_oof ch_o c_o_n kh_oo_ng
+VIVOSDEV03_T041|c_o_n ch_os l_uir th_uir dd_i th_eo ch_ur n_os
+VIVOSDEV03_T047|tr_o_ng ph_i_m c_os nh_ieeuf c_ar_nh ch_es_m z_ees_t
+VIVOSDEV03_T048|z_ieex_n v_iee_n ch_is_nh dd_ws_ng nh_w kh_us_c g_oox
+VIVOSDEV03_T009|b_as_c dd_a_ng s_ui ng_ix g_if th_ees
+VIVOSDEV01_R108|kh_i tr_aax_m kh_oir b_eej_nh th_if s_ex ch_es_m dd_aauf
+VIVOSDEV01_R117|v_ieej_c m_ooj_t qw_i_eer_n t_ieeur th_uyees_t nh_w th_ees
+VIVOSDEV01_R012|nh_wx_ng c_ow_n z_os m_aj_nh v_af m_wa dd_os_ng b_aw_ng g_aay tr_ow_n tr_owj_t
+VIVOSDEV01_R130|n_aox b_ooj ch_us_ng t_a ph_as_t tr_ieer_n nh_wx_ng z_u_ng dd_ooj_ng i_eeu th_wow_ng
+VIVOSDEV01_R139|tr_wf kh_i b_aj_n b_iees_t t_oo_n tr_oj_ng b_ar_n th_aa_n m_if_nh
+VIVOSDEV01_R141|nh_wx_ng c_o_n dd_wowf_ng ng_aws_n ng_ur_n nh_w nh_wx_ng nh_as_t c_aws_t
+VIVOSDEV01_R146|h_ieej_n z_a t_aaj_n ph_ias s_a
+VIVOSDEV01_R150|s_i_n dd_wowj_c ch_aa_n kh_uaa_n v_as_c
+VIVOSDEV01_R151|nh_w_ng kh_i t_iees_n g_aaf_n v_aof v_ij_nh th_if m_awj_t b_ieer_n b_ij z_aj_n v_owx
+VIVOSDEV01_R164|m_ooj_t b_af ng_oaij z_awj_t dd_oof th_uee
+VIVOSDEV01_R170|dd_ooi b_af_n t_ay e_m kh_oo_ng dd_wowj_c m_eef_m m_aij v_af n_ox_n n_af
+VIVOSDEV01_R172|t_aay z_a_ng v_aax_n c_of_n kh_aws_c kh_oair kh_oo_ng th_eer v_aof s_ax a n_oo_ng
+VIVOSDEV01_R174|nh_wx_ng z_wj dd_ij_nh c_aaf_n ph_ar_i dd_wowj_c b_iees_n th_af_nh h_ieej_n th_wj_c
+VIVOSDEV01_R176|dd_eer t_auf kh_oo_ng ph_ar_i c_wowix c_aauf t_auf
+VIVOSDEV01_R180|b_af_n ch_ooir s_ow_n b_awf_ng b_oo_ng m_eef_m z_aas_t ph_oor b_iees_n
+VIVOSDEV01_R187|th_aaj_t s_wj m_af l_af b_owir l_of_ng h_aaj_n th_uf
+VIVOSDEV01_R188|v_ieej_c qw_i t_ooij dd_eer b_uf_ng n_oor l_oaij s_as_ch n_ayf l_af z_o
+VIVOSDEV01_R027|z_i t_is_ch c_os b_ayr ph_oox_ng oo_ng v_af h_ai ph_oox_ng b_af dd_wowj_c l_af_m b_awf_ng g_oox m_is_t
+VIVOSDEV01_R028|c_as_c ch_us c_ux_ng th_oair m_ais ph_os_ng uees z_wax ch_oos_n dd_oo_ng ng_wowif m_af kh_oo_ng s_owj
+VIVOSDEV01_R002|t_iees_ng c_oj_c c_aj_ch kh_wj_ng l_aij c_uar nh_wx_ng kh_ows_p s_aws_t
+VIVOSDEV01_R034|ng_wowif t_a n_ois
+VIVOSDEV01_R003|c_ux_ng l_ee_n t_iees_ng ur_ng h_ooj c_as_c c_iees_n ng_ij n_ayf
+VIVOSDEV01_R043|a_nh ph_us ch_wa b_us dd_wowj_c s_wax m_ej l_aaf_n n_aof
+VIVOSDEV01_R044|ng_oj_n l_war b_aoj dd_ooj_ng owr tr_u_ng dd_oo_ng v_af ph_as v_owx l_ooj tr_if_nh h_oaf b_if_nh
+VIVOSDEV01_R055|v_af z_aas_t s_as_ng t_aoj
+VIVOSDEV01_R057|nh_w_ng z_aas_c ng_ur ch_aaj_p ch_owf_n
+VIVOSDEV01_R058|z_as_m dd_oos_c s_owr z_aos z_uj_c dd_aof t_aoj n_i_nh th_uaaj_n ch_o b_iees_t
+VIVOSDEV01_R069|dd_ef_n b_ij h_w z_ooif b_a
+VIVOSDEV01_R071|tr_wowr_ng c_oo_ng a_n s_ax ch_ayj s_a_ng c_a_n ng_aw_n c_ux_ng b_ij t_uyees_n dd_as_nh t_iees_p
+VIVOSDEV01_R078|ng_e ch_us_ng t_ooi h_oir dd_ieeuf n_ayf ch_ij ng_as_t z_aa_n z_aas_n n_wows_c m_aws_t
+VIVOSDEV01_R086|c_oo_ng v_aw_n dd_eef ng_ij t_ir_nh c_o_n t_u_m s_aay z_wj_ng c_war kh_aaur
+VIVOSDEV01_R089|nh_w_ng t_if_nh i_eeu v_aax_n n_oof_ng n_af_n v_af s_ay dd_aws_m nh_w b_uooir b_a_n dd_aauf
+VIVOSDEV01_R092|z_o ch_is_nh ph_ur m_ix t_iees_n h_af_nh owr v_ieej_t n_a_m
+VIVOSDEV01_R098|t_ir_nh qw_ar_ng tr_ij dd_ax ph_ee z_uyeej_t
+VIVOSDEV01_R099|nh_w_ng t_ooi th_is_ch s_e_m b_ooj ph_i_m tr_uyeej_n ph_as_t ng_ay s_au ch_wow_ng tr_if_nh n_ayf
+VIVOSDEV01_T002|c_ux_ng ch_wa b_iees_t n_wax
+VIVOSDEV01_T030|s_uaa_n n_ayf e_m kh_oo_ng v_eef
+VIVOSDEV01_T038|ch_aws_c s_aws_p t_owis th_u s_ees_p dd_i z_u l_ij_ch th_ooi
+VIVOSDEV01_T043|n_os tr_oos_n m_aas_t t_ieeu z_ooif c_of_n dd_aau
+VIVOSDEV01_T048|th_awf_ng dd_os c_os c_ais m_ieej_ng nh_w dd_af_n b_af
+VIVOSDEV04_R100|b_af n_ois
+VIVOSDEV04_R010|c_o_n nh_or m_owr c_ais t_uis g_us_t dd_eo tr_ee_n c_oor
+VIVOSDEV04_R114|c_ux_ng ch_awr_ng c_of_n s_us_ng s_is_nh qw_aaf_n aos m_owis
+VIVOSDEV04_R118|tr_er e_m dd_aau c_os ch_wows_ng ng_aij v_aaj_t
+VIVOSDEV04_R126|t_ooi kh_oo_ng n_owx l_af_m c_oo b_es th_aas_t v_oj_ng
+VIVOSDEV04_R127|z_aas_t nh_ieeuf g_wir g_aws_m v_af c_if v_oj_ng v_aof oo_ng
+VIVOSDEV04_R129|dd_a_ng th_aor l_uaaj_n v_eef dd_eef s_uaas_t
+VIVOSDEV04_R132|ch_ur t_ij_ch n_wows_c dd_ax dd_ees_n c_ieer_m tr_a t_iees_n dd_ooj th_i c_oo_ng
+VIVOSDEV04_R013|ng_iax l_af c_es_m c_oir n_a_m t_is_nh h_ay s_ao
+VIVOSDEV04_R149|m_ooj_t c_oo g_ais v_ays ng_aws_n c_ux_n c_owx_n ch_ayj l_ee_n h_oir
+VIVOSDEV04_R152|s_ex kh_oo_ng kh_iees_n b_aj_n tr_oo_ng g_aayf nh_w nh_wx_ng tr_a_ng ph_uj_c m_ooj_t m_auf
+VIVOSDEV04_R162|c_oo ch_ir m_owis v_aof l_wowis nh_awj_t b_os_ng h_ai l_aaf_n
+VIVOSDEV04_R182|h_oawj_c ch_ir b_ieeur h_ieej_n b_awf_ng c_as_c z_oois l_oaj_n c_o b_os_p
+VIVOSDEV04_R186|nh_awf_m t_aoj z_a s_wj h_aas_p z_aax_n
+VIVOSDEV04_R187|th_ws aa_m th_a_nh kh_oo_ng ch_ir c_ar_m nh_aaj_n b_awf_ng th_is_nh z_as_c
+VIVOSDEV04_R189|t_wf n_ooix c_oo dd_ow_n c_uar m_ooj_t c_oo b_es b_ij ch_a m_ej b_or qw_ee_n
+VIVOSDEV04_R023|ch_is_nh b_af c_ux_ng l_af ng_wowif n_u_ng n_aaus n_ieef_m dd_a_m m_ee z_ieex_n s_uaas_t c_uar c_oo c_o_n g_ais
+VIVOSDEV04_R002|dd_os c_ux_ng l_af dd_ooj_ng l_wj_c th_us_c dd_aayr t_ooi
+VIVOSDEV04_R047|nh_os_m s_i_nh v_iee_n t_aij tr_wowf_ng c_uf_ng h_oj_p m_awj_t aw_n t_ees_t ch_u_ng
+VIVOSDEV04_R049|v_if t_oois dd_os
+VIVOSDEV04_R004|dd_ooi kh_i b_aj_n c_ux_ng c_os th_eer l_af_m nh_wx_ng dd_ieeuf dd_os
+VIVOSDEV04_R051|z_aj_ch b_auf m_ows_p
+VIVOSDEV04_R056|g_is h_of_n th_a_n v_aof z_ow_m
+VIVOSDEV04_R063|ch_aus s_oos_t n_ee_n z_eoj z_oj_c s_uoos_t dd_ee_m
+VIVOSDEV04_R081|v_af t_ooi th_aays h_oa v_aj_n th_oj v_af_ng wow_m
+VIVOSDEV04_R086|t_ay c_ia s_as_ch m_ooj_t t_ay z_os_ng m_a_ng ch_iees_c v_ij_m l_ows_n
+VIVOSDEV04_R089|ng_ur tr_ee_n n_eej_m kh_oo_ng ph_uf h_owj_p
+VIVOSDEV04_R008|nh_wx_ng ng_ayf dd_aauf v_aws_ng b_os_ng b_a v_ieej_t c_ws th_wf ng_wowif ng_ix ng_owij
+VIVOSDEV04_R092|b_ij c_as_c c_oo g_ais b_ao v_aay z_aos z_iees_t
+VIVOSDEV04_R095|tr_ow tr_oij z_wax dd_oof_ng c_ais nh_if_n kh_aws_c kh_oair
+VIVOSDEV04_R097|ng_oaif v_ieej_c ph_as_t h_ieej_n c_er th_uf
+VIVOSDEV04_T015|m_ooj_t l_af g_awj_p l_aij t_aas_t c_ar c_as_c e_m ph_of
+VIVOSDEV04_T018|nh_wx_ng s_ai l_aaf_m kh_i dd_i ch_oj_n kh_as_ch s_aj_n
+VIVOSDEV04_T029|a_nh dd_i c_oo_ng t_as_c c_aaf_n th_ow t_uaaf_n s_au m_owis v_eef
+VIVOSDEV04_T002|c_os tr_ar t_ieef_n ch_o b_oos kh_oo_ng th_if b_aor
+VIVOSDEV04_T032|c_a_m s_af_nh l_ooj_t v_or c_of_n ch_ua
+VIVOSDEV04_T035|a_nh kh_e_n e_m dd_ej_p e_m ch_ee a_nh z_af
+VIVOSDEV04_T003|nh_aaj_n dd_wowj_c t_i_n n_ayf g_oij l_aij ch_o t_ooi g_aas_p
+VIVOSDEV04_T044|b_a n_ayf ch_ir z_oir b_oos_c ph_es_t
+VIVOSDEV04_T009|ch_o t_ooi nh_aws_n dd_aij t_i_n n_aof c_ux_ng dd_wowj_c
+VIVOSDEV05_004|h_ayx t_wowr_ng t_wowj_ng z_awf_ng b_aj_n l_af l_af z_as_m dd_oos_c z_wj as_n tr_o_ng m_ooj_t c_oo_ng t_i l_ows_n
+VIVOSDEV05_030|c_uar nh_wx_ng th_ees l_wj_c h_uf_ng m_aj_nh
+VIVOSDEV05_037|oo_ng nh_awj_t n_os l_ee_n
+VIVOSDEV05_043|ng_uyee_n th_ws tr_wowr_ng m_ai v_aw_n z_aau dd_ax b_ij b_aws_t
+VIVOSDEV05_055|nh_w_ng m_ws_c as_n t_wr h_if_nh dd_oois v_owis c_as_c b_ij c_aos l_af t_wow_ng s_ws_ng
+VIVOSDEV05_065|nh_wx_ng ng_wowif s_oos_ng th_if th_a th_aar_n tr_o_ng nh_af ng_oaif ng_ox
+VIVOSDEV05_087|c_ar kh_oo_ng z_a_n nh_uoos_m m_auf tr_o b_ees_p
+VIVOSDEV05_091|tr_as_n z_oo
+VIVOSDEV05_097|th_u ch_aj_m ng_ox z_aas_t h_ieef_n
+VIVOSDEV05_107|tr_oo_ng m_ooj_t c_oo n_af_ng dd_oor ng_wowif l_ee_n l_w_ng a_nh ng_wowif i_eeu g_aayf c_of_m
+VIVOSDEV05_109|z_oa_nh ng_ieej_p t_uyeer_n z_uj_ng l_ao dd_ooj_ng n_wows_c ng_oaif
+VIVOSDEV05_115|th_owif h_aj_n s_wr z_uj_ng v_af l_oaij s_ar_n ph_aar_m b_ooj_t
+VIVOSDEV05_119|m_af c_of_n b_ij nh_wx_ng b_ooj m_awj_t l_aj_nh t_e c_ia h_oaj_nh h_oej
+VIVOSDEV05_120|nh_w_ng m_uif h_ooi v_aax_n s_ooj_c v_aof t_aaj_n os_c
+VIVOSDEV05_125|dd_a_ng l_af_m v_ieej_c kh_oo_ng ng_wf_ng ng_ir
+VIVOSDEV05_129|th_u h_us_t z_aas_t l_af nh_ieeuf l_oaif ch_i_m
+VIVOSDEV05_135|kh_i c_oo th_eer h_ieej_n kh_oo_ng m_aays th_af_nh c_oo_ng owr l_eex kh_ai m_aj_c
+VIVOSDEV05_136|z_a h_ieeuj ch_o t_ooi i_m l_awj_ng
+VIVOSDEV05_143|nh_or dd_wa t_ay z_a c_aof h_ees_t b_uf_n kh_oo tr_ee_n c_oor t_ows
+VIVOSDEV05_150|ng_ooif ch_oof_m ch_oof_m c_as_ch ch_ir m_aays m_es_t
+VIVOSDEV05_155|n_war v_of_ng tr_ais dd_aas_t h_ow_n b_ayr n_aw_m
+VIVOSDEV05_170|ch_aaj_m n_aws_m b_aws_t s_u h_wows_ng ph_as_t tr_ieer_n c_oo_ng ng_eej m_owis
+VIVOSDEV05_185|m_af m_wowf_ng t_wowj_ng z_a h_if_nh b_os_ng m_ej
+VIVOSDEV05_189|m_ooix ng_wowif m_ooj_t s_oos ph_aaj_n e_m af
+VIVOSDEV05_199|l_aaf_n l_wax m_aix m_owis g_awj_p dd_wowj_c t_uyee_n
+VIVOSDEV05_200|l_af_m dd_wowf_ng z_aay dd_eer n_oois c_as_c m_ar_nh dd_owif
+VIVOSDEV05_202|ch_ij h_ai ch_ur qw_as_n ng_e b_af_n t_as_n z_oo_m z_ar c_ux_ng z_a g_os_p ch_uyeej_n
+VIVOSDEV05_206|t_ws_c kh_aws_c aaj_p v_eef c_eos m_oij ng_wowif th_ws tr_owr l_aij th_owif h_oa_ng s_ow
+VIVOSDEV05_209|t_ee_n g_oij t_aij dd_iaj ph_wow_ng l_af tr_aws_c th_oois
+VIVOSDEV05_212|b_oos_n ch_iees_c tr_oos_ng dd_aij ph_ef_ng l_a
+VIVOSDEV05_226|m_ooj_t c_us ng_oawj_t kh_oo_ng ch_is_nh s_as_c
+VIVOSDEV05_231|m_owis dd_aay nh_aas_t l_af c_as_c t_ieeur v_wow_ng qw_oos_c ar z_aaj_p th_oos_ng nh_aas_t
+VIVOSDEV05_238|c_ooj_ng dd_oof_ng ng_wowif m_ee t_oas_n h_oj_c tr_ee_n t_oaf_n th_ees z_owis
+VIVOSDEV05_249|t_ooi ng_ix th_ur t_wows_ng s_ex kh_oo_ng n_es tr_as_nh b_aas_t c_ws c_aau h_oir n_aof
+VIVOSDEV05_251|b_oj_n b_uoo_n l_aauj m_a t_uis v_af v_ux kh_is
+VIVOSDEV05_261|l_aij qw_ay z_a t_aaj_p v_iees_t b_aos z_ooif g_wir v_u v_ow
+VIVOSDEV05_263|ng_e t_iees_ng s_if_nh s_ij_ch s_a s_a th_if dd_oas_n tr_us_ng ph_os_c l_af h_us_t h_aaf_m c_aauf
+VIVOSDEV05_270|ch_wa z_uj_c z_ij_ch g_if
+VIVOSDEV05_286|th_ees nh_w_ng kh_i z_as ph_ooi th_es_p th_ees z_owis c_ao z_aaf_n
+VIVOSDEV05_295|l_af_m h_or_ng c_as_c th_iees_t b_ij c_uar t_ee_n l_war
+VIVOSDEV06_001|dd_ow_n z_ar_n l_af t_as_n g_aaux v_owis nh_au
+VIVOSDEV06_006|m_af z_o l_oois s_oos_ng ch_ui nh_uir c_uar ch_us_ng
+VIVOSDEV06_016|z_aau z_ia dd_ax b_a ng_ayf kh_oo_ng c_aoj
+VIVOSDEV06_021|m_ooj_t dd_wowf_ng h_wows_ng ch_uyee_n ng_ieej_p
+VIVOSDEV06_022|l_is_nh c_wus h_oar kh_os t_iees_p c_aaj_n h_ieej_n tr_wowf_ng
+VIVOSDEV06_034|nh_wx_ng ng_wowif tr_ee_n g_h_e c_uar c_oo_ng a_n dd_ax nh_aws_m th_awr_ng v_aof g_h_e a_nh ch_ur
+VIVOSDEV06_037|dd_wf_ng b_uoof_n v_if t_wj z_awf_n v_awj_t m_if_nh n_wax
+VIVOSDEV06_040|v_af h_is_t v_aof m_uix l_af_m ch_aas_t n_ayf l_oax_ng z_a
+VIVOSDEV06_042|dd_a_ng h_aas_p z_aax_n c_as_c t_aaj_p dd_oaf_n ph_aa_n ph_oois dd_a qw_oos_c z_a
+VIVOSDEV06_054|z_uf l_af dd_aauj s_ws_c m_aj_nh h_oawj_c c_ar_i b_oo_ng kh_ur_ng l_o_ng
+VIVOSDEV06_061|v_if n_os kh_oo_ng nh_aws_c dd_ees_n nh_wx_ng c_uooj_c t_aas_n c_oo_ng nh_aws_m v_aof ng_wowif z_o th_ais
+VIVOSDEV06_070|z_ooif kh_eef kh_af dd_ooi c_aau v_oj_ng c_oor v_owis ch_aa_n ch_uooj_t
+VIVOSDEV06_078|owr l_ows_p n_aaus aw_n z_a dd_if_nh
+VIVOSDEV06_079|m_af b_aj_n c_os th_eer th_a_m kh_aor dd_eer l_af_m dd_ej_p z_a_n b_ees_p
+VIVOSDEV06_098|c_ais v_ij ch_as_t ch_as_t v_af dd_aws_ng ng_aws_t c_uar c_af ph_ee ng_uyee_n ch_aas_t
+VIVOSDEV06_103|c_as_c e_m nh_or s_ex kh_oo_ng c_of_n ph_ar_i dd_i tr_ee_n nh_wx_ng ch_uyees_n dd_of ng_ui h_ieer_m
+VIVOSDEV06_108|l_af_m c_oo n_af_ng z_oj z_ayj th_ws_c tr_aws_ng c_ar dd_ee_m
+VIVOSDEV06_117|z_ar_i qw_i_ees_t kh_oois u_ng nh_oj_t n_ayf ph_ar_i c_aaf_n dd_ees_n m_ooj_t c_uooj_c dd_aij ph_aaux ng_iee_m t_us_c
+VIVOSDEV06_126|th_aaj_m ch_is c_af_ng z_oos_ng aos qw_is n_af_ng c_af_ng m_oos_t
+VIVOSDEV06_139|c_of_n b_ooj kh_a_ng h_i t_wf dd_ieer_n
+VIVOSDEV06_143|dd_ooi m_ooi m_ej ph_ai s_o_n m_aas_p m_ays m_ooj_t l_owif c_a h_oa_ng h_oair
+VIVOSDEV06_157|s_oos kh_as_c s_ui dd_oas_n z_awf_ng a_nh t_a h_af_nh dd_ooj_ng as_c t_aa_m v_aayj
+VIVOSDEV06_168|l_af_m kh_u_ng
+VIVOSDEV06_184|h_oawj_c b_aj_n s_ex dd_ees_n dd_aays v_owis m_ooj_t t_aa_m tr_aj_ng ch_as_n ng_as_n v_oo c_uf_ng
+VIVOSDEV06_195|ph_ar_i dd_wowj_c th_wj_c h_ieej_n tr_ee_n c_ow s_owr
+VIVOSDEV06_210|h_ai m_wowi s_aus h_ai m_wowi b_ayr
+VIVOSDEV06_212|b_a m_wowi b_a m_wowi m_oos_t
+VIVOSDEV06_222|n_aw_m m_wowi n_aw_m m_wowi m_oos_t
+VIVOSDEV06_240|t_as_m m_wowi s_aus t_as_m m_wowi b_ayr
+VIVOSDEV06_241|t_as_m m_wowi t_as_m t_as_m m_wowi ch_is_n
+VIVOSDEV06_247|m_ooj_t tr_aw_m m_ooj_t h_ai b_a
+VIVOSDEV06_248|m_ooj_t b_a n_aw_m b_ayr ch_is_n
+VIVOSDEV06_252|n_ois tr_wows_c b_wows_c kh_oo_ng qw_a
+VIVOSDEV06_253|ch_awr_ng l_af m_aays h_oo_m n_ay t_ooi dd_au b_uj_ng qw_as
+VIVOSDEV06_261|s_ao c_ees_t qw_ar z_a t_eej v_aayj
+VIVOSDEV06_272|t_ooi ch_ir m_uoos_n s_e_m nh_wx_ng dd_oaj_n h_ay m_af th_ooi
+VIVOSDEV06_285|c_oo_ng t_i tr_as_ch nh_ieej_m h_wux h_aj_n aw_n uoos_ng
+VIVOSDEV06_286|ph_is ch_uyeer_n z_ao c_oo_ng ng_eej l_af b_a ch_uj_c ng_af_n dd_oof_ng
+VIVOSDEV06_287|l_wow_ng b_a c_oj_c b_a dd_oof_ng th_if n_uooi dd_wowj_c ai
+VIVOSDEV06_296|c_oo aays dd_ax qw_as ch_es_n
+VIVOSDEV07_002|h_awf_ng n_aw_m ch_us_ng t_a th_ar_i z_a h_af_ng t_ir th_iees_t b_ij dd_ieej_n t_wr
+VIVOSDEV07_025|ch_o nh_wx_ng ch_uyees_n z_ax ng_oaij c_uar z_u kh_as_ch
+VIVOSDEV07_030|nh_wx_ng nh_wowj_c dd_ieer_m c_uar m_if_nh
+VIVOSDEV07_036|v_if dd_os m_owis ch_is_nh l_af th_ws b_aj_n c_aaf_n
+VIVOSDEV07_039|z_os tr_owif kh_oo_ng th_eer th_oo_ng th_oos_c th_ooir v_aof kh_ai tr_u_ng
+VIVOSDEV07_044|b_owir c_ow qw_a_n ch_uyee_n m_oo_n h_oawj_c th_uee t_oor ch_ws_c c_ieer_m t_oas_n dd_ooj_c l_aaj_p
+VIVOSDEV07_045|h_oawj_c ch_o v_aof v_aij m_uoois dd_eer l_owj_n aw_n z_aaf_n
+VIVOSDEV07_064|c_ws ch_uj_m c_as_c dd_aauf ng_os_n t_ay l_aij m_ooj_t ch_oox
+VIVOSDEV07_066|dd_ax c_os z_wj as_n dd_eer s_aay z_wj_ng m_ooj_t c_ais c_aauf t_wf dd_aas_t l_ieef_n
+VIVOSDEV07_067|ch_aj_m v_aof ph_aaf_n th_os_p m_eef_m tr_ee_n dd_aauf b_es
+VIVOSDEV07_084|th_if b_oox_ng ng_e th_aays t_iees_ng oas_c oas_c t_wf v_aj_t z_wf_ng ph_i l_ao
+VIVOSDEV07_093|ph_uj_c v_uj ch_o m_uaf th_i dd_aij h_oj_c dd_a_ng dd_ees_n s_as_t s_aj_t
+VIVOSDEV07_098|tr_aaj_n ch_iees_n s_is_ch b_is_ch
+VIVOSDEV07_107|ng_uyee_n th_ws tr_wowr_ng b_ooj dd_aij h_oj_c v_af z_aos z_uj_c ch_uyee_n ng_ieej_p c_ux
+VIVOSDEV07_115|v_aof c_ow qw_a_n l_af a_nh h_os_t z_oos_ng h_eej_t nh_oof_ng m_owis l_ooj_t l_wowix v_aayj
+VIVOSDEV07_125|as_ng ch_wf_ng dd_ax ng_oaij b_ayr m_wowi
+VIVOSDEV07_127|c_os h_ai t_as_c z_uj_ng t_is_ch c_wj_c
+VIVOSDEV07_134|th_a_m z_a z_ar_ng z_ayj l_af l_wj_c l_wowj_ng dd_oaf_n v_iee_n
+VIVOSDEV07_138|dd_os h_awr_n l_af m_ooj_t m_os_n qw_af
+VIVOSDEV07_141|v_af kh_i th_aays t_ooi v_aax_n c_iee_n dd_ij_nh tr_ar l_owif tr_ows_t qw_ows_t
+VIVOSDEV07_151|z_oo b_os_t th_oo_ng m_i_nh
+VIVOSDEV07_156|dd_aauf t_iee_n l_af b_af c_o_n m_if_nh v_aaj_t v_ax l_af_m aw_n
+VIVOSDEV07_168|m_af ch_o dd_ees_n l_us_c dd_os dd_wowj_c s_e_m l_af c_uar t_w nh_aa_n
+VIVOSDEV07_170|nh_w l_aaf_n n_ayf dd_wowj_c n_ees_m m_os_n z_of th_ur h_oaf_n t_oaf_n l_af_m t_wf t_ai h_eo
+VIVOSDEV07_182|nh_wx_ng ng_wowif h_oaif ng_i n_ois z_awf_ng z_wx dd_wowj_c v_aaj_t tr_eo l_ur_ng l_awr_ng tr_ee_n ng_wowif
+VIVOSDEV07_185|ch_ius ch_is_t g_owij t_if_nh m_ej c_o_n s_u_m h_oj_p
+VIVOSDEV07_190|n_owi c_os m_aays t_ee_n tr_oo_ng z_aas_t g_aaus
+VIVOSDEV07_192|nh_ieeuf ng_wowif ch_o b_iees_t
+VIVOSDEV07_194|nh_ieeuf tr_uj dd_as z_i t_is_ch n_awf_m ng_iee_ng ng_ar v_af v_owx n_as_t
+VIVOSDEV07_195|h_oj c_ux_ng l_uoo_n tr_as_nh s_a nh_wx_ng t_if_nh h_uoos_ng c_os th_eer g_aay h_aij ch_o h_oj
+VIVOSDEV07_197|tr_o_ng c_uooj_c s_oos_ng c_uar t_ooi ch_us_ng kh_oo_ng z_uf_ng dd_eer c_iees_m z_a l_owij nh_uaaj_n
+VIVOSDEV07_209|h_ai m_wowi b_oos_n h_ai m_wowi l_aw_m
+VIVOSDEV07_211|h_ai m_wowi t_as_m h_ai m_wowi ch_is_n
+VIVOSDEV07_223|n_aw_m m_wowi h_ai n_aw_m m_wowi b_a
+VIVOSDEV07_231|s_aus m_wowi t_as_m s_aus m_wowi ch_is_n
+VIVOSDEV07_236|b_ayr m_wowi t_as_m b_ayr m_wowi ch_is_n
+VIVOSDEV07_246|ch_is_n m_wowi t_as_m ch_is_n m_wowi ch_is_n
+VIVOSDEV07_264|b_uooir s_as_ng th_af_nh ph_oos oo nh_ieex_m h_ow_n b_uooir tr_wa
+VIVOSDEV07_266|n_os_ng z_aaj_n t_ooi dd_ax l_aw_ng m_aj a_nh
+VIVOSDEV07_295|ch_ur t_auf ch_o b_iees_t s_ex t_iees_p t_uj_c th_wow_ng th_uyees_t v_eef s_oos ch_i ph_is n_ayf
+VIVOSDEV08_002|dd_wf_ng dd_eer c_o_n s_aau aw_n
+VIVOSDEV08_005|c_aay c_oor th_uj aays b_aas_t ch_owj_t b_ij b_eej_nh t_aaj_t qw_aaj_t ng_ax
+VIVOSDEV08_014|v_af n_eeus b_aj_n tr_os_t l_af_m l_ooj_n s_ooj_n m_af_n h_if_nh n_eef_n
+VIVOSDEV08_025|dd_aoj z_ieex_n tr_er n_ayf c_os nh_ieeuf dd_ieeuf ng_aax_m ng_owij v_eef ng_eef
+VIVOSDEV08_032|s_ex kh_oo_ng kh_iees_n b_aj_n tr_oo_ng g_aayf nh_w nh_wx_ng tr_a_ng ph_uj_c m_ooj_t m_auf
+VIVOSDEV08_053|b_owir c_ow qw_a_n ch_uyee_n m_oo_n h_oawj_c th_uee t_oor ch_ws_c c_ieer_m t_oas_n dd_ooj_c l_aaj_p
+VIVOSDEV08_057|n_os l_aaj_t dd_aaj_t dd_aj_p ch_iees_c s_e c_af t_af_ng b_aw_ng ng_ay z_a dd_aauf dd_wowf_ng
+VIVOSDEV08_062|h_oawj_c ch_ir b_ieeur h_ieej_n b_awf_ng c_as_c z_oois l_oaj_n c_o b_os_p
+VIVOSDEV08_071|kh_i t_ooi l_af c_o_n b_es l_ows_p b_oos_n th_if c_aay v_ar dd_ax c_ao qw_as n_os_c nh_af
+VIVOSDEV08_077|b_uooir dd_aauf th_aaj_t kh_os kh_aw_n th_eo dd_uooir ch_wow_ng tr_if_nh h_oj_c
+VIVOSDEV08_085|v_ieej_c dd_wa t_is_n h_ieeuj tr_uyeef_n h_if_nh tr_wj_c t_iees_p b_awf_ng h_eej th_oos_ng c_as_p qw_a_ng
+VIVOSDEV08_090|v_if kh_oo_ng c_os t_ieef_n dd_os_ng h_oj_c ph_is
+VIVOSDEV08_093|th_if b_oox_ng ng_e m_aays t_iees_ng oas_c oas_c t_wf v_aj_t z_wf_ng ph_i l_ao
+VIVOSDEV08_100|h_ay dd_ar_m b_aor z_awf_ng ng_ayf n_aof ch_us_ng c_ux_ng dd_wowj_c dd_i nh_wx_ng dd_ooi t_aas_t s_aj_ch
+VIVOSDEV08_127|v_eef v_ieej_c m_a_ng dd_ees_n ch_o c_as_c e_m n_ieef_m v_ui h_oj_c
+VIVOSDEV08_128|c_os l_ex ph_ar_i m_aas_t nh_ieeuf th_owif z_a_n
+VIVOSDEV08_129|n_wows_c g_oox tr_ee_n ch_iees_c dd_oof_ng h_oof dd_ax b_aws_t l_ee_n m_auf g_uj b_os_ng l_oas_ng
+VIVOSDEV08_141|kh_i s_ws_c es_p b_iees_n m_aas_t ch_us_ng tr_owr l_aij t_if_nh tr_aj_ng m_eef_m z_eor b_if_nh th_wowf_ng
+VIVOSDEV08_143|th_a_m z_a z_ar_ng z_ayj l_af l_wj_c l_wowj_ng dd_oaf_n v_iee_n
+VIVOSDEV08_145|v_af v_ar_i h_oawj_c c_ois nh_ieeuf m_auf
+VIVOSDEV08_159|v_owis ng_wowif m_ej owr s_os_m ch_aif l_o_ng b_iee_n
+VIVOSDEV08_163|ch_wow_ng tr_if_nh dd_ax t_aoj dd_wowj_c h_ieeuj ws_ng t_oos_t t_wf ph_ias kh_as_n z_ar nh_is
+VIVOSDEV08_166|z_ij_ch v_uj c_ieer_m tr_a s_ws_c kh_oer dd_ij_nh c_if l_af m_ooj_t is c_iees_n h_ay
+VIVOSDEV08_180|ch_is_nh s_wj l_ee_n s_af_n oof aj_t dd_os
+VIVOSDEV08_182|c_ees_t qw_ar ch_ir c_os v_or_n v_ej_n b_a ng_wowif c_of_n b_iees_t z_eej_t
+VIVOSDEV08_193|l_af t_wow_ng dd_oois c_os h_ieeuj qw_ar
+VIVOSDEV08_196|ph_aaf_n l_ows_n h_oj_c s_i_nh z_auf c_os ng_wowif n_wows_c ng_oaif
+VIVOSDEV08_201|kh_oo_ng m_ooj_t h_ai b_a b_oos_n
+VIVOSDEV08_208|h_ai m_wowi h_ai h_ai m_wowi b_a
+VIVOSDEV08_210|h_ai m_wowi s_aus h_ai m_wowi b_ayr
+VIVOSDEV08_214|b_a m_wowi b_oos_n b_a m_wowi l_aw_m
+VIVOSDEV08_222|n_aw_m m_wowi n_aw_m m_wowi m_oos_t
+VIVOSDEV08_224|n_aw_m m_wowi b_oos_n n_aw_m m_wowi l_aw_m
+VIVOSDEV08_233|b_ayr m_wowi h_ai b_ayr m_wowi b_a
+VIVOSDEV08_270|n_ois th_aaj_t dd_aays af
+VIVOSDEV08_271|qw_as t_oos_t z_ooif
+VIVOSDEV08_274|t_ooi ch_ees_t c_uf_ng v_owis as_nh tr_aw_ng
+VIVOSDEV08_277|dd_af_n oo_ng c_os h_ai th_ws dd_eer b_uoof_n
+VIVOSDEV08_295|z_auf dd_ooir b_aj_n s_a_ng dd_ooir v_owj
+VIVOSDEV08_300|as_n m_aj_ng tr_ee_n t_oa t_auf t_oos_c h_af_nh
+VIVOSDEV09_015|l_af_m z_owf_m z_owj_p b_ieer_n m_aay l_au l_as_ch ph_aas_t ph_ow
+VIVOSDEV09_022|tr_ws_ng m_wj_c qw_i_ees_n z_ux c_as_c ng_w z_aa_n
+VIVOSDEV09_029|b_aj_n c_os th_eer kh_ieer_n tr_as_ch ng_wowif l_ais s_e
+VIVOSDEV09_035|l_oas_ng th_oas_ng tr_aw_n tr_owr l_oas_ng th_oas_ng b_uoof_n v_ui
+VIVOSDEV09_038|ph_of_ng tr_af kh_ieeu v_ux c_as_nh qw_aj_t c_oois s_ay dd_or
+VIVOSDEV09_039|th_ij_t ng_oj_t l_wf aays l_aij m_a_ng th_eo tr_uf_ng s_as_n g_aay b_eej_nh
+VIVOSDEV09_041|h_ieej_n tr_o_ng nh_ieeuf l_oaij t_oir c_os m_awj_t tr_ee_n th_ij tr_wowf_ng
+VIVOSDEV09_047|ng_ayf c_aw_n b_aaj_c h_ai ch_ir z_ieex_n z_a ch_is_n l_aaf_n tr_o_ng m_ooj_t th_ees c_ir
+VIVOSDEV09_055|z_ooif z_ow_m z_aj kh_oo th_eo th_aa_n h_if_nh g_aayf ng_awr_ng
+VIVOSDEV09_077|dd_eer c_os th_eer v_aaj_n h_af_nh ch_us_ng dd_wowj_c h_ieeuj qw_ar h_ow_n
+VIVOSDEV09_081|dd_wowj_c m_ix z_aos z_iees_t t_u_ng z_a
+VIVOSDEV09_083|v_if l_wowj_ng c_a kh_us_c m_owis qw_as nh_ieeuf
+VIVOSDEV09_091|n_wows_c ch_ayr qw_as m_aj_nh
+VIVOSDEV09_098|kh_iees_n c_ar h_ai ph_ar_i z_aaj_n h_owf_n v_oo l_is
+VIVOSDEV09_106|z_ooif ch_if_m l_ir_m m_ooj_t th_owif z_a_n
+VIVOSDEV09_110|kh_i m_ieej_ng v_aax_n ng_aaj_m b_aauf v_us qw_aws_t qw_eo
+VIVOSDEV09_134|c_aau tr_ar l_owif c_uar oo_ng t_a z_aas_t kh_iees_m nh_ax
+VIVOSDEV09_139|n_eeus ch_ur dd_aauf t_w kh_oo_ng t_wj ph_as z_owx th_if b_ij c_wowx_ng ch_ees
+VIVOSDEV09_142|v_eef ch_uyeej_n dd_a_ng th_eo z_oix b_oj_n z_as_n dd_ieej_p n_wows_c ng_oaif
+VIVOSDEV09_144|dd_wowj_c c_aws_t t_wf v_or ch_aw_n b_ooj dd_ooij c_ux c_uar c_as_c oo_ng b_oos z_a
+VIVOSDEV09_158|s_owj nh_aas_t l_af m_uaf m_wa s_aas_m s_es_t dd_uf_ng dd_oaf_ng tr_ee_n n_uis
+VIVOSDEV09_159|t_ws_c l_aays s_uj_n l_af_nh t_wf n_owi kh_oo_ng ph_ar_i ch_iuj l_wj_c g_h_es_p v_aof n_owi h_w
+VIVOSDEV09_163|dd_ieeuf v_oo c_uf_ng qw_a_n tr_oj_ng tr_o_ng th_owif dd_aij c_os qw_as nh_ieeuf h_oaj_t dd_ooj_ng
+VIVOSDEV09_166|th_is s_i_nh t_wj z_o c_aaf_n qw_a_n t_aa_m dd_ees_n dd_ooj v_ee_nh c_iees_n th_ws_c c_as_c m_oo_n
+VIVOSDEV09_168|m_ooix ng_wowif ch_us_ng t_a s_ex c_os nh_wx_ng th_ws kh_as_c nh_au
+VIVOSDEV09_178|v_af th_aaj_m ch_is b_aj_n c_ux_ng kh_oo_ng n_ee_n c_oos g_aws_ng
+VIVOSDEV09_194|tr_ee_n b_aauf tr_owif as_nh tr_aw_ng s_as_ng v_awf_ng v_awj_c
+VIVOSDEV09_198|l_af t_oor t_iee_n c_uar oo_ng dd_awj_ng l_ee_n dd_ar_m tr_as_ch v_ieej_c z_aax_n dd_wowf_ng
+VIVOSDEV09_203|t_as_m ch_is_n m_wowif m_wowif m_ooj_t
+VIVOSDEV09_204|m_wowif m_ooj_t m_wowif h_ai m_wowif b_a
+VIVOSDEV09_222|n_aw_m m_wowi n_aw_m m_wowi m_oos_t
+VIVOSDEV09_246|ch_is_n m_wowi t_as_m ch_is_n m_wowi ch_is_n
+VIVOSDEV09_267|c_aw_n nh_af dd_awf_ng c_ia ng_e n_ois c_os m_a
+VIVOSDEV09_268|th_us th_aaj_t t_ui ch_wa t_wf_ng ch_owi g_ais
+VIVOSDEV09_280|s_uaa_n n_ayf e_m kh_oo_ng v_eef
+VIVOSDEV09_286|c_os c_of_n h_ow_n kh_oo_ng
+VIVOSDEV09_288|ch_aws_c s_aws_p t_owis th_u s_ees_p dd_i z_u l_ij_ch th_ooi
+VIVOSDEV09_289|ph_wow_ng ch_aa_m s_oos_ng c_uar t_ooi l_af ng_wowif kh_oo_ng v_if m_if_nh tr_owif tr_u dd_aas_t z_ieej_t
+VIVOSDEV09_293|n_os tr_oos_n m_aas_t t_ieeu z_ooif c_of_n dd_aau
+VIVOSDEV09_297|th_ees n_aof l_af h_oaf_n h_aor
+VIVOSDEV10_010|kh_i b_ij c_oo_ng a_n th_ooj_p c_oor kh_aar_n c_aas_p
+VIVOSDEV10_014|s_au kh_i dd_oj_c nh_wx_ng th_oo_ng t_i_n tr_ee_n b_aos
+VIVOSDEV10_017|ng_a kh_i aays c_af_ng th_if_n n_ees_t n_a
+VIVOSDEV10_020|v_ieej_c as_p z_uj_ng c_ar b_af_n v_as l_ooix v_af c_oo_ng c_uj qw_es_t
+VIVOSDEV10_024|ng_oaif tr_owif m_wa c_ws l_ay ph_ay z_aws_c h_aj_t
+VIVOSDEV10_030|n_uooi m_oo h_if_nh t_i_nh h_oaf_n z_ooif t_aoj z_a t_i_nh h_oaf_n v_owis dd_aayf dd_ur h_if_nh h_aif
+VIVOSDEV10_035|c_os th_eer z_us_p t_a qw_ee_n dd_i nh_wx_ng n_ooix wu ph_ieef_n
+VIVOSDEV10_043|m_af z_u_ng z_aw_ng nh_es c_aaf_m t_ay dd_aas_t tr_owif
+VIVOSDEV10_045|t_ooi l_ows_n l_ee_n tr_o_ng s_wj g_h_er l_aj_nh c_uar ng_wowif m_ej c_ees
+VIVOSDEV10_051|kh_u_ng z_aw_ng h_af_m tr_ee_n kh_u_m
+VIVOSDEV10_067|th_ees nh_w_ng t_ooi kh_oo_ng aa_n h_aaj_n kh_i tr_owr th_af_nh dd_ar n_wx
+VIVOSDEV10_068|v_owis m_ooj_t t_oos_c dd_ooj m_af ch_us_ng t_a kh_oo_ng th_eer dd_i dd_ees_n t_aaj_n c_uf_ng c_uar n_os
+VIVOSDEV10_072|t_ooi th_aays dd_oof_ng l_wow_ng c_uar m_if_nh n_aw_m n_aw_m z_ooif v_aax_n dd_ws_ng ng_uyee_n
+VIVOSDEV10_073|dd_eer ch_aas_m z_ws_t n_aj_n b_aoj h_af_nh tr_o_ng z_a dd_if_nh
+VIVOSDEV10_076|l_af_m dd_wowf_ng s_as ng_aaj_p s_aws_p s_aws_p qw_a_nh n_aw_m s_uoos_t th_as_ng
+VIVOSDEV10_090|v_waf dd_wowj_c tr_ao t_awj_ng z_ar_i th_wowr_ng nh_af n_wows_c
+VIVOSDEV10_117|c_ais kh_os l_af
+VIVOSDEV10_129|dd_ieeuf n_ayf dd_us_ng v_owis m_oij c_aas_p dd_ooj v_af tr_o_ng m_oij l_ix_nh v_wj_c c_uar dd_owif s_oos_ng
+VIVOSDEV10_130|c_ao ng_oof_ng ng_oof_ng
+VIVOSDEV10_140|ch_af_ng tr_ai l_oof_m c_oof_m b_of z_aayj m_awj_t m_ayf s_a_nh l_es_t nh_w t_auf l_as ch_uoois
+VIVOSDEV10_156|ch_is_nh ph_ur dd_oof_ng th_owif c_ux_ng l_aaj_p th_ee_m c_uj_c s_us_c t_iees_n t_ieeu th_uj z_aauf c_oj
+VIVOSDEV10_162|c_ux_ng l_af t_i_n v_ui ch_o t_aas_t c_ar nh_wx_ng ai
+VIVOSDEV10_172|h_wowj_m dd_ax c_of_n ph_ar_i dd_ieeuf ch_ir_nh
+VIVOSDEV10_176|tr_o_ng t_if_nh th_ees aays ch_ir dd_as_m tr_er v_e_n s_oo_ng
+VIVOSDEV10_189|n_eeus dd_i t_iees_p nh_a tr_a_ng
+VIVOSDEV10_194|t_ws_c ch_a_nh c_os th_eer tr_ij dd_wowj_c b_eej_nh
+VIVOSDEV10_196|ch_ir m_uoos_n l_af_m m_ooj_t h_owi ch_o dd_ax c_ais m_ieej_ng
+VIVOSDEV10_211|h_ai m_wowi t_as_m h_ai m_wowi ch_is_n
+VIVOSDEV10_212|b_a m_wowi b_a m_wowi m_oos_t
+VIVOSDEV10_227|s_aus m_wowi s_aus m_wowi m_oos_t
+VIVOSDEV10_234|b_ayr m_wowi b_oos_n b_ayr m_wowi l_aw_m
+VIVOSDEV10_239|t_as_m m_wowi b_oos_n t_as_m m_wowi l_aw_m
+VIVOSDEV10_245|ch_is_n m_wowi s_aus ch_is_n m_wowi b_ayr
+VIVOSDEV10_247|m_ooj_t tr_aw_m m_ooj_t h_ai b_a
+VIVOSDEV10_249|kh_oo_ng h_ai b_oos_n s_aus t_as_m
+VIVOSDEV10_257|t_ieef_n dd_ieej_n th_as_ng n_ayf b_ao nh_ieeu
+VIVOSDEV10_262|th_ua s_a t_ieej_m t_aj_p h_oas nh_af t_ao
+VIVOSDEV10_266|t_wf tr_ee_n n_os_c nh_af nh_if_n s_uoos_ng c_os kh_as_c
+VIVOSDEV10_278|t_ooij ng_ieej_p dd_was nh_or kh_oo_ng ai ch_aw_m s_os_c
+VIVOSDEV10_294|e_m s_owj c_os m_ooj_t ng_ayf a_nh g_awj_p ng_wowif c_o_n g_ais kh_as_c t_oos_t h_ow_n e_m z_ooif a_nh b_or e_m
+VIVOSDEV11_015|n_wx z_ieex_n v_iee_n s_i_nh dd_ej_p ph_aj_m b_aw_ng b_aw_ng
+VIVOSDEV11_022|s_ex l_af_m z_ar_m t_if_nh tr_aj_ng ois oj_c c_uar tr_er
+VIVOSDEV11_033|m_af ph_ar_i ch_e ch_ais owr t_aj_m b_ee_n h_oo_ng nh_af ch_a z_uooj_t
+VIVOSDEV11_036|t_ooi c_os th_eer c_aw_m z_aaj_n dd_ur th_ws
+VIVOSDEV11_038|m_af ph_ar_i ch_uyeer_n qw_a h_if_nh th_ws_c z_ao z_ij_ch
+VIVOSDEV11_046|dd_wf_ng b_ao z_owf dd_eer ch_o b_aas_t c_if ai n_ois v_owis b_aj_n z_awf_ng
+VIVOSDEV11_048|v_af_ng os_ng dd_ooi g_h_eej_t c_ao c_oor c_uar ng_wj l_aa_m qw_aa_n
+VIVOSDEV11_057|n_eeus v_if ch_us_ng t_ooi
+VIVOSDEV11_063|n_eeus b_aj_n v_aax_n c_ar_m th_aays t_ooij l_ooix
+VIVOSDEV11_075|z_aix z_aauf n_aws_ng z_os tr_wowf_ng s_ow_n
+VIVOSDEV11_076|v_owis tr_ee_n l_af n_uis v_af z_wowis l_af s_oo_ng
+VIVOSDEV11_077|v_owis s_wj s_uaas_t h_ieej_n c_uar qw_ais th_us v_af z_oof_ng
+VIVOSDEV11_079|n_es_t m_awj_t h_oj kh_oo_ng ng_owif l_ee_n h_aj_nh ph_us_c c_uar ng_wowif m_ej
+VIVOSDEV11_081|m_ooj_t s_oos ng_wowif ch_o z_awf_ng
+VIVOSDEV11_083|m_ooj_t s_i_nh v_iee_n dd_wowj_c v_ay v_oos_n t_is_n z_uj_ng h_oj_c t_aaj_p
+VIVOSDEV11_095|m_oij th_ws dd_eeuf dd_wowj_c m_oor s_er l_aij
+VIVOSDEV11_122|kh_oo_ng ph_ar_i n_aws_p kh_u_m
+VIVOSDEV11_123|c_as_c c_oo_ng t_i z_u l_ij_ch ph_ar_i s_as_c dd_ij_nh
+VIVOSDEV11_129|dd_i b_ooj l_eo n_uis dd_ees_n nh_wf ch_aa_n
+VIVOSDEV11_131|th_if ch_ur dd_aauf t_w ph_ar_i t_wj ph_as z_owx ph_aaf_n n_ooij z_u_ng s_ai ph_es_p dd_os
+VIVOSDEV11_136|kh_i nh_aa_n v_iee_n c_wus h_ooj c_oos g_aws_ng dd_wa n_os l_ee_n s_af l_a_n
+VIVOSDEV11_137|nh_wx_ng ng_wowif n_ayf dd_eeuf dd_wowj_c dd_aof t_aoj v_eef h_ooij h_oaj
+VIVOSDEV11_147|g_aws_n l_oo_ng ch_i_m h_ooj_t dd_as l_os_ng l_as_nh h_ay b_eof z_us_n t_uaf l_ua dd_aayf c_oor
+VIVOSDEV11_160|ng_uj aas_p h_of_n ng_a_ng
+VIVOSDEV11_164|is_t nh_aas_t owr h_ow_n b_a m_wowi tr_wowf_ng th_uooj_c c_as_c dd_iaj ph_wow_ng n_ois tr_ee_n
+VIVOSDEV11_182|dd_awj_c dd_ieer_m c_uar ph_aayr tr_uf_ng t_ar
+VIVOSDEV11_193|v_if b_a_n dd_ee_m ch_ij ng_ur kh_oo_ng ng_o_n
+VIVOSDEV11_198|l_ow l_wr_ng tr_ee_n dd_aauf l_af nh_wx_ng ch_iees_c b_aayx dd_as h_af_ng tr_aw_m kh_oois
+VIVOSDEV11_200|n_aw_m dd_aauf t_iee_n
+VIVOSDEV11_234|b_ayr m_wowi b_oos_n b_ayr m_wowi l_aw_m
+VIVOSDEV11_242|ch_is_n m_wowi ch_is_n m_wowi m_oos_t
+VIVOSDEV11_246|ch_is_n m_wowi t_as_m ch_is_n m_wowi ch_is_n
+VIVOSDEV11_252|b_aay z_owf c_wows_p nh_ieeuf qw_as dd_i dd_wowf_ng c_ux_ng th_aays s_owj
+VIVOSDEV11_262|t_if_m h_u_ng th_ur h_iees_p z_aa_m b_awf_ng n_wows_c b_oj_t n_aj_n nh_aa_n
+VIVOSDEV11_269|ch_us_ng t_ooi i_eeu nh_au dd_wowj_c h_ai n_aw_m th_if z_a dd_if_nh t_ooi s_ayr z_a ch_uyeej_n
+VIVOSDEV11_273|tr_oj_ng t_aif ph_aj_t th_er dd_or
+VIVOSDEV11_274|c_ieeur n_ayf ch_aws_c ph_ar_i c_aws_t z_ar_m b_iee_n ch_ees
+VIVOSDEV11_282|th_ooi th_if c_ws s_aws_p s_ees_p nh_w v_aayj
+VIVOSDEV11_289|th_eo ph_os ch_ur t_ij_ch uir b_a_n a_n t_oaf_n z_ao th_oo_ng qw_oos_c z_a
+VIVOSDEV11_298|ch_uaar_n b_ij ch_o ng_ayf kh_ai tr_wow_ng c_war h_af_ng dd_aauf t_iee_n
+VIVOSDEV12_006|t_wf s_wj z_w th_waf qw_as m_ws_c c_uar l_uoof_ng t_ieef_n n_ayf
+VIVOSDEV12_011|dd_os ch_ws_ng t_or z_awf_ng ch_us_ng t_a dd_ax z_af
+VIVOSDEV12_015|tr_ar l_aij dd_aas_t ch_o z_wf_ng
+VIVOSDEV12_032|c_as_c l_oaij c_aay tr_oof_ng owr z_wf_ng n_ayf t_oaf_n c_aay c_es_m z_as tr_ij
+VIVOSDEV12_054|th_ieeus s_wj qw_a_n t_aa_m dd_us_ng m_ws_c t_wf c_as_c c_ow qw_a_n ch_ws_c n_aw_ng
+VIVOSDEV12_056|t_aij ch_owj c_as
+VIVOSDEV12_057|kh_oo_ng ph_ar_i v_if t_ooi kh_oo_ng c_oi tr_oj_ng ch_aas_t l_wowj_ng
+VIVOSDEV12_065|th_if dd_oj_c dd_wowj_c h_ooif c_is kh_oo_ng th_eer ch_uooj_c l_ooix tr_ee_n b_aos t_uooir tr_er
+VIVOSDEV12_066|th_ieeus t_wows_ng ph_aj_m qw_is ng_oj ch_o b_iees_t
+VIVOSDEV12_068|kh_oo_ng m_ooj_t ch_us_t tr_aayf tr_uaj m_af dd_eef_n c_ais g_if
+VIVOSDEV12_071|n_os dd_wowj_c dd_awj_t tr_o_ng m_ooj_t h_ooj_p dd_wj_ng tr_a_ng s_ws_c b_oj_c z_a dd_or
+VIVOSDEV12_075|nh_os_m th_a_nh l_o_ng tr_er z_ieex_n t_ieeur ph_aar_m h_aif h_aws_c b_aj_ch tr_a_nh h_uf_ng
+VIVOSDEV12_076|t_ows dd_i c_iees_m nh_af tr_oj z_ooif nh_w_ng kh_os qw_as
+VIVOSDEV12_079|s_a_nh c_or m_wowj_t m_af v_e_n dd_wowf_ng
+VIVOSDEV12_080|ch_is_nh th_ws_c dd_ax l_aay l_a_n z_a b_ee_n ng_oaif
+VIVOSDEV12_100|ph_uj h_ui_nh v_af h_oj_c s_i_nh dd_a_ng ph_ar_i ef c_oor v_if s_as_ch z_as c_ao
+VIVOSDEV12_101|kh_i ch_is_nh ph_ur l_us_c dd_aauf dd_eef ng_ij aa_n s_as ch_o nh_wx_ng ng_wowif n_ooir z_aayj
+VIVOSDEV12_116|z_wowis as_nh dd_ef_n m_owf m_owf aor aor
+VIVOSDEV12_128|tr_o_ng c_uooj_c b_or ph_ieeus t_aij h_ooij dd_oof_ng b_aor a_n h_ai ng_ayf tr_wows_c dd_os
+VIVOSDEV12_132|h_aauf h_ees_t nh_wx_ng v_aas_n dd_eef s_ayr z_a tr_ee_n th_ees z_owis
+VIVOSDEV12_135|oo_ng dd_wowj_c nh_ieeuf ng_wowif b_iees_t dd_ees_n
+VIVOSDEV12_144|tr_ar l_owif t_ooi b_iees_t
+VIVOSDEV12_166|ij_ch g_ax t_o b_eos uj_c ij_ch
+VIVOSDEV12_169|aos z_as_ch l_wow_m b_wow_m
+VIVOSDEV12_173|dd_oois v_owis nh_wx_ng ph_ar_n ws_ng kh_as_c b_ieej_t dd_os
+VIVOSDEV12_182|v_af dd_ax h_iees_n m_aus b_a l_aaf_n
+VIVOSDEV12_186|t_iees_ng h_es_t dd_oof_ng th_a_nh c_uar m_aays ch_uj_c c_o_n ng_wowif
+VIVOSDEV12_192|tr_a_ng th_ws h_ai c_uar t_owf b_aos
+VIVOSDEV12_197|s_au dd_os b_af h_af_ng s_os_m t_is_nh t_if_nh s_owir l_owir ch_ayj qw_a c_eer v_owis t_ooi
+VIVOSDEV12_213|b_a m_wowi h_ai b_a m_wowi b_a
+VIVOSDEV12_223|n_aw_m m_wowi h_ai n_aw_m m_wowi b_a
+VIVOSDEV12_224|n_aw_m m_wowi b_oos_n n_aw_m m_wowi l_aw_m
+VIVOSDEV12_227|s_aus m_wowi s_aus m_wowi m_oos_t
+VIVOSDEV12_232|b_ayr m_wowi b_ayr m_wowi m_oos_t
+VIVOSDEV12_244|ch_is_n m_wowi b_oos_n ch_is_n m_wowi l_aw_m
+VIVOSDEV12_248|m_ooj_t b_a n_aw_m b_ayr ch_is_n
+VIVOSDEV12_271|b_af c_o_n z_a_ng tr_is c_af_nh dd_aof dd_eer ch_uaar_n b_ij dd_os_n t_ees_t
+VIVOSDEV12_275|t_ooi kh_oo_ng th_aays g_if l_af dd_us_ng kh_i t_aw_ng z_as s_e v_aof c_as_c z_ij_p t_ees_t
+VIVOSDEV12_280|z_u l_ij_ch s_ex tr_owr th_af_nh ng_af_nh c_i_nh t_ees m_uix nh_oj_n
+VIVOSDEV12_290|t_wf kh_i ch_oof_ng qw_a dd_owif v_if b_eej_nh t_aaj_t
+VIVOSDEV13_019|dd_ow_n v_ij m_if_nh kh_oo_ng ng_e ai n_ois g_if ch_wa h_awr_n dd_ax t_oos_t
+VIVOSDEV13_026|kh_oo_ng ai dd_wowj_c ng_wowj_c dd_aix c_as_c e_m v_if c_as_c e_m h_oj_c ch_aaj_m
+VIVOSDEV13_054|z_af l_af_ng ng_uyeex_n m_aj_nh t_wowf_ng tr_ar l_owif ph_or_ng v_aas_n b_aos z_owis ar_nh tr_u_ng z_aa_n
+VIVOSDEV13_058|dd_os l_af z_ai dd_oaj_n th_owif t_iees_t is_t b_iees_n dd_ooj_ng v_af nh_ieej_t dd_ooj kh_oo_ng qw_as th_aas_p
+VIVOSDEV13_061|nh_w_ng s_au ng_e c_o_n n_ois z_a n_ois v_aof l_aij as_c c_ar_m v_owis e_m
+VIVOSDEV13_069|nh_wx_ng dd_ieeus th_uoos_c v_oo is dd_oos_t ch_ays v_aif ch_oox tr_ee_n ch_iees_c s_oo ph_a b_oj_c v_ar_i
+VIVOSDEV13_075|b_aj_n c_os th_eer t_aws_t ch_wow_ng tr_if_nh dd_os dd_i v_af th_wj_c h_ieej_n th_ao t_as_c c_uoois c_uf_ng
+VIVOSDEV13_078|kh_aws_p n_owi qw_a_nh ch_us_ng t_ooi v_wow_ng v_aix s_as_c ch_ees_t c_uar ng_wowif z_aa_n v_oo t_ooij
+VIVOSDEV13_088|nh_wx_ng ch_iees_c l_oof_ng dd_ef_n dd_oof ch_owi v_ieej_t v_aax_n l_awj_ng l_ex m_a_ng h_oof_n v_ieej_t s_uoos_ng ph_oos
+VIVOSDEV13_089|nh_af v_aw_n ng_uyee_n ng_oj_c s_i_nh v_iee_n c_os qw_i_eef_n h_oaif ng_i v_af tr_a_nh c_aix
+VIVOSDEV13_097|c_uooj_c th_i c_of_n c_os h_ai z_ar_i nh_if b_a z_ar_i b_a v_af b_oos_n z_ar_i kh_uyees_n kh_is_ch
+VIVOSDEV13_098|h_aauf nh_w c_as_c ph_ar_n ws_ng ph_uj n_awj_ng n_eef l_af z_aas_t h_iees_m g_awj_p
+VIVOSDEV13_104|s_oos t_ieef_n qw_as l_ows_n kh_iees_n z_a dd_if_nh h_wow_ng ph_aj_m v_af l_ee ch_oas_ng v_as_ng
+VIVOSDEV13_105|nh_os_c dd_or m_awj_t t_ias t_ai nh_os_c th_ua ch_ij m_ooj_t t_uooir th_ooi dd_aays
+VIVOSDEV13_106|c_ar_m z_as_c dd_wowj_c ch_ia s_er v_owis b_aj_n dd_owif c_uf_ng s_owr th_is_ch th_us v_ij l_aws_m
+VIVOSDEV13_136|t_ooi v_aof qw_aayf z_ar_i kh_as_t dd_aauf t_iee_n v_af g_oij m_ooj_t c_oos_c n_wows_c c_a_m
+VIVOSDEV13_137|m_ej l_aaf_n t_ay tr_o_ng v_is v_af l_aays z_a ch_iees_c ph_o_ng b_if
+VIVOSDEV13_139|t_ieeu nh_w ph_o_ng ch_ayj tr_oos_n kh_oir c_i_nh th_af_nh dd_eer t_if_m h_u_ng th_ur th_aaj_t s_wj
+VIVOSDEV13_146|c_os ng_ayf c_as_c b_as_c s_ix dd_ieeuf z_wowx_ng m_oor m_aws_t ch_o h_af_ng tr_aw_m ng_wowif m_uf ng_eof
+VIVOSDEV13_147|kh_oo_ng ai m_uoos_n c_os t_ieeu c_wj_c c_ar v_af c_ux_ng dd_wf_ng t_uyeej_t dd_oois h_oas v_aas_n dd_eef
+VIVOSDEV13_150|v_owj h_aws_n th_ij ng_aaf_n m_a_ng l_wowis z_a v_as dd_eer ch_ieeuf th_ar
+VIVOSDEV13_164|h_ieej_n c_ow qw_a_n ch_ws_c n_aw_ng dd_a_ng t_iees_p t_uj_c dd_ieeuf tr_a v_uj v_ieej_c
+VIVOSDEV13_167|kh_i b_ij ph_as_t h_ieej_n h_oj dd_ax tr_ar l_owif nh_w th_ees n_aof
+VIVOSDEV13_210|z_af s_oas_t ch_aas_t l_wowj_ng c_oo_ng tr_if_nh s_aay z_wj_ng tr_ee_n c_ar n_wows_c
+VIVOSDEV13_211|kh_oo_ng n_ar_n ng_iax t_i_n z_awf_ng s_ex c_os m_ooj_t z_ar_i ph_as_p n_aof dd_os
+VIVOSDEV13_222|m_ej c_ux_ng dd_ax t_wf_ng th_oos_ng kh_oor t_uyeej_t v_oj_ng v_af c_oo dd_ow_n nh_w v_aayj
+VIVOSDEV13_225|h_ai l_oaij v_aw_n n_ayf n_ee_n dd_wowj_c c_oi tr_oj_ng nh_w nh_au tr_o_ng c_as_c c_if th_i
+VIVOSDEV13_226|v_aayj m_owis c_os m_uj_c t_ieeu dd_eer m_af ph_aas_n dd_aaus n_ee_n ng_wowif c_os is th_ws_c
+VIVOSDEV13_227|t_aij dd_aay c_os m_ooj_t oo_ng tr_wowr_ng ph_of_ng nh_aa_n s_wj c_oo_ng t_i
+VIVOSDEV13_230|ch_ir m_ooj_t dd_ieeuf dd_ow_n z_ar_n v_aayj m_af a_nh aays kh_oo_ng b_ao z_owf th_wj_c h_ieej_n dd_wowj_c
+VIVOSDEV13_239|ch_awr_ng c_aaf_n nh_if_n v_eef ph_wow_ng t_aay qw_ee h_wow_ng c_uar h_af_ng h_ieeuj
+VIVOSDEV13_241|m_uaf dd_oo_ng c_ar c_as_nh dd_oof_ng ch_uyeer_n s_a_ng m_ooj_t m_auf v_af_ng z_wj_c
+VIVOSDEV13_252|t_ooi h_oj_c c_uf_ng v_owis c_as_c a_nh ch_ij l_af_m v_ieej_c ch_uyee_n v_eef s_ar_n s_uaas_t ph_aaf_n m_eef_m
+VIVOSDEV13_255|c_os l_ex dd_aay l_af l_owif qw_ar_ng c_aos kh_oo_ng c_oo_ng h_ay nh_aas_t ch_o z_u l_ij_ch l_aof
+VIVOSDEV13_257|t_wf dd_os dd_ees_n n_ay z_a dd_if_nh ch_ij v_aax_n s_oos_ng tr_o_ng c_aw_n nh_af l_uj_p s_uj_p
+VIVOSDEV13_258|b_aj_n c_aaf_n tr_u_ng th_wj_c v_owis nh_aa_n v_iee_n c_uar m_if_nh tr_o_ng m_oij h_oaf_n c_ar_nh
+VIVOSDEV13_263|m_ooj_t s_oos dd_ieer_m n_wows_c ph_u_n dd_ees_n dd_aau b_ay h_owi h_ees_t dd_ees_n dd_os
+VIVOSDEV13_267|z_o v_aayj v_aas_n dd_eef kh_u tr_us kh_oos_ng ch_ees b_eej_nh t_ar h_ieej_n n_ay z_aas_t kh_os
+VIVOSDEV13_276|dd_os l_af c_aau h_oir m_af dd_ees_n n_ay v_aax_n ch_wa c_os c_aau tr_ar l_owif
+VIVOSDEV13_277|h_af n_ooij m_owr z_ooj_ng kh_u v_wj_c h_oof t_aay s_oo_ng h_oof_ng n_ee_n l_af kh_u v_wj_c t_ix_nh
+VIVOSDEV14_018|b_iee_n ch_ees n_ayf nh_af th_a_nh g_oij l_af a_n n_a_m qw_oos_c nh_aj_c
+VIVOSDEV14_022|h_ow_n l_af z_aax_n z_aws_t c_as_c e_m th_eo ch_ur is c_uar z_aos v_iee_n
+VIVOSDEV14_027|b_aj_n c_os th_eer th_a_m kh_aor m_ooj_t s_ow i_eeus l_is l_ij_ch dd_ieej_n t_wr s_au dd_aay
+VIVOSDEV14_035|nh_aj_c s_ix l_a h_oois v_owis c_a kh_us_c s_uaa_n v_af t_uooir tr_er
+VIVOSDEV14_079|v_aayj ai s_ex ch_iuj tr_as_ch nh_ieej_m v_eef nh_wx_ng tr_wowf_ng h_owj_p n_ayf
+VIVOSDEV14_080|t_ui ph_ias tr_wows_c c_of_n v_oo v_af kh_os kh_aw_n dd_oois v_owis c_o_n
+VIVOSDEV14_085|b_oos_n n_aw_m tr_owif b_ij c_aa_m m_ooj_t m_if_nh v_owis b_os_ng m_if_nh nh_ieeuf ph_e_n oaf kh_os_c
+VIVOSDEV14_086|e_m s_owj m_aas_t a_nh aays nh_w_ng l_aij c_ar_m th_aays m_if_nh b_ij s_us_c ph_aj_m
+VIVOSDEV14_093|tr_of dd_uaf dd_oois v_owis th_aayf nh_w_ng l_aij l_af ch_aa_n th_aaj_t ch_aa_n th_aaj_t v_owis m_ooj_t ng_wowif
+VIVOSDEV14_104|dd_os l_af nh_aaj_n s_es_t ch_u_ng c_uar nh_ieeuf t_oor_ng z_as_m dd_oos_c dd_ieeuf h_af_nh ng_ayf n_ay
+VIVOSDEV14_108|ng_wowif ph_as_p dd_ax dd_oof_ng is v_owis c_as_ch qw_ar_n l_is l_ix_nh v_wj_c z_af_nh z_iee_ng
+VIVOSDEV14_113|h_aws_n th_ay dd_ooir l_aaf_m l_if s_au kh_i th_eo z_a dd_if_nh dd_ees_n s_ws ng_wowif
+VIVOSDEV14_114|i_eeus t_oos h_aas_p z_aax_n m_owis th_u h_us_t dd_aauf t_w n_wows_c ng_oaif v_aof v_ieej_t n_a_m
+VIVOSDEV14_115|v_aayj m_af z_owf dd_aay n_os kh_oo_ng dd_owij dd_wowj_c dd_ees_n l_us_c h_ui v_eef
+VIVOSDEV14_116|m_ooj_t g_os_c c_aau c_as tr_ee_n c_aauf s_aif g_of_n ar_nh m_ai v_i_nh
+VIVOSDEV14_123|m_ooj_t v_aif ng_wowif tr_o_ng b_oj_n h_oj dd_wa m_aws_t nh_if_n m_ar_nh z_aays
+VIVOSDEV14_134|nh_w_ng tr_wows_c dd_aay nh_if_n t_wf b_ee_n ng_oaif n_owi n_ayf kh_oo_ng kh_as_c m_ooj_t c_aw_n nh_af h_oa_ng
+VIVOSDEV14_140|c_os nh_w_ng ph_ar_i l_af th_uoos_c dd_awj_c tr_ij c_uar ph_as_p h_iees_m v_af c_wj_c c_if dd_aws_t
+VIVOSDEV14_145|m_ooj_t s_oos b_aj_n tr_er c_ux_ng c_os is ng_ix nh_w c_ao c_wowf_ng
+VIVOSDEV14_151|t_ooi dd_ax c_os th_owif z_a_n t_uyeej_t v_owif kh_i ch_owi ch_o dd_ooij t_uyeer_n
+VIVOSDEV14_156|th_ir_nh th_oar_ng c_o_n dd_i qw_a z_wf_ng l_aij z_wj_ng s_e ng_ooif h_us_t th_uoos_c
+VIVOSDEV14_163|ch_us b_ooj dd_ooij qw_a nh_wx_ng c_aau ch_uyeej_n c_uar oo_ng m_owis g_aaf_n g_uix l_af_m s_ao
+VIVOSDEV14_180|aw_n c_as ng_wf c_as th_u v_af c_as m_oif v_owis z_au tr_ooj_n
+VIVOSDEV14_186|c_os b_awf_ng th_aj_c s_ix nh_wx_ng ng_af_nh tr_ee_n l_af m_ooj_t l_owij th_ees
+VIVOSDEV14_191|m_i_nh nh_aaj_t h_oof_ng qw_aa_n v_ux c_oo_ng th_af_nh s_wu t_aaf_m t_wf b_aos n_wows_c ng_oaif
+VIVOSDEV14_194|m_uoos_n c_os b_awf_ng l_ais ph_ar_i qw_a m_ooj_t dd_owj_t th_i z_aas_t kh_aws_t kh_e
+VIVOSDEV14_195|i_eeu nh_au kh_oar_ng v_aif th_as_ng th_if ch_us_ng t_ooi dd_ax c_os qw_a_n h_eej t_if_nh z_uj_c
+VIVOSDEV14_199|kh_os s_ao z_uyee_n z_as_m ch_o a_nh uoos_ng z_wowuj tr_o_ng dd_as_m c_wowis
+VIVOSDEV14_225|oo_ng z_wow_ng dd_ws_c l_aa_n ph_os t_oor_ng c_uj_c tr_wowr_ng t_oor_ng c_uj_c z_ayj ng_eef
+VIVOSDEV14_227|dd_oois s_wr v_owis b_aj_n nh_w ng_wowif i_eeu c_ux c_uar b_aj_n dd_ax t_wf_ng l_af_m
+VIVOSDEV14_235|th_a_m z_a th_iees_t c_ees l_aw_ng ch_ur t_ij_ch h_oof ch_is m_i_nh th_if c_os nh_ieeuf ng_wowif
+VIVOSDEV14_236|v_if v_aayj c_oo_ng t_i b_ee ph_ar_i c_os tr_as_ch nh_ieej_m b_ooif th_wowf_ng
+VIVOSDEV14_256|n_oo_ng z_aa_n tr_oof_ng m_ias th_a_n c_ws m_ooj_t v_uj dd_wowj_c l_aij b_a v_uj th_aas_t
+VIVOSDEV14_280|th_if ng_wowif s_e_m c_ux_ng dd_wowj_c n_aa_ng c_ao c_iees_n th_ws_c v_eef dd_iaj l_is
+VIVOSDEV14_283|ng_ayf s_wa c_as_c c_uj l_af_m b_iaf s_as_ch l_af m_i_nh h_oaj ch_o c_uoos_n s_as_ch dd_os
+VIVOSDEV14_285|t_ooi dd_ax nh_ieeuf l_aaf_n ph_ar_n dd_oois qw_i_ees_t l_ieej_t v_ieej_c n_wows_c th_ar_i t_uoof_n z_a ng_oaif
+VIVOSDEV14_286|nh_ieeuf z_a dd_if_nh h_ieej_n n_ay th_is_ch t_wj z_owis th_ieeuj ch_wow_ng tr_if_nh
+VIVOSDEV14_289|t_ooi l_af m_ooj_t ng_wowif m_ieef_n t_aay dd_a_ng l_af ng_iee_n c_wus s_i_nh owr m_ix
+VIVOSDEV14_291|c_af_ng dd_i s_aau v_aof b_ee_n tr_o_ng c_ar_nh tr_is th_iee_n nh_iee_n c_af_ng h_uf_ng v_ix
+VIVOSDEV14_294|m_o_ng b_aj_n b_if_nh t_aa_m s_ui ng_ix v_af ch_oj_n dd_wowj_c c_as_ch z_ar_i qw_i_ees_t t_oos_t nh_aas_t
+VIVOSDEV15_003|dd_ieeuf n_ayf kh_os h_ow_n kh_i b_aj_n v_aof b_af_n t_ieej_c t_oaf_n ng_wowif s_a l_aj
+VIVOSDEV15_013|c_ux_ng dd_eeuf tr_o_ng t_w th_ees ng_ox nh_or ph_oos nh_or ph_owr t_ooi owr dd_os
+VIVOSDEV15_014|th_af_nh m_ooj_t ch_iees_c l_oof_ng dd_ef_n kh_oor_ng l_oof t_aij c_oo_ng v_iee_n owr th_ur dd_oo b_aws_c c_i_nh
+VIVOSDEV15_020|c_aau ch_uyeej_n c_uar qw_as kh_ws oo_ng c_eer kh_oo_ng b_iees_t b_ao nh_ieeu l_aaf_n
+VIVOSDEV15_021|m_auf s_o_n tr_oo_ng th_aaj_t t_uyeej_t tr_ee_n b_aas_t c_if m_auf z_a n_aof
+VIVOSDEV15_026|oo_ng aw_n ch_ay m_af ng_ix m_awj_n th_if aw_n ch_ay l_af_m ch_i
+VIVOSDEV15_037|tr_ee_n c_ow s_owr dd_os nh_wx_ng h_af_nh v_i v_i ph_aj_m s_ex dd_wowj_c s_wr l_is ng_iee_m
+VIVOSDEV15_038|m_ooj_t c_ow qw_a_n ch_is_nh th_ws_c dd_eer kh_as_ch h_af_ng kh_ieeus n_aij th_a_m kh_aor v_af t_i_n t_wowr_ng
+VIVOSDEV15_047|m_ooj_t t_if_nh h_uoos_ng ws_ng s_wr s_w ph_aj_m t_ooi l_af_m b_ooj t_ir_nh z_uij dd_wowj_c c_oo z_uyeej_t
+VIVOSDEV15_050|ch_awr_ng l_ex aw_n c_ow_m nh_af ng_wowif m_af l_aij kh_oo_ng ch_aw_m ch_us l_aws_ng ng_e ng_wowif n_ois
+VIVOSDEV15_062|ng_iax l_af n_eeus b_aj_n dd_a_ng l_af_m v_ieej_c z_wowis qw_i_eef_n m_ooj_t z_as_m s_as_t v_iee_n
+VIVOSDEV15_066|c_ex_m c_os nh_ieeuf tr_o_ng g_a_n s_of th_ij_t dd_or c_as os_c tr_ws_ng
+VIVOSDEV15_092|u_ng th_w t_wf m_ooj_t c_ow qw_a_n kh_as_c z_i c_aw_n v_aof h_eej th_oos_ng h_aj_ch b_aj_ch h_uyees_t
+VIVOSDEV15_109|c_uooj_c th_i t_wj h_aof s_wr v_ieej_t dd_ax h_ees_t z_ai dd_oaj_n i
+VIVOSDEV15_111|c_uooj_c b_ieeur t_if_nh c_uar aos dd_or c_os th_eer s_ex b_iees_n th_af_nh b_aoj l_wj_c
+VIVOSDEV15_117|tr_ee_n th_wj_c t_ees m_ooj_t c_uooj_c dd_ieeuf tr_a dd_ax dd_wowj_c t_iees_n h_af_nh
+VIVOSDEV15_121|tr_ar_i z_aif h_af_ng ch_uj_c c_aay s_oos dd_eeuf th_u g_oj_n v_aof t_aaf_m m_aws_t
+VIVOSDEV15_137|th_ar_n nh_iee_n z_as dd_os th_if ch_ir c_os th_eer l_af_m v_aayj th_ooi
+VIVOSDEV15_147|b_aws_t dd_aauf c_uooj_c ch_ayj dd_ua m_uaf c_i_nh z_oa_nh t_ees_t z_wax b_as_nh n_ooij v_af b_as_nh ng_oaij
+VIVOSDEV15_154|c_ais nh_af h_as_t b_ij dd_aaj_p t_a_n t_af_nh oo_ng kh_oais l_aws_m af
+VIVOSDEV15_168|m_aa_m c_ow_m v_aax_n th_a_nh dd_aj_m t_ur aos c_uar v_owj c_ux_ng ch_ir v_aif b_ooj dd_ow_n s_ow
+VIVOSDEV15_173|h_if_nh th_ws_c c_ir l_uaaj_t n_aof c_ux_ng ch_ir c_os t_is_nh dd_ij_nh h_wows_ng z_aw_n dd_e
+VIVOSDEV15_180|h_ieej_n n_ay b_af dd_a_ng b_ij nh_ieeuf b_eej_nh v_af s_oos_ng z_wowis m_ws_c ng_eof kh_oor
+VIVOSDEV15_194|n_awf_m tr_ee_n z_wowf_ng g_aaf_n c_ar th_as_ng b_aas_t z_as_c t_ooi c_ar_m th_aays m_if_nh th_aaj_t c_oo dd_ooj_c
+VIVOSDEV15_198|nh_ar_m nh_is kh_i z_owf h_oj_c ch_as_n ph_eof b_uoof_n ng_ur qw_as owf b_uoof_n ng_ur
+VIVOSDEV15_200|n_ois ch_uyeej_n m_ooj_t h_ooif oo_ng l_af_m b_ooj dd_eer t_ay l_ee_n t_ay e_m tr_ee_n c_aaf_n s_oos
+VIVOSDEV15_203|c_of_n a_nh tr_ai t_ooi tr_o_ng nh_aaj_t c_is c_uar m_if_nh c_ux_ng l_i_nh c_ar_m dd_ieeuf dd_os
+VIVOSDEV15_204|s_as_ng ch_us_ng t_ooi t_aj_m b_ieej_t th_u_ng n_ai v_af nh_wx_ng ch_ur nh_aa_n m_ees_n kh_as_ch m_ooj_c m_aj_c
+VIVOSDEV15_208|m_aays ng_ayf dd_aauf th_uis h_af ph_ar_i nh_owf c_i_m z_aax_n dd_i z_owis th_ieeuj tr_wowf_ng
+VIVOSDEV15_209|h_oj th_is_ch ng_i v_owis v_aw_n h_oas c_oo_ng t_i nh_w th_ees n_aof
+VIVOSDEV15_213|m_oo h_if_nh c_aaus tr_us_c ch_ws_c n_aw_ng v_af kh_oa h_oj_c s_ax h_ooij m_a_ng t_is_nh z_aos z_uj_c
+VIVOSDEV15_216|v_af b_aj_n c_aaf_n c_os v_ieej_c l_af_m oor_n dd_ij_nh v_owis th_u nh_aaj_p c_ao
+VIVOSDEV15_220|dd_aay l_af th_as_ng c_os s_oos dd_aw_ng c_is th_aas_p nh_aas_t t_wf dd_aauf n_aw_m dd_ees_n n_ay
+VIVOSDEV15_239|th_aaj_t z_a th_if c_ux_ng kh_oo_ng th_eer l_af_m c_aauf c_if nh_w owr nh_af dd_wowj_c
+VIVOSDEV15_253|v_ar l_aij th_eo qw_i ch_ees dd_aay l_af tr_as_ch nh_ieej_m c_uar m_ooix th_is s_i_nh
+VIVOSDEV15_255|c_oo_ng nh_aa_n dd_a_ng th_i c_oo_ng h_ai nh_as_nh c_aauf z_aj_ch ch_iees_c ar_nh th_uaaj_n th_aws_ng
+VIVOSDEV15_265|h_oj kh_oo_ng b_iees_t ch_owi ph_of_ng ng_wj l_af g_if tr_wf kh_i b_ij dd_oois th_ur v_aay es_p
+VIVOSDEV15_267|c_uoois c_uf_ng h_oj z_aax_n nh_au v_eef nh_af v_owis th_us_ng l_af_n kh_oo_ng
+VIVOSDEV15_271|ph_i_m m_owis c_uar tr_wow_ng ng_eej m_wu s_wj tr_owr l_aij z_of_ng ph_i_m ng_eej th_uaaj_t
+VIVOSDEV15_299|c_of_n h_af_ng tr_aw_m ch_iees_c kh_as_c dd_ax b_as_n th_if oo_ng kh_oo_ng nh_ows h_ees_t
+VIVOSDEV16_026|c_uf_ng v_owj aw_n v_ooij ch_es_n c_ow_m th_af_nh l_aij l_o oo_n b_aif l_af_m b_aif t_aaj_p
+VIVOSDEV16_033|dd_ooij n_aof th_af_nh t_is_ch c_af_ng c_ao th_if qw_ar_n l_is c_af_ng kh_os
+VIVOSDEV16_048|ph_ar_i ch_aw_ng s_aay z_wj_ng n_ieef_m t_i_n v_aof t_if_nh i_eeu kh_os th_ees
+VIVOSDEV16_049|c_of_n b_a c_aauf th_ur v_aw_n tr_wow_ng b_aaj_t h_ieeus v_af h_ar_i l_aa_m th_if s_ao th_wa oo_ng
+VIVOSDEV16_050|th_as_ng b_ayr nh_ieeuf ng_wowif c_o_n kh_os_c n_ee_n tr_owif b_uoof_n v_af kh_os_c th_eo
+VIVOSDEV16_051|c_a kh_us_c dd_wowj_c kh_as_n z_ar i_eeu th_is_ch nh_aas_t b_af t_ooi ng_uyeex_n v_ix_nh t_iees_n
+VIVOSDEV16_058|dd_aauf t_w t_ieeu z_uf_ng v_af s_uaas_t kh_aaur dd_eeuf s_ex t_aw_ng m_aj_nh
+VIVOSDEV16_059|dd_oof c_oor kh_oo_ng c_oo_ng kh_ai ng_uoof_n g_oos_c ph_ar_i b_ij c_oi l_af h_af_ng z_ar
+VIVOSDEV16_064|t_wf_ng l_af ch_ur t_ees h_af_ng tr_aw_m l_eex a_n t_as_ng m_ooj z_os
+VIVOSDEV16_067|h_if_nh nh_w kh_oo_ng c_os c_ar m_ooj_t tr_o_ng h_ai t_aif v_af dd_ws_c
+VIVOSDEV16_068|b_ee_n c_aj_nh dd_os ch_us_ng t_ooi c_of_n l_af_m h_af_ng l_oaj_t v_ieej_c kh_as_c nh_w
+VIVOSDEV16_074|ch_us_ng n_os i_eeu nh_au z_aas_t t_wj nh_iee_n g_h_es_t nh_au c_ux_ng z_aas_t t_wj nh_iee_n
+VIVOSDEV16_079|t_aas_t c_ar dd_eer ch_o ng_wowif b_eej_nh v_af th_aa_n nh_aa_n h_aif l_of_ng kh_i dd_ees_n b_eej_nh v_ieej_n
+VIVOSDEV16_101|t_ooi kh_ex ch_ows_p m_aws_t v_af th_aaf_m c_aauf ng_uyeej_n s_i_n ch_uas z_us_p c_o_n
+VIVOSDEV16_112|l_us_c h_w_ng ph_aas_n n_ois ch_uyeej_n ph_os_ng l_ao ch_awr_ng c_os ch_i ph_ws_c t_aj_p
+VIVOSDEV16_120|s_ex l_af_m ch_us_ng t_a ng_ur kh_oo_ng dd_ur kh_oo_ng dd_us_ng qw_i l_uaaj_t
+VIVOSDEV16_149|c_os b_ao z_owf oo_ng g_awj_p t_if_nh h_uoos_ng kh_oo_ng tr_ar l_owif dd_wowj_c c_aau h_oir c_uar z_aa_n
+VIVOSDEV16_153|c_ar dd_owif ch_wa b_ao z_owf t_ooi c_os c_ar_m z_as_c s_u_ng s_wows_ng nh_w v_aayj
+VIVOSDEV16_154|is_t c_os c_ow h_ooij s_oos_ng s_os_t ch_o c_as_c h_af_nh kh_as_ch tr_ee_n m_ays b_ay
+VIVOSDEV16_161|tr_u_ng qw_oos_c dd_wa z_a h_if_nh ph_aj_t c_uj th_eer dd_oois v_owis t_ooij th_a_m nh_ux_ng
+VIVOSDEV16_168|h_ai ch_aus ng_aj_c nh_iee_n dd_os_n kh_as_ch l_aj s_u_ng s_wows_ng oo_m c_awj_p m_owis
+VIVOSDEV16_173|nh_w_ng c_oo qw_i_ees_t ch_ws_ng m_i_nh ng_wowif m_uf kh_oo_ng ph_ar_i v_oo z_uj_ng
+VIVOSDEV16_175|h_oj dd_ax tr_ao nh_au l_owif h_ej_n wows_c n_ee_n z_uyee_n ch_oof_ng v_owj
+VIVOSDEV16_177|n_eeus th_ir_nh th_oar_ng c_os v_aif ng_ayf ng_ir ng_wowif th_uij dd_ieer_n th_wowf_ng z_a dd_aor ch_owi
+VIVOSDEV16_182|nh_wx_ng ng_wowif c_oo l_aaj_p m_if_nh c_os th_eer g_awj_p ph_ar_i ch_ws_ng tr_aaf_m c_ar_m h_oawj_c l_o l_aws_ng
+VIVOSDEV16_193|th_wj_c t_ees v_ai tr_of c_uar b_aj_n v_af ng_wowif ph_or_ng v_aas_n dd_oois ch_ieeus nh_au
+VIVOSDEV16_196|s_wj z_us_p dd_owx c_uar b_af l_af v_oo c_uf_ng qw_is b_aus ch_o ch_us_ng t_ooi
+VIVOSDEV16_197|nh_af tr_wowf_ng dd_ooj_t ng_ooj_t h_uir dd_eef t_aif kh_iees_n t_ooi m_aas_t ph_wow_ng h_wows_ng
+VIVOSDEV16_198|c_as_c ph_aaj_t t_wr h_wowr_ng ws_ng l_owif c_eeu g_oij c_uar th_aayf nh_w th_ees n_aof
+VIVOSDEV16_203|v_aayj nh_wx_ng dd_oois t_wowj_ng n_ayf s_ex dd_wowj_c z_ar_i qw_i_ees_t nh_w th_ees n_aof
+VIVOSDEV16_228|s_e_n c_ex z_wax nh_wx_ng m_af_n b_ieeur z_ieex_n l_af nh_wx_ng ph_us_t v_ui ch_owi t_aaj_p th_eer
+VIVOSDEV16_233|s_as_ng z_a th_aays z_aa_n t_if_nh s_us_m qw_a_nh c_o_n t_ee z_as_c kh_oor_ng l_oof dd_ax ch_ees_t
+VIVOSDEV16_239|v_af m_ooj_t dd_ieeuf s_aau s_a l_af m_if_nh dd_ax th_aaj_t s_wj i_eeu b_aj_n
+VIVOSDEV16_247|nh_ieeuf h_oo_m m_wa z_os b_as_n ees g_as_nh ch_ef n_awj_ng tr_iux tr_ee_n v_ai m_ej
+VIVOSDEV16_266|ph_ias z_wowis v_af s_u_ng qw_a_nh c_eej l_af n_wows_c b_aar_n l_ee_nh l_as_ng ch_ayr qw_a
+VIVOSDEV16_267|t_ooi dd_ws_ng tr_wows_c h_ai l_oois z_ex v_af t_ooi ch_oj_n c_o_n dd_wowf_ng is_t ng_wowif dd_i h_ow_n
+VIVOSDEV16_273|ch_us_ng t_ooi dd_ax dd_ieeuf tr_a nh_wx_ng tr_wowf_ng h_owj_p c_os ng_i v_aas_n z_a_n z_oois
+VIVOSDEV16_279|v_aayj ch_wf_ng n_aof m_owis t_owis s_i_n l_ooix nh_aa_n z_aa_n t_aaj_p c_uoois
+VIVOSDEV16_298|h_oo_m n_aof t_a_n c_a s_ows_m h_aj_nh dd_wowj_c z_ao nh_ieej_m v_uj dd_i ch_owj ch_o b_wax t_oois
+VIVOSDEV16_299|v_aof dd_wowj_c nh_af a_nh dd_aays s_war c_war dd_i ng_ui h_ieer_m dd_aays
+VIVOSDEV17_011|z_ooif m_awj_c z_uf b_iees_t l_af ng_ows ng_aar_n t_ooi c_ws n_ois z_a
+VIVOSDEV17_024|z_iee_ng oo_ng ng_uyeex_n v_aw_n b_a b_ij g_oox dd_ef z_aaj_p s_oj n_aox ch_ees_t ng_ay t_aij ch_oox
+VIVOSDEV17_032|m_ooix ng_wowif n_owr m_ooj_t n_uj c_wowif v_owis nh_wx_ng is ng_iax kh_as_c nh_au
+VIVOSDEV17_043|z_o v_aayj s_ex ar_nh h_wowr_ng t_owis v_ieej_c th_u s_os_ng v_oo t_uyees_n
+VIVOSDEV17_048|ph_i_m ch_ieeus ng_uyee_n b_ar_n t_iees_ng ph_as_p c_os ph_uj dd_eef t_iees_ng v_ieej_t
+VIVOSDEV17_060|b_os_ng m_auf s_a_nh l_af v_uf_ng t_aa_m b_aox c_os th_eer dd_i qw_a
+VIVOSDEV17_062|s_au m_ooj_t ng_ayf l_ao dd_ooj_ng c_aw_ng m_eej_t b_aj_n wu t_iee_n ch_oj_n
+VIVOSDEV17_070|h_af c_ux_ng ch_awr_ng nh_ows m_if_nh c_os n_ois h_ay kh_oo_ng dd_eer c_aix l_aij oo_ng aays
+VIVOSDEV17_071|b_ar_n th_aa_n t_ooi c_ux_ng th_a_m z_a m_ooj_t v_ai z_aas_t nh_or n_wax
+VIVOSDEV17_077|h_oo_m s_au m_owr m_ays th_aays c_ais tr_uyeej_n dd_ax t_wj h_oaf_n ch_ir_nh z_ooif
+VIVOSDEV17_090|b_aay z_owf th_if dd_as_ng dd_wowj_c kh_e_n l_af th_oo_ng m_i_nh ch_ws h_ar
+VIVOSDEV17_099|ch_ij t_if_m nh_af ch_o e_m owr tr_oj ng_ay c_oor_ng tr_wowf_ng ch_ij h_oj_c
+VIVOSDEV17_100|dd_ees_n dd_af l_aj_t b_aj_n ph_ar_i ch_uaar_n b_ij dd_ooi ch_aa_n dd_eer dd_i b_ooj
+VIVOSDEV17_107|h_oj dd_wowj_c b_oj_n dd_aauf n_aauj nh_wx_ng t_ay tr_uf_m th_uee v_owis z_as z_er m_aj_t
+VIVOSDEV17_109|m_ooj_t b_af s_a_ng tr_oj_ng dd_ees_n g_awj_p b_as_c s_ix tr_er kh_as_m b_eej_nh b_as_c s_ix h_oir
+VIVOSDEV17_114|nh_aa_n l_wj_c ng_af_nh th_iees_t c_ees dd_oof h_oaj dd_aws_t z_as v_af kh_a_n h_iees_m
+VIVOSDEV17_120|s_au dd_os b_ar_n th_aa_n h_oj_c s_i_nh ph_ar_i l_af_m dd_ow_n s_i_n h_oj_c b_oor_ng
+VIVOSDEV17_133|ch_ir c_os th_wj_c ph_aar_m m_owis z_us_p b_aj_n l_af_m dd_wowj_c v_ieej_c n_ayf
+VIVOSDEV17_147|v_owis c_as_c z_as_t m_auf c_af ph_ee s_wax kh_oo_ng c_aaf_n dd_ieeuf tr_ij
+VIVOSDEV17_169|h_oj b_aor t_ooi z_oos_ng ng_wowif h_af_n th_if t_ooi l_aij th_aays h_oj z_oos_ng ng_wowif v_ieej_t
+VIVOSDEV17_170|v_af dd_ooij t_uyeer_n ph_as_p dd_a_ng l_af dd_ooij ch_iees_m wu th_ees h_ow_n s_o v_owis th_uij s_ix
+VIVOSDEV17_173|tr_if_nh dd_ooj ch_uyee_n m_oo_n c_uar c_oo kh_iees_n c_oo qw_as th_waf t_w c_as_ch
+VIVOSDEV17_181|nh_wx_ng c_aau h_oir tr_ee_n s_ex z_us_p b_aj_n l_af_m dd_wowj_c dd_ieeuf n_ayf
+VIVOSDEV17_189|v_aax_n c_of_n nh_w_ng b_aj_n kh_oo_ng z_as_m ch_aws_c h_oj c_os h_aj_nh ph_us_c h_ay kh_oo_ng
+VIVOSDEV17_192|dd_os c_ux_ng l_af s_wj t_iees_p s_us_c g_aaf_n g_uix nh_aas_t c_uar b_oj_n e_m
+VIVOSDEV17_204|e_m h_ayx t_ir_nh t_aos m_af t_if_m nh_wx_ng dd_ij_nh h_wows_ng t_oos_t h_ow_n ch_o t_wow_ng l_ai
+VIVOSDEV17_208|nh_w_ng ch_awr_ng c_os dd_ieer_m s_ar_n s_uaas_t n_aof z_uf_ng b_aj_t ph_ur ch_e ch_aws_n
+VIVOSDEV17_212|c_os m_aays ng_wowif dd_uj_ng ph_ar_i n_os s_u_is_t ng_ax ch_uis s_uoos_ng dd_wowf_ng
+VIVOSDEV17_213|dd_oaf_n dd_i th_uyeef_n dd_ees_n m_ooj_t kh_u l_af_ng z_aa_n t_ooj_c th_ieeur s_oos
+VIVOSDEV17_217|th_if h_owj_p dd_oof_ng th_ees ch_aas_p n_ayf c_ux_ng kh_oo_ng c_os z_as tr_ij ph_as_p l_is
+VIVOSDEV17_239|b_a t_ooi h_ax_nh z_ieej_n n_ois ch_uyeej_n v_owis s_oos h_oj_c s_i_nh c_uf_ng l_ee_n s_e dd_of
+VIVOSDEV17_241|m_ooj_t a_nh tr_ai t_uaas_n dd_a_ng ng_ooif t_uf v_if t_ooij z_ees_t ng_wowif
+VIVOSDEV17_245|dd_wowj_c b_ayf tr_ee_n nh_wx_ng b_eej th_owf b_ee_n c_aj_nh nh_wx_ng b_os s_e_n h_ueej th_ow_m n_ws_c
+VIVOSDEV17_254|c_as_c b_wows_c s_au dd_aay s_ex z_us_p b_aj_n t_if_m z_a ws_ng c_wr v_iee_n th_is_ch h_owj_p
+VIVOSDEV17_268|v_if ch_us_ng c_os th_eer l_af_m z_aw_ng c_uar b_aj_n z_eex b_ij oos v_af_ng
+VIVOSDEV17_271|z_ar_i nh_aas_t h_ui ch_wow_ng v_af_ng th_uooj_c v_eef nh_af nh_iees_p ar_nh c_uar c_ooj_ng h_oaf s_es_c
+VIVOSDEV17_285|dd_eer s_i_n th_ij th_wj_c c_oo_ng t_as_c v_eef c_ow b_ar_n b_aj_n ph_ar_i c_os
+VIVOSDEV17_288|t_ooi n_aws_m b_af_n t_ay s_wa b_a t_ooi t_wf_ng th_wow_ng i_eeu dd_au s_os_t c_aaf_m z_wx
+VIVOSDEV17_297|tr_o_ng z_of_ng th_as_c ng_wowif ch_ir nh_if_n dd_wowj_c m_aws_t c_is_nh v_af kh_aaur tr_a_ng
+VIVOSDEV17_299|kh_ai m_aj_c tr_ieer_n l_ax_m qw_i m_oo l_ows_n v_eef tr_a_nh s_ow_n m_aif v_ieej_t n_a_m
+VIVOSDEV18_006|kh_oo_ng n_ee_n ch_ir z_waj v_aof b_aif v_iees_t c_uar b_aj_n dd_eer th_uyees_t m_i_nh th_ee_m
+VIVOSDEV18_012|v_af z_aos z_uj_c c_o_n ng_wowif tr_owr th_af_nh v_ieej_c l_uyeej_n tr_is nh_ows
+VIVOSDEV18_017|t_ui nh_iee_n h_owj_p dd_oof_ng n_ayf ch_ir c_os z_as tr_ij tr_o_ng nh_wx_ng ng_ayf b_if_nh th_wowf_ng
+VIVOSDEV18_021|v_aas_n dd_eef dd_awj_t z_a owr dd_aay l_af l_af_m th_ees n_aof dd_eer
+VIVOSDEV18_051|nh_w_ng nh_ieeuf z_u kh_as_ch th_aays th_aas_t v_oj_ng kh_i l_ee_n dd_ees_n n_owi
+VIVOSDEV18_056|tr_ee_n m_awj_t ai c_ux_ng c_os kh_aw_n t_ay kh_aaur tr_a_ng ch_e m_ieej_ng
+VIVOSDEV18_060|c_af_ng ng_ayf m_if_nh c_af_ng ng_ix nh_ieeuf v_eef c_oo_ng v_ieej_c z_ar_ng z_ayj
+VIVOSDEV18_064|t_aas_t nh_iee_n h_oas dd_ow_n t_ieef_n n_wows_c c_ux_ng c_ef_m l_uoo_n kh_oar_n t_ieef_n
+VIVOSDEV18_065|ch_us_c b_aj_n dd_oj_c c_os th_aaj_t nh_ieeuf th_owif z_a_n th_w z_ax_n th_oair m_ais
+VIVOSDEV18_082|h_af_ng ch_aa_n m_ayf dd_e_n v_af s_ees_ch kh_oo_ng l_aax_n v_aof dd_aau dd_wowj_c
+VIVOSDEV18_102|c_ar ng_ayf tr_owif kh_oo_ng n_aws_ng z_os l_aj_nh n_ee_n th_wa v_aws_ng z_u kh_as_ch
+VIVOSDEV18_114|l_af_m dd_wowj_c h_ees_t kh_oois c_oo_ng v_ieej_c aays l_af m_ooj_t n_oox l_wj_c z_aas_t l_ows_n
+VIVOSDEV18_118|ng_wowif aw_n s_i_n th_wa b_af ng_ayf th_wowf_ng th_if b_af ch_o g_if c_ux_ng dd_wowj_c
+VIVOSDEV18_120|b_aj_n kh_oo_ng b_ao z_owf z_a ng_oaif m_af kh_oo_ng z_uf_ng c_e_m l_os_t
+VIVOSDEV18_126|v_aif l_aaf_n tr_ieer_n l_ax_m tr_a_nh t_wowj_ng kh_oo_ng l_owif nh_w th_ees h_aws_n s_ex nh_aaj_n z_a
+VIVOSDEV18_155|ng_wowif dd_af_n oo_ng tr_ee_n z_wowf_ng th_if_nh l_if_nh z_ee_n l_ee_n m_ooj_t t_iees_ng z_ooif m_owr m_aws_t
+VIVOSDEV18_171|t_oois qw_a ng_wowif t_a dd_ees_n b_aws_t t_ooi z_wax dd_ee_m h_oo_m kh_uya kh_oaws_t
+VIVOSDEV18_183|b_aor th_awf_ng qw_i_ees_t n_os b_aws_t c_o_n g_af s_oos_ng n_aau m_af th_ij_t
+VIVOSDEV18_191|v_ij b_as_c s_ix h_ieef_n l_af_nh aays c_os nh_wx_ng l_is th_uyees_t tr_oof_ng c_aay th_aaj_t th_us v_ij
+VIVOSDEV18_192|nh_wx_ng c_ieeur v_ees_t th_wow_ng m_af tr_er th_wowf_ng m_a_ng th_eo c_os th_eer l_af g_if
+VIVOSDEV18_194|s_i_n v_owis m_ej ch_o dd_i c_ai t_aaj_p tr_u_ng s_au m_ooj_t n_aw_m b_aj_n tr_owr v_eef nh_af
+VIVOSDEV18_195|dd_aauf t_iee_n l_af m_ooj_t t_aas_m aa_m b_ar_n s_au dd_os m_owis dd_ees_n z_wow_ng b_ar_n
+VIVOSDEV18_198|m_aays ng_ayf n_ay ch_us_ng t_ooi dd_ax t_ij_ch th_u dd_wowj_c kh_as nh_ieeuf g_af ch_ees_t
+VIVOSDEV18_199|h_ieer_n nh_iee_n kh_oo_ng ai m_uoos_n s_uaas_t h_ieej_n b_ee_n c_aj_nh m_ooj_t ng_wowif nh_w v_aayj
+VIVOSDEV18_211|h_if_nh ar_nh qw_ar_ng c_aos dd_ieeus th_uoos_c dd_ieej_n t_wr dd_wowj_c c_oo_ng t_i
+VIVOSDEV18_214|c_ieeur h_aif z_u_ng t_uj_c v_aax_n c_ws l_eef_nh kh_ee_nh owr m_ooj_t s_oos t_uj dd_ieer_m
+VIVOSDEV18_240|m_owif th_a_m z_wj c_uooj_c th_i v_iees_t ng_aws_n m_ooj_t z_owf kh_oo_ng dd_ieej_n
+VIVOSDEV18_250|l_aaf_n dd_aauf t_iee_n m_ooj_t nh_aa_n v_iee_n ng_wowif v_ieej_t th_as_ch th_ws_c v_ieej_c t_as_c ng_ieej_p c_uar t_ooi
+VIVOSDEV18_252|l_us_c dd_os ch_ij t_wowr_ng l_af_m nh_w v_aayj c_ux_ng l_af_m m_as v_ui
+VIVOSDEV18_257|ng_ooif ng_e t_iees_ng b_ieer_n v_af th_w th_ar dd_ees_m t_wf_ng z_oj_t dd_e_n z_owi
+VIVOSDEV18_259|m_uoos_n c_oo_ng nh_aaj_n ng_ay ph_a b_os_ng aays th_if ph_ar_i s_war l_uaaj_t
+VIVOSDEV18_263|qw_ar_n l_is nh_af n_wows_c v_eef z_ao th_oo_ng v_aaj_n t_ar_i dd_oo th_ij
+VIVOSDEV18_265|s_au dd_os h_oj l_aa_n l_a s_a_ng ch_owi z_ooif dd_as_nh c_aws_p dd_was b_es
+VIVOSDEV18_272|a_nh nh_ow_n b_aor t_ooi v_eef tr_wows_c c_of_n a_nh dd_i th_eo c_oo g_ais
+VIVOSDEV18_273|tr_wows_c h_ees_t b_aj_n c_aaf_n t_if_m h_ieeur th_oo_ng t_i_n qw_i h_oaj_ch kh_u dd_aas_t
+VIVOSDEV18_279|nh_wx_ng s_ar_n ph_aar_m z_us_p n_owr ng_wj_c v_af t_a_n m_owx c_aas_p t_oos_c ar_nh i_ees_n tr_i_nh
+VIVOSDEV18_280|ph_os_ng s_wj ar_nh nh_wx_ng m_af_n b_ieeur z_ieex_n ng_oaj_n m_uj_c tr_ee_n b_aauf tr_owif
+VIVOSDEV18_282|nh_w_ng c_uoois c_uf_ng ch_awr_ng ai ch_iuj n_ooir c_ais t_is_nh h_a_m v_ui c_uar t_ooi
+VIVOSDEV18_293|c_ieer_m tr_a tr_u_ng t_aa_m n_ayf c_oo_ng a_n dd_ax b_aws_t z_wx t_owis
+VIVOSDEV18_297|h_oa ph_wowj_ng v_aax_n n_owr dd_or tr_owif tr_o_ng t_iees_ng v_e s_ao s_as_c kh_oo_n ng_uooi
+VIVOSDEV19_008|t_wf dd_os l_aij s_a dd_af v_aof nh_ieeuf ng_ij_ch c_ar_nh dd_as_ng t_iees_c
+VIVOSDEV19_011|m_o_ng a_nh h_ayx h_ieeur ch_o e_m e_m th_wow_ng nh_ows v_af i_eeu a_nh nh_ieeuf
+VIVOSDEV19_020|l_ee_n c_as_c c_uooj_c h_ej_n ph_or_ng v_aas_n v_af th_wj_c h_ieej_n ph_or_ng v_aas_n
+VIVOSDEV19_022|s_es_t owr kh_ias c_aj_nh n_ayf th_if dd_us_ng l_af m_aas_t b_of m_owis l_o l_af_m ch_uoof_ng
+VIVOSDEV19_024|t_ui nh_iee_n t_ooi ng_ix c_aauj t_a s_ws_ng dd_as_ng v_owis ch_ws_c v_oo dd_ij_ch
+VIVOSDEV19_027|nh_wx_ng b_iees_n z_aj_ng n_ayf th_wowf_ng th_aays z_ox kh_i z_wow_ng v_aaj_t c_wow_ng
+VIVOSDEV19_029|z_oir g_if b_as_c m_if_nh dd_er z_a kh_oo_ng n_uooi th_if ai n_uooi
+VIVOSDEV19_030|ph_uf s_a b_ooif dd_aws_p z_uooj_ng v_wowf_n ch_o s_os_m l_af_ng tr_uf ph_us
+VIVOSDEV19_045|oo_ng n_ois ch_us_ng t_ooi h_i v_oj_ng s_ex c_os nh_wx_ng t_i_n t_ws_c t_oos_t l_af_nh
+VIVOSDEV19_056|v_eef ng_uyee_n t_aws_c v_aof h_oj_c l_af s_i_nh v_iee_n ph_ar_i dd_os_ng h_oj_c ph_is
+VIVOSDEV19_061|dd_eer nh_wx_ng kh_os kh_aw_n v_af m_aau th_uaax_n z_aaf_n z_aaf_n s_ex b_ij dd_aayr l_ui
+VIVOSDEV19_064|ch_os_ng m_awj_t c_of_n c_os th_eer z_o t_if_nh tr_aj_ng z_oois l_oaj_n nh_ij_p t_i_m n_awj_ng g_aay z_a
+VIVOSDEV19_071|tr_o_ng ng_aws_n h_aj_n th_ij tr_wowf_ng v_aaj_n h_af_nh nh_w m_ooj_t c_oox m_ays b_aauf c_wr
+VIVOSDEV19_072|ch_wow_ng tr_if_nh h_oj_c b_oor_ng th_a_nh n_iee_n ch_aau as c_uar nh_aaj_t b_ar_n
+VIVOSDEV19_083|nh_w_ng z_ooif c_ais t_if_nh v_owis b_af c_o_n c_ws n_aws_m n_ius kh_oo_ng z_ws_t z_a dd_wowj_c
+VIVOSDEV19_091|s_oos dd_ow_n v_ij th_a_m z_a h_ooij ch_owj v_ieej_c l_af_m t_aw_ng dd_as_ng c_eer qw_a c_as_c n_aw_m
+VIVOSDEV19_094|tr_a_ng v_iees_t c_uar h_oj h_ow_n h_awr_n th_owif t_uooir tr_er c_uar t_ooi
+VIVOSDEV19_111|kh_uyees_t dd_ieer_m l_ows_n c_uar ch_us_ng t_a l_af ch_wa c_os z_aa_n ch_ur th_aaj_t s_wj
+VIVOSDEV19_133|e_m c_os s_ui ng_ix th_ee_m v_eef v_ieej_c th_a_m z_wj h_ooij ch_owj kh_oa h_oj_c kh_oo_ng
+VIVOSDEV19_142|h_oj ch_ir th_is_ch nh_wx_ng m_oo_n g_if m_aj_nh b_aoj b_aoj l_wj_c v_af c_iees_m z_a t_ieef_n th_ooi
+VIVOSDEV19_158|nh_wx_ng ng_wowif tr_er aays th_aaj_t dd_as_ng ph_ee ph_as_n dd_as_ng l_ee_n as_n
+VIVOSDEV19_161|th_oo_ng th_wowf_ng as_n c_ir l_uaaj_t n_eeus c_os th_wowf_ng b_a_n h_af_nh v_aof c_uoois t_uaaf_n
+VIVOSDEV19_163|dd_ieeuf l_aj l_af t_ooi v_aax_n kh_oo_ng t_wf b_or is dd_ij_nh tr_owr th_af_nh t_u s_ix
+VIVOSDEV19_167|c_as_c qw_i dd_ij_nh c_uar ph_as_p l_uaaj_t kh_oo_ng th_eer dd_wowj_c b_a_n h_af_nh th_eo c_ieeur dd_as_nh l_es_n
+VIVOSDEV19_169|nh_a_nh qw_as dd_ax l_af l_aaf_n th_ws b_a s_a nh_af z_ooif dd_aays
+VIVOSDEV19_179|dd_oox dd_ws_c th_uaaf_n ng_uyee_n c_ees t_oas_n tr_wowr_ng c_oo_ng t_i t_iees_p th_ij dd_aauf t_w
+VIVOSDEV19_196|ng_wowif a_nh s_au dd_os dd_wowj_c ph_es_p th_aauf s_aay c_ee_nh n_ayf nh_w_ng kh_oo_ng t_iees_n h_af_nh
+VIVOSDEV19_218|n_ois c_as_ch kh_as_c c_ais dd_wowj_c c_uar ch_aau as l_af c_ais m_aas_t c_uar ch_aau ph_i
+VIVOSDEV19_222|m_aws_t t_wj nh_iee_n h_oa l_ee_n tr_is ch_uj_p m_ooj_t c_ais l_i qw_aaj_t m_aj_nh s_uoos_ng s_af_n
+VIVOSDEV19_227|t_wf dd_aays oo_ng c_af_ng th_oo_ng c_ar_m s_aau s_aws_c t_aa_m tr_aj_ng c_uar ng_uyeex_n th_iees_p
+VIVOSDEV19_244|e_m h_ayx t_if_m c_as_ch t_iees_p c_aaj_n dd_eer b_ayf t_or v_owis m_ej
+VIVOSDEV19_245|l_us_c dd_os n_aj_n c_ej_t s_e ch_aws_c s_ex c_i_nh kh_ur_ng g_aas_p nh_ieeuf l_aaf_n h_oo_m n_ay
+VIVOSDEV19_246|v_owj l_owx c_os t_aaj_t th_ees a_nh n_ee_n th_ay dd_ooir c_as_ch t_iees_p c_aaj_n
+VIVOSDEV19_249|dd_aay dd_wowj_c s_e_m l_af v_ai z_ieex_n th_af_nh c_oo_ng nh_aas_t c_uar v_wow_ng t_wf tr_wows_c dd_ees_n n_ay
+VIVOSDEV19_257|nh_w_ng n_eeus ch_ir n_ois c_ais z_oir kh_oo_ng th_ooi th_if th_aaj_t ch_wa dd_ur v_eef ch_us t_w
+VIVOSDEV19_259|t_is_ch c_wj_c h_ow_n v_owis v_aas_n dd_eef l_iee_n qw_a_n dd_ees_n c_ieeuf b_aof
+VIVOSDEV19_262|dd_eer z_ooif ch_us_ng t_a kh_ao kh_as_t m_aix tr_o_ng v_of_ng l_uaa_n h_ooif nh_aa_n z_a_n
+VIVOSDEV19_266|v_aas_n dd_eef n_ayr s_i_nh t_wf c_ais c_aau h_oir z_i_nh c_u aays
+VIVOSDEV19_274|ch_ij n_ee_n dd_i kh_as_m b_as_c s_ix v_af ch_oj_n ph_wow_ng ph_as_p ng_waf th_ai h_ieeuj qw_ar
+VIVOSDEV19_279|n_owj m_ooj_t c_uooj_c ch_iees_n ch_oos_ng th_a_m nh_ux_ng v_aax_n ch_wa v_aof dd_aau
