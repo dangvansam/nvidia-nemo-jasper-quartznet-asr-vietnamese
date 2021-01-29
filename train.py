@@ -1,46 +1,54 @@
 from ruamel.yaml import YAML
-# NeMo's "core" package
 import nemo
-# NeMo's ASR collection
 import nemo.collections.asr as nemo_asr
 from nemo.collections.asr.helpers import monitor_asr_train_progress, process_evaluation_batch, process_evaluation_epoch
 from functools import partial
 
+# các file json dùng để train
+train_dataset = "data/grapheme/vivos_train.json,data/grapheme/wavenet.json,data/grapheme/fpt_open_set001_train_clean.json"
+train_dataset += ",data/grapheme/tts_meta_data.json" #data vin 100h
+train_dataset += ",data/grapheme/voip_audio_cuted_transcript.json,data/grapheme/to_tieng_transcript.json,data/grapheme/audio_18_11_cuted_transcript.json"
+train_dataset += ",data/grapheme/part_01.json,data/grapheme/part_02_15012021.json" #data mới transcript
+train_dataset += ",data/grapheme/vlsp2020_train_set_02.json" #data vin 100h
+train_dataset += ",data/grapheme/data_youtube_tintuc24h_15012021.json" #data vin 100h
 
-nf = nemo.core.NeuralModuleFactory(log_dir='QuartzNet12x1_all', create_tb_writer=True)
-tb_writer = nf.tb_writer
-
-#train_dataset = "data/vivos_test_simple.json,data/wavenet_new_simple.json,data/fpt_open_set001_train_clean_simple.json,data/voip_audio_cuted_transcript_simple.json,data/audio_18_11_cuted_transcript_simple.json"
-train_dataset = "data/vivos_test_simple.json"
-#eval_datasets = "data/vivos_test_simple.json,data/fpt_open_set001_test_clean_simple.json,data/to_tieng_transcript_simple.json"
-eval_datasets = "data/vivos_test_simple.json, data/fpt_open_set001_test_clean_simple.json"
+# các file json dùng để valid
+eval_datasets = "data/grapheme/vivos_test.json,data/grapheme/fpt_open_set001_test_clean.json"
+eval_datasets += ",data/grapheme/thaison_data_07012020_cuted.json"
 
 # QuartzNet Model definition
 # Here we will be using separable convolutions
 # with 12 blocks (k=12 repeated once r=1 from the picture above)
+# chọn tham số mạng theo file config trong thư mục config
 yaml = YAML(typ="safe")
-with open("config/quartznet12x1.yaml") as f:
+with open("config/quartznet12x1_abcfjwz.yaml") as f:
     quartznet_model_definition = yaml.load(f)
+
+log_dir = quartznet_model_definition["model"]
+nf = nemo.core.NeuralModuleFactory(log_dir=log_dir, create_tb_writer=True)
+tb_writer = nf.tb_writer
 
 labels = quartznet_model_definition['labels']
 print(len(labels), labels)
 # Instantiate neural modules
-data_layer = nemo_asr.AudioToTextDataLayer(manifest_filepath=train_dataset, labels=labels, batch_size=8)
-data_layer_val = nemo_asr.AudioToTextDataLayer(manifest_filepath=eval_datasets, labels=labels, batch_size=8, shuffle=False)
+data_layer = nemo_asr.AudioToTextDataLayer(manifest_filepath=train_dataset, sample_rate=16000, labels=labels, batch_size=32\
+                                        ,shuffle=True, max_duration=15, trim_silence=False, normalize_transcripts=False)
 
-data_preprocessor = nemo_asr.AudioToMelSpectrogramPreprocessor()
-spec_augment = nemo_asr.SpectrogramAugmentation(rect_masks=5)
+data_layer_val = nemo_asr.AudioToTextDataLayer(manifest_filepath=eval_datasets, sample_rate=16000, labels=labels, batch_size=32\
+                                        ,shuffle=False, max_duration=15, trim_silence=False, normalize_transcripts=False)
 
-encoder = nemo_asr.JasperEncoder(feat_in=64, **quartznet_model_definition['JasperEncoder'])
+data_preprocessor = nemo_asr.AudioToMelSpectrogramPreprocessor(**quartznet_model_definition['AudioToMelSpectrogramPreprocessor'])
+spec_augment = nemo_asr.SpectrogramAugmentation(**quartznet_model_definition['SpectrogramAugmentation'])
+encoder = nemo_asr.JasperEncoder(feat_in=quartznet_model_definition['AudioToMelSpectrogramPreprocessor']['features'], **quartznet_model_definition['JasperEncoder'])
 decoder = nemo_asr.JasperDecoderForCTC(feat_in=1024, num_classes=len(labels))
 ctc_loss = nemo_asr.CTCLossNM(num_classes=len(labels))
 greedy_decoder = nemo_asr.GreedyCTCDecoder()
 
-#CHECKPOINT_ENCODER = 'QuartzNet12x1_vivos/checkpoints/JasperEncoder-STEP-36700.pt'
-#CHECKPOINT_DECODER = 'QuartzNet12x1_vivos/checkpoints/JasperDecoderForCTC-STEP-36700.pt'
+# CHECKPOINT_ENCODER = 'quartznet12x1_all_27102020/checkpoints/JasperEncoder-STEP-266200.pt'
+# CHECKPOINT_DECODER = 'quartznet12x1_all_27102020/checkpoints/JasperDecoderForCTC-STEP-266200.pt'
 
-#encoder.restore_from(CHECKPOINT_ENCODER)
-#decoder.restore_from(CHECKPOINT_DECODER)
+# encoder.restore_from(CHECKPOINT_ENCODER)
+# decoder.restore_from(CHECKPOINT_DECODER)
 
 audio_signal, audio_signal_len, transcript, transcript_len = data_layer()
 processed_signal, processed_signal_len = data_preprocessor(input_signal=audio_signal, length=audio_signal_len)
@@ -67,20 +75,19 @@ train_callback = nemo.core.SimpleLossLoggerCallback(
     ))
 
 saver_callback = nemo.core.CheckpointCallback(
-    folder="QuartzNet12x1_all/checkpoints",# load_from_folder="QuartzNet12x1_vivos/checkpoints", 
-    step_freq=1000, checkpoints_to_keep=2)
+    folder=log_dir+"/checkpoints",# load_from_folder=log_dir+"/checkpoints", 
+    step_freq=1000, checkpoints_to_keep=1)
 
 eval_callback = nemo.core.EvaluatorCallback(
     eval_tensors=[loss_v, predictions_v, transcript_v, transcript_len_v],
     user_iter_callback=partial(process_evaluation_batch, labels=labels),
     user_epochs_done_callback=partial(process_evaluation_epoch, tag="valid"),
-    eval_step=500,
+    eval_step=1000,
     tb_writer=tb_writer)
 
 nf.train(
-    # Specify the loss to optimize for
     tensors_to_optimize=[loss],
     callbacks=[train_callback, eval_callback, saver_callback],
     optimizer="novograd",
-    optimization_params={ "num_epochs": 150, "lr": 0.01, "weight_decay": 1e-4 }
+    optimization_params={ "num_epochs": 120, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
     )

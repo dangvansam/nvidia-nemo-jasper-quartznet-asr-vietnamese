@@ -1,0 +1,1476 @@
+[NeMo I 2021-01-15 15:38:04 collections:138] Dataset loaded with 3503 files totalling 2.93 hours
+[NeMo I 2021-01-15 15:38:04 collections:139] 0 files were filtered totalling 0.00 hours
+[NeMo I 2021-01-15 15:38:04 collections:138] Dataset loaded with 5037 files totalling 4.85 hours
+[NeMo I 2021-01-15 15:38:04 collections:139] 0 files were filtered totalling 0.00 hours
+[NeMo I 2021-01-15 15:38:04 features:149] PADDING: 16
+[NeMo I 2021-01-15 15:38:04 features:170] STFT using torch
+[NeMo I 2021-01-15 15:38:06 callbacks:187] Starting .....
+[NeMo I 2021-01-15 15:38:06 callbacks:358] Found 2 modules with weights:
+[NeMo I 2021-01-15 15:38:06 callbacks:360] JasperDecoderForCTC
+[NeMo I 2021-01-15 15:38:06 callbacks:360] JasperEncoder
+[NeMo I 2021-01-15 15:38:06 callbacks:361] Total model parameters: 5113247
+[NeMo I 2021-01-15 15:38:06 callbacks:310] Found checkpoint folder quartznet12x1_abcfjwz_finetune/checkpoints. Will attempt to restore checkpoints from it.
+[NeMo W 2021-01-15 15:38:06 callbacks:327] For module JasperDecoderForCTC, no file matches  in quartznet12x1_abcfjwz_finetune/checkpoints
+[NeMo W 2021-01-15 15:38:06 callbacks:329] Checkpoint folder quartznet12x1_abcfjwz_finetune/checkpoints was present but nothing was restored. Continuing training from random initialization.
+[NeMo I 2021-01-15 15:38:06 callbacks:198] Starting epoch 0
+[NeMo I 2021-01-15 15:38:08 callbacks:223] Step: 0
+[NeMo I 2021-01-15 15:38:08 helpers:75] Loss: 70.46521759033203
+[NeMo I 2021-01-15 15:38:08 helpers:76] Train WER:  59.56% | CER:  33.66%
+[NeMo I 2021-01-15 15:38:08 helpers:77] Prediction: có tin điu nhưng màn kông bêt ả rồi 
+[NeMo I 2021-01-15 15:38:08 helpers:78] Reference: có tim viu đấy nhưng mình không biết làm kiểu gì
+[NeMo I 2021-01-15 15:38:08 callbacks:238] Step time: 0.3632996082305908 seconds
+[NeMo I 2021-01-15 15:38:08 callbacks:441] Doing Evaluation ..............................
+[NeMo I 2021-01-15 15:39:18 helpers:197] ==========>>>>>>Evaluation Loss valid: inf
+[NeMo I 2021-01-15 15:39:18 helpers:198] ==========>>>>>>Evaluation Valid WER:  41.35%
+[NeMo I 2021-01-15 15:39:18 helpers:199] ==========>>>>>>Evaluation Valid CER:  21.84%
+[NeMo I 2021-01-15 15:39:18 callbacks:446] Evaluation time: 69.71331191062927 seconds
+[NeMo I 2021-01-15 15:39:47 callbacks:223] Step: 25
+[NeMo I 2021-01-15 15:39:47 helpers:75] Loss: 49.17057800292969
+[NeMo I 2021-01-15 15:39:47 helpers:76] Train WER:  47.45% | CER:  28.10%
+[NeMo I 2021-01-15 15:39:47 helpers:77] Prediction:  cái tài khoản quản trị của mên chị ạ
+[NeMo I 2021-01-15 15:39:47 helpers:78] Reference: nhớ cái tài khoản quản trị của bên chị ý ạ vâng
+[NeMo I 2021-01-15 15:39:47 callbacks:238] Step time: 0.23600006103515625 seconds
+[NeMo I 2021-01-15 15:40:15 callbacks:223] Step: 50
+[NeMo I 2021-01-15 15:40:15 helpers:75] Loss: 53.095542907714844
+[NeMo I 2021-01-15 15:40:15 helpers:76] Train WER:  46.56% | CER:  26.06%
+[NeMo I 2021-01-15 15:40:15 helpers:77] Prediction: em thấy hiện tại máy tín cị chơa nhận ạ
+[NeMo I 2021-01-15 15:40:15 helpers:78] Reference: em thấy hiện tại máy tính chị chưa nhận ạ
+[NeMo I 2021-01-15 15:40:15 callbacks:238] Step time: 0.34276580810546875 seconds
+[NeMo I 2021-01-15 15:40:45 callbacks:223] Step: 75
+[NeMo I 2021-01-15 15:40:45 helpers:75] Loss: 44.87887954711914
+[NeMo I 2021-01-15 15:40:45 helpers:76] Train WER:  46.41% | CER:  25.68%
+[NeMo I 2021-01-15 15:40:45 helpers:77] Prediction: tiết t a
+[NeMo I 2021-01-15 15:40:45 helpers:78] Reference: tiết thời gian
+[NeMo I 2021-01-15 15:40:45 callbacks:238] Step time: 0.33840513229370117 seconds
+[NeMo I 2021-01-15 15:41:15 callbacks:223] Step: 100
+[NeMo I 2021-01-15 15:41:15 helpers:75] Loss: 43.756839752197266
+[NeMo I 2021-01-15 15:41:15 helpers:76] Train WER:  55.14% | CER:  33.52%
+[NeMo I 2021-01-15 15:41:15 helpers:77] Prediction: đăn cá c  tử tạng tế ai điện từ thì nó ca  
+[NeMo I 2021-01-15 15:41:15 helpers:78] Reference: đăng ký phai điện tử ạ đăng ký phai điện tử thì nó vào cái
+[NeMo I 2021-01-15 15:41:15 callbacks:238] Step time: 0.15283799171447754 seconds
+[NeMo I 2021-01-15 15:41:24 callbacks:206] Finished epoch 0 in 0:03:18.060739
+[NeMo I 2021-01-15 15:41:24 callbacks:198] Starting epoch 1
+[NeMo I 2021-01-15 15:41:43 callbacks:223] Step: 125
+[NeMo I 2021-01-15 15:41:43 helpers:75] Loss: 45.96760559082031
+[NeMo I 2021-01-15 15:41:43 helpers:76] Train WER:  57.54% | CER:  33.65%
+[NeMo I 2021-01-15 15:41:43 helpers:77] Prediction: rồng anh đấ đà  bao lâu rồi 
+[NeMo I 2021-01-15 15:41:43 helpers:78] Reference: vâng anh để bao lâu rồi ạ
+[NeMo I 2021-01-15 15:41:43 callbacks:238] Step time: 0.15718603134155273 seconds
+[NeMo I 2021-01-15 15:42:13 callbacks:223] Step: 150
+[NeMo I 2021-01-15 15:42:13 helpers:75] Loss: 49.988929748535156
+[NeMo I 2021-01-15 15:42:13 helpers:76] Train WER:  50.90% | CER:  28.03%
+[NeMo I 2021-01-15 15:42:13 helpers:77] Prediction: anh kích vào dam anh nân xóa thì anh thì hệ thống bán như nào
+[NeMo I 2021-01-15 15:42:13 helpers:78] Reference: a kích vào xong anh ấn xóa thì anh thì hệ thống báo như nào
+[NeMo I 2021-01-15 15:42:13 callbacks:238] Step time: 0.1864023208618164 seconds
+[NeMo I 2021-01-15 15:42:42 callbacks:223] Step: 175
+[NeMo I 2021-01-15 15:42:43 helpers:75] Loss: 42.978904724121094
+[NeMo I 2021-01-15 15:42:43 helpers:76] Train WER:  34.94% | CER:  18.14%
+[NeMo I 2021-01-15 15:42:43 helpers:77] Prediction: mô bê là mã hài n
+[NeMo I 2021-01-15 15:42:43 helpers:78] Reference: một bê là mã hàng này
+[NeMo I 2021-01-15 15:42:43 callbacks:238] Step time: 0.37272047996520996 seconds
+[NeMo I 2021-01-15 15:43:11 callbacks:223] Step: 200
+[NeMo I 2021-01-15 15:43:11 helpers:75] Loss: 38.075443267822266
+[NeMo I 2021-01-15 15:43:11 helpers:76] Train WER:  39.50% | CER:  21.35%
+[NeMo I 2021-01-15 15:43:11 helpers:77] Prediction: em shẽ chuyển cho bạn du sốn mấy là mộc một không không
+[NeMo I 2021-01-15 15:43:11 helpers:78] Reference: dạ em sẽ chuyển cho bạn du ha số máy lẻ một một không không
+[NeMo I 2021-01-15 15:43:11 callbacks:238] Step time: 0.3261103630065918 seconds
+[NeMo I 2021-01-15 15:43:33 callbacks:206] Finished epoch 1 in 0:02:08.336955
+[NeMo I 2021-01-15 15:43:33 callbacks:198] Starting epoch 2
+[NeMo I 2021-01-15 15:43:39 callbacks:223] Step: 225
+[NeMo I 2021-01-15 15:43:39 helpers:75] Loss: 44.67279052734375
+[NeMo I 2021-01-15 15:43:39 helpers:76] Train WER:  50.42% | CER:  29.01%
+[NeMo I 2021-01-15 15:43:39 helpers:77] Prediction: đây n thải má chữ cá tố lên mới đọc đợc ời hạ
+[NeMo I 2021-01-15 15:43:39 helpers:78] Reference: đây phải mở chữ ký số lên mới đọc được thời hạn ô kê
+[NeMo I 2021-01-15 15:43:39 callbacks:238] Step time: 0.15825748443603516 seconds
+[NeMo I 2021-01-15 15:44:07 callbacks:223] Step: 250
+[NeMo I 2021-01-15 15:44:07 helpers:75] Loss: 39.27976989746094
+[NeMo I 2021-01-15 15:44:07 helpers:76] Train WER:  52.72% | CER:  29.68%
+[NeMo I 2021-01-15 15:44:07 helpers:77] Prediction: đất đợi ả à chữ máy lôn giúp em ạ
+[NeMo I 2021-01-15 15:44:07 helpers:78] Reference: được được rồi đấy chờ máy luôn giúp em ạ
+[NeMo I 2021-01-15 15:44:07 callbacks:238] Step time: 0.1666851043701172 seconds
+[NeMo I 2021-01-15 15:44:35 callbacks:223] Step: 275
+[NeMo I 2021-01-15 15:44:35 helpers:75] Loss: 48.75267791748047
+[NeMo I 2021-01-15 15:44:35 helpers:76] Train WER:  47.18% | CER:  29.61%
+[NeMo I 2021-01-15 15:44:35 helpers:77] Prediction: a lô em ơi bên bảo hiểm mà em bên bảo ể kôn dạ vâầng đúng rồi ạ
+[NeMo I 2021-01-15 15:44:35 helpers:78] Reference: a lô em ơi bên bảo hiểm ờ em bên bảo hiểm đúng không dạ vâng đúng rồi ạ
+[NeMo I 2021-01-15 15:44:35 callbacks:238] Step time: 0.2338399887084961 seconds
+[NeMo I 2021-01-15 15:45:03 callbacks:223] Step: 300
+[NeMo I 2021-01-15 15:45:04 helpers:75] Loss: 44.68482208251953
+[NeMo I 2021-01-15 15:45:04 helpers:76] Train WER:  39.51% | CER:  21.42%
+[NeMo I 2021-01-15 15:45:04 helpers:77] Prediction: ừm đúng rồi ạ thế chị là msơ thay đổi mức đóng nhé
+[NeMo I 2021-01-15 15:45:04 helpers:78] Reference: ừm đúng rồi ạ ừ thế chị làm hồ sơ thay đổi mức đóng nhé
+[NeMo I 2021-01-15 15:45:04 callbacks:238] Step time: 0.38885021209716797 seconds
+[NeMo I 2021-01-15 15:45:32 callbacks:223] Step: 325
+[NeMo I 2021-01-15 15:45:32 helpers:75] Loss: 52.37644958496094
+[NeMo I 2021-01-15 15:45:32 helpers:76] Train WER:  52.14% | CER:  30.03%
+[NeMo I 2021-01-15 15:45:32 helpers:77] Prediction: rồi  sắn tược chửu gì bế ào nhe
+[NeMo I 2021-01-15 15:45:32 helpers:78] Reference: rồi xác thực kiểu gì bây giờ nhỉ
+[NeMo I 2021-01-15 15:45:32 callbacks:238] Step time: 0.17402410507202148 seconds
+[NeMo I 2021-01-15 15:45:36 callbacks:206] Finished epoch 2 in 0:02:03.567565
+[NeMo I 2021-01-15 15:45:36 callbacks:198] Starting epoch 3
+[NeMo I 2021-01-15 15:46:00 callbacks:223] Step: 350
+[NeMo I 2021-01-15 15:46:00 helpers:75] Loss: 37.5972900390625
+[NeMo I 2021-01-15 15:46:00 helpers:76] Train WER:  46.13% | CER:  24.80%
+[NeMo I 2021-01-15 15:46:00 helpers:77] Prediction: à tra cứu pông tiền vào chứ không đúng rồi đắn  ó thô phải làm
+[NeMo I 2021-01-15 15:46:00 helpers:78] Reference: à tra cứu xong điền vào chứ không đúng rồi bắt buộc là phải làm tra cứu gì
+[NeMo I 2021-01-15 15:46:00 callbacks:238] Step time: 0.21978998184204102 seconds
+[NeMo I 2021-01-15 15:46:28 callbacks:223] Step: 375
+[NeMo I 2021-01-15 15:46:28 helpers:75] Loss: 30.677936553955078
+[NeMo I 2021-01-15 15:46:28 helpers:76] Train WER:  33.03% | CER:  19.02%
+[NeMo I 2021-01-15 15:46:28 helpers:77] Prediction: chị là đăng ký cho doanh nghiệp nào chị nhỉ
+[NeMo I 2021-01-15 15:46:28 helpers:78] Reference: của chị là đăng ký cho doanh nghiệp nào chị nhở
+[NeMo I 2021-01-15 15:46:28 callbacks:238] Step time: 0.3100888729095459 seconds
+[NeMo I 2021-01-15 15:46:57 callbacks:223] Step: 400
+[NeMo I 2021-01-15 15:46:57 helpers:75] Loss: 40.33656311035156
+[NeMo I 2021-01-15 15:46:57 helpers:76] Train WER:  38.05% | CER:  19.85%
+[NeMo I 2021-01-15 15:46:57 helpers:77] Prediction: cừ côn tin lại cái mã gũ xong gá mã mới
+[NeMo I 2021-01-15 15:46:57 helpers:78] Reference: chị cóp pi lại cái mã cũ sang cái mã mới
+[NeMo I 2021-01-15 15:46:57 callbacks:238] Step time: 0.33277058601379395 seconds
+[NeMo I 2021-01-15 15:47:27 callbacks:223] Step: 425
+[NeMo I 2021-01-15 15:47:27 helpers:75] Loss: 32.307647705078125
+[NeMo I 2021-01-15 15:47:27 helpers:76] Train WER:  42.73% | CER:  23.85%
+[NeMo I 2021-01-15 15:47:27 helpers:77] Prediction: rồi ạ
+[NeMo I 2021-01-15 15:47:27 helpers:78] Reference: rồi ạ
+[NeMo I 2021-01-15 15:47:27 callbacks:238] Step time: 0.19507670402526855 seconds
+[NeMo I 2021-01-15 15:47:42 callbacks:206] Finished epoch 3 in 0:02:05.905031
+[NeMo I 2021-01-15 15:47:42 callbacks:198] Starting epoch 4
+[NeMo I 2021-01-15 15:47:55 callbacks:223] Step: 450
+[NeMo I 2021-01-15 15:47:55 helpers:75] Loss: 44.05730438232422
+[NeMo I 2021-01-15 15:47:55 helpers:76] Train WER:  42.93% | CER:  23.68%
+[NeMo I 2021-01-15 15:47:55 helpers:77] Prediction: đây đúng không ạ vầng  chị đóng lạ rồi bấ  
+[NeMo I 2021-01-15 15:47:55 helpers:78] Reference: đây đúng không ạ vâng khoản này chị đóng lại thôi bấm duyệt
+[NeMo I 2021-01-15 15:47:55 callbacks:238] Step time: 0.17101335525512695 seconds
+[NeMo I 2021-01-15 15:48:23 callbacks:223] Step: 475
+[NeMo I 2021-01-15 15:48:23 helpers:75] Loss: 26.93914794921875
+[NeMo I 2021-01-15 15:48:23 helpers:76] Train WER:  33.71% | CER:  16.85%
+[NeMo I 2021-01-15 15:48:23 helpers:77] Prediction: ừ ô kê một sáu ba không
+[NeMo I 2021-01-15 15:48:23 helpers:78] Reference: ừm ô kê một sáu ba không
+[NeMo I 2021-01-15 15:48:23 callbacks:238] Step time: 0.2986626625061035 seconds
+[NeMo I 2021-01-15 15:48:51 callbacks:223] Step: 500
+[NeMo I 2021-01-15 15:48:51 helpers:75] Loss: 40.71657180786133
+[NeMo I 2021-01-15 15:48:51 helpers:76] Train WER:  46.93% | CER:  24.02%
+[NeMo I 2021-01-15 15:48:51 helpers:77] Prediction:  từ thú khoảng tứ hai rhồi
+[NeMo I 2021-01-15 15:48:51 helpers:78] Reference: mùng à thứ thứ khoảng thứ hai cơ
+[NeMo I 2021-01-15 15:48:51 callbacks:238] Step time: 0.16562700271606445 seconds
+[NeMo I 2021-01-15 15:49:20 callbacks:223] Step: 525
+[NeMo I 2021-01-15 15:49:20 helpers:75] Loss: 48.41621398925781
+[NeMo I 2021-01-15 15:49:20 helpers:76] Train WER:  48.21% | CER:  26.85%
+[NeMo I 2021-01-15 15:49:20 helpers:77] Prediction: anh mởi meo đây
+[NeMo I 2021-01-15 15:49:20 helpers:78] Reference: anh mở mêu hóa đơn hóa đơn
+[NeMo I 2021-01-15 15:49:20 callbacks:238] Step time: 0.1830298900604248 seconds
+[NeMo I 2021-01-15 15:49:47 callbacks:206] Finished epoch 4 in 0:02:04.865052
+[NeMo I 2021-01-15 15:49:47 callbacks:198] Starting epoch 5
+[NeMo I 2021-01-15 15:49:48 callbacks:223] Step: 550
+[NeMo I 2021-01-15 15:49:48 helpers:75] Loss: 38.85311508178711
+[NeMo I 2021-01-15 15:49:48 helpers:76] Train WER:  40.31% | CER:  23.62%
+[NeMo I 2021-01-15 15:49:48 helpers:77] Prediction: đây  sẽ bị như này này
+[NeMo I 2021-01-15 15:49:48 helpers:78] Reference: đây nó sẽ bị như này này
+[NeMo I 2021-01-15 15:49:48 callbacks:238] Step time: 0.17122793197631836 seconds
+[NeMo I 2021-01-15 15:50:18 callbacks:223] Step: 575
+[NeMo I 2021-01-15 15:50:18 helpers:75] Loss: 31.966402053833008
+[NeMo I 2021-01-15 15:50:18 helpers:76] Train WER:  30.60% | CER:  17.16%
+[NeMo I 2021-01-15 15:50:18 helpers:77] Prediction: trên thông tin  thông tin tờ khai ý anh thông tin chung ý anh
+[NeMo I 2021-01-15 15:50:18 helpers:78] Reference: ở trên thông tin mật thông tin tờ khai ý anh thông tin chung ý anh
+[NeMo I 2021-01-15 15:50:18 callbacks:238] Step time: 0.34714508056640625 seconds
+[NeMo I 2021-01-15 15:50:47 callbacks:223] Step: 600
+[NeMo I 2021-01-15 15:50:47 helpers:75] Loss: 38.222129821777344
+[NeMo I 2021-01-15 15:50:47 helpers:76] Train WER:  43.29% | CER:  24.43%
+[NeMo I 2021-01-15 15:50:47 helpers:77] Prediction: ờ ạ rồi ô kê
+[NeMo I 2021-01-15 15:50:47 helpers:78] Reference: à dạ rồi ô kê
+[NeMo I 2021-01-15 15:50:47 callbacks:238] Step time: 0.16300535202026367 seconds
+[NeMo I 2021-01-15 15:51:15 callbacks:223] Step: 625
+[NeMo I 2021-01-15 15:51:15 helpers:75] Loss: 38.16374969482422
+[NeMo I 2021-01-15 15:51:15 helpers:76] Train WER:  38.82% | CER:  22.75%
+[NeMo I 2021-01-15 15:51:15 helpers:77] Prediction: chí chă một một một vấy chút nhé
+[NeMo I 2021-01-15 15:51:15 helpers:78] Reference: chị cho em chờ một một chút nhé
+[NeMo I 2021-01-15 15:51:15 callbacks:238] Step time: 0.2317204475402832 seconds
+[NeMo I 2021-01-15 15:51:44 callbacks:223] Step: 650
+[NeMo I 2021-01-15 15:51:44 helpers:75] Loss: 47.143409729003906
+[NeMo I 2021-01-15 15:51:44 helpers:76] Train WER:  48.66% | CER:  29.37%
+[NeMo I 2021-01-15 15:51:44 helpers:77] Prediction: kích đúp vào
+[NeMo I 2021-01-15 15:51:44 helpers:78] Reference: kích đúp vào
+[NeMo I 2021-01-15 15:51:44 callbacks:238] Step time: 0.16977381706237793 seconds
+[NeMo I 2021-01-15 15:51:54 callbacks:206] Finished epoch 5 in 0:02:06.870343
+[NeMo I 2021-01-15 15:51:54 callbacks:198] Starting epoch 6
+[NeMo I 2021-01-15 15:52:13 callbacks:223] Step: 675
+[NeMo I 2021-01-15 15:52:13 helpers:75] Loss: 25.879146575927734
+[NeMo I 2021-01-15 15:52:13 helpers:76] Train WER:  28.26% | CER:  13.49%
+[NeMo I 2021-01-15 15:52:13 helpers:77] Prediction: hện ha hoản nhé vầng  là vn nhả luôn ra bản này rồi
+[NeMo I 2021-01-15 15:52:13 helpers:78] Reference: hiện thanh khoản nhé vầng là nó nhảy luôn ra bảng này rồi
+[NeMo I 2021-01-15 15:52:13 callbacks:238] Step time: 0.33440375328063965 seconds
+[NeMo I 2021-01-15 15:52:41 callbacks:223] Step: 700
+[NeMo I 2021-01-15 15:52:41 helpers:75] Loss: 23.556777954101562
+[NeMo I 2021-01-15 15:52:41 helpers:76] Train WER:  30.48% | CER:  14.99%
+[NeMo I 2021-01-15 15:52:41 helpers:77] Prediction: thì có hai chỗ nhập
+[NeMo I 2021-01-15 15:52:41 helpers:78] Reference: thì có hai chỗ nhập
+[NeMo I 2021-01-15 15:52:41 callbacks:238] Step time: 0.3731882572174072 seconds
+[NeMo I 2021-01-15 15:53:09 callbacks:223] Step: 725
+[NeMo I 2021-01-15 15:53:09 helpers:75] Loss: 30.38306427001953
+[NeMo I 2021-01-15 15:53:09 helpers:76] Train WER:  28.60% | CER:  14.07%
+[NeMo I 2021-01-15 15:53:09 helpers:77] Prediction: cắm rồi đúng không ch vầng em cắm rồi đấy  n đợi chút sắc là nó cưa và
+[NeMo I 2021-01-15 15:53:09 helpers:78] Reference: cắm vào rồi đúng không chị vầng em cắm rồi đấy ạ anh đợi chút chắc là nó chưa được
+[NeMo I 2021-01-15 15:53:09 callbacks:238] Step time: 0.36466383934020996 seconds
+[NeMo I 2021-01-15 15:53:38 callbacks:223] Step: 750
+[NeMo I 2021-01-15 15:53:38 helpers:75] Loss: 28.21885108947754
+[NeMo I 2021-01-15 15:53:38 helpers:76] Train WER:  39.02% | CER:  20.53%
+[NeMo I 2021-01-15 15:53:38 helpers:77] Prediction: dạ thì vái được xuết uyệt tạ ghi một ạ dạ dạ đúng rồi chị chị kgi số một hủ chị
+[NeMo I 2021-01-15 15:53:38 helpers:78] Reference: dạ chị ghi đợt xét duyệt là ghi một à dạ dạ đúng rồi chị chị ghi số một nha chị
+[NeMo I 2021-01-15 15:53:38 callbacks:238] Step time: 0.25054192543029785 seconds
+[NeMo I 2021-01-15 15:54:00 callbacks:206] Finished epoch 6 in 0:02:06.012692
+[NeMo I 2021-01-15 15:54:00 callbacks:198] Starting epoch 7
+[NeMo I 2021-01-15 15:54:07 callbacks:223] Step: 775
+[NeMo I 2021-01-15 15:54:07 helpers:75] Loss: 41.655025482177734
+[NeMo I 2021-01-15 15:54:07 helpers:76] Train WER:  46.70% | CER:  27.35%
+[NeMo I 2021-01-15 15:54:07 helpers:77] Prediction: an cố n dữ liệu này khôg a dữ iệu gì đây
+[NeMo I 2021-01-15 15:54:07 helpers:78] Reference: đây có cái dữ liệu này có cái dữ liệu gì đây
+[NeMo I 2021-01-15 15:54:07 callbacks:238] Step time: 0.17060089111328125 seconds
+[NeMo I 2021-01-15 15:54:36 callbacks:223] Step: 800
+[NeMo I 2021-01-15 15:54:36 helpers:75] Loss: 38.07572555541992
+[NeMo I 2021-01-15 15:54:36 helpers:76] Train WER:  45.70% | CER:  24.25%
+[NeMo I 2021-01-15 15:54:36 helpers:77] Prediction: một ụ việc tác tực tứn sảyh gá
+[NeMo I 2021-01-15 15:54:36 helpers:78] Reference: một vụ việc tương tự cũng xảy ra tại
+[NeMo I 2021-01-15 15:54:36 callbacks:238] Step time: 0.1747291088104248 seconds
+[NeMo I 2021-01-15 15:55:05 callbacks:223] Step: 825
+[NeMo I 2021-01-15 15:55:05 helpers:75] Loss: 25.8173885345459
+[NeMo I 2021-01-15 15:55:05 helpers:76] Train WER:  28.53% | CER:  14.64%
+[NeMo I 2021-01-15 15:55:05 helpers:77] Prediction: đợi đợi chị một thý số à on có gì chị hỏi luôn vâng ạ vâng ạ 
+[NeMo I 2021-01-15 15:55:05 helpers:78] Reference: đợi đợi chị một tý chị xem có còn cái gì chị hỏi luôn dạ vâng ạ vâng ạ
+[NeMo I 2021-01-15 15:55:05 callbacks:238] Step time: 0.3539762496948242 seconds
+[NeMo I 2021-01-15 15:55:33 callbacks:223] Step: 850
+[NeMo I 2021-01-15 15:55:33 helpers:75] Loss: 38.89617156982422
+[NeMo I 2021-01-15 15:55:33 helpers:76] Train WER:  40.99% | CER:  23.00%
+[NeMo I 2021-01-15 15:55:33 helpers:77] Prediction: căm rồi rồi đúng không c vâng em cắm rồi đấy ạ an đợi chút chút làm  chưa vợ
+[NeMo I 2021-01-15 15:55:33 helpers:78] Reference: cắm vào rồi đúng không chị vầng em cắm rồi đấy ạ anh đợi chút chắc là nó chưa được
+[NeMo I 2021-01-15 15:55:33 callbacks:238] Step time: 0.16889142990112305 seconds
+[NeMo I 2021-01-15 15:56:02 callbacks:223] Step: 875
+[NeMo I 2021-01-15 15:56:02 helpers:75] Loss: 28.58519744873047
+[NeMo I 2021-01-15 15:56:02 helpers:76] Train WER:  33.24% | CER:  18.80%
+[NeMo I 2021-01-15 15:56:02 helpers:77] Prediction: em chị hôm chị có con    điện thoại rồi đấy thì em ghi lại hi chỗ cho ai đi với
+[NeMo I 2021-01-15 15:56:02 helpers:78] Reference: em ơi chị hôm chị đã cho em cái số điện thoại rồi đấy thì em ghi lại hộ chị cái ai đi với
+[NeMo I 2021-01-15 15:56:02 callbacks:238] Step time: 0.19053888320922852 seconds
+[NeMo I 2021-01-15 15:56:06 callbacks:206] Finished epoch 7 in 0:02:05.975389
+[NeMo I 2021-01-15 15:56:06 callbacks:198] Starting epoch 8
+[NeMo I 2021-01-15 15:56:30 callbacks:223] Step: 900
+[NeMo I 2021-01-15 15:56:30 helpers:75] Loss: 41.46339416503906
+[NeMo I 2021-01-15 15:56:30 helpers:76] Train WER:  42.36% | CER:  24.42%
+[NeMo I 2021-01-15 15:56:30 helpers:77] Prediction: chì năm hai khng hai không đây đúng không chị i
+[NeMo I 2021-01-15 15:56:30 helpers:78] Reference: từ năm hai không hai không đây đúng không chị đúng rồi
+[NeMo I 2021-01-15 15:56:30 callbacks:238] Step time: 0.16604089736938477 seconds
+[NeMo I 2021-01-15 15:56:58 callbacks:223] Step: 925
+[NeMo I 2021-01-15 15:56:58 helpers:75] Loss: 19.77008819580078
+[NeMo I 2021-01-15 15:56:58 helpers:76] Train WER:  27.30% | CER:  13.78%
+[NeMo I 2021-01-15 15:56:58 helpers:77] Prediction: tây ạ ai đi ạ
+[NeMo I 2021-01-15 15:56:58 helpers:78] Reference: đây ạ ai đi ạ
+[NeMo I 2021-01-15 15:56:58 callbacks:238] Step time: 0.3284311294555664 seconds
+[NeMo I 2021-01-15 15:57:27 callbacks:223] Step: 950
+[NeMo I 2021-01-15 15:57:27 helpers:75] Loss: 20.367191314697266
+[NeMo I 2021-01-15 15:57:27 helpers:76] Train WER:  29.57% | CER:  13.54%
+[NeMo I 2021-01-15 15:57:27 helpers:77] Prediction: tờg bải ta đây có người đang dùng chuột đấy ạ
+[NeMo I 2021-01-15 15:57:27 helpers:78] Reference: đây có người đang dùng chuột đây ạ
+[NeMo I 2021-01-15 15:57:27 callbacks:238] Step time: 0.3790426254272461 seconds
+[NeMo I 2021-01-15 15:57:57 callbacks:223] Step: 975
+[NeMo I 2021-01-15 15:57:57 helpers:75] Loss: 24.658607482910156
+[NeMo I 2021-01-15 15:57:57 helpers:76] Train WER:  23.67% | CER:  11.92%
+[NeMo I 2021-01-15 15:57:57 helpers:77] Prediction: còn cái nà hó hàn nh mà muốn mình tự nhập vàoý thì dich vào đấy là được
+[NeMo I 2021-01-15 15:57:57 helpers:78] Reference: còn cái nào  à thế hóa đơn nào mình muốn mình tự nhập vào ý thì lích vào đấy được
+[NeMo I 2021-01-15 15:57:57 callbacks:238] Step time: 0.3441810607910156 seconds
+[NeMo I 2021-01-15 15:58:12 callbacks:206] Finished epoch 8 in 0:02:06.293928
+[NeMo I 2021-01-15 15:58:12 callbacks:198] Starting epoch 9
+[NeMo I 2021-01-15 15:58:24 callbacks:223] Step: 1000
+[NeMo I 2021-01-15 15:58:25 helpers:75] Loss: 29.035425186157227
+[NeMo I 2021-01-15 15:58:25 helpers:76] Train WER:  32.29% | CER:  18.27%
+[NeMo I 2021-01-15 15:58:25 helpers:77] Prediction: thêm mới phụ kiện như
+[NeMo I 2021-01-15 15:58:25 helpers:78] Reference: thêm mới phụ kiện như
+[NeMo I 2021-01-15 15:58:25 callbacks:238] Step time: 0.22619366645812988 seconds
+[NeMo I 2021-01-15 15:58:25 callbacks:441] Doing Evaluation ..............................
+[NeMo I 2021-01-15 15:59:35 helpers:197] ==========>>>>>>Evaluation Loss valid: inf
+[NeMo I 2021-01-15 15:59:35 helpers:198] ==========>>>>>>Evaluation Valid WER:  40.72%
+[NeMo I 2021-01-15 15:59:35 helpers:199] ==========>>>>>>Evaluation Valid CER:  21.92%
+[NeMo I 2021-01-15 15:59:35 callbacks:446] Evaluation time: 70.01991748809814 seconds
+[NeMo I 2021-01-15 15:59:35 callbacks:302] Saved checkpoint: quartznet12x1_abcfjwz_finetune/checkpoints/trainer-STEP-1000.pt
+[NeMo I 2021-01-15 16:00:03 callbacks:223] Step: 1025
+[NeMo I 2021-01-15 16:00:03 helpers:75] Loss: 33.038978576660156
+[NeMo I 2021-01-15 16:00:03 helpers:76] Train WER:  40.56% | CER:  23.15%
+[NeMo I 2021-01-15 16:00:03 helpers:77] Prediction: cử đo ch xưu ấn máy bình
+[NeMo I 2021-01-15 16:00:03 helpers:78] Reference: gửi á tim viu ở máy mình
+[NeMo I 2021-01-15 16:00:03 callbacks:238] Step time: 0.16104364395141602 seconds
+[NeMo I 2021-01-15 16:00:32 callbacks:223] Step: 1050
+[NeMo I 2021-01-15 16:00:32 helpers:75] Loss: 21.999788284301758
+[NeMo I 2021-01-15 16:00:32 helpers:76] Train WER:  27.79% | CER:  13.29%
+[NeMo I 2021-01-15 16:00:32 helpers:77] Prediction: anh chọn lang then cái chị cục hải quan à được
+[NeMo I 2021-01-15 16:00:32 helpers:78] Reference: anh chọn luôn những cái chi cục hải quan nữa là được
+[NeMo I 2021-01-15 16:00:32 callbacks:238] Step time: 0.31305384635925293 seconds
+[NeMo I 2021-01-15 16:01:00 callbacks:223] Step: 1075
+[NeMo I 2021-01-15 16:01:00 helpers:75] Loss: 31.43865966796875
+[NeMo I 2021-01-15 16:01:00 helpers:76] Train WER:  41.16% | CER:  24.28%
+[NeMo I 2021-01-15 16:01:00 helpers:77] Prediction: n anh  vui lọng cho em tim viu m kiểm tra nhé
+[NeMo I 2021-01-15 16:01:00 helpers:78] Reference: nhờ anh vui lòng cho em tim viu em kiểm tra nhé
+[NeMo I 2021-01-15 16:01:00 callbacks:238] Step time: 0.17151832580566406 seconds
+[NeMo I 2021-01-15 16:01:28 callbacks:206] Finished epoch 9 in 0:03:15.818454
+[NeMo I 2021-01-15 16:01:28 callbacks:198] Starting epoch 10
+[NeMo I 2021-01-15 16:01:29 callbacks:223] Step: 1100
+[NeMo I 2021-01-15 16:01:29 helpers:75] Loss: 19.008834838867188
+[NeMo I 2021-01-15 16:01:29 helpers:76] Train WER:  23.14% | CER:  11.16%
+[NeMo I 2021-01-15 16:01:29 helpers:77] Prediction: mày gửi đi chị xem ào vầng
+[NeMo I 2021-01-15 16:01:29 helpers:78] Reference: mày gửi đi chị xem nào vầng
+[NeMo I 2021-01-15 16:01:29 callbacks:238] Step time: 0.28951287269592285 seconds
+[NeMo I 2021-01-15 16:01:59 callbacks:223] Step: 1125
+[NeMo I 2021-01-15 16:01:59 helpers:75] Loss: 38.08446502685547
+[NeMo I 2021-01-15 16:01:59 helpers:76] Train WER:  45.11% | CER:  26.03%
+[NeMo I 2021-01-15 16:01:59 helpers:77] Prediction: không  lạ ti  này cữ ký số ạ vn mình kai me đi tép đấy
+[NeMo I 2021-01-15 16:01:59 helpers:78] Reference: không chữ ký số này chữ ký số ạ mình khai mang đi tiếp mà
+[NeMo I 2021-01-15 16:01:59 callbacks:238] Step time: 0.18831968307495117 seconds
+[NeMo I 2021-01-15 16:02:27 callbacks:223] Step: 1150
+[NeMo I 2021-01-15 16:02:27 helpers:75] Loss: 39.29379653930664
+[NeMo I 2021-01-15 16:02:27 helpers:76] Train WER:  41.10% | CER:  23.25%
+[NeMo I 2021-01-15 16:02:27 helpers:77] Prediction: em thấy nó xi đến tháng nay thì nó ý ló á
+[NeMo I 2021-01-15 16:02:27 helpers:78] Reference: em thấy nó xin đến tháng năm thì nó á
+[NeMo I 2021-01-15 16:02:27 callbacks:238] Step time: 0.16140174865722656 seconds
+[NeMo I 2021-01-15 16:02:56 callbacks:223] Step: 1175
+[NeMo I 2021-01-15 16:02:56 helpers:75] Loss: 31.48479461669922
+[NeMo I 2021-01-15 16:02:56 helpers:76] Train WER:  32.34% | CER:  17.53%
+[NeMo I 2021-01-15 16:02:56 helpers:77] Prediction: tại vì iện tạ ì  ản mơy  chị ó thể óa m
+[NeMo I 2021-01-15 16:02:56 helpers:78] Reference: tại vì hiện tại phần mềm của chị có thể nó đang bị lỗi rồi
+[NeMo I 2021-01-15 16:02:56 callbacks:238] Step time: 0.17343378067016602 seconds
+[NeMo I 2021-01-15 16:03:24 callbacks:223] Step: 1200
+[NeMo I 2021-01-15 16:03:24 helpers:75] Loss: 34.83008575439453
+[NeMo I 2021-01-15 16:03:24 helpers:76] Train WER:  34.84% | CER:  18.41%
+[NeMo I 2021-01-15 16:03:24 helpers:77] Prediction: anh hin lểi ci e ch ờ chút nhá em đang kếm vủ nh qua tim viu  hé
+[NeMo I 2021-01-15 16:03:24 helpers:78] Reference: anh vui lòng giữ máy chờ chút nhá em đang kết nối qua tim viu
+[NeMo I 2021-01-15 16:03:24 callbacks:238] Step time: 0.23677754402160645 seconds
+[NeMo I 2021-01-15 16:03:33 callbacks:206] Finished epoch 10 in 0:02:05.315913
+[NeMo I 2021-01-15 16:03:33 callbacks:198] Starting epoch 11
+[NeMo I 2021-01-15 16:03:51 callbacks:223] Step: 1225
+[NeMo I 2021-01-15 16:03:51 helpers:75] Loss: 20.050973892211914
+[NeMo I 2021-01-15 16:03:51 helpers:76] Train WER:  23.63% | CER:  11.55%
+[NeMo I 2021-01-15 16:03:51 helpers:77] Prediction: ắt guốt là gì ạ támg bốn năm năm
+[NeMo I 2021-01-15 16:03:51 helpers:78] Reference: pát guốt là gì ạ tám bốn năm năm
+[NeMo I 2021-01-15 16:03:51 callbacks:238] Step time: 0.35035228729248047 seconds
+[NeMo I 2021-01-15 16:04:20 callbacks:223] Step: 1250
+[NeMo I 2021-01-15 16:04:20 helpers:75] Loss: 30.348379135131836
+[NeMo I 2021-01-15 16:04:20 helpers:76] Train WER:  38.37% | CER:  21.20%
+[NeMo I 2021-01-15 16:04:20 helpers:77] Prediction: một bển hai tao hn mười năm phần trăm tức là pười lăm gam hìu quá có  nhĩa
+[NeMo I 2021-01-15 16:04:20 helpers:78] Reference: một nửa tức là mười năm phần trăm tức là mười năm gam thì quá có ý nghĩa
+[NeMo I 2021-01-15 16:04:20 callbacks:238] Step time: 0.15797829627990723 seconds
+[NeMo I 2021-01-15 16:04:49 callbacks:223] Step: 1275
+[NeMo I 2021-01-15 16:04:49 helpers:75] Loss: 21.108062744140625
+[NeMo I 2021-01-15 16:04:49 helpers:76] Train WER:  27.48% | CER:  13.59%
+[NeMo I 2021-01-15 16:04:49 helpers:77] Prediction: thế thì chưa xuất hóa đơn được luôn đâu ì a t tậm bá cín ấy
+[NeMo I 2021-01-15 16:04:49 helpers:78] Reference: thế thì chưa xuất hóa đơn được luôn đâu vì anh phải tạo tài khoản ý
+[NeMo I 2021-01-15 16:04:49 callbacks:238] Step time: 0.20909833908081055 seconds
+[NeMo I 2021-01-15 16:05:17 callbacks:223] Step: 1300
+[NeMo I 2021-01-15 16:05:17 helpers:75] Loss: 36.62053680419922
+[NeMo I 2021-01-15 16:05:17 helpers:76] Train WER:  38.08% | CER:  22.21%
+[NeMo I 2021-01-15 16:05:17 helpers:77] Prediction: ông kích vào đăng ký ạ
+[NeMo I 2021-01-15 16:05:17 helpers:78] Reference: xong kích vào đăng ký ạ
+[NeMo I 2021-01-15 16:05:17 callbacks:238] Step time: 0.16321587562561035 seconds
+[NeMo I 2021-01-15 16:05:39 callbacks:206] Finished epoch 11 in 0:02:05.492697
+[NeMo I 2021-01-15 16:05:39 callbacks:198] Starting epoch 12
+[NeMo I 2021-01-15 16:05:46 callbacks:223] Step: 1325
+[NeMo I 2021-01-15 16:05:46 helpers:75] Loss: 26.589317321777344
+[NeMo I 2021-01-15 16:05:46 helpers:76] Train WER:  30.97% | CER:  17.34%
+[NeMo I 2021-01-15 16:05:46 helpers:77] Prediction: ờ thế chôn bây giờ bạn chuyển hộ mình được không tạ lìn mìn không tớ bạn nào làm cho mình nấy dạ vâng ạ
+[NeMo I 2021-01-15 16:05:46 helpers:78] Reference: ờ thế thì bây giờ bạn chuyển hộ mình được không tại vì mình cũng không nhớ bạn nào làm cho mình nữa dạ vâng ạ
+[NeMo I 2021-01-15 16:05:46 callbacks:238] Step time: 0.16291308403015137 seconds
+[NeMo I 2021-01-15 16:06:15 callbacks:223] Step: 1350
+[NeMo I 2021-01-15 16:06:15 helpers:75] Loss: 24.339115142822266
+[NeMo I 2021-01-15 16:06:15 helpers:76] Train WER:  32.35% | CER:  16.74%
+[NeMo I 2021-01-15 16:06:15 helpers:77] Prediction: ờ đợ rai  rồi chị
+[NeMo I 2021-01-15 16:06:15 helpers:78] Reference: rồi chọn phương án đi chị
+[NeMo I 2021-01-15 16:06:15 callbacks:238] Step time: 0.1602184772491455 seconds
+[NeMo I 2021-01-15 16:06:43 callbacks:223] Step: 1375
+[NeMo I 2021-01-15 16:06:44 helpers:75] Loss: 24.888092041015625
+[NeMo I 2021-01-15 16:06:44 helpers:76] Train WER:  27.45% | CER:  14.17%
+[NeMo I 2021-01-15 16:06:44 helpers:77] Prediction: a lô a lô em chào emh hạ anh ei hơi bên thái sơn đây ạ
+[NeMo I 2021-01-15 16:06:44 helpers:78] Reference: a lô a lô em chào ạ a ơi em huê bên thái sơn đây ạ
+[NeMo I 2021-01-15 16:06:44 callbacks:238] Step time: 0.2617638111114502 seconds
+[NeMo I 2021-01-15 16:07:12 callbacks:223] Step: 1400
+[NeMo I 2021-01-15 16:07:12 helpers:75] Loss: 23.59431266784668
+[NeMo I 2021-01-15 16:07:12 helpers:76] Train WER:  20.49% | CER:  9.93%
+[NeMo I 2021-01-15 16:07:12 helpers:77] Prediction: mang chíng
+[NeMo I 2021-01-15 16:07:12 helpers:78] Reference: mang tính
+[NeMo I 2021-01-15 16:07:12 callbacks:238] Step time: 0.380967378616333 seconds
+[NeMo I 2021-01-15 16:07:41 callbacks:223] Step: 1425
+[NeMo I 2021-01-15 16:07:41 helpers:75] Loss: 24.010244369506836
+[NeMo I 2021-01-15 16:07:41 helpers:76] Train WER:  26.03% | CER:  12.95%
+[NeMo I 2021-01-15 16:07:41 helpers:77] Prediction: ừ thì đấy mình đã ra quầ thu phí nhưng mà họ nói là phải có biên lai thì họ mới mới đưa hóa đơn
+[NeMo I 2021-01-15 16:07:41 helpers:78] Reference: ừ thì đấy mình ra quầy thu phí nhưng mà họ nói là phải có biên lai thì họ mới đưa hóa đơn
+[NeMo I 2021-01-15 16:07:41 callbacks:238] Step time: 0.2594468593597412 seconds
+[NeMo I 2021-01-15 16:07:45 callbacks:206] Finished epoch 12 in 0:02:06.407739
+[NeMo I 2021-01-15 16:07:45 callbacks:198] Starting epoch 13
+[NeMo I 2021-01-15 16:08:09 callbacks:223] Step: 1450
+[NeMo I 2021-01-15 16:08:09 helpers:75] Loss: 18.47652816772461
+[NeMo I 2021-01-15 16:08:09 helpers:76] Train WER:  19.64% | CER:  9.75%
+[NeMo I 2021-01-15 16:08:09 helpers:77] Prediction: a lô thái sơn xin nghe dạ ca lô e chào a ah ơi anh cho em hỏi cái
+[NeMo I 2021-01-15 16:08:09 helpers:78] Reference: a lô thái sơn xin nghe dạ a lô em chào anh anh ơi anh cho em hỏi cái
+[NeMo I 2021-01-15 16:08:09 callbacks:238] Step time: 0.32975220680236816 seconds
+[NeMo I 2021-01-15 16:08:38 callbacks:223] Step: 1475
+[NeMo I 2021-01-15 16:08:38 helpers:75] Loss: 18.26648712158203
+[NeMo I 2021-01-15 16:08:38 helpers:76] Train WER:  24.79% | CER:  12.21%
+[NeMo I 2021-01-15 16:08:38 helpers:77] Prediction: chi phí đóng rồi thì nó vẫn ở đấy
+[NeMo I 2021-01-15 16:08:38 helpers:78] Reference: chi phí đóng rồi thì nó vẫn ở đấy
+[NeMo I 2021-01-15 16:08:38 callbacks:238] Step time: 0.3388388156890869 seconds
+[NeMo I 2021-01-15 16:09:06 callbacks:223] Step: 1500
+[NeMo I 2021-01-15 16:09:06 helpers:75] Loss: 14.492366790771484
+[NeMo I 2021-01-15 16:09:06 helpers:76] Train WER:  20.83% | CER:  10.02%
+[NeMo I 2021-01-15 16:09:06 helpers:77] Prediction: chị nhấn ơ lai trên màn hình hộ em đi ạ
+[NeMo I 2021-01-15 16:09:06 helpers:78] Reference: chị nhấn ơ lai trên màn hình hộ em đi ạ
+[NeMo I 2021-01-15 16:09:06 callbacks:238] Step time: 0.30341148376464844 seconds
+[NeMo I 2021-01-15 16:09:35 callbacks:223] Step: 1525
+[NeMo I 2021-01-15 16:09:35 helpers:75] Loss: 20.921632766723633
+[NeMo I 2021-01-15 16:09:35 helpers:76] Train WER:  24.31% | CER:  12.51%
+[NeMo I 2021-01-15 16:09:35 helpers:77] Prediction: nâu
+[NeMo I 2021-01-15 16:09:35 helpers:78] Reference: no no
+[NeMo I 2021-01-15 16:09:35 callbacks:238] Step time: 0.40757012367248535 seconds
+[NeMo I 2021-01-15 16:09:50 callbacks:206] Finished epoch 13 in 0:02:05.197571
+[NeMo I 2021-01-15 16:09:50 callbacks:198] Starting epoch 14
+[NeMo I 2021-01-15 16:10:03 callbacks:223] Step: 1550
+[NeMo I 2021-01-15 16:10:03 helpers:75] Loss: 15.304526329040527
+[NeMo I 2021-01-15 16:10:03 helpers:76] Train WER:  20.53% | CER:  8.76%
+[NeMo I 2021-01-15 16:10:03 helpers:77] Prediction: vào phần giữ lại hóa đơn à đúng rồi
+[NeMo I 2021-01-15 16:10:03 helpers:78] Reference: vào phần giữ lại hóa đơn à đúng rồi
+[NeMo I 2021-01-15 16:10:03 callbacks:238] Step time: 0.3641633987426758 seconds
+[NeMo I 2021-01-15 16:10:32 callbacks:223] Step: 1575
+[NeMo I 2021-01-15 16:10:32 helpers:75] Loss: 23.659557342529297
+[NeMo I 2021-01-15 16:10:32 helpers:76] Train WER:  32.49% | CER:  18.39%
+[NeMo I 2021-01-15 16:10:32 helpers:77] Prediction: đúng vầ vậy chị vui lòng gác máy gip em nhé để em kiểm tra lại cái tạ bạn ngày tháng  sao
+[NeMo I 2021-01-15 16:10:32 helpers:78] Reference: đúng ạ vậy chị vui lòng gác máy giúp em nhé để em kiểm tra lại cái định dạng ngày tháng xem sao
+[NeMo I 2021-01-15 16:10:32 callbacks:238] Step time: 0.15981054306030273 seconds
+[NeMo I 2021-01-15 16:11:01 callbacks:223] Step: 1600
+[NeMo I 2021-01-15 16:11:01 helpers:75] Loss: 24.638866424560547
+[NeMo I 2021-01-15 16:11:01 helpers:76] Train WER:  31.42% | CER:  16.60%
+[NeMo I 2021-01-15 16:11:01 helpers:77] Prediction: chị xho chị 
+[NeMo I 2021-01-15 16:11:01 helpers:78] Reference: chị chờ chị ờ
+[NeMo I 2021-01-15 16:11:01 callbacks:238] Step time: 0.1958904266357422 seconds
+[NeMo I 2021-01-15 16:11:29 callbacks:223] Step: 1625
+[NeMo I 2021-01-15 16:11:29 helpers:75] Loss: 24.004318237304688
+[NeMo I 2021-01-15 16:11:29 helpers:76] Train WER:  30.72% | CER:  15.55%
+[NeMo I 2021-01-15 16:11:29 helpers:77] Prediction: chị kích vào nút lấy kết quả đi ạ
+[NeMo I 2021-01-15 16:11:29 helpers:78] Reference: chị kích vào nút lấy kết quả đi ạ
+[NeMo I 2021-01-15 16:11:29 callbacks:238] Step time: 0.15463829040527344 seconds
+[NeMo I 2021-01-15 16:11:56 callbacks:206] Finished epoch 14 in 0:02:06.087464
+[NeMo I 2021-01-15 16:11:56 callbacks:198] Starting epoch 15
+[NeMo I 2021-01-15 16:11:58 callbacks:223] Step: 1650
+[NeMo I 2021-01-15 16:11:58 helpers:75] Loss: 13.521476745605469
+[NeMo I 2021-01-15 16:11:58 helpers:76] Train WER:  20.55% | CER:  9.08%
+[NeMo I 2021-01-15 16:11:58 helpers:77] Prediction: rồi sê đhi ại
+[NeMo I 2021-01-15 16:11:58 helpers:78] Reference: rồi mình ghi lại dạ
+[NeMo I 2021-01-15 16:11:58 callbacks:238] Step time: 0.3127765655517578 seconds
+[NeMo I 2021-01-15 16:12:26 callbacks:223] Step: 1675
+[NeMo I 2021-01-15 16:12:26 helpers:75] Loss: 21.11405372619629
+[NeMo I 2021-01-15 16:12:26 helpers:76] Train WER:  25.81% | CER:  13.82%
+[NeMo I 2021-01-15 16:12:26 helpers:77] Prediction: một hai bốn một hai bốn
+[NeMo I 2021-01-15 16:12:26 helpers:78] Reference: một hai bốn một hai bốn
+[NeMo I 2021-01-15 16:12:26 callbacks:238] Step time: 0.16278314590454102 seconds
+[NeMo I 2021-01-15 16:12:56 callbacks:223] Step: 1700
+[NeMo I 2021-01-15 16:12:56 helpers:75] Loss: 27.519207000732422
+[NeMo I 2021-01-15 16:12:56 helpers:76] Train WER:  33.33% | CER:  18.09%
+[NeMo I 2021-01-15 16:12:56 helpers:77] Prediction: đấy rồ
+[NeMo I 2021-01-15 16:12:56 helpers:78] Reference: lẫn à
+[NeMo I 2021-01-15 16:12:56 callbacks:238] Step time: 0.16829848289489746 seconds
+[NeMo I 2021-01-15 16:13:25 callbacks:223] Step: 1725
+[NeMo I 2021-01-15 16:13:25 helpers:75] Loss: 15.182661056518555
+[NeMo I 2021-01-15 16:13:25 helpers:76] Train WER:  19.49% | CER:  9.26%
+[NeMo I 2021-01-15 16:13:25 helpers:77] Prediction: sáu ba tám sáu ba bảy ba một by bẩy một
+[NeMo I 2021-01-15 16:13:25 helpers:78] Reference: sáu ba tám sáu ba bẩy bẩy một bẩy bẩy một
+[NeMo I 2021-01-15 16:13:25 callbacks:238] Step time: 0.25110507011413574 seconds
+[NeMo I 2021-01-15 16:13:53 callbacks:223] Step: 1750
+[NeMo I 2021-01-15 16:13:53 helpers:75] Loss: 35.99654006958008
+[NeMo I 2021-01-15 16:13:53 helpers:76] Train WER:  35.04% | CER:  20.31%
+[NeMo I 2021-01-15 16:13:53 helpers:77] Prediction: dạ vâng em bên máy lẻ ộ một ba ba một em chào chị dạ
+[NeMo I 2021-01-15 16:13:53 helpers:78] Reference: dạ vâng em bên máy lẻ một ba ba một em chào chị dạ
+[NeMo I 2021-01-15 16:13:53 callbacks:238] Step time: 0.17052435874938965 seconds
+[NeMo I 2021-01-15 16:14:04 callbacks:206] Finished epoch 15 in 0:02:07.062613
+[NeMo I 2021-01-15 16:14:04 callbacks:198] Starting epoch 16
+[NeMo I 2021-01-15 16:14:22 callbacks:223] Step: 1775
+[NeMo I 2021-01-15 16:14:22 helpers:75] Loss: 17.948646545410156
+[NeMo I 2021-01-15 16:14:22 helpers:76] Train WER:  17.34% | CER:  8.85%
+[NeMo I 2021-01-15 16:14:22 helpers:77] Prediction: công ty cô khí long anh lê hu gi ạ
+[NeMo I 2021-01-15 16:14:22 helpers:78] Reference: công ty cơ khí long anh lê hu gi ạ
+[NeMo I 2021-01-15 16:14:22 callbacks:238] Step time: 0.30079126358032227 seconds
+[NeMo I 2021-01-15 16:14:52 callbacks:223] Step: 1800
+[NeMo I 2021-01-15 16:14:52 helpers:75] Loss: 26.916915893554688
+[NeMo I 2021-01-15 16:14:52 helpers:76] Train WER:  31.62% | CER:  16.54%
+[NeMo I 2021-01-15 16:14:52 helpers:77] Prediction: hồ sơ đã rà một cái cái cái tì hà nả hồ sơ đã lập
+[NeMo I 2021-01-15 16:14:52 helpers:78] Reference: hồ sơ nó ra một cái cái cái màn hình là hồ sơ đã lập
+[NeMo I 2021-01-15 16:14:52 callbacks:238] Step time: 0.16719412803649902 seconds
+[NeMo I 2021-01-15 16:15:21 callbacks:223] Step: 1825
+[NeMo I 2021-01-15 16:15:21 helpers:75] Loss: 26.89913558959961
+[NeMo I 2021-01-15 16:15:21 helpers:76] Train WER:  26.68% | CER:  14.51%
+[NeMo I 2021-01-15 16:15:21 helpers:77] Prediction: dạ vâng em hảo máy lẻ hai bốn thông em chào chị nhé ì chào bạn
+[NeMo I 2021-01-15 16:15:21 helpers:78] Reference: dạ vâng em thảo máy lẻ hai bốn không em chào chị nhé ừ chào bạn
+[NeMo I 2021-01-15 16:15:21 callbacks:238] Step time: 0.2949531078338623 seconds
+[NeMo I 2021-01-15 16:15:49 callbacks:223] Step: 1850
+[NeMo I 2021-01-15 16:15:50 helpers:75] Loss: 13.549939155578613
+[NeMo I 2021-01-15 16:15:50 helpers:76] Train WER:  16.48% | CER:  7.29%
+[NeMo I 2021-01-15 16:15:50 helpers:77] Prediction: ạ vâng ạ dạ ạạ
+[NeMo I 2021-01-15 16:15:50 helpers:78] Reference: dạ vâng ạ dạ dạ
+[NeMo I 2021-01-15 16:15:50 callbacks:238] Step time: 0.3692495822906494 seconds
+[NeMo I 2021-01-15 16:16:10 callbacks:206] Finished epoch 16 in 0:02:06.975387
+[NeMo I 2021-01-15 16:16:10 callbacks:198] Starting epoch 17
+[NeMo I 2021-01-15 16:16:17 callbacks:223] Step: 1875
+[NeMo I 2021-01-15 16:16:17 helpers:75] Loss: 35.46640396118164
+[NeMo I 2021-01-15 16:16:17 helpers:76] Train WER:  34.86% | CER:  19.29%
+[NeMo I 2021-01-15 16:16:17 helpers:77] Prediction: việt nam  nă nan muốn cộ nở rộng vò làm sâu
+[NeMo I 2021-01-15 16:16:17 helpers:78] Reference: việt nam mong muốn được mở rộng và làm sâu
+[NeMo I 2021-01-15 16:16:17 callbacks:238] Step time: 0.1723165512084961 seconds
+[NeMo I 2021-01-15 16:16:46 callbacks:223] Step: 1900
+[NeMo I 2021-01-15 16:16:46 helpers:75] Loss: 16.050155639648438
+[NeMo I 2021-01-15 16:16:46 helpers:76] Train WER:  16.53% | CER:  8.25%
+[NeMo I 2021-01-15 16:16:46 helpers:77] Prediction: ô kê a i bâ cử cử gốc à dạ vâng đúng rồi ạ em chào anh em doanh máy lẻ một hai ba tám
+[NeMo I 2021-01-15 16:16:46 helpers:78] Reference:  ô kê anh như phải sửa số gốc à dạ vâng đúng rồi ạ em chào anh em doanh máy lẻ một hai ba tám
+[NeMo I 2021-01-15 16:16:46 callbacks:238] Step time: 0.3518855571746826 seconds
+[NeMo I 2021-01-15 16:17:15 callbacks:223] Step: 1925
+[NeMo I 2021-01-15 16:17:15 helpers:75] Loss: 17.225637435913086
+[NeMo I 2021-01-15 16:17:15 helpers:76] Train WER:  23.06% | CER:  11.43%
+[NeMo I 2021-01-15 16:17:15 helpers:77] Prediction: lần gửi trước à lần bao nhiêu ghi cho chị ra
+[NeMo I 2021-01-15 16:17:15 helpers:78] Reference: lần gửi trước là lần bao nhiêu ghi cho chị ra
+[NeMo I 2021-01-15 16:17:15 callbacks:238] Step time: 0.30704450607299805 seconds
+[NeMo I 2021-01-15 16:17:44 callbacks:223] Step: 1950
+[NeMo I 2021-01-15 16:17:44 helpers:75] Loss: 24.889793395996094
+[NeMo I 2021-01-15 16:17:44 helpers:76] Train WER:  36.76% | CER:  18.45%
+[NeMo I 2021-01-15 16:17:44 helpers:77] Prediction: ừ rồ ô kê cảm ơn em em cảm ơn em chào ạn n
+[NeMo I 2021-01-15 16:17:44 helpers:78] Reference: ừ rồi ô kê cảm ơn em dạ em cảm ơn em chào chị ạ
+[NeMo I 2021-01-15 16:17:44 callbacks:238] Step time: 0.18939924240112305 seconds
+[NeMo I 2021-01-15 16:18:13 callbacks:223] Step: 1975
+[NeMo I 2021-01-15 16:18:13 helpers:75] Loss: 31.057706832885742
+[NeMo I 2021-01-15 16:18:13 helpers:76] Train WER:  37.91% | CER:  21.93%
+[NeMo I 2021-01-15 16:18:13 helpers:77] Prediction: a lâu cho em đi
+[NeMo I 2021-01-15 16:18:13 helpers:78] Reference: ơ lâu cho em đi
+[NeMo I 2021-01-15 16:18:13 callbacks:238] Step time: 0.18707990646362305 seconds
+[NeMo I 2021-01-15 16:18:17 callbacks:206] Finished epoch 17 in 0:02:06.532636
+[NeMo I 2021-01-15 16:18:17 callbacks:198] Starting epoch 18
+[NeMo I 2021-01-15 16:18:41 callbacks:223] Step: 2000
+[NeMo I 2021-01-15 16:18:41 helpers:75] Loss: 16.438579559326172
+[NeMo I 2021-01-15 16:18:41 helpers:76] Train WER:  19.95% | CER:  9.66%
+[NeMo I 2021-01-15 16:18:41 helpers:77] Prediction: không ạ em bật lại rồi mà vầng đây đài chút em vào xem được
+[NeMo I 2021-01-15 16:18:41 helpers:78] Reference: không ạ em bật lại rồi mà vầng đây nài chút em vào xem được
+[NeMo I 2021-01-15 16:18:41 callbacks:238] Step time: 0.2729775905609131 seconds
+[NeMo I 2021-01-15 16:18:41 callbacks:441] Doing Evaluation ..............................
+[NeMo I 2021-01-15 16:19:51 helpers:197] ==========>>>>>>Evaluation Loss valid: inf
+[NeMo I 2021-01-15 16:19:51 helpers:198] ==========>>>>>>Evaluation Valid WER:  42.51%
+[NeMo I 2021-01-15 16:19:51 helpers:199] ==========>>>>>>Evaluation Valid CER:  22.72%
+[NeMo I 2021-01-15 16:19:51 callbacks:446] Evaluation time: 70.14403939247131 seconds
+[NeMo I 2021-01-15 16:19:52 callbacks:302] Saved checkpoint: quartznet12x1_abcfjwz_finetune/checkpoints/trainer-STEP-2000.pt
+[NeMo I 2021-01-15 16:20:21 callbacks:223] Step: 2025
+[NeMo I 2021-01-15 16:20:21 helpers:75] Loss: 19.414262771606445
+[NeMo I 2021-01-15 16:20:21 helpers:76] Train WER:  26.30% | CER:  13.06%
+[NeMo I 2021-01-15 16:20:21 helpers:77] Prediction: đã giảm hẳn
+[NeMo I 2021-01-15 16:20:21 helpers:78] Reference: đã giảm hẳn ạ
+[NeMo I 2021-01-15 16:20:21 callbacks:238] Step time: 0.16541075706481934 seconds
+[NeMo I 2021-01-15 16:20:50 callbacks:223] Step: 2050
+[NeMo I 2021-01-15 16:20:50 helpers:75] Loss: 16.606903076171875
+[NeMo I 2021-01-15 16:20:50 helpers:76] Train WER:  20.36% | CER:  9.64%
+[NeMo I 2021-01-15 16:20:50 helpers:77] Prediction: thì đến tậnhii sáu tháng mười hai này mới hết hạià
+[NeMo I 2021-01-15 16:20:50 helpers:78] Reference: thì đến tận hai sáu tháng mười hai này mới hết hạn mà
+[NeMo I 2021-01-15 16:20:50 callbacks:238] Step time: 0.3483598232269287 seconds
+[NeMo I 2021-01-15 16:21:19 callbacks:223] Step: 2075
+[NeMo I 2021-01-15 16:21:19 helpers:75] Loss: 18.25472068786621
+[NeMo I 2021-01-15 16:21:19 helpers:76] Train WER:  17.66% | CER:  8.61%
+[NeMo I 2021-01-15 16:21:19 helpers:77] Prediction: đúng rồi đế thì cái trạng thái tờ khai của anh gở như nào rồi ạ
+[NeMo I 2021-01-15 16:21:19 helpers:78] Reference: đúng rồi thế thì cái trạng thái tờ khai của anh giờ như nào rồi ạ
+[NeMo I 2021-01-15 16:21:19 callbacks:238] Step time: 0.3948333263397217 seconds
+[NeMo I 2021-01-15 16:21:34 callbacks:206] Finished epoch 18 in 0:03:17.011470
+[NeMo I 2021-01-15 16:21:34 callbacks:198] Starting epoch 19
+[NeMo I 2021-01-15 16:21:47 callbacks:223] Step: 2100
+[NeMo I 2021-01-15 16:21:47 helpers:75] Loss: 14.335079193115234
+[NeMo I 2021-01-15 16:21:47 helpers:76] Train WER:  20.40% | CER:  10.00%
+[NeMo I 2021-01-15 16:21:47 helpers:77] Prediction: không không không không à thế ạ dạ vâng ạ dạ vâng ạ  dạ vâng  vâng em chào anh ạ
+[NeMo I 2021-01-15 16:21:47 helpers:78] Reference: không không không không à thế ạ dạ vâng ạ ừ dạ vâng ạ dạ vâng vâng em chào anh ạ
+[NeMo I 2021-01-15 16:21:47 callbacks:238] Step time: 0.20441746711730957 seconds
+[NeMo I 2021-01-15 16:22:16 callbacks:223] Step: 2125
+[NeMo I 2021-01-15 16:22:16 helpers:75] Loss: 19.965599060058594
+[NeMo I 2021-01-15 16:22:16 helpers:76] Train WER:  20.17% | CER:  11.00%
+[NeMo I 2021-01-15 16:22:16 helpers:77] Prediction: ký hợp đồng điện tử ạ vầng
+[NeMo I 2021-01-15 16:22:16 helpers:78] Reference: ký hợp đồng điện tử ạ vầng
+[NeMo I 2021-01-15 16:22:16 callbacks:238] Step time: 0.25095391273498535 seconds
+[NeMo I 2021-01-15 16:22:46 callbacks:223] Step: 2150
+[NeMo I 2021-01-15 16:22:46 helpers:75] Loss: 13.350709915161133
+[NeMo I 2021-01-15 16:22:46 helpers:76] Train WER:  16.98% | CER:  8.53%
+[NeMo I 2021-01-15 16:22:46 helpers:77] Prediction: à đấ le đe chợ
+[NeMo I 2021-01-15 16:22:46 helpers:78] Reference: cái đấy em đang chạy
+[NeMo I 2021-01-15 16:22:46 callbacks:238] Step time: 0.22185897827148438 seconds
+[NeMo I 2021-01-15 16:23:15 callbacks:223] Step: 2175
+[NeMo I 2021-01-15 16:23:15 helpers:75] Loss: 31.79369354248047
+[NeMo I 2021-01-15 16:23:15 helpers:76] Train WER:  39.00% | CER:  22.85%
+[NeMo I 2021-01-15 16:23:15 helpers:77] Prediction: ị cần phương háng ún rà em dạ không có  gi h chị
+[NeMo I 2021-01-15 16:23:15 helpers:78] Reference: lúc nào cần phương án cơ mà em dạ không chị bấm ghi nha chị
+[NeMo I 2021-01-15 16:23:15 callbacks:238] Step time: 0.18800854682922363 seconds
+[NeMo I 2021-01-15 16:23:42 callbacks:206] Finished epoch 19 in 0:02:07.790847
+[NeMo I 2021-01-15 16:23:42 callbacks:198] Starting epoch 20
+[NeMo I 2021-01-15 16:23:43 callbacks:223] Step: 2200
+[NeMo I 2021-01-15 16:23:43 helpers:75] Loss: 18.01270294189453
+[NeMo I 2021-01-15 16:23:43 helpers:76] Train WER:  21.43% | CER:  11.25%
+[NeMo I 2021-01-15 16:23:43 helpers:77] Prediction:  nhậ cắm kách cá một ập mã số bảo hiểm
+[NeMo I 2021-01-15 16:23:43 helpers:78] Reference: chưa được nhỉ cái cái phần một nhập mã số bảo hiểm
+[NeMo I 2021-01-15 16:23:43 callbacks:238] Step time: 0.2299787998199463 seconds
+[NeMo I 2021-01-15 16:24:11 callbacks:223] Step: 2225
+[NeMo I 2021-01-15 16:24:11 helpers:75] Loss: 18.80533218383789
+[NeMo I 2021-01-15 16:24:11 helpers:76] Train WER:  27.22% | CER:  13.91%
+[NeMo I 2021-01-15 16:24:11 helpers:77] Prediction: cro sự kếnh
+[NeMo I 2021-01-15 16:24:11 helpers:78] Reference: theo dự kiến
+[NeMo I 2021-01-15 16:24:11 callbacks:238] Step time: 0.1818692684173584 seconds
+[NeMo I 2021-01-15 16:24:40 callbacks:223] Step: 2250
+[NeMo I 2021-01-15 16:24:40 helpers:75] Loss: 12.852935791015625
+[NeMo I 2021-01-15 16:24:40 helpers:76] Train WER:  21.97% | CER:  9.79%
+[NeMo I 2021-01-15 16:24:40 helpers:77] Prediction: không biết c anh có mua cho công ty khác không ạ
+[NeMo I 2021-01-15 16:24:40 helpers:78] Reference: không biết có anh có mua cho công ty khác không ạ
+[NeMo I 2021-01-15 16:24:40 callbacks:238] Step time: 0.24430274963378906 seconds
+[NeMo I 2021-01-15 16:25:09 callbacks:223] Step: 2275
+[NeMo I 2021-01-15 16:25:09 helpers:75] Loss: 24.111373901367188
+[NeMo I 2021-01-15 16:25:09 helpers:76] Train WER:  29.11% | CER:  15.70%
+[NeMo I 2021-01-15 16:25:09 helpers:77] Prediction: và kéo hai cái máy cũ vào cái hợp đồng mới này luôn
+[NeMo I 2021-01-15 16:25:09 helpers:78] Reference: và kéo hai cái máy cũ vào cái hợp đồng mới này luôn
+[NeMo I 2021-01-15 16:25:09 callbacks:238] Step time: 0.16396832466125488 seconds
+[NeMo I 2021-01-15 16:25:37 callbacks:223] Step: 2300
+[NeMo I 2021-01-15 16:25:37 helpers:75] Loss: 24.7447452545166
+[NeMo I 2021-01-15 16:25:37 helpers:76] Train WER:  30.73% | CER:  15.63%
+[NeMo I 2021-01-15 16:25:37 helpers:77] Prediction: đây thì thủ công n nhìn m 
+[NeMo I 2021-01-15 16:25:37 helpers:78] Reference: ờ thì thủ công đấy
+[NeMo I 2021-01-15 16:25:37 callbacks:238] Step time: 0.1737527847290039 seconds
+[NeMo I 2021-01-15 16:25:47 callbacks:206] Finished epoch 20 in 0:02:04.829261
+[NeMo I 2021-01-15 16:25:47 callbacks:198] Starting epoch 21
+[NeMo I 2021-01-15 16:26:05 callbacks:223] Step: 2325
+[NeMo I 2021-01-15 16:26:05 helpers:75] Loss: 21.263275146484375
+[NeMo I 2021-01-15 16:26:05 helpers:76] Train WER:  20.98% | CER:  10.86%
+[NeMo I 2021-01-15 16:26:05 helpers:77] Prediction: đây anh cập nhật lày là khin gời y nhạ phiên bản ngày mời sáu tháng mười rồi đấy anh
+[NeMo I 2021-01-15 16:26:05 helpers:78] Reference: đây anh cập nhật này là xong rồi đấy anh ạ phiên bản ngày mười sáu tháng mười rồi đấy anh
+[NeMo I 2021-01-15 16:26:05 callbacks:238] Step time: 0.2447805404663086 seconds
+[NeMo I 2021-01-15 16:26:34 callbacks:223] Step: 2350
+[NeMo I 2021-01-15 16:26:34 helpers:75] Loss: 12.305059432983398
+[NeMo I 2021-01-15 16:26:34 helpers:76] Train WER:  16.43% | CER:  6.47%
+[NeMo I 2021-01-15 16:26:34 helpers:77] Prediction: bên chị không cóc tôn viu ạ có có tim viu
+[NeMo I 2021-01-15 16:26:34 helpers:78] Reference: bên chị không có tim viu ạ có có tim viu
+[NeMo I 2021-01-15 16:26:34 callbacks:238] Step time: 0.2948594093322754 seconds
+[NeMo I 2021-01-15 16:27:03 callbacks:223] Step: 2375
+[NeMo I 2021-01-15 16:27:03 helpers:75] Loss: 23.962108612060547
+[NeMo I 2021-01-15 16:27:03 helpers:76] Train WER:  25.21% | CER:  14.73%
+[NeMo I 2021-01-15 16:27:03 helpers:77] Prediction: chị ơi mã số thuế là không một không sáu ạ rồi ạ
+[NeMo I 2021-01-15 16:27:03 helpers:78] Reference: chị ơi mã số thuế là không một không sáu ạ rồi ạ
+[NeMo I 2021-01-15 16:27:03 callbacks:238] Step time: 0.1715545654296875 seconds
+[NeMo I 2021-01-15 16:27:32 callbacks:223] Step: 2400
+[NeMo I 2021-01-15 16:27:32 helpers:75] Loss: 16.45496940612793
+[NeMo I 2021-01-15 16:27:32 helpers:76] Train WER:  18.00% | CER:  7.84%
+[NeMo I 2021-01-15 16:27:32 helpers:77] Prediction: y tấ miền trung i
+[NeMo I 2021-01-15 16:27:32 helpers:78] Reference: y tế miền trung
+[NeMo I 2021-01-15 16:27:32 callbacks:238] Step time: 0.34843993186950684 seconds
+[NeMo I 2021-01-15 16:27:53 callbacks:206] Finished epoch 21 in 0:02:06.212006
+[NeMo I 2021-01-15 16:27:53 callbacks:198] Starting epoch 22
+[NeMo I 2021-01-15 16:28:00 callbacks:223] Step: 2425
+[NeMo I 2021-01-15 16:28:00 helpers:75] Loss: 16.003276824951172
+[NeMo I 2021-01-15 16:28:00 helpers:76] Train WER:  22.11% | CER:  10.81%
+[NeMo I 2021-01-15 16:28:00 helpers:77] Prediction: à vầng vầng vầngm chị đợi em ba lâu thì đéc em
+[NeMo I 2021-01-15 16:28:00 helpers:78] Reference: à vầng vầng vầng em chị đợi em tí nhé a lô
+[NeMo I 2021-01-15 16:28:00 callbacks:238] Step time: 0.21593737602233887 seconds
+[NeMo I 2021-01-15 16:28:29 callbacks:223] Step: 2450
+[NeMo I 2021-01-15 16:28:29 helpers:75] Loss: 22.039630889892578
+[NeMo I 2021-01-15 16:28:29 helpers:76] Train WER:  27.32% | CER:  14.05%
+[NeMo I 2021-01-15 16:28:29 helpers:77] Prediction: em đăng ký bản quyền thấ anh có n thủ tục xong gửi bộ trận kinh do anh bên em chưa ạ
+[NeMo I 2021-01-15 16:28:29 helpers:78] Reference: anh đăng ký bản quyền thì anh đã làm thủ tục xong gửi bộ phận kinh doanh bên em chưa ạ
+[NeMo I 2021-01-15 16:28:29 callbacks:238] Step time: 0.17932391166687012 seconds
+[NeMo I 2021-01-15 16:28:57 callbacks:223] Step: 2475
+[NeMo I 2021-01-15 16:28:57 helpers:75] Loss: 22.62346649169922
+[NeMo I 2021-01-15 16:28:57 helpers:76] Train WER:  24.52% | CER:  12.92%
+[NeMo I 2021-01-15 16:28:57 helpers:77] Prediction: em là trang số máy lẻ một hai ba sáu ạ
+[NeMo I 2021-01-15 16:28:57 helpers:78] Reference: em là trang số máy lẻ một hai ba sáu ạ
+[NeMo I 2021-01-15 16:28:57 callbacks:238] Step time: 0.21813416481018066 seconds
+[NeMo I 2021-01-15 16:29:26 callbacks:223] Step: 2500
+[NeMo I 2021-01-15 16:29:26 helpers:75] Loss: 21.62401580810547
+[NeMo I 2021-01-15 16:29:26 helpers:76] Train WER:  27.79% | CER:  14.98%
+[NeMo I 2021-01-15 16:29:26 helpers:77] Prediction: ép m ép phây búc ýy à
+[NeMo I 2021-01-15 16:29:26 helpers:78] Reference: ép là ép phây búc ý ạ ờ
+[NeMo I 2021-01-15 16:29:26 callbacks:238] Step time: 0.20307087898254395 seconds
+[NeMo I 2021-01-15 16:29:55 callbacks:223] Step: 2525
+[NeMo I 2021-01-15 16:29:55 helpers:75] Loss: 11.799896240234375
+[NeMo I 2021-01-15 16:29:55 helpers:76] Train WER:  20.33% | CER:  7.97%
+[NeMo I 2021-01-15 16:29:55 helpers:77] Prediction: ị ấ đên táp
+[NeMo I 2021-01-15 16:29:55 helpers:78] Reference: chị ấn en táp
+[NeMo I 2021-01-15 16:29:55 callbacks:238] Step time: 0.32740187644958496 seconds
+[NeMo I 2021-01-15 16:29:59 callbacks:206] Finished epoch 22 in 0:02:06.480024
+[NeMo I 2021-01-15 16:29:59 callbacks:198] Starting epoch 23
+[NeMo I 2021-01-15 16:30:25 callbacks:223] Step: 2550
+[NeMo I 2021-01-15 16:30:25 helpers:75] Loss: 24.14583969116211
+[NeMo I 2021-01-15 16:30:25 helpers:76] Train WER:  24.37% | CER:  13.05%
+[NeMo I 2021-01-15 16:30:25 helpers:77] Prediction: đây em nà được rồi đây ạ anh ể ở phần mềm lên ạ
+[NeMo I 2021-01-15 16:30:25 helpers:78] Reference: đây em vào được rồi đây ạ anh mở phần mềm lên ạ
+[NeMo I 2021-01-15 16:30:25 callbacks:238] Step time: 0.21283984184265137 seconds
+[NeMo I 2021-01-15 16:30:53 callbacks:223] Step: 2575
+[NeMo I 2021-01-15 16:30:53 helpers:75] Loss: 12.237922668457031
+[NeMo I 2021-01-15 16:30:53 helpers:76] Train WER:  18.35% | CER:  9.47%
+[NeMo I 2021-01-15 16:30:53 helpers:77] Prediction: ờ có này
+[NeMo I 2021-01-15 16:30:53 helpers:78] Reference: ờ có này
+[NeMo I 2021-01-15 16:30:53 callbacks:238] Step time: 0.2051839828491211 seconds
+[NeMo I 2021-01-15 16:31:22 callbacks:223] Step: 2600
+[NeMo I 2021-01-15 16:31:22 helpers:75] Loss: 20.541547775268555
+[NeMo I 2021-01-15 16:31:22 helpers:76] Train WER:  23.02% | CER:  13.11%
+[NeMo I 2021-01-15 16:31:22 helpers:77] Prediction: chị có tim viu trên máy h em vào kiểm tra ô kê anh nhé
+[NeMo I 2021-01-15 16:31:22 helpers:78] Reference: chị có tim viu trên máy không em vào kiểm tra ô kê anh nhé
+[NeMo I 2021-01-15 16:31:22 callbacks:238] Step time: 0.22340631484985352 seconds
+[NeMo I 2021-01-15 16:31:51 callbacks:223] Step: 2625
+[NeMo I 2021-01-15 16:31:51 helpers:75] Loss: 15.94288444519043
+[NeMo I 2021-01-15 16:31:51 helpers:76] Train WER:  19.53% | CER:  9.84%
+[NeMo I 2021-01-15 16:31:51 helpers:77] Prediction: đúng rồi vầng ca còng gờ mêu chấm com a còng gờ meu chấm com
+[NeMo I 2021-01-15 16:31:51 helpers:78] Reference: đúng rồi vầng a còng gờ mêu chấm com a còng gờ mêu chấm com
+[NeMo I 2021-01-15 16:31:51 callbacks:238] Step time: 0.2778191566467285 seconds
+[NeMo I 2021-01-15 16:32:07 callbacks:206] Finished epoch 23 in 0:02:07.376958
+[NeMo I 2021-01-15 16:32:07 callbacks:198] Starting epoch 24
+[NeMo I 2021-01-15 16:32:20 callbacks:223] Step: 2650
+[NeMo I 2021-01-15 16:32:20 helpers:75] Loss: 11.532455444335938
+[NeMo I 2021-01-15 16:32:20 helpers:76] Train WER:  13.65% | CER:  6.13%
+[NeMo I 2021-01-15 16:32:20 helpers:77] Prediction: vâng em em đọc nhé
+[NeMo I 2021-01-15 16:32:20 helpers:78] Reference: vâng em em đọc nhé
+[NeMo I 2021-01-15 16:32:20 callbacks:238] Step time: 0.27027320861816406 seconds
+[NeMo I 2021-01-15 16:32:49 callbacks:223] Step: 2675
+[NeMo I 2021-01-15 16:32:49 helpers:75] Loss: 23.846397399902344
+[NeMo I 2021-01-15 16:32:49 helpers:76] Train WER:  25.89% | CER:  14.31%
+[NeMo I 2021-01-15 16:32:49 helpers:77] Prediction: không có đâi chị
+[NeMo I 2021-01-15 16:32:49 helpers:78] Reference: không có đâu chị
+[NeMo I 2021-01-15 16:32:49 callbacks:238] Step time: 0.1665811538696289 seconds
+[NeMo I 2021-01-15 16:33:17 callbacks:223] Step: 2700
+[NeMo I 2021-01-15 16:33:17 helpers:75] Loss: 9.996698379516602
+[NeMo I 2021-01-15 16:33:17 helpers:76] Train WER:  10.60% | CER:  4.95%
+[NeMo I 2021-01-15 16:33:17 helpers:77] Prediction: thì cái chỗ cái cái cái gọi là cái gì nhỉ
+[NeMo I 2021-01-15 16:33:17 helpers:78] Reference: thì ờ cái chỗ cái cái cái gọi là cái gì nhỉ
+[NeMo I 2021-01-15 16:33:17 callbacks:238] Step time: 0.34679198265075684 seconds
+[NeMo I 2021-01-15 16:33:45 callbacks:223] Step: 2725
+[NeMo I 2021-01-15 16:33:45 helpers:75] Loss: 12.809903144836426
+[NeMo I 2021-01-15 16:33:45 helpers:76] Train WER:  18.20% | CER:  7.63%
+[NeMo I 2021-01-15 16:33:45 helpers:77] Prediction: trên mạng xã hội ngày hôm nay xuất hiện một đoạn cờ líp ghi lại cảnh một người phụ nữ đã bế con lên tà trong gương và có ý định tự từ vào sáng mùng năm tháng mười khiếu n người đi đường vào thời điểm đó rất chú ý
+[NeMo I 2021-01-15 16:33:45 helpers:78] Reference: trên mạng xã hội ngày hôm nay xuất hiện một đoạn cờ líp ghi lại cảnh một người phụ nữ đã bế con lên cầu chương dương và có ý định tự tử vào sáng mùng năm tháng mười khiến nhiều người đi đường vào thời điểm đó rất chú ý
+[NeMo I 2021-01-15 16:33:45 callbacks:238] Step time: 0.2894935607910156 seconds
+[NeMo I 2021-01-15 16:34:13 callbacks:206] Finished epoch 24 in 0:02:06.167506
+[NeMo I 2021-01-15 16:34:13 callbacks:198] Starting epoch 25
+[NeMo I 2021-01-15 16:34:14 callbacks:223] Step: 2750
+[NeMo I 2021-01-15 16:34:14 helpers:75] Loss: 20.467510223388672
+[NeMo I 2021-01-15 16:34:14 helpers:76] Train WER:  28.62% | CER:  15.85%
+[NeMo I 2021-01-15 16:34:14 helpers:77] Prediction: đâ đổy số một nhé dạ vâng
+[NeMo I 2021-01-15 16:34:14 helpers:78] Reference: em để số một nhé tạm vậy
+[NeMo I 2021-01-15 16:34:14 callbacks:238] Step time: 0.15302681922912598 seconds
+[NeMo I 2021-01-15 16:34:45 callbacks:223] Step: 2775
+[NeMo I 2021-01-15 16:34:45 helpers:75] Loss: 15.039624214172363
+[NeMo I 2021-01-15 16:34:45 helpers:76] Train WER:  21.16% | CER:  11.58%
+[NeMo I 2021-01-15 16:34:45 helpers:77] Prediction:   ty kỹ thuậ điện  dầu khí việt nam đê hưng phải không chị
+[NeMo I 2021-01-15 16:34:45 helpers:78] Reference: công ty kỹ thuật điện lực dầu khí việt nam đê hưng phải không chị
+[NeMo I 2021-01-15 16:34:45 callbacks:238] Step time: 0.15838313102722168 seconds
+[NeMo I 2021-01-15 16:35:16 callbacks:223] Step: 2800
+[NeMo I 2021-01-15 16:35:16 helpers:75] Loss: 22.052867889404297
+[NeMo I 2021-01-15 16:35:16 helpers:76] Train WER:  24.27% | CER:  13.23%
+[NeMo I 2021-01-15 16:35:16 helpers:77] Prediction: vâng chị đợi chút
+[NeMo I 2021-01-15 16:35:16 helpers:78] Reference: vâng chị đợi chút
+[NeMo I 2021-01-15 16:35:16 callbacks:238] Step time: 0.1744680404663086 seconds
+[NeMo I 2021-01-15 16:35:44 callbacks:223] Step: 2825
+[NeMo I 2021-01-15 16:35:44 helpers:75] Loss: 14.589630126953125
+[NeMo I 2021-01-15 16:35:44 helpers:76] Train WER:  12.90% | CER:  6.59%
+[NeMo I 2021-01-15 16:35:44 helpers:77] Prediction: em xem hủ chị với nhớ chị thao tác giúp em xem nào mình đang thao tác đến đâu mà lỗi
+[NeMo I 2021-01-15 16:35:44 helpers:78] Reference: em xem hộ chị với nhớ chị thao tác giúp em xem nào mình đang thao tác đến đâu mà lỗi
+[NeMo I 2021-01-15 16:35:44 callbacks:238] Step time: 0.333467960357666 seconds
+[NeMo I 2021-01-15 16:36:13 callbacks:223] Step: 2850
+[NeMo I 2021-01-15 16:36:13 helpers:75] Loss: 21.167587280273438
+[NeMo I 2021-01-15 16:36:13 helpers:76] Train WER:  30.53% | CER:  16.47%
+[NeMo I 2021-01-15 16:36:13 helpers:77] Prediction: vâng anh kên ơi em điện từ thái sơn công ty cung cấp phần mềm khai hải quan anh ý
+[NeMo I 2021-01-15 16:36:13 helpers:78] Reference: vâng anh kiên ơi em điện từ thái sơn công ty cung cấp phần mềm khai hải quan anh ạ
+[NeMo I 2021-01-15 16:36:13 callbacks:238] Step time: 0.15697455406188965 seconds
+[NeMo I 2021-01-15 16:36:23 callbacks:206] Finished epoch 25 in 0:02:10.201674
+[NeMo I 2021-01-15 16:36:23 callbacks:198] Starting epoch 26
+[NeMo I 2021-01-15 16:36:41 callbacks:223] Step: 2875
+[NeMo I 2021-01-15 16:36:41 helpers:75] Loss: 19.646488189697266
+[NeMo I 2021-01-15 16:36:41 helpers:76] Train WER:  28.06% | CER:  15.33%
+[NeMo I 2021-01-15 16:36:41 helpers:77] Prediction: ý là nâng cấp lên là giờ nó báoi là phải
+[NeMo I 2021-01-15 16:36:41 helpers:78] Reference: ý là nâng cấp lên là giờ nó báo là phải á
+[NeMo I 2021-01-15 16:36:41 callbacks:238] Step time: 0.15863704681396484 seconds
+[NeMo I 2021-01-15 16:37:10 callbacks:223] Step: 2900
+[NeMo I 2021-01-15 16:37:10 helpers:75] Loss: 13.316898345947266
+[NeMo I 2021-01-15 16:37:10 helpers:76] Train WER:  19.81% | CER:  9.70%
+[NeMo I 2021-01-15 16:37:10 helpers:77] Prediction: tức là như thế nào ạ
+[NeMo I 2021-01-15 16:37:10 helpers:78] Reference: tức là như thế nào ạ
+[NeMo I 2021-01-15 16:37:10 callbacks:238] Step time: 0.20746469497680664 seconds
+[NeMo I 2021-01-15 16:37:39 callbacks:223] Step: 2925
+[NeMo I 2021-01-15 16:37:39 helpers:75] Loss: 20.300199508666992
+[NeMo I 2021-01-15 16:37:39 helpers:76] Train WER:  30.30% | CER:  16.95%
+[NeMo I 2021-01-15 16:37:39 helpers:77] Prediction: a lô thái sơn xin nghe
+[NeMo I 2021-01-15 16:37:39 helpers:78] Reference: a lô thái sơn xin nghe
+[NeMo I 2021-01-15 16:37:39 callbacks:238] Step time: 0.1722278594970703 seconds
+[NeMo I 2021-01-15 16:38:09 callbacks:223] Step: 2950
+[NeMo I 2021-01-15 16:38:10 helpers:75] Loss: 26.66087532043457
+[NeMo I 2021-01-15 16:38:10 helpers:76] Train WER:  36.97% | CER:  18.57%
+[NeMo I 2021-01-15 16:38:10 helpers:77] Prediction: chị vui lòng cho em xin tên và điện thợ của chị với ạ   điện hại củ chị là không chín tám năm
+[NeMo I 2021-01-15 16:38:10 helpers:78] Reference: chị vui lòng cho em xin tên và số điện thoại của chị với ạ chị tú số điện thoại của chị là không chín tám năm
+[NeMo I 2021-01-15 16:38:10 callbacks:238] Step time: 0.1633315086364746 seconds
+[NeMo I 2021-01-15 16:38:31 callbacks:206] Finished epoch 26 in 0:02:07.756501
+[NeMo I 2021-01-15 16:38:31 callbacks:198] Starting epoch 27
+[NeMo I 2021-01-15 16:38:38 callbacks:223] Step: 2975
+[NeMo I 2021-01-15 16:38:38 helpers:75] Loss: 11.95224666595459
+[NeMo I 2021-01-15 16:38:38 helpers:76] Train WER:  13.56% | CER:  5.91%
+[NeMo I 2021-01-15 16:38:38 helpers:77] Prediction: à chị là a bảo hiểm đúng không chị
+[NeMo I 2021-01-15 16:38:38 helpers:78] Reference: à chị là của bảo hiểm đúng không chị
+[NeMo I 2021-01-15 16:38:38 callbacks:238] Step time: 0.3841080665588379 seconds
+[NeMo I 2021-01-15 16:39:08 callbacks:223] Step: 3000
+[NeMo I 2021-01-15 16:39:08 helpers:75] Loss: 9.594341278076172
+[NeMo I 2021-01-15 16:39:08 helpers:76] Train WER:  11.65% | CER:  4.95%
+[NeMo I 2021-01-15 16:39:08 helpers:77] Prediction: và cũng một số yếu tố 
+[NeMo I 2021-01-15 16:39:08 helpers:78] Reference: và cũng một số yếu tố của
+[NeMo I 2021-01-15 16:39:08 callbacks:238] Step time: 0.3565943241119385 seconds
+[NeMo I 2021-01-15 16:39:08 callbacks:441] Doing Evaluation ..............................
+[NeMo I 2021-01-15 16:40:19 helpers:197] ==========>>>>>>Evaluation Loss valid: inf
+[NeMo I 2021-01-15 16:40:19 helpers:198] ==========>>>>>>Evaluation Valid WER:  44.76%
+[NeMo I 2021-01-15 16:40:19 helpers:199] ==========>>>>>>Evaluation Valid CER:  23.75%
+[NeMo I 2021-01-15 16:40:19 callbacks:446] Evaluation time: 70.54800462722778 seconds
+[NeMo I 2021-01-15 16:40:19 callbacks:302] Saved checkpoint: quartznet12x1_abcfjwz_finetune/checkpoints/trainer-STEP-3000.pt
+[NeMo I 2021-01-15 16:40:48 callbacks:223] Step: 3025
+[NeMo I 2021-01-15 16:40:48 helpers:75] Loss: 21.970340728759766
+[NeMo I 2021-01-15 16:40:48 helpers:76] Train WER:  28.48% | CER:  15.47%
+[NeMo I 2021-01-15 16:40:48 helpers:77] Prediction: ừm đún rồi ài
+[NeMo I 2021-01-15 16:40:48 helpers:78] Reference: ừm có rồi
+[NeMo I 2021-01-15 16:40:48 callbacks:238] Step time: 0.15662288665771484 seconds
+[NeMo I 2021-01-15 16:41:17 callbacks:223] Step: 3050
+[NeMo I 2021-01-15 16:41:17 helpers:75] Loss: 18.416723251342773
+[NeMo I 2021-01-15 16:41:17 helpers:76] Train WER:  25.57% | CER:  13.14%
+[NeMo I 2021-01-15 16:41:17 helpers:77] Prediction: cái thứ hai cái cái thác a l cái rilàúc
+[NeMo I 2021-01-15 16:41:17 helpers:78] Reference: cái thứ hai cái cái cái cái kia là
+[NeMo I 2021-01-15 16:41:17 callbacks:238] Step time: 0.15566730499267578 seconds
+[NeMo I 2021-01-15 16:41:46 callbacks:223] Step: 3075
+[NeMo I 2021-01-15 16:41:46 helpers:75] Loss: 18.14227294921875
+[NeMo I 2021-01-15 16:41:46 helpers:76] Train WER:  24.50% | CER:  12.13%
+[NeMo I 2021-01-15 16:41:46 helpers:77] Prediction: a lô tá a lô chị l oanh ạ
+[NeMo I 2021-01-15 16:41:46 helpers:78] Reference: a lô a a lô chị oanh ạ
+[NeMo I 2021-01-15 16:41:46 callbacks:238] Step time: 0.17052292823791504 seconds
+[NeMo I 2021-01-15 16:41:51 callbacks:206] Finished epoch 27 in 0:03:19.700960
+[NeMo I 2021-01-15 16:41:51 callbacks:198] Starting epoch 28
+[NeMo I 2021-01-15 16:42:15 callbacks:223] Step: 3100
+[NeMo I 2021-01-15 16:42:15 helpers:75] Loss: 20.718917846679688
+[NeMo I 2021-01-15 16:42:15 helpers:76] Train WER:  25.46% | CER:  12.56%
+[NeMo I 2021-01-15 16:42:15 helpers:77] Prediction: vâng chờ em một chút nhé vầ
+[NeMo I 2021-01-15 16:42:15 helpers:78] Reference: vâng chờ em một chút nhé vầng
+[NeMo I 2021-01-15 16:42:15 callbacks:238] Step time: 0.1676170825958252 seconds
+[NeMo I 2021-01-15 16:42:44 callbacks:223] Step: 3125
+[NeMo I 2021-01-15 16:42:44 helpers:75] Loss: 14.083864212036133
+[NeMo I 2021-01-15 16:42:44 helpers:76] Train WER:  14.19% | CER:  7.03%
+[NeMo I 2021-01-15 16:42:44 helpers:77] Prediction: lúc mà đ em mở lại nha
+[NeMo I 2021-01-15 16:42:44 helpers:78] Reference: lúc mà để em mở lại nha
+[NeMo I 2021-01-15 16:42:44 callbacks:238] Step time: 0.35509419441223145 seconds
+[NeMo I 2021-01-15 16:43:13 callbacks:223] Step: 3150
+[NeMo I 2021-01-15 16:43:13 helpers:75] Loss: 27.09944725036621
+[NeMo I 2021-01-15 16:43:13 helpers:76] Train WER:  29.27% | CER:  16.21%
+[NeMo I 2021-01-15 16:43:13 helpers:77] Prediction: ờ và thôn ti giì nậy vầng vâng
+[NeMo I 2021-01-15 16:43:13 helpers:78] Reference: ờ vậy thôi thì vậy vâng vâng
+[NeMo I 2021-01-15 16:43:13 callbacks:238] Step time: 0.181685209274292 seconds
+[NeMo I 2021-01-15 16:43:41 callbacks:223] Step: 3175
+[NeMo I 2021-01-15 16:43:41 helpers:75] Loss: 27.691543579101562
+[NeMo I 2021-01-15 16:43:41 helpers:76] Train WER:  25.90% | CER:  13.93%
+[NeMo I 2021-01-15 16:43:41 helpers:77] Prediction: có một bạn ì thao tác n nhưng mà am họ á lại cái đáy
+[NeMo I 2021-01-15 16:43:41 helpers:78] Reference: có một bạn thao tác thôi nhưng mà em thử vào lại cái cái ấy
+[NeMo I 2021-01-15 16:43:41 callbacks:238] Step time: 0.17749953269958496 seconds
+[NeMo I 2021-01-15 16:43:56 callbacks:206] Finished epoch 28 in 0:02:05.572364
+[NeMo I 2021-01-15 16:43:56 callbacks:198] Starting epoch 29
+[NeMo I 2021-01-15 16:44:08 callbacks:223] Step: 3200
+[NeMo I 2021-01-15 16:44:08 helpers:75] Loss: 20.476463317871094
+[NeMo I 2021-01-15 16:44:08 helpers:76] Train WER:  27.91% | CER:  16.23%
+[NeMo I 2021-01-15 16:44:08 helpers:77] Prediction: ba bảy ba báng nôn vậy chị cho em xin cái số di động của chị nhé
+[NeMo I 2021-01-15 16:44:08 helpers:78] Reference: ba bảy ba bốn năm bảy chị cho em xin cái số di động của chị nhé
+[NeMo I 2021-01-15 16:44:08 callbacks:238] Step time: 0.15450835227966309 seconds
+[NeMo I 2021-01-15 16:44:38 callbacks:223] Step: 3225
+[NeMo I 2021-01-15 16:44:38 helpers:75] Loss: 11.508573532104492
+[NeMo I 2021-01-15 16:44:38 helpers:76] Train WER:  14.92% | CER:  7.06%
+[NeMo I 2021-01-15 16:44:38 helpers:77] Prediction: rồi anh cho em xin di động của anh nhé ờ không tám chín chín
+[NeMo I 2021-01-15 16:44:38 helpers:78] Reference: rồi anh cho em xin di động của anh nhé ờ không tám chín chín
+[NeMo I 2021-01-15 16:44:38 callbacks:238] Step time: 0.3300604820251465 seconds
+[NeMo I 2021-01-15 16:45:07 callbacks:223] Step: 3250
+[NeMo I 2021-01-15 16:45:07 helpers:75] Loss: 10.15575885772705
+[NeMo I 2021-01-15 16:45:07 helpers:76] Train WER:  11.38% | CER:  5.69%
+[NeMo I 2021-01-15 16:45:07 helpers:77] Prediction: bằng thời hạn của hợp đồng cũ này
+[NeMo I 2021-01-15 16:45:07 helpers:78] Reference: vầng thời hạn của hợp đồng cũ là
+[NeMo I 2021-01-15 16:45:07 callbacks:238] Step time: 0.2781529426574707 seconds
+[NeMo I 2021-01-15 16:45:36 callbacks:223] Step: 3275
+[NeMo I 2021-01-15 16:45:36 helpers:75] Loss: 14.765335083007812
+[NeMo I 2021-01-15 16:45:36 helpers:76] Train WER:  19.58% | CER:  9.02%
+[NeMo I 2021-01-15 16:45:36 helpers:77] Prediction: à bốn hai đây rồi em vừa kác lại à đây một một bhốn bốn sáu
+[NeMo I 2021-01-15 16:45:36 helpers:78] Reference: à bốn hai đây rồi em vừa kích lại rồi đây một một bốn bốn sáu
+[NeMo I 2021-01-15 16:45:36 callbacks:238] Step time: 0.20626020431518555 seconds
+[NeMo I 2021-01-15 16:46:04 callbacks:206] Finished epoch 29 in 0:02:07.592625
+[NeMo I 2021-01-15 16:46:04 callbacks:198] Starting epoch 30
+[NeMo I 2021-01-15 16:46:05 callbacks:223] Step: 3300
+[NeMo I 2021-01-15 16:46:05 helpers:75] Loss: 25.29016876220703
+[NeMo I 2021-01-15 16:46:05 helpers:76] Train WER:  27.25% | CER:  15.22%
+[NeMo I 2021-01-15 16:46:05 helpers:77] Prediction: dạ vâng thế cảm ơn bạn nhé nhị này 
+[NeMo I 2021-01-15 16:46:05 helpers:78] Reference: dạ vâng thế cảm ơn bạn nhé chào bạn
+[NeMo I 2021-01-15 16:46:05 callbacks:238] Step time: 0.16763567924499512 seconds
+[NeMo I 2021-01-15 16:46:34 callbacks:223] Step: 3325
+[NeMo I 2021-01-15 16:46:34 helpers:75] Loss: 12.269567489624023
+[NeMo I 2021-01-15 16:46:34 helpers:76] Train WER:  16.38% | CER:  7.63%
+[NeMo I 2021-01-15 16:46:34 helpers:77] Prediction: ca vê à van vy kinh doanh ý rồi ạ
+[NeMo I 2021-01-15 16:46:34 helpers:78] Reference: ca vê ạ ca vê kinh doanh ý rồi ạ
+[NeMo I 2021-01-15 16:46:34 callbacks:238] Step time: 0.2952759265899658 seconds
+[NeMo I 2021-01-15 16:47:02 callbacks:223] Step: 3350
+[NeMo I 2021-01-15 16:47:02 helpers:75] Loss: 19.744762420654297
+[NeMo I 2021-01-15 16:47:02 helpers:76] Train WER:  25.96% | CER:  14.15%
+[NeMo I 2021-01-15 16:47:02 helpers:77] Prediction: gia công với chế xuất nưng mà nhà lại gap đan là doanh ngiệp chế xuất mà
+[NeMo I 2021-01-15 16:47:02 helpers:78] Reference: gia công với chế xuất nhưng mà nhà anh ơ lại đặt là anh là doanh nghiệp chế xuất mà
+[NeMo I 2021-01-15 16:47:02 callbacks:238] Step time: 0.17777729034423828 seconds
+[NeMo I 2021-01-15 16:47:31 callbacks:223] Step: 3375
+[NeMo I 2021-01-15 16:47:31 helpers:75] Loss: 22.49333953857422
+[NeMo I 2021-01-15 16:47:31 helpers:76] Train WER:  25.07% | CER:  13.87%
+[NeMo I 2021-01-15 16:47:31 helpers:77] Prediction: lâu rồi ca cả thể vấy luôn để để phát hành ngay trong tháng mười một luôn thông nháng h n ừ
+[NeMo I 2021-01-15 16:47:31 helpers:78] Reference: lâu rồi ngay từ thời điểm đấy luôn để để phát hành ngay trong tháng mười một luôn trong tháng mười một á ừ
+[NeMo I 2021-01-15 16:47:31 callbacks:238] Step time: 0.18002939224243164 seconds
+[NeMo I 2021-01-15 16:48:00 callbacks:223] Step: 3400
+[NeMo I 2021-01-15 16:48:00 helpers:75] Loss: 11.389816284179688
+[NeMo I 2021-01-15 16:48:00 helpers:76] Train WER:  14.36% | CER:  7.06%
+[NeMo I 2021-01-15 16:48:00 helpers:77] Prediction: có nghĩa là bây giờ l bên em bản quyền là bản quyền theo máy mà
+[NeMo I 2021-01-15 16:48:00 helpers:78] Reference: có nghĩa là bây giờ bên em bản quyền là bản quyền theo máy mà
+[NeMo I 2021-01-15 16:48:00 callbacks:238] Step time: 0.3054027557373047 seconds
+[NeMo I 2021-01-15 16:48:10 callbacks:206] Finished epoch 30 in 0:02:05.988553
+[NeMo I 2021-01-15 16:48:10 callbacks:198] Starting epoch 31
+[NeMo I 2021-01-15 16:48:28 callbacks:223] Step: 3425
+[NeMo I 2021-01-15 16:48:28 helpers:75] Loss: 22.089548110961914
+[NeMo I 2021-01-15 16:48:28 helpers:76] Train WER:  29.68% | CER:  15.11%
+[NeMo I 2021-01-15 16:48:28 helpers:77] Prediction:  không ạ c tày có thằng số  là mộ nan ma năm năm ba đúng không ạ
+[NeMo I 2021-01-15 16:48:28 helpers:78] Reference: không ạ cái này của thằng số của chị đuôi năm năm ờ năm năm ba đúng không ạ
+[NeMo I 2021-01-15 16:48:28 callbacks:238] Step time: 0.15841364860534668 seconds
+[NeMo I 2021-01-15 16:48:56 callbacks:223] Step: 3450
+[NeMo I 2021-01-15 16:48:56 helpers:75] Loss: 20.841915130615234
+[NeMo I 2021-01-15 16:48:56 helpers:76] Train WER:  28.76% | CER:  16.46%
+[NeMo I 2021-01-15 16:48:56 helpers:77] Prediction: a lô dà ơi há làng báoạ chữ ký số nghe me giop chị nhé vng
+[NeMo I 2021-01-15 16:48:56 helpers:78] Reference: a lô hà ơi khách hàng báo chữ kí số nghe máy giúp chị
+[NeMo I 2021-01-15 16:48:56 callbacks:238] Step time: 0.1606910228729248 seconds
+[NeMo I 2021-01-15 16:49:24 callbacks:223] Step: 3475
+[NeMo I 2021-01-15 16:49:24 helpers:75] Loss: 28.02386474609375
+[NeMo I 2021-01-15 16:49:24 helpers:76] Train WER:  31.99% | CER:  17.16%
+[NeMo I 2021-01-15 16:49:24 helpers:77] Prediction: dưới cùng tài trái gót bạn hình
+[NeMo I 2021-01-15 16:49:24 helpers:78] Reference: dưới cùng tay trái góc màn hình
+[NeMo I 2021-01-15 16:49:24 callbacks:238] Step time: 0.1686549186706543 seconds
+[NeMo I 2021-01-15 16:49:53 callbacks:223] Step: 3500
+[NeMo I 2021-01-15 16:49:53 helpers:75] Loss: 7.539510726928711
+[NeMo I 2021-01-15 16:49:53 helpers:76] Train WER:  9.24% | CER:  4.21%
+[NeMo I 2021-01-15 16:49:53 helpers:77] Prediction: tổn số này đán em nói bên bảo hiểm xã hội trừ bên bảo hiểm
+[NeMo I 2021-01-15 16:49:53 helpers:78] Reference: tổng số ngày đó em nói bên bảo hiểm xã hội trừ bên bảo hiểm
+[NeMo I 2021-01-15 16:49:53 callbacks:238] Step time: 0.3785979747772217 seconds
+[NeMo I 2021-01-15 16:50:15 callbacks:206] Finished epoch 31 in 0:02:05.003855
+[NeMo I 2021-01-15 16:50:15 callbacks:198] Starting epoch 32
+[NeMo I 2021-01-15 16:50:21 callbacks:223] Step: 3525
+[NeMo I 2021-01-15 16:50:21 helpers:75] Loss: 16.70052719116211
+[NeMo I 2021-01-15 16:50:21 helpers:76] Train WER:  20.66% | CER:  10.96%
+[NeMo I 2021-01-15 16:50:21 helpers:77] Prediction: chị vào danh sách lao động chị vào tên của người đấy nhá
+[NeMo I 2021-01-15 16:50:21 helpers:78] Reference: chị vào danh sách lao động chị vào tên của người đấy nhá
+[NeMo I 2021-01-15 16:50:21 callbacks:238] Step time: 0.19112896919250488 seconds
+[NeMo I 2021-01-15 16:50:51 callbacks:223] Step: 3550
+[NeMo I 2021-01-15 16:50:51 helpers:75] Loss: 22.989791870117188
+[NeMo I 2021-01-15 16:50:51 helpers:76] Train WER:  25.86% | CER:  13.49%
+[NeMo I 2021-01-15 16:50:51 helpers:77] Prediction: hay là cái phần mềm của bên mình là và hết hạn mình muốn gia hạn ạ
+[NeMo I 2021-01-15 16:50:51 helpers:78] Reference: hay là cái phần mềm của bên mình là hết hạn mình muốn gia hạn ạ
+[NeMo I 2021-01-15 16:50:51 callbacks:238] Step time: 0.1843881607055664 seconds
+[NeMo I 2021-01-15 16:51:19 callbacks:223] Step: 3575
+[NeMo I 2021-01-15 16:51:19 helpers:75] Loss: 9.960620880126953
+[NeMo I 2021-01-15 16:51:19 helpers:76] Train WER:  11.20% | CER:  5.62%
+[NeMo I 2021-01-15 16:51:19 helpers:77] Prediction: à không cần phải làm đ kôn kêm đúng không dạ đúng rồi
+[NeMo I 2021-01-15 16:51:19 helpers:78] Reference: à không cần phải làm gia hạn nữa đúng không dạ đúng rồi
+[NeMo I 2021-01-15 16:51:19 callbacks:238] Step time: 0.35877299308776855 seconds
+[NeMo I 2021-01-15 16:51:48 callbacks:223] Step: 3600
+[NeMo I 2021-01-15 16:51:48 helpers:75] Loss: 9.907550811767578
+[NeMo I 2021-01-15 16:51:48 helpers:76] Train WER:  14.64% | CER:  6.37%
+[NeMo I 2021-01-15 16:51:48 helpers:77] Prediction: vầng chỗ nào rồi nàu ờ nó liện cái thông báo là tả cp hật rồi đúng không ạ
+[NeMo I 2021-01-15 16:51:48 helpers:78] Reference: vầng chỗ nào rồi bạn ờ nó hiện cái thông báo là đã cập nhật rồi đúng không ạ
+[NeMo I 2021-01-15 16:51:48 callbacks:238] Step time: 0.28209590911865234 seconds
+[NeMo I 2021-01-15 16:52:17 callbacks:223] Step: 3625
+[NeMo I 2021-01-15 16:52:17 helpers:75] Loss: 23.26082992553711
+[NeMo I 2021-01-15 16:52:17 helpers:76] Train WER:  35.20% | CER:  18.40%
+[NeMo I 2021-01-15 16:52:17 helpers:77] Prediction: chín sám năm ạ
+[NeMo I 2021-01-15 16:52:17 helpers:78] Reference: chín sáu năm ạ
+[NeMo I 2021-01-15 16:52:17 callbacks:238] Step time: 0.15958690643310547 seconds
+[NeMo I 2021-01-15 16:52:21 callbacks:206] Finished epoch 32 in 0:02:06.228695
+[NeMo I 2021-01-15 16:52:21 callbacks:198] Starting epoch 33
+[NeMo I 2021-01-15 16:52:45 callbacks:223] Step: 3650
+[NeMo I 2021-01-15 16:52:45 helpers:75] Loss: 12.84036636352539
+[NeMo I 2021-01-15 16:52:45 helpers:76] Train WER:  18.24% | CER:  10.29%
+[NeMo I 2021-01-15 16:52:45 helpers:77] Prediction: ở trên phần mềm chị cũng không có cái mã đấy hả chị
+[NeMo I 2021-01-15 16:52:45 helpers:78] Reference: ở trên phần mềm chị cũng không có cái mã đấy hả chị
+[NeMo I 2021-01-15 16:52:45 callbacks:238] Step time: 0.15514087677001953 seconds
+[NeMo I 2021-01-15 16:53:14 callbacks:223] Step: 3675
+[NeMo I 2021-01-15 16:53:14 helpers:75] Loss: 22.098690032958984
+[NeMo I 2021-01-15 16:53:14 helpers:76] Train WER:  22.65% | CER:  12.31%
+[NeMo I 2021-01-15 16:53:14 helpers:77] Prediction: và chị sẽ điền cái mức tiền lương mới vào đấy giúp em
+[NeMo I 2021-01-15 16:53:14 helpers:78] Reference: và chị sẽ điền cái mức tiền lương mới vào đây giúp em
+[NeMo I 2021-01-15 16:53:14 callbacks:238] Step time: 0.19640469551086426 seconds
+[NeMo I 2021-01-15 16:53:43 callbacks:223] Step: 3700
+[NeMo I 2021-01-15 16:53:43 helpers:75] Loss: 12.996321678161621
+[NeMo I 2021-01-15 16:53:43 helpers:76] Train WER:  14.52% | CER:  6.79%
+[NeMo I 2021-01-15 16:53:43 helpers:77] Prediction: tim viu hay u tra viu  tim viu anh nhé
+[NeMo I 2021-01-15 16:53:43 helpers:78] Reference: tim viu hay u tra viu em dạ tim viu anh nhé
+[NeMo I 2021-01-15 16:53:43 callbacks:238] Step time: 0.35013580322265625 seconds
+[NeMo I 2021-01-15 16:54:13 callbacks:223] Step: 3725
+[NeMo I 2021-01-15 16:54:13 helpers:75] Loss: 10.964524269104004
+[NeMo I 2021-01-15 16:54:13 helpers:76] Train WER:  14.42% | CER:  6.20%
+[NeMo I 2021-01-15 16:54:13 helpers:77] Prediction: bọn em bên hồng hóa
+[NeMo I 2021-01-15 16:54:13 helpers:78] Reference: bọn em bên hồng hóa
+[NeMo I 2021-01-15 16:54:13 callbacks:238] Step time: 0.26981401443481445 seconds
+[NeMo I 2021-01-15 16:54:28 callbacks:206] Finished epoch 33 in 0:02:07.542431
+[NeMo I 2021-01-15 16:54:28 callbacks:198] Starting epoch 34
+[NeMo I 2021-01-15 16:54:41 callbacks:223] Step: 3750
+[NeMo I 2021-01-15 16:54:41 helpers:75] Loss: 10.009171485900879
+[NeMo I 2021-01-15 16:54:41 helpers:76] Train WER:  10.17% | CER:  4.59%
+[NeMo I 2021-01-15 16:54:41 helpers:77] Prediction: cái này phải do nó đang cùng cấp céi lại cái cái đầu tiên ó
+[NeMo I 2021-01-15 16:54:41 helpers:78] Reference: cái này phải do nó đang cùng cấp với lại cái cái đầu tiên đó
+[NeMo I 2021-01-15 16:54:41 callbacks:238] Step time: 0.33582067489624023 seconds
+[NeMo I 2021-01-15 16:55:11 callbacks:223] Step: 3775
+[NeMo I 2021-01-15 16:55:11 helpers:75] Loss: 10.537903785705566
+[NeMo I 2021-01-15 16:55:11 helpers:76] Train WER:  16.99% | CER:  7.31%
+[NeMo I 2021-01-15 16:55:11 helpers:77] Prediction: vâng ạ dạ vâng em gọi cho chị từ bên thái sơn chị ạ em gọi
+[NeMo I 2021-01-15 16:55:11 helpers:78] Reference: vâng ạ dạ vâng em gọi cho chị từ bên thái sơn chị ạ em gọi
+[NeMo I 2021-01-15 16:55:11 callbacks:238] Step time: 0.26652050018310547 seconds
+[NeMo I 2021-01-15 16:55:42 callbacks:223] Step: 3800
+[NeMo I 2021-01-15 16:55:42 helpers:75] Loss: 13.170320510864258
+[NeMo I 2021-01-15 16:55:42 helpers:76] Train WER:  13.22% | CER:  7.29%
+[NeMo I 2021-01-15 16:55:42 helpers:77] Prediction: đây
+[NeMo I 2021-01-15 16:55:42 helpers:78] Reference: đây
+[NeMo I 2021-01-15 16:55:42 callbacks:238] Step time: 0.25013184547424316 seconds
+[NeMo I 2021-01-15 16:56:12 callbacks:223] Step: 3825
+[NeMo I 2021-01-15 16:56:12 helpers:75] Loss: 10.739187240600586
+[NeMo I 2021-01-15 16:56:12 helpers:76] Train WER:  12.53% | CER:  5.92%
+[NeMo I 2021-01-15 16:56:12 helpers:77] Prediction: mật khẩu bốn sáu một bốn
+[NeMo I 2021-01-15 16:56:12 helpers:78] Reference: mật khẩu bốn sáu một bốn
+[NeMo I 2021-01-15 16:56:12 callbacks:238] Step time: 0.316878080368042 seconds
+[NeMo I 2021-01-15 16:56:40 callbacks:206] Finished epoch 34 in 0:02:11.789845
+[NeMo I 2021-01-15 16:56:40 callbacks:198] Starting epoch 35
+[NeMo I 2021-01-15 16:56:41 callbacks:223] Step: 3850
+[NeMo I 2021-01-15 16:56:41 helpers:75] Loss: 29.44281578063965
+[NeMo I 2021-01-15 16:56:41 helpers:76] Train WER:  31.38% | CER:  17.00%
+[NeMo I 2021-01-15 16:56:41 helpers:77] Prediction: à  n ị thao tác em xem cái thông báo lỗi được không
+[NeMo I 2021-01-15 16:56:41 helpers:78] Reference: à chị thao tác em xem cái thông báo lỗi được không
+[NeMo I 2021-01-15 16:56:41 callbacks:238] Step time: 0.18354153633117676 seconds
+[NeMo I 2021-01-15 16:57:11 callbacks:223] Step: 3875
+[NeMo I 2021-01-15 16:57:11 helpers:75] Loss: 18.318572998046875
+[NeMo I 2021-01-15 16:57:11 helpers:76] Train WER:  24.04% | CER:  11.59%
+[NeMo I 2021-01-15 16:57:11 helpers:77] Prediction: vâng bên cà ạ loại hìn  ạ
+[NeMo I 2021-01-15 16:57:11 helpers:78] Reference: vâng bên mình là mã loại hình ạ
+[NeMo I 2021-01-15 16:57:11 callbacks:238] Step time: 0.19312596321105957 seconds
+[NeMo I 2021-01-15 16:57:41 callbacks:223] Step: 3900
+[NeMo I 2021-01-15 16:57:41 helpers:75] Loss: 21.026004791259766
+[NeMo I 2021-01-15 16:57:41 helpers:76] Train WER:  23.47% | CER:  13.56%
+[NeMo I 2021-01-15 16:57:41 helpers:77] Prediction: mình làm tho một hợp đồng mới cho ha n c máy mới kia
+[NeMo I 2021-01-15 16:57:41 helpers:78] Reference: mình làm thêm một hợp đồng mới cho hai cái máy mới kia
+[NeMo I 2021-01-15 16:57:41 callbacks:238] Step time: 0.19677329063415527 seconds
+[NeMo I 2021-01-15 16:58:12 callbacks:223] Step: 3925
+[NeMo I 2021-01-15 16:58:12 helpers:75] Loss: 10.734323501586914
+[NeMo I 2021-01-15 16:58:12 helpers:76] Train WER:  13.90% | CER:  7.01%
+[NeMo I 2021-01-15 16:58:12 helpers:77] Prediction: có sẽ dựa theo là cái đơn giá hóa đơn chị và nhân theo tề giá tại thời điểm chị khai
+[NeMo I 2021-01-15 16:58:12 helpers:78] Reference: nó sẽ dựa theo là cái đơn giá hóa đơn chị và nhân theo tỷ giá tại thời điểm chị khai
+[NeMo I 2021-01-15 16:58:12 callbacks:238] Step time: 0.28527212142944336 seconds
+[NeMo I 2021-01-15 16:58:42 callbacks:223] Step: 3950
+[NeMo I 2021-01-15 16:58:42 helpers:75] Loss: 10.637096405029297
+[NeMo I 2021-01-15 16:58:42 helpers:76] Train WER:  13.79% | CER:  6.43%
+[NeMo I 2021-01-15 16:58:42 helpers:77] Prediction: đã gi xong rồi nào đại gi xong này ghi xong thì chị ấn vớ  đăn ký ạ
+[NeMo I 2021-01-15 16:58:42 helpers:78] Reference: đã ghi xong này nó bảo đã ghi xong này ghi xong thì chị ấn nút đăng kí ạ
+[NeMo I 2021-01-15 16:58:42 callbacks:238] Step time: 0.37161970138549805 seconds
+[NeMo I 2021-01-15 16:58:52 callbacks:206] Finished epoch 35 in 0:02:12.111882
+[NeMo I 2021-01-15 16:58:52 callbacks:198] Starting epoch 36
+[NeMo I 2021-01-15 16:59:11 callbacks:223] Step: 3975
+[NeMo I 2021-01-15 16:59:11 helpers:75] Loss: 5.882861137390137
+[NeMo I 2021-01-15 16:59:11 helpers:76] Train WER:  8.89% | CER:  3.71%
+[NeMo I 2021-01-15 16:59:11 helpers:77] Prediction: vâng em cảm e
+[NeMo I 2021-01-15 16:59:11 helpers:78] Reference: vâng em cảm ơn
+[NeMo I 2021-01-15 16:59:11 callbacks:238] Step time: 0.3494410514831543 seconds
+[NeMo I 2021-01-15 16:59:40 callbacks:223] Step: 4000
+[NeMo I 2021-01-15 16:59:40 helpers:75] Loss: 18.60576629638672
+[NeMo I 2021-01-15 16:59:40 helpers:76] Train WER:  23.20% | CER:  11.75%
+[NeMo I 2021-01-15 16:59:40 helpers:77] Prediction: không em cứ xuất hóa đơn cho chị đi
+[NeMo I 2021-01-15 16:59:40 helpers:78] Reference: không em cứ xuất hóa đơn cho chị đi
+[NeMo I 2021-01-15 16:59:40 callbacks:238] Step time: 0.17278003692626953 seconds
+[NeMo I 2021-01-15 16:59:40 callbacks:441] Doing Evaluation ..............................
+[NeMo I 2021-01-15 17:00:51 helpers:197] ==========>>>>>>Evaluation Loss valid: inf
+[NeMo I 2021-01-15 17:00:51 helpers:198] ==========>>>>>>Evaluation Valid WER:  44.80%
+[NeMo I 2021-01-15 17:00:51 helpers:199] ==========>>>>>>Evaluation Valid CER:  23.71%
+[NeMo I 2021-01-15 17:00:51 callbacks:446] Evaluation time: 70.37546730041504 seconds
+[NeMo I 2021-01-15 17:00:51 callbacks:302] Saved checkpoint: quartznet12x1_abcfjwz_finetune/checkpoints/trainer-STEP-4000.pt
+[NeMo I 2021-01-15 17:01:21 callbacks:223] Step: 4025
+[NeMo I 2021-01-15 17:01:21 helpers:75] Loss: 7.209068298339844
+[NeMo I 2021-01-15 17:01:21 helpers:76] Train WER:  10.74% | CER:  4.38%
+[NeMo I 2021-01-15 17:01:21 helpers:77] Prediction: a lô thái sơn xin nghe
+[NeMo I 2021-01-15 17:01:21 helpers:78] Reference: a lô thái sơn xin nghe
+[NeMo I 2021-01-15 17:01:21 callbacks:238] Step time: 0.33380675315856934 seconds
+[NeMo I 2021-01-15 17:01:50 callbacks:223] Step: 4050
+[NeMo I 2021-01-15 17:01:50 helpers:75] Loss: 8.434904098510742
+[NeMo I 2021-01-15 17:01:50 helpers:76] Train WER:  13.19% | CER:  5.87%
+[NeMo I 2021-01-15 17:01:50 helpers:77] Prediction: gờ e rờ em đớ à e rơ ạ
+[NeMo I 2021-01-15 17:01:50 helpers:78] Reference: gờ e rờ em ơi à e rơ ạ
+[NeMo I 2021-01-15 17:01:50 callbacks:238] Step time: 0.28859567642211914 seconds
+[NeMo I 2021-01-15 17:02:11 callbacks:206] Finished epoch 36 in 0:03:19.114302
+[NeMo I 2021-01-15 17:02:11 callbacks:198] Starting epoch 37
+[NeMo I 2021-01-15 17:02:18 callbacks:223] Step: 4075
+[NeMo I 2021-01-15 17:02:18 helpers:75] Loss: 7.901469707489014
+[NeMo I 2021-01-15 17:02:18 helpers:76] Train WER:  9.22% | CER:  4.23%
+[NeMo I 2021-01-15 17:02:18 helpers:77] Prediction: này cái này nó cứ báo lỗi cái này không hiểu là như nào
+[NeMo I 2021-01-15 17:02:18 helpers:78] Reference: này cái này nó cứ báo lỗi cái này không hiểu là như nào
+[NeMo I 2021-01-15 17:02:18 callbacks:238] Step time: 0.37538766860961914 seconds
+[NeMo I 2021-01-15 17:02:47 callbacks:223] Step: 4100
+[NeMo I 2021-01-15 17:02:47 helpers:75] Loss: 21.773494720458984
+[NeMo I 2021-01-15 17:02:47 helpers:76] Train WER:  27.22% | CER:  15.13%
+[NeMo I 2021-01-15 17:02:47 helpers:77] Prediction: sáu tháng nhỉ  ng để c ì chết nhỉ
+[NeMo I 2021-01-15 17:02:47 helpers:78] Reference: sáu tháng nhỉ cũng không để ý thì chết nhỉ
+[NeMo I 2021-01-15 17:02:47 callbacks:238] Step time: 0.15634942054748535 seconds
+[NeMo I 2021-01-15 17:03:16 callbacks:223] Step: 4125
+[NeMo I 2021-01-15 17:03:16 helpers:75] Loss: 8.212890625
+[NeMo I 2021-01-15 17:03:16 helpers:76] Train WER:  10.31% | CER:  5.17%
+[NeMo I 2021-01-15 17:03:16 helpers:77] Prediction: tám sáu ba
+[NeMo I 2021-01-15 17:03:16 helpers:78] Reference: tám sáu ba
+[NeMo I 2021-01-15 17:03:16 callbacks:238] Step time: 0.3539719581604004 seconds
+[NeMo I 2021-01-15 17:03:45 callbacks:223] Step: 4150
+[NeMo I 2021-01-15 17:03:45 helpers:75] Loss: 7.8848066329956055
+[NeMo I 2021-01-15 17:03:45 helpers:76] Train WER:  8.68% | CER:  4.09%
+[NeMo I 2021-01-15 17:03:45 helpers:77] Prediction: chưa
+[NeMo I 2021-01-15 17:03:45 helpers:78] Reference: chưa
+[NeMo I 2021-01-15 17:03:45 callbacks:238] Step time: 0.350722074508667 seconds
+[NeMo I 2021-01-15 17:04:15 callbacks:223] Step: 4175
+[NeMo I 2021-01-15 17:04:15 helpers:75] Loss: 10.491301536560059
+[NeMo I 2021-01-15 17:04:15 helpers:76] Train WER:  11.14% | CER:  5.26%
+[NeMo I 2021-01-15 17:04:15 helpers:77] Prediction: a lô thái sơn nghe
+[NeMo I 2021-01-15 17:04:15 helpers:78] Reference: a lô thái sơn nghe
+[NeMo I 2021-01-15 17:04:15 callbacks:238] Step time: 0.37563037872314453 seconds
+[NeMo I 2021-01-15 17:04:19 callbacks:206] Finished epoch 37 in 0:02:07.107537
+[NeMo I 2021-01-15 17:04:19 callbacks:198] Starting epoch 38
+[NeMo I 2021-01-15 17:04:43 callbacks:223] Step: 4200
+[NeMo I 2021-01-15 17:04:43 helpers:75] Loss: 11.053622245788574
+[NeMo I 2021-01-15 17:04:43 helpers:76] Train WER:  9.26% | CER:  4.82%
+[NeMo I 2021-01-15 17:04:43 helpers:77] Prediction: ừ di
+[NeMo I 2021-01-15 17:04:43 helpers:78] Reference: ừ ừ ừ nhớ
+[NeMo I 2021-01-15 17:04:43 callbacks:238] Step time: 0.3813300132751465 seconds
+[NeMo I 2021-01-15 17:05:12 callbacks:223] Step: 4225
+[NeMo I 2021-01-15 17:05:12 helpers:75] Loss: 11.603351593017578
+[NeMo I 2021-01-15 17:05:12 helpers:76] Train WER:  12.60% | CER:  6.53%
+[NeMo I 2021-01-15 17:05:12 helpers:77] Prediction: đây này để mình mình  ấy cho nó mìn cấn âu đây này
+[NeMo I 2021-01-15 17:05:12 helpers:78] Reference: đây này để mình mình ấy cho nó bị lỗi đây này
+[NeMo I 2021-01-15 17:05:12 callbacks:238] Step time: 0.28662919998168945 seconds
+[NeMo I 2021-01-15 17:05:42 callbacks:223] Step: 4250
+[NeMo I 2021-01-15 17:05:42 helpers:75] Loss: 12.741511344909668
+[NeMo I 2021-01-15 17:05:42 helpers:76] Train WER:  21.15% | CER:  10.25%
+[NeMo I 2021-01-15 17:05:42 helpers:77] Prediction: lột không ba hả chị
+[NeMo I 2021-01-15 17:05:42 helpers:78] Reference: tám chấm ba hả chị
+[NeMo I 2021-01-15 17:05:42 callbacks:238] Step time: 0.2145676612854004 seconds
+[NeMo I 2021-01-15 17:06:11 callbacks:223] Step: 4275
+[NeMo I 2021-01-15 17:06:11 helpers:75] Loss: 15.350465774536133
+[NeMo I 2021-01-15 17:06:11 helpers:76] Train WER:  20.57% | CER:  9.52%
+[NeMo I 2021-01-15 17:06:11 helpers:77] Prediction: ờ vờ  mộp gộp hồ sơ này là cái gì hả chị chị cứ đóng lại cái đấy đi ạ
+[NeMo I 2021-01-15 17:06:11 helpers:78] Reference: à vậy gộp gộp hồ sơ này là cái gì hả chị chị cứ đóng lại cái đấy đi ạ
+[NeMo I 2021-01-15 17:06:11 callbacks:238] Step time: 0.1754300594329834 seconds
+[NeMo I 2021-01-15 17:06:26 callbacks:206] Finished epoch 38 in 0:02:07.371018
+[NeMo I 2021-01-15 17:06:26 callbacks:198] Starting epoch 39
+[NeMo I 2021-01-15 17:06:39 callbacks:223] Step: 4300
+[NeMo I 2021-01-15 17:06:39 helpers:75] Loss: 4.661368370056152
+[NeMo I 2021-01-15 17:06:39 helpers:76] Train WER:  6.79% | CER:  3.28%
+[NeMo I 2021-01-15 17:06:39 helpers:77] Prediction: quá nhỏ dẫn tới những cái vụ việc tôi tham gia hùng như hiện nay là đi vào cái ngõ cụt do vậy là tôi cũng cảm thấy là
+[NeMo I 2021-01-15 17:06:39 helpers:78] Reference: quá nhỏ dẫn tới những cái vụ việc tôi tham gia hầu như hiện nay là đi vào cái ngõ cụt do vậy là tôi cũng cảm thấy là
+[NeMo I 2021-01-15 17:06:39 callbacks:238] Step time: 0.336458683013916 seconds
+[NeMo I 2021-01-15 17:07:08 callbacks:223] Step: 4325
+[NeMo I 2021-01-15 17:07:08 helpers:75] Loss: 13.202003479003906
+[NeMo I 2021-01-15 17:07:08 helpers:76] Train WER:  13.93% | CER:  7.77%
+[NeMo I 2021-01-15 17:07:08 helpers:77] Prediction: mã số thuế của bên anh là không một không không một không
+[NeMo I 2021-01-15 17:07:08 helpers:78] Reference: mã số thuế của bên anh là không một không không một không
+[NeMo I 2021-01-15 17:07:08 callbacks:238] Step time: 0.21482133865356445 seconds
+[NeMo I 2021-01-15 17:07:37 callbacks:223] Step: 4350
+[NeMo I 2021-01-15 17:07:37 helpers:75] Loss: 16.138118743896484
+[NeMo I 2021-01-15 17:07:37 helpers:76] Train WER:  20.34% | CER:  11.47%
+[NeMo I 2021-01-15 17:07:37 helpers:77] Prediction:  vì hỗ trợ về kì kôn xuất được em hin n ô chị
+[NeMo I 2021-01-15 17:07:37 helpers:78] Reference: thì hỗ trợ về chị không xuất được e in voi đúng không chị
+[NeMo I 2021-01-15 17:07:37 callbacks:238] Step time: 0.17043399810791016 seconds
+[NeMo I 2021-01-15 17:08:06 callbacks:223] Step: 4375
+[NeMo I 2021-01-15 17:08:06 helpers:75] Loss: 12.031978607177734
+[NeMo I 2021-01-15 17:08:06 helpers:76] Train WER:  12.50% | CER:  6.58%
+[NeMo I 2021-01-15 17:08:06 helpers:77] Prediction: hóa đơn hai mươi tháng mười hai nữa
+[NeMo I 2021-01-15 17:08:06 helpers:78] Reference: hóa đơn hai mươi tháng mười hai nữa
+[NeMo I 2021-01-15 17:08:06 callbacks:238] Step time: 0.3558051586151123 seconds
+[NeMo I 2021-01-15 17:08:34 callbacks:206] Finished epoch 39 in 0:02:07.592522
+[NeMo I 2021-01-15 17:08:34 callbacks:198] Starting epoch 40
+[NeMo I 2021-01-15 17:08:35 callbacks:223] Step: 4400
+[NeMo I 2021-01-15 17:08:35 helpers:75] Loss: 9.74267864227295
+[NeMo I 2021-01-15 17:08:35 helpers:76] Train WER:  11.83% | CER:  5.72%
+[NeMo I 2021-01-15 17:08:35 helpers:77] Prediction: pi ti hai chữ pê phờ
+[NeMo I 2021-01-15 17:08:35 helpers:78] Reference: pi ti hai chữ pê phờ
+[NeMo I 2021-01-15 17:08:35 callbacks:238] Step time: 0.3331012725830078 seconds
+[NeMo I 2021-01-15 17:09:05 callbacks:223] Step: 4425
+[NeMo I 2021-01-15 17:09:05 helpers:75] Loss: 26.202478408813477
+[NeMo I 2021-01-15 17:09:05 helpers:76] Train WER:  26.65% | CER:  15.69%
+[NeMo I 2021-01-15 17:09:05 helpers:77] Prediction: bấm bấm bấm kết nối đ nó kông kôn nỗi này
+[NeMo I 2021-01-15 17:09:05 helpers:78] Reference: bấm bấm bấm kết nối đi nó đang kết nối này
+[NeMo I 2021-01-15 17:09:05 callbacks:238] Step time: 0.1563093662261963 seconds
+[NeMo I 2021-01-15 17:09:34 callbacks:223] Step: 4450
+[NeMo I 2021-01-15 17:09:34 helpers:75] Loss: 21.72208595275879
+[NeMo I 2021-01-15 17:09:34 helpers:76] Train WER:  28.96% | CER:  14.79%
+[NeMo I 2021-01-15 17:09:34 helpers:77] Prediction: rồi đà  chị mọi lại chị vào đây cho xem kiểm tra i hep ạ
+[NeMo I 2021-01-15 17:09:34 helpers:78] Reference: rồi đây chị mở lên chị vào đây cho em kiểm tra xem ạ
+[NeMo I 2021-01-15 17:09:34 callbacks:238] Step time: 0.1574873924255371 seconds
+[NeMo I 2021-01-15 17:10:02 callbacks:223] Step: 4475
+[NeMo I 2021-01-15 17:10:02 helpers:75] Loss: 13.336884498596191
+[NeMo I 2021-01-15 17:10:02 helpers:76] Train WER:  19.60% | CER:  9.64%
+[NeMo I 2021-01-15 17:10:02 helpers:77] Prediction: can hại hùng á anh
+[NeMo I 2021-01-15 17:10:02 helpers:78] Reference: tên là hồng á anh
+[NeMo I 2021-01-15 17:10:02 callbacks:238] Step time: 0.23706912994384766 seconds
+[NeMo I 2021-01-15 17:10:32 callbacks:223] Step: 4500
+[NeMo I 2021-01-15 17:10:32 helpers:75] Loss: 15.4254150390625
+[NeMo I 2021-01-15 17:10:32 helpers:76] Train WER:  16.29% | CER:  8.99%
+[NeMo I 2021-01-15 17:10:32 helpers:77] Prediction: nhờ anh vui lòng cho em tim viu m kiểm tra nhé
+[NeMo I 2021-01-15 17:10:32 helpers:78] Reference: nhờ anh vui lòng cho em tim viu em kiểm tra nhé
+[NeMo I 2021-01-15 17:10:32 callbacks:238] Step time: 0.23720359802246094 seconds
+[NeMo I 2021-01-15 17:10:42 callbacks:206] Finished epoch 40 in 0:02:08.185720
+[NeMo I 2021-01-15 17:10:42 callbacks:198] Starting epoch 41
+[NeMo I 2021-01-15 17:11:01 callbacks:223] Step: 4525
+[NeMo I 2021-01-15 17:11:01 helpers:75] Loss: 13.721162796020508
+[NeMo I 2021-01-15 17:11:01 helpers:76] Train WER:  20.36% | CER:  9.95%
+[NeMo I 2021-01-15 17:11:01 helpers:77] Prediction: ô kê ô kê em có thể đọcmeo anh ghi luôn
+[NeMo I 2021-01-15 17:11:01 helpers:78] Reference: ô kê ô kê em có thể đọc meo anh ghi luôn
+[NeMo I 2021-01-15 17:11:01 callbacks:238] Step time: 0.2185530662536621 seconds
+[NeMo I 2021-01-15 17:11:29 callbacks:223] Step: 4550
+[NeMo I 2021-01-15 17:11:29 helpers:75] Loss: 8.576529502868652
+[NeMo I 2021-01-15 17:11:29 helpers:76] Train WER:  11.11% | CER:  5.40%
+[NeMo I 2021-01-15 17:11:29 helpers:77] Prediction: tám tám sáu
+[NeMo I 2021-01-15 17:11:29 helpers:78] Reference: tám tám sáu
+[NeMo I 2021-01-15 17:11:29 callbacks:238] Step time: 0.28542566299438477 seconds
+[NeMo I 2021-01-15 17:11:59 callbacks:223] Step: 4575
+[NeMo I 2021-01-15 17:11:59 helpers:75] Loss: 12.853031158447266
+[NeMo I 2021-01-15 17:11:59 helpers:76] Train WER:  21.58% | CER:  11.74%
+[NeMo I 2021-01-15 17:11:59 helpers:77] Prediction: ờ số nhà em cày chín ích ba số nhà ba mười chín ích ba
+[NeMo I 2021-01-15 17:11:59 helpers:78] Reference: ừm số nhà a mười chín ích ba số nhà a mười chín ích ba
+[NeMo I 2021-01-15 17:11:59 callbacks:238] Step time: 0.16108989715576172 seconds
+[NeMo I 2021-01-15 17:12:28 callbacks:223] Step: 4600
+[NeMo I 2021-01-15 17:12:28 helpers:75] Loss: 18.189043045043945
+[NeMo I 2021-01-15 17:12:28 helpers:76] Train WER:  19.81% | CER:  9.84%
+[NeMo I 2021-01-15 17:12:28 helpers:77] Prediction:  e dạ vâng ạ dạ vâng
+[NeMo I 2021-01-15 17:12:28 helpers:78] Reference: ừm thế dạ vâng ạ dạ vâng
+[NeMo I 2021-01-15 17:12:28 callbacks:238] Step time: 0.20014142990112305 seconds
+[NeMo I 2021-01-15 17:12:50 callbacks:206] Finished epoch 41 in 0:02:08.072623
+[NeMo I 2021-01-15 17:12:50 callbacks:198] Starting epoch 42
+[NeMo I 2021-01-15 17:12:57 callbacks:223] Step: 4625
+[NeMo I 2021-01-15 17:12:57 helpers:75] Loss: 12.352727890014648
+[NeMo I 2021-01-15 17:12:57 helpers:76] Train WER:  14.99% | CER:  8.08%
+[NeMo I 2021-01-15 17:12:57 helpers:77] Prediction: a lô thái sơn xin nghe
+[NeMo I 2021-01-15 17:12:57 helpers:78] Reference: a lô thái sơn xin nghe
+[NeMo I 2021-01-15 17:12:57 callbacks:238] Step time: 0.31116390228271484 seconds
+[NeMo I 2021-01-15 17:13:26 callbacks:223] Step: 4650
+[NeMo I 2021-01-15 17:13:26 helpers:75] Loss: 21.01941680908203
+[NeMo I 2021-01-15 17:13:26 helpers:76] Train WER:  23.85% | CER:  12.09%
+[NeMo I 2021-01-15 17:13:26 helpers:77] Prediction: đây ạ ờ tim viu hay u tra ạ
+[NeMo I 2021-01-15 17:13:26 helpers:78] Reference: đây ạ ờ tim viu hay u tra ạ
+[NeMo I 2021-01-15 17:13:26 callbacks:238] Step time: 0.19588303565979004 seconds
+[NeMo I 2021-01-15 17:13:55 callbacks:223] Step: 4675
+[NeMo I 2021-01-15 17:13:55 helpers:75] Loss: 18.020618438720703
+[NeMo I 2021-01-15 17:13:55 helpers:76] Train WER:  25.79% | CER:  13.63%
+[NeMo I 2021-01-15 17:13:55 helpers:77] Prediction: đây cái hợp đồng nài chị mở ra giúp em ạ
+[NeMo I 2021-01-15 17:13:55 helpers:78] Reference: đây cái hợp đồng nào chị mở ra giúp em ạ
+[NeMo I 2021-01-15 17:13:55 callbacks:238] Step time: 0.1488804817199707 seconds
+[NeMo I 2021-01-15 17:14:24 callbacks:223] Step: 4700
+[NeMo I 2021-01-15 17:14:24 helpers:75] Loss: 5.929276943206787
+[NeMo I 2021-01-15 17:14:24 helpers:76] Train WER:  6.73% | CER:  3.30%
+[NeMo I 2021-01-15 17:14:24 helpers:77] Prediction: dạ vâng gia vai đấy của mình là gia va khai thuế hay là gia va khai gì đấy chị
+[NeMo I 2021-01-15 17:14:24 helpers:78] Reference: dạ vâng gia va đấy của mình là gia va khai thuế hay là gia va khai gì đấy chị
+[NeMo I 2021-01-15 17:14:24 callbacks:238] Step time: 0.35744619369506836 seconds
+[NeMo I 2021-01-15 17:14:54 callbacks:223] Step: 4725
+[NeMo I 2021-01-15 17:14:54 helpers:75] Loss: 17.383750915527344
+[NeMo I 2021-01-15 17:14:54 helpers:76] Train WER:  23.57% | CER:  12.66%
+[NeMo I 2021-01-15 17:14:54 helpers:77] Prediction: có chuyện gì thế bạn nà à en ờ bên công thí thái sơn ấy
+[NeMo I 2021-01-15 17:14:54 helpers:78] Reference: có chuyện gì thế bạn ơi à em nghĩa bên công ty thái sơn ấy
+[NeMo I 2021-01-15 17:14:54 callbacks:238] Step time: 0.1638936996459961 seconds
+[NeMo I 2021-01-15 17:14:58 callbacks:206] Finished epoch 42 in 0:02:08.158440
+[NeMo I 2021-01-15 17:14:58 callbacks:198] Starting epoch 43
+[NeMo I 2021-01-15 17:15:23 callbacks:223] Step: 4750
+[NeMo I 2021-01-15 17:15:23 helpers:75] Loss: 9.941373825073242
+[NeMo I 2021-01-15 17:15:23 helpers:76] Train WER:  8.61% | CER:  4.33%
+[NeMo I 2021-01-15 17:15:23 helpers:77] Prediction: đây chị nhìn giúp em thôn mã huyện
+[NeMo I 2021-01-15 17:15:23 helpers:78] Reference: đây chị nhìn giúp em ờ thôn xã huyện
+[NeMo I 2021-01-15 17:15:23 callbacks:238] Step time: 0.25470995903015137 seconds
+[NeMo I 2021-01-15 17:15:52 callbacks:223] Step: 4775
+[NeMo I 2021-01-15 17:15:53 helpers:75] Loss: 21.0860538482666
+[NeMo I 2021-01-15 17:15:53 helpers:76] Train WER:  22.22% | CER:  12.47%
+[NeMo I 2021-01-15 17:15:53 helpers:77] Prediction: chị cho em hỏi chị đã chọn đúng cái loại hình mà chị tờ khai  loại hình đấy ệ tị dùng ích pót chưa ạ
+[NeMo I 2021-01-15 17:15:53 helpers:78] Reference: chị cho em hỏi chị đã chọn đúng cái loại hình mà chị tờ khai ở loại hình đấy chị dùng ích bót chưa ạ
+[NeMo I 2021-01-15 17:15:53 callbacks:238] Step time: 0.17222166061401367 seconds
+[NeMo I 2021-01-15 17:16:22 callbacks:223] Step: 4800
+[NeMo I 2021-01-15 17:16:22 helpers:75] Loss: 9.886595726013184
+[NeMo I 2021-01-15 17:16:22 helpers:76] Train WER:  11.21% | CER:  6.13%
+[NeMo I 2021-01-15 17:16:22 helpers:77] Prediction: dạ vầng thì mình có dự định là mình khai báo thời điểm nào không anh
+[NeMo I 2021-01-15 17:16:22 helpers:78] Reference: dạ vầng thì mình có dự định là mình khai báo thời điểm nào không anh
+[NeMo I 2021-01-15 17:16:22 callbacks:238] Step time: 0.33559370040893555 seconds
+[NeMo I 2021-01-15 17:16:51 callbacks:223] Step: 4825
+[NeMo I 2021-01-15 17:16:51 helpers:75] Loss: 14.017308235168457
+[NeMo I 2021-01-15 17:16:51 helpers:76] Train WER:  17.00% | CER:  7.73%
+[NeMo I 2021-01-15 17:16:51 helpers:77] Prediction: hệ thống đang báo ỗ ở dòng hàng số mười hai đấy ạ
+[NeMo I 2021-01-15 17:16:51 helpers:78] Reference: hệ thống đang báo lỗi ở dòng hàng số mười hai đấy ạ
+[NeMo I 2021-01-15 17:16:51 callbacks:238] Step time: 0.1948707103729248 seconds
+[NeMo I 2021-01-15 17:17:06 callbacks:206] Finished epoch 43 in 0:02:08.109794
+[NeMo I 2021-01-15 17:17:06 callbacks:198] Starting epoch 44
+[NeMo I 2021-01-15 17:17:19 callbacks:223] Step: 4850
+[NeMo I 2021-01-15 17:17:19 helpers:75] Loss: 7.963787078857422
+[NeMo I 2021-01-15 17:17:19 helpers:76] Train WER:  9.31% | CER:  4.42%
+[NeMo I 2021-01-15 17:17:19 helpers:77] Prediction: a lô thái sơn xin nghe
+[NeMo I 2021-01-15 17:17:19 helpers:78] Reference: a lô thái sơn xin nghe
+[NeMo I 2021-01-15 17:17:19 callbacks:238] Step time: 0.29889798164367676 seconds
+[NeMo I 2021-01-15 17:17:48 callbacks:223] Step: 4875
+[NeMo I 2021-01-15 17:17:48 helpers:75] Loss: 19.049671173095703
+[NeMo I 2021-01-15 17:17:48 helpers:76] Train WER:  21.84% | CER:  12.01%
+[NeMo I 2021-01-15 17:17:48 helpers:77] Prediction: bên em có nhưng mà bên em đang dùng bản thử thôi chị ạ vâng thìi đây bản thử nghiệm đấy
+[NeMo I 2021-01-15 17:17:48 helpers:78] Reference: bên em có nhưng mà bên em đang dùng bản thử thôi chị ạ vâng thì đây bản thử nghiệm đấy
+[NeMo I 2021-01-15 17:17:48 callbacks:238] Step time: 0.1693861484527588 seconds
+[NeMo I 2021-01-15 17:18:17 callbacks:223] Step: 4900
+[NeMo I 2021-01-15 17:18:17 helpers:75] Loss: 8.179858207702637
+[NeMo I 2021-01-15 17:18:17 helpers:76] Train WER:  9.42% | CER:  3.91%
+[NeMo I 2021-01-15 17:18:17 helpers:77] Prediction: chị vào thử giúp em xem nó đã nhận thiết bị chưa ạ
+[NeMo I 2021-01-15 17:18:17 helpers:78] Reference: chị vào thử giúp em xem nó đã nhận thiết bị chưa ạ
+[NeMo I 2021-01-15 17:18:17 callbacks:238] Step time: 0.3513774871826172 seconds
+[NeMo I 2021-01-15 17:18:46 callbacks:223] Step: 4925
+[NeMo I 2021-01-15 17:18:46 helpers:75] Loss: 7.216135025024414
+[NeMo I 2021-01-15 17:18:46 helpers:76] Train WER:  9.51% | CER:  4.62%
+[NeMo I 2021-01-15 17:18:46 helpers:77] Prediction: thay đổi mức đóng nhé chị
+[NeMo I 2021-01-15 17:18:46 helpers:78] Reference: thay đổi mức đóng nhé chị
+[NeMo I 2021-01-15 17:18:46 callbacks:238] Step time: 0.21319293975830078 seconds
+[NeMo I 2021-01-15 17:19:13 callbacks:206] Finished epoch 44 in 0:02:06.765943
+[NeMo I 2021-01-15 17:19:13 callbacks:198] Starting epoch 45
+[NeMo I 2021-01-15 17:19:14 callbacks:223] Step: 4950
+[NeMo I 2021-01-15 17:19:14 helpers:75] Loss: 7.8966522216796875
+[NeMo I 2021-01-15 17:19:14 helpers:76] Train WER:  8.15% | CER:  3.76%
+[NeMo I 2021-01-15 17:19:14 helpers:77] Prediction: chị ơi em mượn chuột ạ
+[NeMo I 2021-01-15 17:19:14 helpers:78] Reference: chị ơi em mượn chuột ạ
+[NeMo I 2021-01-15 17:19:14 callbacks:238] Step time: 0.3404989242553711 seconds
+[NeMo I 2021-01-15 17:19:43 callbacks:223] Step: 4975
+[NeMo I 2021-01-15 17:19:43 helpers:75] Loss: 14.505303382873535
+[NeMo I 2021-01-15 17:19:43 helpers:76] Train WER:  17.33% | CER:  9.20%
+[NeMo I 2021-01-15 17:19:43 helpers:77] Prediction: em tên con ạ dạ vâng rồi cảm ơnh b ai chào chị
+[NeMo I 2021-01-15 17:19:43 helpers:78] Reference: em tên chương ạ dạ vâng rồi cảm ơn anh rồi chào chị
+[NeMo I 2021-01-15 17:19:43 callbacks:238] Step time: 0.188340425491333 seconds
+[NeMo I 2021-01-15 17:20:11 callbacks:223] Step: 5000
+[NeMo I 2021-01-15 17:20:11 helpers:75] Loss: 13.792671203613281
+[NeMo I 2021-01-15 17:20:11 helpers:76] Train WER:  20.07% | CER:  11.09%
+[NeMo I 2021-01-15 17:20:11 helpers:77] Prediction: vầng đấy và khai nái là cái máy thảó cắm vào sít nào
+[NeMo I 2021-01-15 17:20:11 helpers:78] Reference: vầng đấy và sau đó là cái máy chủ nó cắm vào sít nào
+[NeMo I 2021-01-15 17:20:11 callbacks:238] Step time: 0.15717577934265137 seconds
+[NeMo I 2021-01-15 17:20:11 callbacks:441] Doing Evaluation ..............................
+[NeMo I 2021-01-15 17:21:20 helpers:197] ==========>>>>>>Evaluation Loss valid: inf
+[NeMo I 2021-01-15 17:21:20 helpers:198] ==========>>>>>>Evaluation Valid WER:  45.18%
+[NeMo I 2021-01-15 17:21:20 helpers:199] ==========>>>>>>Evaluation Valid CER:  24.02%
+[NeMo I 2021-01-15 17:21:20 callbacks:446] Evaluation time: 69.54510998725891 seconds
+[NeMo I 2021-01-15 17:21:20 callbacks:302] Saved checkpoint: quartznet12x1_abcfjwz_finetune/checkpoints/trainer-STEP-5000.pt
+[NeMo I 2021-01-15 17:21:50 callbacks:223] Step: 5025
+[NeMo I 2021-01-15 17:21:50 helpers:75] Loss: 17.53909683227539
+[NeMo I 2021-01-15 17:21:50 helpers:76] Train WER:  20.52% | CER:  11.16%
+[NeMo I 2021-01-15 17:21:50 helpers:77] Prediction: khai thế nào anh muôn khai một rúc côn  trăm mã luôn ný dạ đươc gệ thại
+[NeMo I 2021-01-15 17:21:50 helpers:78] Reference: khai thế nào anh muốn khai một lúc một trăm mã luôn ý dạ được anh anh khai lại
+[NeMo I 2021-01-15 17:21:50 callbacks:238] Step time: 0.19383859634399414 seconds
+[NeMo I 2021-01-15 17:22:19 callbacks:223] Step: 5050
+[NeMo I 2021-01-15 17:22:19 helpers:75] Loss: 19.98800277709961
+[NeMo I 2021-01-15 17:22:19 helpers:76] Train WER:  23.89% | CER:  13.60%
+[NeMo I 2021-01-15 17:22:19 helpers:77] Prediction: ài đây ạ
+[NeMo I 2021-01-15 17:22:19 helpers:78] Reference: ô đê ạ
+[NeMo I 2021-01-15 17:22:19 callbacks:238] Step time: 0.16841816902160645 seconds
+[NeMo I 2021-01-15 17:22:28 callbacks:206] Finished epoch 45 in 0:03:15.414956
+[NeMo I 2021-01-15 17:22:28 callbacks:198] Starting epoch 46
+[NeMo I 2021-01-15 17:22:47 callbacks:223] Step: 5075
+[NeMo I 2021-01-15 17:22:47 helpers:75] Loss: 16.90882110595703
+[NeMo I 2021-01-15 17:22:47 helpers:76] Train WER:  18.70% | CER:  10.28%
+[NeMo I 2021-01-15 17:22:47 helpers:77] Prediction: cú  ừ  đến ai mốt hết hạn cả hai hợp đồng thì mình sẽ làm chung đ  
+[NeMo I 2021-01-15 17:22:47 helpers:78] Reference: thì vừa vừa đến hai mốt hết hạn cả hai hợp đồng thì mình sẽ làm chung lại một hợp đồng
+[NeMo I 2021-01-15 17:22:47 callbacks:238] Step time: 0.22195172309875488 seconds
+[NeMo I 2021-01-15 17:23:16 callbacks:223] Step: 5100
+[NeMo I 2021-01-15 17:23:16 helpers:75] Loss: 7.613077163696289
+[NeMo I 2021-01-15 17:23:16 helpers:76] Train WER:  10.24% | CER:  5.38%
+[NeMo I 2021-01-15 17:23:16 helpers:77] Prediction: c ây chứ
+[NeMo I 2021-01-15 17:23:16 helpers:78] Reference: chị ích đây chứ
+[NeMo I 2021-01-15 17:23:16 callbacks:238] Step time: 0.3207437992095947 seconds
+[NeMo I 2021-01-15 17:23:45 callbacks:223] Step: 5125
+[NeMo I 2021-01-15 17:23:45 helpers:75] Loss: 12.375950813293457
+[NeMo I 2021-01-15 17:23:45 helpers:76] Train WER:  15.71% | CER:  6.56%
+[NeMo I 2021-01-15 17:23:45 helpers:77] Prediction: nhớ cái tài khoản quản trị củ bốn chị lvâng
+[NeMo I 2021-01-15 17:23:45 helpers:78] Reference: nhớ cái tài khoản quản trị của bên chị ý ạ vâng
+[NeMo I 2021-01-15 17:23:45 callbacks:238] Step time: 0.2835512161254883 seconds
+[NeMo I 2021-01-15 17:24:15 callbacks:223] Step: 5150
+[NeMo I 2021-01-15 17:24:15 helpers:75] Loss: 19.650310516357422
+[NeMo I 2021-01-15 17:24:15 helpers:76] Train WER:  25.53% | CER:  14.00%
+[NeMo I 2021-01-15 17:24:15 helpers:77] Prediction: ừthì là mình may là này ình ý vầng không thì
+[NeMo I 2021-01-15 17:24:15 helpers:78] Reference: ừ thì là mình may mà hôm nay mình nhớ ý vầng không thì
+[NeMo I 2021-01-15 17:24:15 callbacks:238] Step time: 0.16951847076416016 seconds
+[NeMo I 2021-01-15 17:24:36 callbacks:206] Finished epoch 46 in 0:02:08.051011
+[NeMo I 2021-01-15 17:24:36 callbacks:198] Starting epoch 47
+[NeMo I 2021-01-15 17:24:44 callbacks:223] Step: 5175
+[NeMo I 2021-01-15 17:24:44 helpers:75] Loss: 7.258762359619141
+[NeMo I 2021-01-15 17:24:44 helpers:76] Train WER:  9.34% | CER:  4.27%
+[NeMo I 2021-01-15 17:24:44 helpers:77] Prediction: cho em hỏi là bên mình làm hợp đồng vào ngày bao nhiêu ạ
+[NeMo I 2021-01-15 17:24:44 helpers:78] Reference: cho em hỏi là bên mình làm hợp đồng vào ngày bao nhiêu ạ
+[NeMo I 2021-01-15 17:24:44 callbacks:238] Step time: 0.3237795829772949 seconds
+[NeMo I 2021-01-15 17:25:13 callbacks:223] Step: 5200
+[NeMo I 2021-01-15 17:25:13 helpers:75] Loss: 18.05617904663086
+[NeMo I 2021-01-15 17:25:13 helpers:76] Train WER:  19.57% | CER:  10.93%
+[NeMo I 2021-01-15 17:25:13 helpers:77] Prediction: mang tính
+[NeMo I 2021-01-15 17:25:13 helpers:78] Reference: mang tính
+[NeMo I 2021-01-15 17:25:13 callbacks:238] Step time: 0.1799173355102539 seconds
+[NeMo I 2021-01-15 17:25:42 callbacks:223] Step: 5225
+[NeMo I 2021-01-15 17:25:42 helpers:75] Loss: 22.845645904541016
+[NeMo I 2021-01-15 17:25:42 helpers:76] Train WER:  24.73% | CER:  13.22%
+[NeMo I 2021-01-15 17:25:42 helpers:77] Prediction: anh à  hôm nai nhé thì n m đăng nhập vào trang web hộ em anh mở trên web đu en đọc cho
+[NeMo I 2021-01-15 17:25:42 helpers:78] Reference: anh nhìn thấy biên lai nhé thì anh ừm đăng nhập vào trang web hộ em anh mở trên web đi em đọc cho
+[NeMo I 2021-01-15 17:25:42 callbacks:238] Step time: 0.17560291290283203 seconds
+[NeMo I 2021-01-15 17:26:10 callbacks:223] Step: 5250
+[NeMo I 2021-01-15 17:26:10 helpers:75] Loss: 23.58682632446289
+[NeMo I 2021-01-15 17:26:10 helpers:76] Train WER:  28.14% | CER:  15.95%
+[NeMo I 2021-01-15 17:26:10 helpers:77] Prediction: chưa cắm r e phổ đê
+[NeMo I 2021-01-15 17:26:10 helpers:78] Reference: chưa cắm hả em ổ đê
+[NeMo I 2021-01-15 17:26:10 callbacks:238] Step time: 0.16648268699645996 seconds
+[NeMo I 2021-01-15 17:26:39 callbacks:223] Step: 5275
+[NeMo I 2021-01-15 17:26:39 helpers:75] Loss: 15.638346672058105
+[NeMo I 2021-01-15 17:26:39 helpers:76] Train WER:  20.62% | CER:  10.86%
+[NeMo I 2021-01-15 17:26:39 helpers:77] Prediction: mình đang khai cho công ty hưng thịnh hả chị
+[NeMo I 2021-01-15 17:26:39 helpers:78] Reference: mình đang khai cho công ty hưng thịnh hả chị
+[NeMo I 2021-01-15 17:26:39 callbacks:238] Step time: 0.16996288299560547 seconds
+[NeMo I 2021-01-15 17:26:43 callbacks:206] Finished epoch 47 in 0:02:06.288257
+[NeMo I 2021-01-15 17:26:43 callbacks:198] Starting epoch 48
+[NeMo I 2021-01-15 17:27:07 callbacks:223] Step: 5300
+[NeMo I 2021-01-15 17:27:07 helpers:75] Loss: 20.231163024902344
+[NeMo I 2021-01-15 17:27:07 helpers:76] Train WER:  25.67% | CER:  14.65%
+[NeMo I 2021-01-15 17:27:07 helpers:77] Prediction: bây già chị ấn niứp đăng sý nhị
+[NeMo I 2021-01-15 17:27:07 helpers:78] Reference: bây giờ chị ấn nút đăng ký đi ạ
+[NeMo I 2021-01-15 17:27:07 callbacks:238] Step time: 0.15572810173034668 seconds
+[NeMo I 2021-01-15 17:27:36 callbacks:223] Step: 5325
+[NeMo I 2021-01-15 17:27:36 helpers:75] Loss: 18.821836471557617
+[NeMo I 2021-01-15 17:27:36 helpers:76] Train WER:  22.73% | CER:  12.61%
+[NeMo I 2021-01-15 17:27:36 helpers:77] Prediction: nên là đỉnh chiều mới cao như vậy
+[NeMo I 2021-01-15 17:27:36 helpers:78] Reference: nên là đỉnh chiều mới cao như vậy
+[NeMo I 2021-01-15 17:27:36 callbacks:238] Step time: 0.23063397407531738 seconds
+[NeMo I 2021-01-15 17:28:05 callbacks:223] Step: 5350
+[NeMo I 2021-01-15 17:28:05 helpers:75] Loss: 8.747784614562988
+[NeMo I 2021-01-15 17:28:05 helpers:76] Train WER:  9.86% | CER:  5.21%
+[NeMo I 2021-01-15 17:28:05 helpers:77] Prediction: đvâng vào cái chọn tài khoản ngân hàng
+[NeMo I 2021-01-15 17:28:05 helpers:78] Reference: đây vào cái chọn tài khoản ngân hàng
+[NeMo I 2021-01-15 17:28:05 callbacks:238] Step time: 0.3333859443664551 seconds
+[NeMo I 2021-01-15 17:28:32 callbacks:223] Step: 5375
+[NeMo I 2021-01-15 17:28:32 helpers:75] Loss: 11.121055603027344
+[NeMo I 2021-01-15 17:28:32 helpers:76] Train WER:  16.77% | CER:  8.89%
+[NeMo I 2021-01-15 17:28:32 helpers:77] Prediction: chị ơi thứ nhất là ê mìnhh hiện tại có khoảng bao nhiêu lao động ạ
+[NeMo I 2021-01-15 17:28:32 helpers:78] Reference: chị ơi thứ nhất là bên mình hiện tại có khoảng bao nhiêu lao động ạ
+[NeMo I 2021-01-15 17:28:32 callbacks:238] Step time: 0.24362421035766602 seconds
+[NeMo I 2021-01-15 17:28:48 callbacks:206] Finished epoch 48 in 0:02:05.141348
+[NeMo I 2021-01-15 17:28:48 callbacks:198] Starting epoch 49
+[NeMo I 2021-01-15 17:29:01 callbacks:223] Step: 5400
+[NeMo I 2021-01-15 17:29:01 helpers:75] Loss: 10.798735618591309
+[NeMo I 2021-01-15 17:29:01 helpers:76] Train WER:  11.95% | CER:  5.82%
+[NeMo I 2021-01-15 17:29:01 helpers:77] Prediction: thế thì người ta cũng có thể chọn nếu đã làm như vậy thì sao anh luôn này cá  nấu cơm ở nhà quê ý
+[NeMo I 2021-01-15 17:29:01 helpers:78] Reference: thế thì người ta cũng có thể chọn nếu đã làm như vậy thì sao anh luôn này tôi nấu cơm ở nhà quê ý
+[NeMo I 2021-01-15 17:29:01 callbacks:238] Step time: 0.32482385635375977 seconds
+[NeMo I 2021-01-15 17:29:29 callbacks:223] Step: 5425
+[NeMo I 2021-01-15 17:29:29 helpers:75] Loss: 16.922348022460938
+[NeMo I 2021-01-15 17:29:29 helpers:76] Train WER:  23.47% | CER:  12.71%
+[NeMo I 2021-01-15 17:29:29 helpers:77] Prediction: ạ a lâo chị thao tác như nà
+[NeMo I 2021-01-15 17:29:29 helpers:78] Reference: dạ vâng đâu chị thao tác như nào đây
+[NeMo I 2021-01-15 17:29:29 callbacks:238] Step time: 0.17359375953674316 seconds
+[NeMo I 2021-01-15 17:29:58 callbacks:223] Step: 5450
+[NeMo I 2021-01-15 17:29:58 helpers:75] Loss: 8.229766845703125
+[NeMo I 2021-01-15 17:29:58 helpers:76] Train WER:  8.70% | CER:  4.84%
+[NeMo I 2021-01-15 17:29:58 helpers:77] Prediction: chị nộp bảo hiểm ở đâu đây ạ
+[NeMo I 2021-01-15 17:29:58 helpers:78] Reference: chị nộp bảo hiểm ở đâu đây ạ
+[NeMo I 2021-01-15 17:29:58 callbacks:238] Step time: 0.3565354347229004 seconds
+[NeMo I 2021-01-15 17:30:26 callbacks:223] Step: 5475
+[NeMo I 2021-01-15 17:30:26 helpers:75] Loss: 11.9536714553833
+[NeMo I 2021-01-15 17:30:26 helpers:76] Train WER:  17.50% | CER:  8.58%
+[NeMo I 2021-01-15 17:30:26 helpers:77] Prediction: chị cho em chờ một một chút nhé
+[NeMo I 2021-01-15 17:30:26 helpers:78] Reference: chị cho em chờ một một chút nhé
+[NeMo I 2021-01-15 17:30:26 callbacks:238] Step time: 0.18752145767211914 seconds
+[NeMo I 2021-01-15 17:30:53 callbacks:206] Finished epoch 49 in 0:02:05.668988
+[NeMo I 2021-01-15 17:30:53 callbacks:194] Done in 6767.219205379486
+[NeMo I 2021-01-15 17:30:53 callbacks:464] Final Evaluation ..............................
+[NeMo I 2021-01-15 17:32:03 helpers:197] ==========>>>>>>Evaluation Loss valid: inf
+[NeMo I 2021-01-15 17:32:03 helpers:198] ==========>>>>>>Evaluation Valid WER:  45.98%
+[NeMo I 2021-01-15 17:32:03 helpers:199] ==========>>>>>>Evaluation Valid CER:  24.47%
+[NeMo I 2021-01-15 17:32:03 callbacks:469] Evaluation time: 70.01709175109863 seconds
+[NeMo I 2021-01-15 17:32:04 callbacks:302] Saved checkpoint: quartznet12x1_abcfjwz_finetune/checkpoints/trainer-STEP-5500.pt
