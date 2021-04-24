@@ -436,7 +436,7 @@ class EvaluatorCallback(ActionCallback):
 
     def on_iteration_end(self):
         step = self.step
-        if step % self._eval_frequency == 0:
+        if step % self._eval_frequency == 0 and step != 0:
             if self.global_rank == 0 or self.global_rank is None:
                 logging.info('Doing Evaluation ' + '.' * 30)
             start_time = time.time()
