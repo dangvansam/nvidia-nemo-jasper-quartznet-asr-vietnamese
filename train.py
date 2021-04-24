@@ -34,10 +34,10 @@ tb_writer = nf.tb_writer
 labels = quartznet_model_definition['labels']
 print(len(labels), labels)
 # Instantiate neural modules
-data_layer = nemo_asr.AudioToTextDataLayer(manifest_filepath=train_dataset, sample_rate=16000, labels=labels, batch_size=64\
+data_layer = nemo_asr.AudioToTextDataLayer(manifest_filepath=train_dataset, sample_rate=16000, labels=labels, batch_size=32\
                                         ,shuffle=True, max_duration=20, trim_silence=False, normalize_transcripts=False)
 
-data_layer_val = nemo_asr.AudioToTextDataLayer(manifest_filepath=eval_datasets, sample_rate=16000, labels=labels, batch_size=64\
+data_layer_val = nemo_asr.AudioToTextDataLayer(manifest_filepath=eval_datasets, sample_rate=16000, labels=labels, batch_size=32\
                                         ,shuffle=False, max_duration=20, trim_silence=False, normalize_transcripts=False)
 
 data_preprocessor = nemo_asr.AudioToMelSpectrogramPreprocessor(**quartznet_model_definition['AudioToMelSpectrogramPreprocessor'])
