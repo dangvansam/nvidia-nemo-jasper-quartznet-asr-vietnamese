@@ -61,7 +61,7 @@ def item_iter(
 
 
 def __parse_item(line: str, manifest_file: str) -> Dict[str, Any]:
-    # print(line)
+    print(line)
     item = json.loads(line)
     # Audio file
     if 'audio_filename' in item:
