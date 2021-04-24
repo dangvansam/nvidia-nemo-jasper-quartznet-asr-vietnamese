@@ -5,16 +5,19 @@ from nemo.collections.asr.helpers import monitor_asr_train_progress, process_eva
 from functools import partial
 
 # các file json dùng để train
-train_dataset = "data/grapheme/vivos_train.json,data/grapheme/wavenet.json,data/grapheme/fpt_open_set001_train_clean.json"
-train_dataset += ",data/grapheme/tts_meta_data.json" #data vin 100h
-train_dataset += ",data/grapheme/voip_audio_cuted_transcript.json,data/grapheme/to_tieng_transcript.json,data/grapheme/audio_18_11_cuted_transcript.json"
-train_dataset += ",data/grapheme/part_01.json,data/grapheme/part_02_15012021.json" #data mới transcript
-train_dataset += ",data/grapheme/vlsp2020_train_set_02.json" #data vin 100h
-train_dataset += ",data/grapheme/data_youtube_tintuc24h_15012021.json" #data vin 100h
+train_dataset = "/workspace/nemo_asr/json/vlsp2020_train_set_01.json,\
+    /workspace/nemo_asr/json/vlsp2020_train_set_02.json,\
+    /workspace/nemo_asr/json/vivos_train.json,\
+    /workspace/nemo_asr/json/data_ctv.json,\
+    /workspace/nemo_asr/json/fpt_open_set001_train_clean.json,\
+    /workspace/nemo_asr/json/fpt_open_set001_test_clean.json,\
+    /workspace/nemo_asr/json/wavenet.json"
 
 # các file json dùng để valid
-eval_datasets = "data/grapheme/vivos_test.json,data/grapheme/fpt_open_set001_test_clean.json"
-eval_datasets += ",data/grapheme/thaison_data_07012020_cuted.json"
+eval_datasets = "/workspace/nemo_asr/json/vivos_test.json,\
+    /workspace/nemo_asr/json/VLSP2020-T1-Transcript.json,\
+    /workspace/nemo_asr/json/VLSP2020-T2-Transcript.json,\
+    /workspace/nemo_asr/json/test-vc-vlsp18.json"
 
 # QuartzNet Model definition
 # Here we will be using separable convolutions
@@ -24,7 +27,7 @@ yaml = YAML(typ="safe")
 with open("config/quartznet12x1_abcfjwz.yaml") as f:
     quartznet_model_definition = yaml.load(f)
 
-log_dir = quartznet_model_definition["model"]
+log_dir = quartznet_model_definition["model"] + "_24022021"
 nf = nemo.core.NeuralModuleFactory(log_dir=log_dir, create_tb_writer=True)
 tb_writer = nf.tb_writer
 
@@ -32,10 +35,10 @@ labels = quartznet_model_definition['labels']
 print(len(labels), labels)
 # Instantiate neural modules
 data_layer = nemo_asr.AudioToTextDataLayer(manifest_filepath=train_dataset, sample_rate=16000, labels=labels, batch_size=32\
-                                        ,shuffle=True, max_duration=15, trim_silence=False, normalize_transcripts=False)
+                                        ,shuffle=True, max_duration=20, trim_silence=False, normalize_transcripts=False)
 
 data_layer_val = nemo_asr.AudioToTextDataLayer(manifest_filepath=eval_datasets, sample_rate=16000, labels=labels, batch_size=32\
-                                        ,shuffle=False, max_duration=15, trim_silence=False, normalize_transcripts=False)
+                                        ,shuffle=False, max_duration=20, trim_silence=False, normalize_transcripts=False)
 
 data_preprocessor = nemo_asr.AudioToMelSpectrogramPreprocessor(**quartznet_model_definition['AudioToMelSpectrogramPreprocessor'])
 spec_augment = nemo_asr.SpectrogramAugmentation(**quartznet_model_definition['SpectrogramAugmentation'])
@@ -75,7 +78,7 @@ train_callback = nemo.core.SimpleLossLoggerCallback(
     ))
 
 saver_callback = nemo.core.CheckpointCallback(
-    folder=log_dir+"/checkpoints",# load_from_folder=log_dir+"/checkpoints", 
+    folder=log_dir+"/checkpoints", load_from_folder="quartznet12x1_12042021_finetune_from_15012021/checkpoints", 
     step_freq=1000, checkpoints_to_keep=1)
 
 eval_callback = nemo.core.EvaluatorCallback(
@@ -89,5 +92,5 @@ nf.train(
     tensors_to_optimize=[loss],
     callbacks=[train_callback, eval_callback, saver_callback],
     optimizer="novograd",
-    optimization_params={ "num_epochs": 120, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
+    optimization_params={ "num_epochs": 200, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
     )

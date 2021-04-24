@@ -1,4 +1,4 @@
-model: "quartznet12x1_abcfjwz"
+model: "quartznet12x1_char"
 
 AudioToTextDataLayer:
     max_duration: 16.7
