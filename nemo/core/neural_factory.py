@@ -314,9 +314,7 @@ class NeuralModuleFactory(object):
         self._world_size = 1
         broadcast_func = None
         if backend == Backend.PyTorch:
-            # TODO: Move all framework specific code from this file
             import torch
-
             if self._placement != DeviceType.CPU:
                 if not torch.cuda.is_available():
                     raise ValueError(
