@@ -61,8 +61,8 @@ def item_iter(
 
 
 def __parse_item(line: str, manifest_file: str) -> Dict[str, Any]:
+    print(line)
     item = json.loads(line)
-
     # Audio file
     if 'audio_filename' in item:
         item['audio_file'] = item.pop('audio_filename')
@@ -87,8 +87,5 @@ def __parse_item(line: str, manifest_file: str) -> Dict[str, Any]:
     else:
         raise ValueError(f"Manifest file {manifest_file} has invalid json line " f"structure: {line} without proper text key.")
 
-    item = dict(
-        audio_file=item['audio_file'], duration=item['duration'], text=item['text'], offset=item.get('offset', None),
-    )
-
+    item = dict(audio_file=item['audio_filepath'], duration=item['duration'], text=item['text'], offset=item.get('offset', None),)
     return item
