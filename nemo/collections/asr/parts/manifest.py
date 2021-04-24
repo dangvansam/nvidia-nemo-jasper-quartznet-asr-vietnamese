@@ -87,5 +87,5 @@ def __parse_item(line: str, manifest_file: str) -> Dict[str, Any]:
     else:
         raise ValueError(f"Manifest file {manifest_file} has invalid json line " f"structure: {line} without proper text key.")
 
-    item = dict(audio_file=item['audio_filepath'], duration=item['duration'], text=item['text'], offset=item.get('offset', None),)
+    item = dict(audio_file=item['audio_file'], duration=item['duration'], text=item['text'], offset=item.get('offset', None),)
     return item
