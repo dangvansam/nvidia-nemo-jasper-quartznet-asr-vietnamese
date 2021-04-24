@@ -52,6 +52,7 @@ def item_iter(
         parse_func = __parse_item
 
     for manifest_file in manifests_files:
+        print("manifest_file:", manifest_file)
         with open(expanduser(manifest_file), 'r') as f:
             for line in f:
                 try:
