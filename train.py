@@ -79,7 +79,7 @@ train_callback = nemo.core.SimpleLossLoggerCallback(
 
 saver_callback = nemo.core.CheckpointCallback(
     folder=log_dir+"/checkpoints", #load_from_folder="quartznet12x1_12042021_finetune_from_15012021/checkpoints", 
-    step_freq=1000, checkpoints_to_keep=1)
+    step_freq=100, checkpoints_to_keep=1)
 
 eval_callback = nemo.core.EvaluatorCallback(
     eval_tensors=[loss_v, predictions_v, transcript_v, transcript_len_v],
@@ -96,7 +96,7 @@ wandb_callback = nemo.core.WandbCallback(
     wandb_project="SAM-NEMO-0.10-ASR",
     wandb_name=log_dir
     )
-    
+
 nf.train(
     tensors_to_optimize=[loss],
     callbacks=[train_callback, wandb_callback, eval_callback, saver_callback],
