@@ -54,15 +54,23 @@ def item_iter(
     for manifest_file in manifests_files:
         with open(expanduser(manifest_file), 'r') as f:
             for line in f:
-                item = parse_func(line, manifest_file)
+                try:
+                    item = parse_func(line, manifest_file)
+                    yield item
+                except:
+                    print("read line error:", line)
+                    pass
                 #rint('item:', item)
                 #exit()
-                yield item
 
 
 def __parse_item(line: str, manifest_file: str) -> Dict[str, Any]:
-    print("#{}#".format(line))
+    # print("#{}#".format(line))
+    # try:
     item = json.loads(line)
+    # except:
+        # print("read line error:", line)
+        
     # Audio file
     if 'audio_filename' in item:
         item['audio_file'] = item.pop('audio_filename')
