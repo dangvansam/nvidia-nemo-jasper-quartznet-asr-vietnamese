@@ -5,19 +5,10 @@ from nemo.collections.asr.helpers import monitor_asr_train_progress, process_eva
 from functools import partial
 
 # các file json dùng để train
-train_dataset = "/workspace/nemo_asr/json/vlsp2020_train_set_01.json"
-train_dataset += ",/workspace/nemo_asr/json/vlsp2020_train_set_02.json"
-train_dataset +=",/workspace/nemo_asr/json/vivos_train.json"
-train_dataset += ",/workspace/nemo_asr/json/data_ctv.json"
-train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_train_clean.json"
-train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_test_clean.json"
-train_dataset += ",/workspace/nemo_asr/json/wavenet.json"
+train_dataset = "/workspace/nemo_asr/json/vivos_train.json"
 
 # các file json dùng để valid
 eval_datasets = "/workspace/nemo_asr/json/vivos_test.json"
-eval_datasets += ",/workspace/nemo_asr/json/VLSP2020-T1-Transcript.json"
-eval_datasets += ",/workspace/nemo_asr/json/VLSP2020-T2-Transcript.json"
-eval_datasets += ",/workspace/nemo_asr/json/test-vc-vlsp18.json"
 
 # QuartzNet Model definition
 # Here we will be using separable convolutions
@@ -27,7 +18,7 @@ yaml = YAML(typ="safe")
 with open("config/quartznet12x1_abcfjwz.yaml") as f:
     quartznet_model_definition = yaml.load(f)
 
-log_dir = quartznet_model_definition["model"] + "_all_data"
+log_dir = quartznet_model_definition["model"] + "_vivos"
 nf = nemo.core.NeuralModuleFactory(log_dir=log_dir, placement=nemo.core.DeviceType.GPU, create_tb_writer=True)
 tb_writer = nf.tb_writer
 
@@ -47,11 +38,11 @@ decoder = nemo_asr.JasperDecoderForCTC(feat_in=1024, num_classes=len(labels))
 ctc_loss = nemo_asr.CTCLossNM(num_classes=len(labels))
 greedy_decoder = nemo_asr.GreedyCTCDecoder()
 
-# CHECKPOINT_ENCODER = 'quartznet12x1_12042021_finetune_from_15012021/checkpoints/JasperEncoder-STEP-330000.pt'
-# CHECKPOINT_DECODER = 'quartznet12x1_12042021_finetune_from_15012021/checkpoints/JasperDecoderForCTC-STEP-330000.pt'
+CHECKPOINT_ENCODER = 'quartznet12x1_12042021_finetune_from_15012021/checkpoints/JasperEncoder-STEP-330000.pt'
+CHECKPOINT_DECODER = 'quartznet12x1_12042021_finetune_from_15012021/checkpoints/JasperDecoderForCTC-STEP-330000.pt'
 
-# encoder.restore_from(CHECKPOINT_ENCODER)
-# decoder.restore_from(CHECKPOINT_DECODER)
+encoder.restore_from(CHECKPOINT_ENCODER)
+decoder.restore_from(CHECKPOINT_DECODER)
 
 audio_signal, audio_signal_len, transcript, transcript_len = data_layer()
 processed_signal, processed_signal_len = data_preprocessor(input_signal=audio_signal, length=audio_signal_len)
@@ -79,7 +70,7 @@ train_callback = nemo.core.SimpleLossLoggerCallback(
 
 saver_callback = nemo.core.CheckpointCallback(
     folder=log_dir+"/checkpoints", #load_from_folder="quartznet12x1_12042021_finetune_from_15012021/checkpoints", 
-    step_freq=1000, checkpoints_to_keep=1)
+    step_freq=100, checkpoints_to_keep=1)
 
 eval_callback = nemo.core.EvaluatorCallback(
     eval_tensors=[loss_v, predictions_v, transcript_v, transcript_len_v],
@@ -91,15 +82,9 @@ eval_callback = nemo.core.EvaluatorCallback(
     wandb_name=log_dir
     )
 
-wandb_callback = nemo.core.WandbCallback(
-    train_tensors=[loss, predictions, transcript, transcript_len],
-    wandb_project="SAM-NEMO-0.10-ASR",
-    wandb_name=log_dir
-    )
-    
 nf.train(
     tensors_to_optimize=[loss],
-    callbacks=[train_callback, wandb_callback, eval_callback, saver_callback],
+    callbacks=[train_callback, eval_callback, saver_callback],
     optimizer="novograd",
     optimization_params={ "num_epochs": 200, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
     )
