@@ -38,11 +38,11 @@ decoder = nemo_asr.JasperDecoderForCTC(feat_in=1024, num_classes=len(labels))
 ctc_loss = nemo_asr.CTCLossNM(num_classes=len(labels))
 greedy_decoder = nemo_asr.GreedyCTCDecoder()
 
-CHECKPOINT_ENCODER = 'quartznet12x1_12042021_finetune_from_15012021/checkpoints/JasperEncoder-STEP-330000.pt'
-CHECKPOINT_DECODER = 'quartznet12x1_12042021_finetune_from_15012021/checkpoints/JasperDecoderForCTC-STEP-330000.pt'
+# CHECKPOINT_ENCODER = 'quartznet12x1_12042021_finetune_from_15012021/checkpoints/JasperEncoder-STEP-330000.pt'
+# CHECKPOINT_DECODER = 'quartznet12x1_12042021_finetune_from_15012021/checkpoints/JasperDecoderForCTC-STEP-330000.pt'
 
-encoder.restore_from(CHECKPOINT_ENCODER)
-decoder.restore_from(CHECKPOINT_DECODER)
+# encoder.restore_from(CHECKPOINT_ENCODER)
+# decoder.restore_from(CHECKPOINT_DECODER)
 
 audio_signal, audio_signal_len, transcript, transcript_len = data_layer()
 processed_signal, processed_signal_len = data_preprocessor(input_signal=audio_signal, length=audio_signal_len)
