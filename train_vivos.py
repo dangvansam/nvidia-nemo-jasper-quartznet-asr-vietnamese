@@ -82,9 +82,14 @@ eval_callback = nemo.core.EvaluatorCallback(
     wandb_name=log_dir
     )
 
+wandb_callback = nemo.core.WandbCallback(
+    train_tensors=[loss, predictions, transcript, transcript_len],
+    wandb_project="SAM-NEMO-0.10-ASR",
+    wandb_name=log_dir
+    )
 nf.train(
     tensors_to_optimize=[loss],
-    callbacks=[train_callback, eval_callback, saver_callback],
+    callbacks=[train_callback, wandb_callback, eval_callback, saver_callback],
     optimizer="novograd",
     optimization_params={ "num_epochs": 200, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
     )
