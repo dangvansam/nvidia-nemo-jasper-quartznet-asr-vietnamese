@@ -78,18 +78,18 @@ eval_callback = nemo.core.EvaluatorCallback(
     user_epochs_done_callback=partial(process_evaluation_epoch, tag="valid"),
     eval_step=1000,
     tb_writer=tb_writer,
-    wandb_project="SAM-NEMO-0.10-ASR",
+    wandb_project="SAMDV-NEMO-ASR",
     wandb_name=log_dir
     )
 
 wandb_callback = nemo.core.WandbCallback(
     train_tensors=[loss, predictions, transcript, transcript_len],
-    wandb_project="SAM-NEMO-0.10-ASR",
+    wandb_project="SAMDV-NEMO-ASR",
     wandb_name=log_dir
     )
 nf.train(
     tensors_to_optimize=[loss],
     callbacks=[train_callback, wandb_callback, eval_callback, saver_callback],
     optimizer="novograd",
-    optimization_params={ "num_epochs": 200, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
+    optimization_params={ "num_epochs": 100, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
     )
