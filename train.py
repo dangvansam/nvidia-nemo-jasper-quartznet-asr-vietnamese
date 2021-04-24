@@ -101,5 +101,5 @@ nf.train(
     tensors_to_optimize=[loss],
     callbacks=[train_callback, wandb_callback, eval_callback, saver_callback],
     optimizer="novograd",
-    optimization_params={ "num_epochs": 100, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
+    optimization_params={ "num_epochs": 150, "lr": 0.01, "weight_decay": 1e-4, "betas": [0.8, 0.5] }
     )
