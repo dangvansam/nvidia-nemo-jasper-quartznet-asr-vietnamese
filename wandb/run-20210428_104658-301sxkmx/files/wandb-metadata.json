@@ -1,0 +1,24 @@
+{
+    "os": "Linux-4.4.0-124-generic-x86_64-with-debian-buster-sid",
+    "python": "3.6.9",
+    "heartbeatAt": "2021-04-28T10:47:00.300763",
+    "startedAt": "2021-04-28T10:46:58.366477",
+    "docker": null,
+    "gpu": "GeForce GTX 1080 Ti",
+    "gpu_count": 2,
+    "cpu_count": 56,
+    "cuda": "10.2.89",
+    "args": [],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/dangvansam98/nvidia-nemo-jasper-quartznet-asr-vietnamese.git",
+        "commit": "c8f6757ca7b175f1b240138e65fd410c3e786ad2"
+    },
+    "email": "dangvansam98@gmail.com",
+    "root": "/workspace/nvidia-nemo-jasper-quartznet-asr-vietnamese",
+    "host": "fe77c37f94ae",
+    "username": "root",
+    "executable": "/opt/conda/bin/python"
+}
