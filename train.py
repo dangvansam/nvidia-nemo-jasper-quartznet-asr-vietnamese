@@ -28,7 +28,7 @@ with open("config/quartznet12x1_abcfjwz.yaml") as f:
     quartznet_model_definition = yaml.load(f)
 
 log_dir = quartznet_model_definition["model"] + "_all_data"
-nf = nemo.core.NeuralModuleFactory(log_dir=log_dir, placement=nemo.core.DeviceType.GPU, create_tb_writer=True)
+nf = nemo.core.NeuralModuleFactory(log_dir=log_dir, placement=nemo.core.DeviceType.GPU, create_tb_writer=True, cudnn_benchmark=True)
 tb_writer = nf.tb_writer
 
 labels = quartznet_model_definition['labels']

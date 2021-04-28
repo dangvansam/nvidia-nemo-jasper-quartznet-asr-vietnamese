@@ -51,24 +51,47 @@ def item_iter(
     if parse_func is None:
         parse_func = __parse_item
 
-    for manifest_file in manifests_files:
-        print("manifest_file:", manifest_file)
-        with open(expanduser(manifest_file), 'r') as f:
-            for line in f:
-                try:
-                    item = parse_func(line, manifest_file)
+    # for manifest_file in manifests_files:
+    #     print("manifest_file:", manifest_file)
+    #     with open(expanduser(manifest_file), 'r') as f:
+    #         for line in f:
+    #             try:
+    #                 item = parse_func(line, manifest_file)
+    #                 yield item
+    #             except:
+    #                 print("read line error:", line)
+    #                 pass
+    #             #rint('item:', item)
+    #             #exit()
+        # k = -1
+        for manifest_file in manifests_files:
+            with open(expanduser(manifest_file), 'r') as f:
+                for line in f:
+                    # print(manifest_file, line)
+                    data = json.loads(line)
+                    if "111" in data["text"] or "000" in data["text"] or "ck" in data["text"] or "<unk>" in data["text"]: 
+                        # print(line)
+                        if "000" in data["text"]  or "111" in data["text"] or data["text"] == "ck" or data["text"] == "<unk>":
+                            # print("skill line only 000, 111")
+                            continue
+                        else:
+                            new_text = data["text"].replace("ck",'').replace("<unk>",'').replace("  ","").strip()
+                            data["text"] = new_text
+                            # print("line replaced:",data["text"])
+                    # if float(data["duration"]) < 0.2:
+                    #     # print("file < 0.5s", data["audio_filepath"], data["duration"])
+                    #     continue
+                    
+                    # k += 1
+                    item = parse_func(data, manifest_file)
+                    # item['id'] = k
                     yield item
-                except:
-                    print("read line error:", line)
-                    pass
-                #rint('item:', item)
-                #exit()
 
 
 def __parse_item(line: str, manifest_file: str) -> Dict[str, Any]:
     # print("#{}#".format(line))
     # try:
-    item = json.loads(line)
+    item = line #json.loads(line)
     # except:
         # print("read line error:", line)
         
