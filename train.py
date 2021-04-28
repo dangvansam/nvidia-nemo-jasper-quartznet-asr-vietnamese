@@ -8,14 +8,14 @@ from functools import partial
 train_dataset = "/workspace/nemo_asr/json/vlsp2020_train_set_01.json"
 train_dataset += ",/workspace/nemo_asr/json/data_ctv_cleaned.json"
 train_dataset += ",/workspace/nemo_asr/json/vlsp2020_train_set_02.json"
-train_dataset +=",/workspace/nemo_asr/json/vivos_train.json"
+# train_dataset +=",/workspace/nemo_asr/json/vivos_train.json"
 # train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_train_clean.json"
 #train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_test_clean.json"
 #train_dataset += ",/workspace/nemo_asr/json/wavenet.json"
 
 # các file json dùng để valid
-eval_datasets = "/workspace/nemo_asr/json/vivos_test.json"
-eval_datasets += ",/workspace/nemo_asr/json/VLSP2020-T1-Transcript.json"
+# eval_datasets = "/workspace/nemo_asr/json/vivos_test.json"
+eval_datasets = ",/workspace/nemo_asr/json/VLSP2020-T1-Transcript.json"
 eval_datasets += ",/workspace/nemo_asr/json/VLSP2020-T2-Transcript.json"
 eval_datasets += ",/workspace/nemo_asr/json/test-vc-vlsp18.json"
 
