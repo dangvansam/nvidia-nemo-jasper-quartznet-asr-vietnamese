@@ -1,0 +1,154 @@
+commit hash: c8f6757ca7b175f1b240138e65fd410c3e786ad2
+diff --git a/quartznet12x1_char_all_data/checkpoints/JasperDecoderForCTC-STEP-1700.pt b/quartznet12x1_char_all_data/checkpoints/JasperDecoderForCTC-STEP-1700.pt
+deleted file mode 100644
+index 5b4c3b6..0000000
+Binary files a/quartznet12x1_char_all_data/checkpoints/JasperDecoderForCTC-STEP-1700.pt and /dev/null differ
+diff --git a/quartznet12x1_char_all_data/checkpoints/JasperEncoder-STEP-1700.pt b/quartznet12x1_char_all_data/checkpoints/JasperEncoder-STEP-1700.pt
+deleted file mode 100644
+index 3e893c1..0000000
+Binary files a/quartznet12x1_char_all_data/checkpoints/JasperEncoder-STEP-1700.pt and /dev/null differ
+diff --git a/quartznet12x1_char_all_data/checkpoints/trainer-STEP-1700.pt b/quartznet12x1_char_all_data/checkpoints/trainer-STEP-1700.pt
+deleted file mode 100644
+index beb0471..0000000
+Binary files a/quartznet12x1_char_all_data/checkpoints/trainer-STEP-1700.pt and /dev/null differ
+diff --git a/quartznet12x1_char_all_data/log_globalrank-0_localrank-0.txt b/quartznet12x1_char_all_data/log_globalrank-0_localrank-0.txt
+index ff43b8f..9c7e8ab 100644
+--- a/quartznet12x1_char_all_data/log_globalrank-0_localrank-0.txt
++++ b/quartznet12x1_char_all_data/log_globalrank-0_localrank-0.txt
+@@ -785,3 +785,133 @@
+ [NeMo I 2021-04-28 10:28:44 helpers:77] Prediction: à anh mới cải em   chư ờ nó cũng chưa tết em ạ
+ [NeMo I 2021-04-28 10:28:44 helpers:78] Reference: à anh mới cài ấy thôi chứ còn anh cũng chưa test em ạ ck
+ [NeMo I 2021-04-28 10:28:44 callbacks:238] Step time: 0.5090348720550537 seconds
++[NeMo W 2021-04-28 10:28:44 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:28:49 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:28:49 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:28:51 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:28:56 callbacks:223] Step: 1775
++[NeMo I 2021-04-28 10:28:56 helpers:75] Loss: 34.05473709106445
++[NeMo I 2021-04-28 10:28:56 helpers:76] Train WER:  31.82% | CER:  16.77%
++[NeMo I 2021-04-28 10:28:56 helpers:77] Prediction: thạ có tà điều chọnk
++[NeMo I 2021-04-28 10:28:56 helpers:78] Reference: thì anh có thể đều chọn ck
++[NeMo I 2021-04-28 10:28:56 callbacks:238] Step time: 0.46970343589782715 seconds
++[NeMo W 2021-04-28 10:28:57 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:01 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:02 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:03 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:04 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:06 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:06 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:29:10 callbacks:223] Step: 1800
++[NeMo I 2021-04-28 10:29:10 helpers:75] Loss: 42.79035949707031
++[NeMo I 2021-04-28 10:29:10 helpers:76] Train WER:  37.42% | CER:  19.01%
++[NeMo I 2021-04-28 10:29:10 helpers:77] Prediction: cho mình hai khương á ý thì không  anh tùng
++[NeMo I 2021-04-28 10:29:10 helpers:78] Reference: cho mình hai phương án ý thì không biết là anh tùng ck
++[NeMo I 2021-04-28 10:29:10 callbacks:238] Step time: 0.5285561084747314 seconds
++[NeMo I 2021-04-28 10:29:10 callbacks:302] Saved checkpoint: quartznet12x1_char_all_data/checkpoints/trainer-STEP-1800.pt
++[NeMo W 2021-04-28 10:29:11 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:19 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:21 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:22 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:29:24 callbacks:223] Step: 1825
++[NeMo I 2021-04-28 10:29:24 helpers:75] Loss: 51.61164093017578
++[NeMo I 2021-04-28 10:29:24 helpers:76] Train WER:  40.26% | CER:  22.36%
++[NeMo I 2021-04-28 10:29:24 helpers:77] Prediction: sẽ vào thì mi chánh người ta ta an giao không các tôi thì cáy mức sứ phát ràng tron đi muốn sáu tăng lên là được
++[NeMo I 2021-04-28 10:29:24 helpers:78] Reference: xử phạt thì mới tránh được tai tai nạn giao thông theo tôi thì cái mức xử phạt rằng theo nghị định bốn sáu tăng lên là được một
++[NeMo I 2021-04-28 10:29:24 callbacks:238] Step time: 0.43117737770080566 seconds
++[NeMo W 2021-04-28 10:29:29 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:34 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:35 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:36 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:29:36 callbacks:223] Step: 1850
++[NeMo I 2021-04-28 10:29:36 helpers:75] Loss: 66.52206420898438
++[NeMo I 2021-04-28 10:29:36 helpers:76] Train WER:  44.71% | CER:  24.07%
++[NeMo I 2021-04-28 10:29:36 helpers:77] Prediction: mồi hệ sĩ phải chấp nhận nhiều sĩ hy sinh
++[NeMo I 2021-04-28 10:29:36 helpers:78] Reference: người nghệ sĩ phải chấp nhận nhiều sự hi sinh
++[NeMo I 2021-04-28 10:29:36 callbacks:238] Step time: 0.370713472366333 seconds
++[NeMo W 2021-04-28 10:29:41 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:46 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:29:49 callbacks:223] Step: 1875
++[NeMo I 2021-04-28 10:29:49 helpers:75] Loss: 54.435874938964844
++[NeMo I 2021-04-28 10:29:49 helpers:76] Train WER:  41.00% | CER:  23.71%
++[NeMo I 2021-04-28 10:29:49 helpers:77] Prediction: hồ chí minh có thực sự trở thành
++[NeMo I 2021-04-28 10:29:49 helpers:78] Reference: hồ chí minh đã thực sự trở thành
++[NeMo I 2021-04-28 10:29:49 callbacks:238] Step time: 0.3696465492248535 seconds
++[NeMo W 2021-04-28 10:29:50 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:51 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:57 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:29:58 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:01 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:30:03 callbacks:223] Step: 1900
++[NeMo I 2021-04-28 10:30:03 helpers:75] Loss: 28.833293914794922
++[NeMo I 2021-04-28 10:30:03 helpers:76] Train WER:  32.14% | CER:  15.01%
++[NeMo I 2021-04-28 10:30:03 helpers:77] Prediction: chúng ta đã làm việc với nhà trong một cái khoảng thời gian
++[NeMo I 2021-04-28 10:30:03 helpers:78] Reference: chúng ta đã làm việc với nhau trong một cái khoảng thời gian
++[NeMo I 2021-04-28 10:30:03 callbacks:238] Step time: 0.3825874328613281 seconds
++[NeMo I 2021-04-28 10:30:03 callbacks:302] Saved checkpoint: quartznet12x1_char_all_data/checkpoints/trainer-STEP-1900.pt
++[NeMo W 2021-04-28 10:30:03 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:03 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:04 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:07 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:07 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:07 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:12 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:30:17 callbacks:223] Step: 1925
++[NeMo I 2021-04-28 10:30:18 helpers:75] Loss: 31.81527328491211
++[NeMo I 2021-04-28 10:30:18 helpers:76] Train WER:  25.19% | CER:  12.54%
++[NeMo I 2021-04-28 10:30:18 helpers:77] Prediction: nếu anh không gễ kịp á em cũng không biết xử trí ra sao nữa
++[NeMo I 2021-04-28 10:30:18 helpers:78] Reference: nếu anh không về kịp ớ em cũng không biết xử trí ra sao nữa
++[NeMo I 2021-04-28 10:30:18 callbacks:238] Step time: 0.49613499641418457 seconds
++[NeMo W 2021-04-28 10:30:19 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:24 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:26 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:26 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:30:32 callbacks:223] Step: 1950
++[NeMo I 2021-04-28 10:30:32 helpers:75] Loss: 42.838645935058594
++[NeMo I 2021-04-28 10:30:32 helpers:76] Train WER:  27.94% | CER:  14.05%
++[NeMo I 2021-04-28 10:30:32 helpers:77] Prediction: ở thái lan các cộng đồng dọc theo sông mê công nói đập đôn sa hông sẽ gây thiệt hại cho ngôn sinh nhai của họ lệ thuộc chủ yếu vào cá của dòng sông và các tài nguyên thiên nhiê bến nc
++[NeMo I 2021-04-28 10:30:32 helpers:78] Reference: ở thái lan các cộng đồng dọc theo sông mê công nói đập đôn sa hông sẽ gây thiệt hại cho nguồn sinh nhai của họ lệ thuộc chủ yếu vào cá của dòng sông và các tài nguyên thiên nhiên khác
++[NeMo I 2021-04-28 10:30:32 callbacks:238] Step time: 0.5550036430358887 seconds
++[NeMo W 2021-04-28 10:30:32 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:33 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:36 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:37 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:38 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:38 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:40 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:43 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:30:46 callbacks:223] Step: 1975
++[NeMo I 2021-04-28 10:30:46 helpers:75] Loss: 56.558250427246094
++[NeMo I 2021-04-28 10:30:46 helpers:76] Train WER:  37.33% | CER:  20.48%
++[NeMo I 2021-04-28 10:30:46 helpers:77] Prediction: bất sác na shốn lại cái cảm giác hi nào tổ hai đứa mới quen nhau
++[NeMo I 2021-04-28 10:30:46 helpers:78] Reference: bất giác tôi như sống lại cái cảm giác khi nào thuở hai đứa mới quen nhau
++[NeMo I 2021-04-28 10:30:46 callbacks:238] Step time: 0.49513840675354004 seconds
++[NeMo W 2021-04-28 10:30:47 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:49 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:50 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:51 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:53 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:54 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:56 actions:1362] Loss is NaN or inf
++[NeMo W 2021-04-28 10:30:59 actions:1362] Loss is NaN or inf
++[NeMo I 2021-04-28 10:31:00 callbacks:223] Step: 2000
++[NeMo I 2021-04-28 10:31:00 helpers:75] Loss: 43.57189178466797
++[NeMo I 2021-04-28 10:31:00 helpers:76] Train WER:  32.01% | CER:  16.73%
++[NeMo I 2021-04-28 10:31:00 helpers:77] Prediction: mì chỉ cần đưên linh gống dạn đô lai vo lật cho anh có chia sẽ cho bại nới như thế nào thì
++[NeMo I 2021-04-28 10:31:00 helpers:78] Reference: mình chỉ cần đưa link giống dạng drive lần trước anh có chia sẻ cho mọi người như thế nào thì
++[NeMo I 2021-04-28 10:31:00 callbacks:238] Step time: 0.39969611167907715 seconds
++[NeMo I 2021-04-28 10:31:00 callbacks:441] Doing Evaluation ..............................
++[NeMo I 2021-04-28 10:45:24 collections:138] Dataset loaded with 370265 files totalling 386.55 hours
++[NeMo I 2021-04-28 10:45:24 collections:139] 1878 files were filtered totalling 13.67 hours
++[NeMo I 2021-04-28 10:45:24 collections:138] Dataset loaded with 27454 files totalling 15.41 hours
++[NeMo I 2021-04-28 10:45:24 collections:139] 24 files were filtered totalling 0.20 hours
++[NeMo I 2021-04-28 10:45:24 features:149] PADDING: 16
++[NeMo I 2021-04-28 10:45:24 features:170] STFT using torch
++[NeMo I 2021-04-28 10:45:29 callbacks:187] Starting .....
++[NeMo I 2021-04-28 10:46:04 callbacks:454] Re-using wandb session
++[NeMo I 2021-04-28 10:46:04 callbacks:358] Found 2 modules with weights:
++[NeMo I 2021-04-28 10:46:04 callbacks:360] JasperDecoderForCTC
++[NeMo I 2021-04-28 10:46:04 callbacks:360] JasperEncoder
++[NeMo I 2021-04-28 10:46:04 callbacks:361] Total model parameters: 5113247
++[NeMo I 2021-04-28 10:46:04 callbacks:310] Found checkpoint folder quartznet12x1_char_all_data/checkpoints. Will attempt to restore checkpoints from it.
++[NeMo I 2021-04-28 10:46:04 callbacks:198] Starting epoch 0
+diff --git a/quartznet12x1_char_all_data/tensorboard/events.out.tfevents.1619604459.fe77c37f94ae.379.0 b/quartznet12x1_char_all_data/tensorboard/events.out.tfevents.1619604459.fe77c37f94ae.379.0
+index 8105a0a..3e417bd 100644
+Binary files a/quartznet12x1_char_all_data/tensorboard/events.out.tfevents.1619604459.fe77c37f94ae.379.0 and b/quartznet12x1_char_all_data/tensorboard/events.out.tfevents.1619604459.fe77c37f94ae.379.0 differ
