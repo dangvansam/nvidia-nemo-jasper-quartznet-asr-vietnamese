@@ -87,13 +87,13 @@ eval_callback = nemo.core.EvaluatorCallback(
     user_epochs_done_callback=partial(process_evaluation_epoch, tag="valid"),
     eval_step=1000,
     tb_writer=tb_writer,
-    wandb_project="SAMDV-NEMO-ASR",
+    wandb_project="SAMDV-NEMO-0.1-ASR",
     wandb_name=log_dir
     )
 
 wandb_callback = nemo.core.WandbCallback(
     train_tensors=[loss, predictions, transcript, transcript_len],
-    wandb_project="SAMDV-NEMO-ASR",
+    wandb_project="SAMDV-NEMO-0.1-ASR",
     wandb_name=log_dir
     )
 
