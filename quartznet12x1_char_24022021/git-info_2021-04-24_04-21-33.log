@@ -1,0 +1,4 @@
+commit hash: 5b125770dbc6786451bc1d8bb97f3e4dafe6317c
+diff --git a/nemo/collections/asr/parts/__pycache__/manifest.cpython-36.pyc b/nemo/collections/asr/parts/__pycache__/manifest.cpython-36.pyc
+index 1c5e35b..ff76d8b 100644
+Binary files a/nemo/collections/asr/parts/__pycache__/manifest.cpython-36.pyc and b/nemo/collections/asr/parts/__pycache__/manifest.cpython-36.pyc differ
