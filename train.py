@@ -11,7 +11,7 @@ train_dataset += ",/workspace/nemo_asr/json/vlsp2020_train_set_02.json"
 # train_dataset +=",/workspace/nemo_asr/json/vivos_train.json"
 # train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_train_clean.json"
 #train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_test_clean.json"
-#train_dataset += ",/workspace/nemo_asr/json/wavenet.json"
+train_dataset += ",/workspace/nemo_asr/json/wavenet.json"
 
 # các file json dùng để valid
 # eval_datasets = "/workspace/nemo_asr/json/vivos_test.json"
