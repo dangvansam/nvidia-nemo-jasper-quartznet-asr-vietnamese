@@ -6,10 +6,10 @@ from functools import partial
 
 # các file json dùng để train
 train_dataset = "/workspace/nemo_asr/json/vlsp2020_train_set_01.json"
+train_dataset += ",/workspace/nemo_asr/json/data_ctv_cleaned.json"
 train_dataset += ",/workspace/nemo_asr/json/vlsp2020_train_set_02.json"
-#train_dataset +=",/workspace/nemo_asr/json/vivos_train.json"
-train_dataset += ",/workspace/nemo_asr/json/data_ctv.json"
-#train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_train_clean.json"
+train_dataset +=",/workspace/nemo_asr/json/vivos_train.json"
+# train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_train_clean.json"
 #train_dataset += ",/workspace/nemo_asr/json/fpt_open_set001_test_clean.json"
 #train_dataset += ",/workspace/nemo_asr/json/wavenet.json"
 
@@ -27,7 +27,7 @@ yaml = YAML(typ="safe")
 with open("config/quartznet12x1_abcfjwz.yaml") as f:
     quartznet_model_definition = yaml.load(f)
 
-log_dir = quartznet_model_definition["model"] + "_all_data"
+log_dir = quartznet_model_definition["model"] + "_data_ctv_clean"
 nf = nemo.core.NeuralModuleFactory(log_dir=log_dir, placement=nemo.core.DeviceType.GPU, create_tb_writer=True, cudnn_benchmark=True)
 tb_writer = nf.tb_writer
 
@@ -85,14 +85,14 @@ eval_callback = nemo.core.EvaluatorCallback(
     eval_tensors=[loss_v, predictions_v, transcript_v, transcript_len_v],
     user_iter_callback=partial(process_evaluation_batch, labels=labels),
     user_epochs_done_callback=partial(process_evaluation_epoch, tag="valid"),
-    eval_step=1000,
+    eval_step=5000,
     tb_writer=tb_writer,
     wandb_project="SAMDV-NEMO-0.1-ASR",
     wandb_name=log_dir
     )
 
 wandb_callback = nemo.core.WandbCallback(
-    train_tensors=[loss, predictions, transcript, transcript_len],
+    train_tensors=[loss, loss_v],
     wandb_project="SAMDV-NEMO-0.1-ASR",
     wandb_name=log_dir
     )
@@ -101,5 +101,5 @@ nf.train(
     tensors_to_optimize=[loss],
     callbacks=[train_callback, wandb_callback, eval_callback, saver_callback],
     optimizer="novograd",
-    optimization_params={ "num_epochs": 100, "lr": 0.001, "weight_decay": 1e-6, "betas": [0.8, 0.5] }
+    optimization_params={ "num_epochs": 100, "lr": 0.01, "weight_decay": 1e-6, "betas": [0.8, 0.5] }
     )
